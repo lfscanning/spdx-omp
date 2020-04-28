@@ -1,0 +1,5031 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_zorow-2020-04-28.zip_1588096511.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-04-28T17:55:11Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: zorow-2020-04-28.zip
+PackageFileName: zorow-2020-04-28.zip
+SPDXID: SPDXRef-upload2381
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: d207e3c55bb64f3369d6eee1afa95d4a232c5326
+PackageChecksum: SHA1: 814d94a51b5ba18ef58f3db3b5dfbc1d97246994
+PackageChecksum: MD5: 0caa55f4bf89d2ea6eb982d222f298b8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2381
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntej0
+SPDXID: SPDXRef-item9156974
+FileChecksum: SHA1: 686bce1d7ae5d9fb5cf117467140b8e456b84a3f
+FileChecksum: MD5: b45416f9ad26241e78dbfa23322da762
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijua
+SPDXID: SPDXRef-item9156972
+FileChecksum: SHA1: 3dfd92befdb65e6fcf3440ac4c53eb3a8e9245cf
+FileChecksum: MD5: 0f2589cd76c4575f649386c858bc8685
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2017 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijic
+SPDXID: SPDXRef-item9156975
+FileChecksum: SHA1: 263f0d25d75981eb32f84f508a1cd8659bf4fa7f
+FileChecksum: MD5: 8c2d4b280acf32ce247e609a04dc9baa
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijie
+SPDXID: SPDXRef-item9156976
+FileChecksum: SHA1: bd32d2bbf01dc4edea404c390fdf40cc8d78d1d2
+FileChecksum: MD5: 85cf31eac22cec604562874ffdfb2dd5
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntej8
+SPDXID: SPDXRef-item9156978
+FileChecksum: SHA1: 94015f316dc9875eaabc8cde4c7ae2eb466a7e9a
+FileChecksum: MD5: 9b1c5fbcdc273d94f8e9859a58d04ec1
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2010 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijrp
+SPDXID: SPDXRef-item9156979
+FileChecksum: SHA1: 69da687b639380e28e46dda3fc97392251f5245e
+FileChecksum: MD5: 8f4f732473dd73415822bdba4d69dd5f
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 2016 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijma
+SPDXID: SPDXRef-item9156981
+FileChecksum: SHA1: bfdeaf05a16a9ba2a239fc38eb4fe8ecea8b8259
+FileChecksum: MD5: c5a496efa8fec3869b378a57d91940c0
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntej2a
+SPDXID: SPDXRef-item9156980
+FileChecksum: SHA1: 987597a1a90ab53f79697a2b3381d240096fd488
+FileChecksum: MD5: 7151e97dd70bf70e22ff68d06c05c584
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijpp
+SPDXID: SPDXRef-item9156983
+FileChecksum: SHA1: 3a25b1e002544c9f880bf44b8292625c99010f31
+FileChecksum: MD5: b7c3609060004196fd60e735b4e037d0
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijtm
+SPDXID: SPDXRef-item9156982
+FileChecksum: SHA1: 4bbd2ed5031ade1460804909cf03b0ed03a41a77
+FileChecksum: MD5: 946f6d9091913ed68d0daf486b8324dc
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijrw
+SPDXID: SPDXRef-item9156985
+FileChecksum: SHA1: 65c3646347fd9fa4abd4249c003b278ae3b48aa5
+FileChecksum: MD5: f179367fc84605d6d2bebabaf80ed7a2
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 2010, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjrw
+SPDXID: SPDXRef-item9156986
+FileChecksum: SHA1: 3c046eb3fa55bc91056b2aac4fde761368029b0f
+FileChecksum: MD5: db0d3c5967d74836715282333df7090d
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijsg
+SPDXID: SPDXRef-item9156987
+FileChecksum: SHA1: aa0bcc0ac57e1878b820d63692ef3e84adb89798
+FileChecksum: MD5: ad9325d580ec6025b38a32a715e7c1ba
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntej1
+SPDXID: SPDXRef-item9156988
+FileChecksum: SHA1: f821b9ccafc3276f9dff5af3613b80409780a122
+FileChecksum: MD5: 75af499c02c15c802dc675d212ef9e49
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjmj
+SPDXID: SPDXRef-item9156989
+FileChecksum: SHA1: ab94fb1d6bfa4fffdfc3245ae252e687e6229ea1
+FileChecksum: MD5: b93d4944249cc826287a971438156788
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijda
+SPDXID: SPDXRef-item9156991
+FileChecksum: SHA1: ee3d25a252de7b511495d103c8185093cbc12bf6
+FileChecksum: MD5: 2feaef43a5ccb2ce3a1885eaf004569e
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjda
+SPDXID: SPDXRef-item9156993
+FileChecksum: SHA1: 426b0fd10299d1f656fe68fe736244d08b72a204
+FileChecksum: MD5: 91bde0ee90ab5ec4abf2e16911e33844
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjma
+SPDXID: SPDXRef-item9156994
+FileChecksum: SHA1: 8a053638f6dd7fc133f469597e71f03414d2bed0
+FileChecksum: MD5: 56394fc04b32cf4508d1d34a93887c40
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijuz
+SPDXID: SPDXRef-item9156992
+FileChecksum: SHA1: 84324e23dd0bddc1e596e6524ec22e96edcb4a0b
+FileChecksum: MD5: e4cdcf2a8a02d07cde1189bb3785b0b1
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijtc
+SPDXID: SPDXRef-item9156995
+FileChecksum: SHA1: 4dad596dfd1f75f53b945199c78195b70bd5fa78
+FileChecksum: MD5: 2deab073f377ea45658cca9f73e91426
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjic
+SPDXID: SPDXRef-item9156996
+FileChecksum: SHA1: 0962e5929cad73d7824e4f36dd408f41f9491a63
+FileChecksum: MD5: 970048ea20f7414bd767fd88356764b0
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijsa
+SPDXID: SPDXRef-item9157001
+FileChecksum: SHA1: b637b645f7db2fea99f5c4bc28f58f395d49a0b6
+FileChecksum: MD5: 7a24708c17ed96441fc8e9f817ef3bf4
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijmp
+SPDXID: SPDXRef-item9157000
+FileChecksum: SHA1: ec9351aa95ce9bbafe6efd4512426b947dbb2501
+FileChecksum: MD5: c45b314698692e0129c24dfe8ea1e793
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijrt
+SPDXID: SPDXRef-item9156999
+FileChecksum: SHA1: cdd07e74d64507ee9ce9d875bfa076d65356daba
+FileChecksum: MD5: 25aa53137408df3cb2b96c7111cf1a9d
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijin
+SPDXID: SPDXRef-item9156997
+FileChecksum: SHA1: 539c355dc56eec53a54dc951b90ce5c7240b25ed
+FileChecksum: MD5: eb8da5e5811274eb733fbf68c90d2820
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntej1l
+SPDXID: SPDXRef-item9157003
+FileChecksum: SHA1: 596f559c197a27f287f0cda0de83f6716fd84f48
+FileChecksum: MD5: 72c8d65cc22a44e16cdb004ec561b4a0
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijex
+SPDXID: SPDXRef-item9157004
+FileChecksum: SHA1: 1b884c7fb537dfe6dd0849eee2d986aafe61080d
+FileChecksum: MD5: 9f1b2e6dd736db017fd83f6251221092
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2013 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijif
+SPDXID: SPDXRef-item9157005
+FileChecksum: SHA1: ba798ac7cd09cad18ca973245e5a13cec303d091
+FileChecksum: MD5: e7463f7c5bc64138576e03af919bf021
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijtu
+SPDXID: SPDXRef-item9157008
+FileChecksum: SHA1: 6f9f1eb3bb650ae20b79777c69914deb7490d0ae
+FileChecksum: MD5: 3dca5f3e49cd2ab1d480f08c09aaec7f
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijso
+SPDXID: SPDXRef-item9157010
+FileChecksum: SHA1: 0f307fb943de793afefc9a8e6fc74b7a1df1b3eb
+FileChecksum: MD5: 916aeec9dd522ffc808694fd5c7b1741
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjuz
+SPDXID: SPDXRef-item9157009
+FileChecksum: SHA1: 856d69b03490a90228cb1a62c02fe1c3874e8c46
+FileChecksum: MD5: 880717b59482ddc296056f2c4491d8d5
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijmw
+SPDXID: SPDXRef-item9157011
+FileChecksum: SHA1: d07a2737ef7c40cfa9b821f093198c34dc1fc7bb
+FileChecksum: MD5: 0eaaf294704295d1fb08257a604b0797
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijmj
+SPDXID: SPDXRef-item9157012
+FileChecksum: SHA1: e07343046d1fca6c4e77953ae28e9c4372a59c15
+FileChecksum: MD5: 42fd5c1f6deec4857b6c520dead6958e
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijmd
+SPDXID: SPDXRef-item9157014
+FileChecksum: SHA1: 12b19df5ef116c9c8f56adc07470b55a81ebcea5
+FileChecksum: MD5: 2ead0047b677357785a0814b2f209a66
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijrv
+SPDXID: SPDXRef-item9157015
+FileChecksum: SHA1: fd1431421ab01dbb44794dd6bd77255f32f35475
+FileChecksum: MD5: ed55bcd53e96001e0e64fd9d32d960d1
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/validatessn.rexx
+SPDXID: SPDXRef-item9157016
+FileChecksum: SHA1: 62031c2d770c3d4d7926bf95c4f4abab0df2ff36
+FileChecksum: MD5: a11eb67547afa477b14bb2cc3658f644
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) Copyright IBM Corp. 2019 All Rights Reserved.
+Licensed Materials - Property of IBM </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijvc
+SPDXID: SPDXRef-item9157013
+FileChecksum: SHA1: c1ef58795f702772f74087b6632f8e2dcd1e142f
+FileChecksum: MD5: 48ee0c2b9fa5f8792de058552e401260
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2010 IBM Corp. All Rights Reserved.
+(C) COPYRIGHT 1982, 2016 IBM Corp. All Rights Reserved.
+(C) COPYRIGHT 1982, 2016 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdj1
+SPDXID: SPDXRef-item9157019
+FileChecksum: SHA1: 5c836d89c6ba6fae086bbb0528e384dab2e21397
+FileChecksum: MD5: b4652bad5e8bde493e369161cb3c7378
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjmd
+SPDXID: SPDXRef-item9157020
+FileChecksum: SHA1: 8daf0a41a0b0d133cf90bb18403f7661865dea2d
+FileChecksum: MD5: a20d2970d2707c535e62ebea5b0dc2ef
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijaf
+SPDXID: SPDXRef-item9157039
+FileChecksum: SHA1: 22a467396fa003a648ed5c4e4a6f5e5ba48328af
+FileChecksum: MD5: fd574801b727de156cac5d04854c7537
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 2016 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijul
+SPDXID: SPDXRef-item9157041
+FileChecksum: SHA1: a541489aef8ef09b4965d30d78fbd0cfdc33121d
+FileChecksum: MD5: 96bc5db65e8cbf86a57e22514ad0c55f
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2017 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijum
+SPDXID: SPDXRef-item9157040
+FileChecksum: SHA1: 20edace5785265848eed3bc7b5d2e69947c607d3
+FileChecksum: MD5: d03a1ec0bbecce16e0240dd4eed21886
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2017 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntdjin
+SPDXID: SPDXRef-item9157043
+FileChecksum: SHA1: 10c9036e3b9f3ae51b0557807b8e128c0993a9bf
+FileChecksum: MD5: 2a11988bf3fa450036382d8fb291b50e
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2018 IBM CORP. ALL RIGHTS RESERVED. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijid
+SPDXID: SPDXRef-item9157042
+FileChecksum: SHA1: b46ef91fed5246e621df007607d2c7c3627a8b4f
+FileChecksum: MD5: e1808623e548b6ee901737c627b75505
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 1982, 2010 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/Dependency/DeprovisionStoredProcedure/build.jcl
+SPDXID: SPDXRef-item9157126
+FileChecksum: SHA1: c697f5dfe7c1f44ed9b3c59c1c115d2c173fbd91
+FileChecksum: MD5: 09226063ec0e6ba8c5ca62988b59ea99
+LicenseConcluded: LicenseRef-IBM-materials-1
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: <text> (C) COPYRIGHT 2018 IBM Corp. All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/checkStatus.xml
+SPDXID: SPDXRef-item9157382
+FileChecksum: SHA1: 62c97804319f2460ab453bdac34c97dda75cb81a
+FileChecksum: MD5: 7117ddf904599713933b9f189c4fc16a
+LicenseConcluded: LicenseRef-IBM-materials-1 AND LicenseRef-Restricted-rights
+LicenseInfoInFile: LicenseRef-Restricted-rights
+FileCopyrightText: <text> (C) Copyright IBM Corp. 2017 All Rights Reserved.
+Copyright IBM Corp., 2017 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/LICENSE
+SPDXID: SPDXRef-item9156918
+FileChecksum: SHA1: ff426822972c8972e3e4e782baac6f5304fd458c
+FileChecksum: MD5: c4082b6c254c9fb71136710391d9728b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_dataset.xml
+SPDXID: SPDXRef-item9157394
+FileChecksum: SHA1: 1faef9876715adbf4481eb13ccaa3b2572fd97af
+FileChecksum: MD5: 8e6808c2fc17774819d877842d4c6d68
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_array_variables.xml
+SPDXID: SPDXRef-item9157395
+FileChecksum: SHA1: 521752979637471e04d5ee755ef7a2e89ef71a8c
+FileChecksum: MD5: cc6bb326814d45f39849957591ce408c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_output.xml
+SPDXID: SPDXRef-item9157397
+FileChecksum: SHA1: 1594b5a68ab8d5868acb9e0ee23bad6aae6f0d6a
+FileChecksum: MD5: b36343b3b042e11f439d8796ff9f02f1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_predefinedVariable.xml
+SPDXID: SPDXRef-item9157399
+FileChecksum: SHA1: d4d280ad13b07dd2abdada058466253dae9a2b7c
+FileChecksum: MD5: 8dec95598f0627d3b09f190c287c31e8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_include_external.xml
+SPDXID: SPDXRef-item9157401
+FileChecksum: SHA1: e0ae17820f69a225d5c02be6c2721637c5cc44d9
+FileChecksum: MD5: 646080b50a42d26e457e95751aecf3a0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_substeps.xml
+SPDXID: SPDXRef-item9157402
+FileChecksum: SHA1: 188ce434afa5f8fa107c12af3eb24241432397c3
+FileChecksum: MD5: 9f51dc53cef50549917e26260d07f89f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_file_template0.xml
+SPDXID: SPDXRef-item9157396
+FileChecksum: SHA1: 39f85f887dfbb5d9f0f11bebc4a53774ead744e8
+FileChecksum: MD5: f01cedf114b75074145cf758c98a9609
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_rexx_template0.txt
+SPDXID: SPDXRef-item9157400
+FileChecksum: SHA1: 7fd1851cfb3abbaa7f54da17e2cf04b703f4adbc
+FileChecksum: MD5: a7f9732d5625dd62abd58270be78f25d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_basic.xml
+SPDXID: SPDXRef-item9157404
+FileChecksum: SHA1: 4e8edb9de6f67f9862b3acc0dafa5f43d83cdee7
+FileChecksum: MD5: 2e0fa3e87e4ba6e254450ab65422d44c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_bundle0.txt
+SPDXID: SPDXRef-item9157398
+FileChecksum: SHA1: c75e4e8369dd54b89be499ea405524077539b9b4
+FileChecksum: MD5: 5f46f2627f5b8be02a5f7b81ea12613b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_calledwfMD5.xml
+SPDXID: SPDXRef-item9157406
+FileChecksum: SHA1: 0e9489d98688b6fd61deec707e8b259d6c662817
+FileChecksum: MD5: 631a2ad1f0309a77a6979c1bbbeff8df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_translation.xml
+SPDXID: SPDXRef-item9157407
+FileChecksum: SHA1: 38f5979ecfa8e18d3afbb9cf918e7ab0a13334a6
+FileChecksum: MD5: 5fdf2e2be15766cc8983ea9812df5fcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_calledwfVarMapping2.xml
+SPDXID: SPDXRef-item9157409
+FileChecksum: SHA1: 87f0db28540d9aa83134c84311c4b39132a9e854
+FileChecksum: MD5: acca1525534a8ea66e041615d66be9cb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_feedback.xml
+SPDXID: SPDXRef-item9157408
+FileChecksum: SHA1: 1761963d5db8bef4d847c182b19bfd88e4d85795
+FileChecksum: MD5: 73e01d43c4ddd6e43fce20aae253a548
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_array_property.txt
+SPDXID: SPDXRef-item9157405
+FileChecksum: SHA1: 0b1e71f72bac4e8b89cc9750917cf54d15999496
+FileChecksum: MD5: e52be2266471e4640b41a220acc75ec2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_program_execution.xml
+SPDXID: SPDXRef-item9157410
+FileChecksum: SHA1: d5235ae7f648b82046a20806c24d59511b2ed612
+FileChecksum: MD5: 18e42f58734e32566a42288d3823616c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_calledwfVarMapping1.xml
+SPDXID: SPDXRef-item9157412
+FileChecksum: SHA1: 61ee49a6ac57f6d0f4ae44525d8311fb90a35005
+FileChecksum: MD5: 8f552a393166c390ed259697fc24258d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_variables.xml
+SPDXID: SPDXRef-item9157411
+FileChecksum: SHA1: 0f59ca51d76949c3c348041907b364473ae2e636
+FileChecksum: MD5: 4dca0a070305af7fce99371cd6ef6461
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_wf2wf.xml
+SPDXID: SPDXRef-item9157413
+FileChecksum: SHA1: cc82a4a71814cc078f8e7854e48a56e4f16c97cf
+FileChecksum: MD5: 0dcc33be7c6f628de60d5a5b4cf160a5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_fragment1.xml
+SPDXID: SPDXRef-item9157415
+FileChecksum: SHA1: 08155d9fca4f91c2c99430f966bd0e01e4848910
+FileChecksum: MD5: 62dba70745e0f6e91c46e101bd2a1360
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_condition.xml
+SPDXID: SPDXRef-item9157416
+FileChecksum: SHA1: d437a4c5d815bcd58f3ce4640cd65d99da34f921
+FileChecksum: MD5: 7c862b598720af1da3576615c3730f7d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_automation.xml
+SPDXID: SPDXRef-item9157414
+FileChecksum: SHA1: f2e975923729abc0987c5d1fe37b6036347e1788
+FileChecksum: MD5: a67c0193d458344c1626eb81c837435e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_wizards_upgrade.xml
+SPDXID: SPDXRef-item9157418
+FileChecksum: SHA1: 9c0e5db51408c30fc3ea1c9035b36facd5f8c70b
+FileChecksum: MD5: 877c3e1b884ddbe3ba2d699120099597
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_parallel_steps.xml
+SPDXID: SPDXRef-item9157419
+FileChecksum: SHA1: f1d82f1c3d339b2fc415fbf258acca0bbefdf65d
+FileChecksum: MD5: 049322799484e30a8796e2030a1c6410
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_fragment0.xml
+SPDXID: SPDXRef-item9157420
+FileChecksum: SHA1: 4897c1bcff9d5001944792268c3df509e83dccce
+FileChecksum: MD5: c79ffe6476a4c8122f9f20e7388956d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_automation_property.txt
+SPDXID: SPDXRef-item9157417
+FileChecksum: SHA1: 9d12d8fa439de4111163f8cc730d8ff3d2877a57
+FileChecksum: MD5: e85da96841d4d7925990f6908af3e945
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_calledwfBasic.xml
+SPDXID: SPDXRef-item9157423
+FileChecksum: SHA1: af3791df9b30d4023d41d821267afaa12657938b
+FileChecksum: MD5: 0e8450123066e53a1b7904ed7e03b54b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/workflow_sample_wizards.xml
+SPDXID: SPDXRef-item9157422
+FileChecksum: SHA1: 9e7c216c6eb4a55226c64e5091d4650b3b79d5b2
+FileChecksum: MD5: ab04ed7ad2b92a6847ecc5ceb5da7d98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/MyTemplate.txt
+SPDXID: SPDXRef-item9157421
+FileChecksum: SHA1: f8c8806a17b5c05c2c853e5d8484c197d7245dbf
+FileChecksum: MD5: b9d9be490866ec51b8a66a38e1317026
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the zOS-Workflow Project. </text>
+ 
+
+##File
+
+FileName: zorow/CONTRIBUTING.md
+SPDXID: SPDXRef-item9156837
+FileChecksum: SHA1: 0245f3b1105748803143c5f0ebed1b2b0df9cd6b
+FileChecksum: MD5: ca5b72e00983fa56da397bbad05e55ae
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/LICENSE
+SPDXID: SPDXRef-item9157387
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/LICENSE
+SPDXID: SPDXRef-item9156882
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-Zowe/IBM-MF-AUTO-ZOWE-INSTALL.xml
+SPDXID: SPDXRef-item9156840
+FileChecksum: SHA1: 055fd516af8c32d585e40171b2cde4e6aa142098
+FileChecksum: MD5: a793ace3aa597fe3efa1603ebd548a5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-DELETE.xml
+SPDXID: SPDXRef-item9156842
+FileChecksum: SHA1: 3374b597058da95ae405ee054a2cdc026cd038d4
+FileChecksum: MD5: 3169cfcb59e67c4842cc29a5e5f82683
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-UNMOUNT.xml
+SPDXID: SPDXRef-item9156843
+FileChecksum: SHA1: 55b347077b0ec761794f085e24aa1a511e254c74
+FileChecksum: MD5: 4cfcab1a7bf105090ebe3664e11f6beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/README.md
+SPDXID: SPDXRef-item9156844
+FileChecksum: SHA1: 633d87569f9c48848d3b86523445d6ecb5e395ae
+FileChecksum: MD5: 0571319f542c5d82456a8213c4635342
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-USR-USS-ADDVOL.xml
+SPDXID: SPDXRef-item9156845
+FileChecksum: SHA1: e406abb83a5993775bd9d30ff3e1c764554d3da7
+FileChecksum: MD5: 09741549b62ac89e358b857c1401dfed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-DEFINE.xml
+SPDXID: SPDXRef-item9156846
+FileChecksum: SHA1: c3e366b04c9a28c6f65289c9251d69dff449f9aa
+FileChecksum: MD5: 83e37f532cccc58f6e3171acbe5bd297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-PROV-APPL-MOUNTPOINT.xml
+SPDXID: SPDXRef-item9156847
+FileChecksum: SHA1: 6c3d3830ab5a0633bf7813d600eec1977f86bb94
+FileChecksum: MD5: eaabb592c3c7fea03d468ac4ac0f2524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-MOUNT.xml
+SPDXID: SPDXRef-item9156848
+FileChecksum: SHA1: b0b243a68078cbf0bf24586026739051b14a4fe0
+FileChecksum: MD5: 3375a2c6cff1a5d9c27f21fac7841009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-CONVERT.xml
+SPDXID: SPDXRef-item9156849
+FileChecksum: SHA1: edef268b8a9131ae7f85034c5ac7fee8be1ee66f
+FileChecksum: MD5: 42f21b36540f1bf15a95806851e32e16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-SHRINK.xml
+SPDXID: SPDXRef-item9156850
+FileChecksum: SHA1: 1ab2e82fd73b2b2172eceb0eb21578fe0e763284
+FileChecksum: MD5: 4a541b398913136060707dd892da1dbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-DEFINE-AMS.xml
+SPDXID: SPDXRef-item9156851
+FileChecksum: SHA1: d2a66a0bba2c398086c3dedb4cfa7bcc4676dbd0
+FileChecksum: MD5: 0804c0a802679bc6499d416654259946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-ZFS/IBM-MF-AUTO-ZFS-GROW.xml
+SPDXID: SPDXRef-item9156852
+FileChecksum: SHA1: 5db568faa9a9de7c811f66b2f70151ade8437ce6
+FileChecksum: MD5: b22c15292e751e022d84808552371807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-DSN/IBM-MF-AUTO-DSN-PURGE-GDG.xml
+SPDXID: SPDXRef-item9156854
+FileChecksum: SHA1: 90017c2a84371ca1314dfb93a9dd441728e24cf5
+FileChecksum: MD5: bce9afb698a23bc1a013643cf397fb52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-DSN/README.md
+SPDXID: SPDXRef-item9156855
+FileChecksum: SHA1: 1f6bbade2830cd56026bc994283ecc4d96f4c181
+FileChecksum: MD5: cb4e077043d1b399efe6bf9775d4da96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-DSN/IBM-MF-AUTO-DSN-DEFN-GDG.xml
+SPDXID: SPDXRef-item9156856
+FileChecksum: SHA1: a81357165af32afd6c8cb034be4d3e416f523e98
+FileChecksum: MD5: a556ecedc4cdb9575134aae75f9ef0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-XCF/README.md
+SPDXID: SPDXRef-item9156858
+FileChecksum: SHA1: 63e3030a085fc1c69d35042af3edbcc23579d4db
+FileChecksum: MD5: 0adc872c992e320efee21ea3ff53d9fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-XCF/IBM-MF-AUTO-XCF-RPT.xml
+SPDXID: SPDXRef-item9156859
+FileChecksum: SHA1: 557691cbbad7c05186bdd2b9198e6fe6ed551a59
+FileChecksum: MD5: 196d9dcfd02e12d7024c02d1925623b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-USS/IBM-MF-AUTO-USS-DELETE-NOLD.xml
+SPDXID: SPDXRef-item9156861
+FileChecksum: SHA1: 18018945aaed09dce10ae33e277d3ed1f73c2d06
+FileChecksum: MD5: 48ef2f3b1a69655cb1a88300a9413429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-USR-ZOS-ADD-LOCAL-PAGE-DATASET.xml
+SPDXID: SPDXRef-item9156863
+FileChecksum: SHA1: a7404ee7269c7c2062e377158f03041d0fc9e790
+FileChecksum: MD5: 7ebf9ec82a49139d9407a58d5f40b69c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-REXXVARS.xml
+SPDXID: SPDXRef-item9156864
+FileChecksum: SHA1: 6f1cc0ec3a23026ea150392319e72f8be5570f1b
+FileChecksum: MD5: d67db2b8ec7d3cfc5ec172471827d035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/README.md
+SPDXID: SPDXRef-item9156865
+FileChecksum: SHA1: 8f732c1299d4a6aa0a88b4b6352912884f1d1e41
+FileChecksum: MD5: ddec29893ea7f6ad2dbc6df029fb8508
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-CONSCMD.xml
+SPDXID: SPDXRef-item9156866
+FileChecksum: SHA1: 71a6630fe12116b5ed3f2e107e902966a0638123
+FileChecksum: MD5: 46a6d4e50c3ef408bdf53fbc454100f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-DASDINIT.xml
+SPDXID: SPDXRef-item9156867
+FileChecksum: SHA1: f0f8babdbfcc333715fcc45c6f43070b860f0ab6
+FileChecksum: MD5: 647c8e55e86bf5ad998716079a44472a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-SADMP.txt
+SPDXID: SPDXRef-item9156868
+FileChecksum: SHA1: ed5972cc70ade6e1f4fd470d2c822deb03ba9296
+FileChecksum: MD5: f74f53a760b782216a0693fb4453c88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-LINKLIST-DEL.xml
+SPDXID: SPDXRef-item9156869
+FileChecksum: SHA1: 21a56d589759f8a37b2a25be55f946ec026566fb
+FileChecksum: MD5: 30db6248338b41124fa609344bba0f50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-SADMP.xml
+SPDXID: SPDXRef-item9156870
+FileChecksum: SHA1: b53c25c24e6b6c81303d46b71941e4e46861d0d6
+FileChecksum: MD5: 8673147ebf73b68a3d9714f96c65aedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-LINKLIST-ADD.xml
+SPDXID: SPDXRef-item9156871
+FileChecksum: SHA1: 3ab9254367883016ad9dd38c775e597fc690c4d7
+FileChecksum: MD5: ba7e24bab47e46286d44532e6f470ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-IPLTEXT.xml
+SPDXID: SPDXRef-item9156872
+FileChecksum: SHA1: fc12796cc6f222bdea910bcb1ad1be2741540210
+FileChecksum: MD5: ef6f598a9755d50ad353e80dba3e9492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-PDSEMPTY.xml
+SPDXID: SPDXRef-item9156873
+FileChecksum: SHA1: deccb98873e6559668dc07d10f965a66245e2116
+FileChecksum: MD5: 97de28cffeb2e53aad7b49a3f46893ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-zOS/IBM-MF-AUTO-ZOS-SVCDUMP.xml
+SPDXID: SPDXRef-item9156874
+FileChecksum: SHA1: c940ed0d803947379902354bae9117b973f21f43
+FileChecksum: MD5: 480f0de2e3f930383a28183b6731c806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-RACF/IBM-MF-AUTO-RACF-USER-DEL.xml
+SPDXID: SPDXRef-item9156876
+FileChecksum: SHA1: f8404f0d4978139245e4353239c6ce478c782bf8
+FileChecksum: MD5: 21e762bfca5b087d17c8a3d19f3e0635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-RACF/IBM-MF-AUTO-RACF-RESETPW-SNOW.xml
+SPDXID: SPDXRef-item9156877
+FileChecksum: SHA1: e87f1fd7cfa5e0c21a2247b8b2556eb2e2286a12
+FileChecksum: MD5: 413e0b902dc587942bb3f29919ef47e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-RACF/README.md
+SPDXID: SPDXRef-item9156878
+FileChecksum: SHA1: 367979478bb76f24af4f128ab1a3869fe47e84a8
+FileChecksum: MD5: dd28f662f79fd407446290f301c60a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-RACF/IBM-MF-AUTO-RACF-RESETPW.xml
+SPDXID: SPDXRef-item9156879
+FileChecksum: SHA1: 2796fa4ee37262252dbfb9337e43c8e776512dd0
+FileChecksum: MD5: 4d8fa71ec1391a821b5d4d7cb48cc980
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/IBM-GTS-Workflows/PA-zOSMF-Workflows-RACF/IBM-MF-AUTO-RACF-USER-ADD.xml
+SPDXID: SPDXRef-item9156880
+FileChecksum: SHA1: 976b48bfa841456de2833d31d264820f802701a4
+FileChecksum: MD5: d443d2eab990e4f3ce18cd289319e408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/README.md
+SPDXID: SPDXRef-item9156881
+FileChecksum: SHA1: cdb3cdfa0f81d85e0b8f439c16cdf69cce50be7d
+FileChecksum: MD5: c520123d4d1c30d878ab9eea0915788d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/CICS/README.md
+SPDXID: SPDXRef-item9156885
+FileChecksum: SHA1: 8771d3b9321cb7bee3d3727ee36a892fa09e4997
+FileChecksum: MD5: e1a64010a185b0a0bad6cfdcffef96aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/MQ/README.md
+SPDXID: SPDXRef-item9156887
+FileChecksum: SHA1: 041fde9091f047f0cf5f56b3d17959f313f8d532
+FileChecksum: MD5: fac09bcda9eb5eb42029a69bca778978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/README.md
+SPDXID: SPDXRef-item9156888
+FileChecksum: SHA1: db933a4fc317c3f139469f15f1cfb2c98e28b16f
+FileChecksum: MD5: a1d23c1dfd38280e4d9f4ce8e05f595c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createDB2Type4.template
+SPDXID: SPDXRef-item9156891
+FileChecksum: SHA1: 676803eb5e3c7ffc2881dc9bc1161ba231a01828
+FileChecksum: MD5: 4e4a3f6da9c29237f544967cc02256dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/stopServer.xml
+SPDXID: SPDXRef-item9156892
+FileChecksum: SHA1: 2b7ca7349ba34f53a62043b831985c86eb427ebb
+FileChecksum: MD5: 46bdfa2b77870ebf6257fb9bac2aa13f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/WordDocument
+SPDXID: SPDXRef-item9156895
+FileChecksum: SHA1: fd539c5de85845c85de0d8c9bc3bed3c2745541d
+FileChecksum: MD5: e539474623958afd206dbf2d4b1a986c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/[1]CompObj
+SPDXID: SPDXRef-item9156896
+FileChecksum: SHA1: 6b77c883318dfd0ad6183f0861ca0d239a410351
+FileChecksum: MD5: 7dc288fcc3a81feab5f957c8495a0dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/1Table
+SPDXID: SPDXRef-item9156897
+FileChecksum: SHA1: aef6a4b0bf6ee55291ba890d081c0b23d0d4721b
+FileChecksum: MD5: c7aa14dcf1f54a0f523f36c7b925fb5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/[5]DocumentSummaryInformation
+SPDXID: SPDXRef-item9156898
+FileChecksum: SHA1: 3662aa81d1a5b942b8d9efc565fa7d287e64d302
+FileChecksum: MD5: fdfc961cbc6c4ba955c882356a9227cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/[5]SummaryInformation
+SPDXID: SPDXRef-item9156899
+FileChecksum: SHA1: 9d6760396a04b26f3fde6a8a9a9c027751b399c3
+FileChecksum: MD5: a81bf396d8c4b972a2c4cb0b55ffbc87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/Data
+SPDXID: SPDXRef-item9156900
+FileChecksum: SHA1: ffbc57ba07e173c87360f3b4b7007273dbe7802a
+FileChecksum: MD5: 1f8ae81e576a6164da9bd492d12f4d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.doc/[1]Ole
+SPDXID: SPDXRef-item9156901
+FileChecksum: SHA1: d3d1cde9eb43ed4b77d197af879f5ca8b8837577
+FileChecksum: MD5: 8b8516166922a7d8a34c4e0fd94557de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createDB2Type4.xml
+SPDXID: SPDXRef-item9156902
+FileChecksum: SHA1: 23a3c3bbf8ce42f84c9d56319fae8e005722151b
+FileChecksum: MD5: 2419b03d424f720cf8e3e7c1ddf545dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.pdf/wastaas_readme
+SPDXID: SPDXRef-item9156905
+FileChecksum: SHA1: b1ab0431b82c16cda9fdc8baa43b8ab154e0d8f1
+FileChecksum: MD5: 83cf287175b2df3be48252b15f9f13ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createDB2Type2.xml
+SPDXID: SPDXRef-item9156906
+FileChecksum: SHA1: 5151bc2404ce8212590030f9b37501ba5de11ffa
+FileChecksum: MD5: 6947d8f8b9d157543d5da8fd863faa09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/zpmt_response.template
+SPDXID: SPDXRef-item9156907
+FileChecksum: SHA1: 7e1663d4e5649fd82855010a21fdd6d9ec055eac
+FileChecksum: MD5: f6c49edc16555df028626c1a1698d896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/actions.xml
+SPDXID: SPDXRef-item9156908
+FileChecksum: SHA1: d6f5122487abbcf3b97e2bf01ac1502205b4b9d0
+FileChecksum: MD5: e1de1dd912cabc087af91cf1aa017275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createRACF.xml
+SPDXID: SPDXRef-item9156909
+FileChecksum: SHA1: bae7257dda1711f2978453e95d80a824ff5100df
+FileChecksum: MD5: 49125c0cbe1b738e369c43ce730a761c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createRACF.sh
+SPDXID: SPDXRef-item9156910
+FileChecksum: SHA1: 79064cc23f4b90ae6da29e535ea2d672b8dd268d
+FileChecksum: MD5: 4181d09dffaa79457a832cdede6fd245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/deprovision.xml
+SPDXID: SPDXRef-item9156911
+FileChecksum: SHA1: 9a6661234f3661d4291f16e7205cdfe26eddb392
+FileChecksum: MD5: bdd3044ba4ae5517d64eb02b174d1e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/startServer.xml
+SPDXID: SPDXRef-item9156912
+FileChecksum: SHA1: 826f96449219e652504231812cbdb99c7a6fbabe
+FileChecksum: MD5: 50d7d286490b7d4988b802f9fc40697a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/wastaas_readme.docx
+SPDXID: SPDXRef-item9156913
+FileChecksum: SHA1: f88b47c94feca02bf923073ab40340c1f03a0282
+FileChecksum: MD5: 257ff329411f786f6ed4767e3f2a7aba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/provision.mf
+SPDXID: SPDXRef-item9156914
+FileChecksum: SHA1: 98fe3bae312eb755e5ee6b82f08b684774705cdf
+FileChecksum: MD5: 42e4f32d72c2e4a857b9c61d863bc41d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/createDB2Type2.template
+SPDXID: SPDXRef-item9156915
+FileChecksum: SHA1: 6744b4b4276d6b3b42d41a92de6db6982ee18061
+FileChecksum: MD5: a4435d4da503e54a70b5e1bce914c860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/workflows/provision.xml
+SPDXID: SPDXRef-item9156916
+FileChecksum: SHA1: cb52d76951bec3d7c482108fd9222796818716c7
+FileChecksum: MD5: 880701c79719444cbdc9b3dab75d5e2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/README.md
+SPDXID: SPDXRef-item9156917
+FileChecksum: SHA1: 01d802a896e6b2e1ba7d4051dd6e34228e16a9cc
+FileChecksum: MD5: e8fdec3c6247c338fd1bf7b6c1290e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/actions_v1.xsd
+SPDXID: SPDXRef-item9156919
+FileChecksum: SHA1: e3e0c61bc0b2b3501552e07cdd1fc32080492def
+FileChecksum: MD5: 7f042fe3a4be18dc0614063863827de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/properties/server_group_variables.properties
+SPDXID: SPDXRef-item9156921
+FileChecksum: SHA1: 3c0010440e2bc58cd59c1d737f8a808f5aaa62d4
+FileChecksum: MD5: 8a972c7864614320373546b5417344e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/files/ZOSMFRAC
+SPDXID: SPDXRef-item9156923
+FileChecksum: SHA1: f9a5762a9462a396fe6f12f75c926101e573e587
+FileChecksum: MD5: 295b875ae19988f381135bc1d364fd44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/files/BBOSBRAC
+SPDXID: SPDXRef-item9156924
+FileChecksum: SHA1: 00cba6f9196c43967cb1b16ee94cd708118e9898
+FileChecksum: MD5: 7b6a0aa46cffe001479c98b7a0b4360d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/files/RMJOBCRD
+SPDXID: SPDXRef-item9156925
+FileChecksum: SHA1: b13765ce3e04f2ca946081f3f3d68b36e42c04d1
+FileChecksum: MD5: a72743f209b78e8518088cd2033fdd35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/files/BBOWBRA1
+SPDXID: SPDXRef-item9156926
+FileChecksum: SHA1: 5c513c782eaf8bdde2b60eccd800bed56b2e363d
+FileChecksum: MD5: 4d8d29b978927e66b02dc162d3e58dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WAS/files/BBOWBRA2
+SPDXID: SPDXRef-item9156927
+FileChecksum: SHA1: 6e3f477efc7d17e976e56a6d07638e7495f65fcc
+FileChecksum: MD5: 2a17677c7cdf4bf1aeb4f667a76ef5dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/README.md
+SPDXID: SPDXRef-item9156929
+FileChecksum: SHA1: 71fadfe1d6765e9651b51b3901973a8e5965a112
+FileChecksum: MD5: 005baa8d2c5491d23d9e370433061fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createworkfs.jcl
+SPDXID: SPDXRef-item9156932
+FileChecksum: SHA1: 59ac0d2fbb86eecbf2a2b198e86b3af3be5dfb2f
+FileChecksum: MD5: c08d368558522d8be8d9bf96de586580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/PRDAUDP.jcl
+SPDXID: SPDXRef-item9156933
+FileChecksum: SHA1: abf9a4d5e6a9baa37dbf2e2b3065358ff9b99e8a
+FileChecksum: MD5: a1d74a4907dde0d936d9ca81dd626143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CreateENVFILE.jcl
+SPDXID: SPDXRef-item9156934
+FileChecksum: SHA1: 47f34995ae662a182059d4cce0919255b4dbab2f
+FileChecksum: MD5: 7e0cdcecee61cf6d44bdaf1958725e95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/EnableWebAdmin.jcl
+SPDXID: SPDXRef-item9156935
+FileChecksum: SHA1: 754864762f678beb45109b39dc39cf5bbe153831
+FileChecksum: MD5: 49ab4d2c3bca3d4adc6a53d07b52cf83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CreateBrokerQueues.jcl
+SPDXID: SPDXRef-item9156936
+FileChecksum: SHA1: 26b22a483df2852b53de242982058e235594030e
+FileChecksum: MD5: ef39af6a2797e428cc05d41c6b2fdeaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/DisplayVariables.jcl
+SPDXID: SPDXRef-item9156937
+FileChecksum: SHA1: 6198daa76eae8e7860a2f7e65f197c70154d73cf
+FileChecksum: MD5: 8a79018e7bdf42e4d4e540024a0760e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CRE6EXG.jcl
+SPDXID: SPDXRef-item9156938
+FileChecksum: SHA1: 3d6abaa4f031a7923f6e842795a6037c11bcb308
+FileChecksum: MD5: 1b059bfc978e55db9b944d9ddbc38beb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/DeleteMountpointAndBrokerFS.jcl
+SPDXID: SPDXRef-item9156939
+FileChecksum: SHA1: 702a3473631330edaaf57635964dd2a04e93eb06
+FileChecksum: MD5: c60c6c2ecc3328dd21934d0dc60751cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/EnvironmentFileTemplate.txt
+SPDXID: SPDXRef-item9156940
+FileChecksum: SHA1: 5703bf9e8460d3b222e6868a71a19320abf896f6
+FileChecksum: MD5: f7c1d2570596a0c1e74e90a69f3a2cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/TIVAUTH.jcl
+SPDXID: SPDXRef-item9156941
+FileChecksum: SHA1: a9416c2127205c35c596417aec2b86f712093d6f
+FileChecksum: MD5: f277b4d08acfa4f36885b57e5d14fded
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CreateBroker.jcl
+SPDXID: SPDXRef-item9156942
+FileChecksum: SHA1: 04a30ddbc224667944db5d10615cb9ee55b10ec3
+FileChecksum: MD5: fb2faae172285377e04aa4b1317ecebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/StopBroker.jcl
+SPDXID: SPDXRef-item9156943
+FileChecksum: SHA1: 3b573dacd2d124be22cd3b37cb602fd12ac5771a
+FileChecksum: MD5: a33f8f80b0b6e15336141662fcf5e140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/UPDPRML.jcl
+SPDXID: SPDXRef-item9156944
+FileChecksum: SHA1: 97891e1fdfcc9ad19554c2e2ce9613b9df853564
+FileChecksum: MD5: ce06ac7e06c4f67af6a1e3e6312f80ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/DeleteBrokerQueues.jcl
+SPDXID: SPDXRef-item9156945
+FileChecksum: SHA1: 9cd5faee0873f8be41062baf932071a7d680e178
+FileChecksum: MD5: 944aaafb2e9f5d8a55121984daef2f0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/DBCDEFS.jcl
+SPDXID: SPDXRef-item9156946
+FileChecksum: SHA1: a6b583413bd2df0bc3d755f0df68ec6a932f5c3d
+FileChecksum: MD5: 19b3755f78cd83a0fa0a27e2a1bc9e1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/StartBroker.jcl
+SPDXID: SPDXRef-item9156947
+FileChecksum: SHA1: 8c20fc6bc23700bbb54ad181086ede33c5707225
+FileChecksum: MD5: 8eb3ff4051c687646e4e3e5e253ee38c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createmountpt.jcl
+SPDXID: SPDXRef-item9156948
+FileChecksum: SHA1: 435b9586eee3a8f8bd926f3fb01b1e82425738bb
+FileChecksum: MD5: 486b29decb273e465c0b3542ffa29d89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/UPDSTC.jcl
+SPDXID: SPDXRef-item9156949
+FileChecksum: SHA1: 138442fd7940c6803e970af533234eabd8a3dfb1
+FileChecksum: MD5: 0426af02a383b145355a616e3223729d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createsymlinks.jcl
+SPDXID: SPDXRef-item9156950
+FileChecksum: SHA1: 15c7909e116e90e3df86ba60272033d793c474ba
+FileChecksum: MD5: d7950cfbd80604a5b30d9f9e16aa3e3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createsymlinksxat.jcl
+SPDXID: SPDXRef-item9156951
+FileChecksum: SHA1: bf05ee0f05179d6ff604dc09f29726a2bb0b4616
+FileChecksum: MD5: b2c82e0519a9857210226ce6a030a99d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/deriveVariables.jcl
+SPDXID: SPDXRef-item9156952
+FileChecksum: SHA1: 41b3d2f5d774e47a9d07065e8f7f2742adfde87b
+FileChecksum: MD5: b6a28eac7f622b76ece76108e369d60b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createhomedir.jcl
+SPDXID: SPDXRef-item9156953
+FileChecksum: SHA1: 4bc0a2f5499e1820a355a54765c9973e97ed5f3c
+FileChecksum: MD5: 3f74266900cac5569aff0f4db3040fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/createsymlinksa.jcl
+SPDXID: SPDXRef-item9156954
+FileChecksum: SHA1: 1f3f4a0a33e1a671ab8d7d28cc515853e15e6ad6
+FileChecksum: MD5: aec5a23546c49ceb2905f3131cea39b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/AUTHFS.jcl
+SPDXID: SPDXRef-item9156955
+FileChecksum: SHA1: c8fde521e8c230538df393190b626bdf17847d9a
+FileChecksum: MD5: 15e1a9347f49e326297f01d64d5c8cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/Deletehomedir.jcl
+SPDXID: SPDXRef-item9156956
+FileChecksum: SHA1: f4aaddf59da4daf3f8e3766d65615ebe7d42d7fd
+FileChecksum: MD5: bf18d21df79a7f85e4762abb0375a888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/mountbrokerfilesystem.txt
+SPDXID: SPDXRef-item9156957
+FileChecksum: SHA1: 72f0f423c50be0cd9f7d1db1cd157facce4bc20c
+FileChecksum: MD5: 153481b5fec530cc31c7d0235965349c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CRENWDR.jcl
+SPDXID: SPDXRef-item9156958
+FileChecksum: SHA1: 36d3f2f584e9729144bb8218a4151f2864c6aa72
+FileChecksum: MD5: 94b21d43cea191b9b1511e14137f4869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/jcl/CHAPORT.jcl
+SPDXID: SPDXRef-item9156959
+FileChecksum: SHA1: 91f8b6e87a26ca6caf3c867fdb3f649151885cf7
+FileChecksum: MD5: 9d965349f1b4fdd199de902a3a1b13cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/provisionIIB.xml
+SPDXID: SPDXRef-item9156960
+FileChecksum: SHA1: 0e6ce52bf6e18b133729a5dfe4b6bd2750a4f1f3
+FileChecksum: MD5: 8e9bd00aba03147ca6b78a1fd885aa3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/deprovisionIIB.properties
+SPDXID: SPDXRef-item9156961
+FileChecksum: SHA1: ad092707a7514ca1a38beb3c6bb45d2cae868b62
+FileChecksum: MD5: acbbe4440bfda3bf73ca72d2195c8f92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/USSBATCH.rexx
+SPDXID: SPDXRef-item9156962
+FileChecksum: SHA1: c07728c69cac73fd1e6741a1864ae260053cf950
+FileChecksum: MD5: fa2bcc07c39e32a326a679446767b6fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/USSBATCH.proc
+SPDXID: SPDXRef-item9156963
+FileChecksum: SHA1: 46115ac07ba53034e6d4110884e561c65582a32d
+FileChecksum: MD5: b35f989c051b9732a232c07e9535a53f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/provisionIIBActions.xml
+SPDXID: SPDXRef-item9156964
+FileChecksum: SHA1: db7dacac773c07a1cc14a56ca960e1f0ba0b7b52
+FileChecksum: MD5: fddb0e9ba35fb108ff0f428248857551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/provisionIIB.properties
+SPDXID: SPDXRef-item9156965
+FileChecksum: SHA1: 8f18de081afa87e9bfe7fb3c323a072cd2f9555f
+FileChecksum: MD5: b4801d97c40de4537c27e011d3106ece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IIB/IIBv9/deprovisionIIB.xml
+SPDXID: SPDXRef-item9156966
+FileChecksum: SHA1: cd6e80c1e25d5fd2ab5de878e72bf2521fd60850
+FileChecksum: MD5: 981c7a5024fc0b306bef75c7fdc9c9a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/README.md
+SPDXID: SPDXRef-item9156968
+FileChecksum: SHA1: 0cf8901e95697a7c58dd62719c70710c07a53d2d
+FileChecksum: MD5: 954525be8817d493629a2362dc971922
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsndeprv.xml
+SPDXID: SPDXRef-item9156973
+FileChecksum: SHA1: ae63d1327ccfb9d55117f40930addf6e08f7c25d
+FileChecksum: MD5: d6751533228df7895e0fd12db97fe3a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijdf
+SPDXID: SPDXRef-item9156977
+FileChecksum: SHA1: 5b4721f65489a4ec0122c7294d2f27e4e6352a8c
+FileChecksum: MD5: ed2b958409217d6b5e677a016bcea19a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsnoptft.xml
+SPDXID: SPDXRef-item9156984
+FileChecksum: SHA1: ef88feb2a475351dbd442bfa943802053ffd2243
+FileChecksum: MD5: 7b80a68bde3e442469a8c8284efb6873
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/actions.xml
+SPDXID: SPDXRef-item9156990
+FileChecksum: SHA1: af6834adf7b5962728cf899651519b6fdd12447f
+FileChecksum: MD5: 86a772fee20bdfe2f4a98245df3760cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsnstop.xml
+SPDXID: SPDXRef-item9156998
+FileChecksum: SHA1: 86b8ff0a83a2797712c21b9f3afe60df02c81682
+FileChecksum: MD5: bc57ecda29467a077747d507b3f28b95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntivin
+SPDXID: SPDXRef-item9157002
+FileChecksum: SHA1: 7a4605f82b9f6a6d375ed05ae5b7a7c2e04720f4
+FileChecksum: MD5: d0b4ecef5833edc23fe1017cb4dd5615
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsnstart.xml
+SPDXID: SPDXRef-item9157006
+FileChecksum: SHA1: b9e4214d10d05d2364d63c712cfef36af6ce6c35
+FileChecksum: MD5: 0316d50cd59e41cdfcbe8d8e1d6a9163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsndddf.xml
+SPDXID: SPDXRef-item9157007
+FileChecksum: SHA1: 37a6664a410e82d2d8db88012c79cc66721145fb
+FileChecksum: MD5: 766c26e0748702c9b36e086b86ff8a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntijcl
+SPDXID: SPDXRef-item9157017
+FileChecksum: SHA1: aeeb281c888d9282d2f7bd781d32dd6655dc3976
+FileChecksum: MD5: 1cf41530cddd69ed6c9418e5edfae5c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/dsntiwin.xml
+SPDXID: SPDXRef-item9157018
+FileChecksum: SHA1: 34d14b3b4dc08571fb87a21b2b11a3b4234fcac3
+FileChecksum: MD5: 875c611de33fca6fb9841ee5758e1103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/.classpath
+SPDXID: SPDXRef-item9157024
+FileChecksum: SHA1: e3d07ed58097c36e529626b5b89aaed07d702b7f
+FileChecksum: MD5: ea129d50161a251236b1d84cd530a1a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/.DS_Store
+SPDXID: SPDXRef-item9157026
+FileChecksum: SHA1: 05e5ecd00ded993146507dd4e8c08a4d226617cd
+FileChecksum: MD5: 29078d00f95690463caa98d835cfedfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/.DS_Store
+SPDXID: SPDXRef-item9157028
+FileChecksum: SHA1: e373590261d924b69952711ff7ccc0e549cce0bf
+FileChecksum: MD5: 13b51d83ff81d5a8e82550778288cabb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/.DS_Store
+SPDXID: SPDXRef-item9157030
+FileChecksum: SHA1: 46c7c9281ebea241bc4c465671c290ff8c9dee7c
+FileChecksum: MD5: e4cfe22fa777bedf1cdd37576f672c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/dsntej91.class
+SPDXID: SPDXRef-item9157032
+FileChecksum: SHA1: 1dba486353066dee50fad7235382c13ba73151cd
+FileChecksum: MD5: 1d3fe3ec3d72bcdbb45682f98356b0cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/dsntej92.class
+SPDXID: SPDXRef-item9157033
+FileChecksum: SHA1: 1d920357663db0f02a2b41821ffb83fdca9181b5
+FileChecksum: MD5: 3b61afae4ec244418b55d2a516e6296d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/passticket.class
+SPDXID: SPDXRef-item9157034
+FileChecksum: SHA1: c376dbef7c7b2222dc2b328f288319543b74b875
+FileChecksum: MD5: 0d977d350ae5dc926a2f0fd7f9b3c2fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/.project
+SPDXID: SPDXRef-item9157035
+FileChecksum: SHA1: cd083a3f2dfdc0f2e2c685c465492adf04aa0bf6
+FileChecksum: MD5: b9fd0779a62173c983b357589292cc41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/.DS_Store
+SPDXID: SPDXRef-item9157036
+FileChecksum: SHA1: cf966186232f908607b2cafd5d4cb23e654da64d
+FileChecksum: MD5: 319b46a4d4d097c67e726dfcdae3d824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS/db2provision.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157038
+FileChecksum: SHA1: 79e33dd52ebdf615e6696ae69add91cb990d81e2
+FileChecksum: MD5: 92d04d6bd8a0235843240bba30d2f091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/readme.md
+SPDXID: SPDXRef-item9157044
+FileChecksum: SHA1: 04145dc040b7ec43561f6530528ed8e4be262f64
+FileChecksum: MD5: d7221145ebb07a67d189122b84ecabb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijua
+SPDXID: SPDXRef-item9157048
+FileChecksum: SHA1: 56175fdd2020860031c8f1e15b78303a409623a3
+FileChecksum: MD5: 70507eb0aa9edd1ea2582f0497f4b5ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsndeprv.xml
+SPDXID: SPDXRef-item9157049
+FileChecksum: SHA1: ae63d1327ccfb9d55117f40930addf6e08f7c25d
+FileChecksum: MD5: d6751533228df7895e0fd12db97fe3a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntej0
+SPDXID: SPDXRef-item9157050
+FileChecksum: SHA1: 857f01502f0374f1c72c14d87e93bec0573dd470
+FileChecksum: MD5: 72e65f0bd4d69fd2332f10eeade743f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijic
+SPDXID: SPDXRef-item9157051
+FileChecksum: SHA1: 3932543577348e83a1b0f02c255a040dbfcc1dbc
+FileChecksum: MD5: d6ad0ca89eff17ca4cf45814fc3f7d71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijie
+SPDXID: SPDXRef-item9157052
+FileChecksum: SHA1: 477cb431261640dbedd34e3d74278bc58c9c5cac
+FileChecksum: MD5: 80123b1e9da931da4a3d4e14d2159c31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijdf
+SPDXID: SPDXRef-item9157053
+FileChecksum: SHA1: b1a8c316f95eba4d8a27e366f5c221b82cc9192b
+FileChecksum: MD5: 13d84bb937975abf028fc2ebf3fcfc24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntej8
+SPDXID: SPDXRef-item9157054
+FileChecksum: SHA1: a40e86c0f8dbd115f30215e45fe097bacf16a480
+FileChecksum: MD5: f95e79fff346ab380e149916e8802575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijrp
+SPDXID: SPDXRef-item9157055
+FileChecksum: SHA1: 06a260df8274ee11b2b26195ce17caf404efba4b
+FileChecksum: MD5: 4302c58ac17386277d5d22a6d242442c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntej2a
+SPDXID: SPDXRef-item9157056
+FileChecksum: SHA1: 46724fa5862699bb2486de8a9a0c147db1ffb246
+FileChecksum: MD5: f11d20e9124bf3f3c5a898a7ea5d255c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijma
+SPDXID: SPDXRef-item9157057
+FileChecksum: SHA1: 8c3559fb78e4242629ffd5e6a8412a6ef9121b89
+FileChecksum: MD5: e7435358f86fdf98fad099238f44e169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijtm
+SPDXID: SPDXRef-item9157058
+FileChecksum: SHA1: 4e19ac283d4068343945e50e2f73046a9aec67cf
+FileChecksum: MD5: 4e06a806aaf52c2151ede1052145ea84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijpp
+SPDXID: SPDXRef-item9157059
+FileChecksum: SHA1: 946873594963a2ecd6e4b29795dfd1d102a3d326
+FileChecksum: MD5: 22b75092124eecaec9a46929406a0199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsnoptft.xml
+SPDXID: SPDXRef-item9157060
+FileChecksum: SHA1: ef88feb2a475351dbd442bfa943802053ffd2243
+FileChecksum: MD5: 7b80a68bde3e442469a8c8284efb6873
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijrw
+SPDXID: SPDXRef-item9157061
+FileChecksum: SHA1: 333a52d2f24082859c242db6a96288df222220cb
+FileChecksum: MD5: bb994a41e4d10f096203cbc188b936c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjrw
+SPDXID: SPDXRef-item9157062
+FileChecksum: SHA1: 968a0cff61badb4b7a66c47b1ee6ad20ee656638
+FileChecksum: MD5: 53dca2908f91f0bd9b386e11fbf97267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijsg
+SPDXID: SPDXRef-item9157063
+FileChecksum: SHA1: 0087ef4b3126ee5ef69db64c1481113a37ae48ce
+FileChecksum: MD5: b548998235a0619fe96bd2e8097e1075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntej1
+SPDXID: SPDXRef-item9157064
+FileChecksum: SHA1: d983d0327c1eb196ece2f0bf71c1e631e1526b8a
+FileChecksum: MD5: f67558b24115d460ecde6123d3de5c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjmj
+SPDXID: SPDXRef-item9157065
+FileChecksum: SHA1: 66edba040bd7fe437c9dce25e933f683290f901f
+FileChecksum: MD5: c102476ecff9369b261370215a0a2a5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/actions.xml
+SPDXID: SPDXRef-item9157066
+FileChecksum: SHA1: af6834adf7b5962728cf899651519b6fdd12447f
+FileChecksum: MD5: 86a772fee20bdfe2f4a98245df3760cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijda
+SPDXID: SPDXRef-item9157067
+FileChecksum: SHA1: 0dcbc7952da8d9ad5b4f93f01c7b4d846bb4bcd4
+FileChecksum: MD5: fcc6826336169dc4cbf7b6154878ede8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijuz
+SPDXID: SPDXRef-item9157068
+FileChecksum: SHA1: 2dda50969c8a601d15304315b998c02eb9fde243
+FileChecksum: MD5: 173b26a37cbd81a8040cc285e2c65fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjda
+SPDXID: SPDXRef-item9157069
+FileChecksum: SHA1: 95df18e113140740e9ac8a37724a3fec84c36474
+FileChecksum: MD5: 08724100c046a8e32763cc5c1a973e1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjma
+SPDXID: SPDXRef-item9157070
+FileChecksum: SHA1: 9abff29bff32dc6e46de89c0285c6bf3d5046095
+FileChecksum: MD5: 7e02081202d5b11a42b19d7229873f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijtc
+SPDXID: SPDXRef-item9157071
+FileChecksum: SHA1: 425900cbeb7a098fd7353704da0ffa1832edd5d1
+FileChecksum: MD5: c38a8fcc2de26d44f84909b08360765e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjic
+SPDXID: SPDXRef-item9157072
+FileChecksum: SHA1: 88daffe27c59a430a5b73a6572066d249b5e937a
+FileChecksum: MD5: 101a4109685de3e58d59c7115f1ed60a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijin
+SPDXID: SPDXRef-item9157073
+FileChecksum: SHA1: 78937fe265f2ed96cf9d45842bfa3c22eca9f3a2
+FileChecksum: MD5: 152b7807df36ac6fc19af28ee5a566c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsnstop.xml
+SPDXID: SPDXRef-item9157074
+FileChecksum: SHA1: 86b8ff0a83a2797712c21b9f3afe60df02c81682
+FileChecksum: MD5: bc57ecda29467a077747d507b3f28b95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijrt
+SPDXID: SPDXRef-item9157075
+FileChecksum: SHA1: 0cccbd67c1a6dda5b7464d8ea83001732eff45c0
+FileChecksum: MD5: 1bb9d17ee60e7a1fee2369905b65a66c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijmp
+SPDXID: SPDXRef-item9157076
+FileChecksum: SHA1: 63e5cba5f10ac43664fb4069886ab013fa16b41c
+FileChecksum: MD5: d2a358c95612addfe87159e8db2131a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijsa
+SPDXID: SPDXRef-item9157077
+FileChecksum: SHA1: ec7c53c6a5f2a430d5cced8b25e2a2484041fd21
+FileChecksum: MD5: 4e1ca6b71c9c467583ecda1bd2381e30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntivin
+SPDXID: SPDXRef-item9157078
+FileChecksum: SHA1: e8c9d76212d95e990c677c7baacfb00019dee574
+FileChecksum: MD5: 2b28b7c9dddc9fe599527125a58be891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntej1l
+SPDXID: SPDXRef-item9157079
+FileChecksum: SHA1: 130694a98855c9adf1364caf0325c01f4cf51bbf
+FileChecksum: MD5: c43574d785afd30eb4fc95f3f5cd00e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijex
+SPDXID: SPDXRef-item9157080
+FileChecksum: SHA1: 1aac8c6b282a186377773cc61a155deb9db55c5e
+FileChecksum: MD5: 14d40948ed92e82d764b3de11b978ba2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijif
+SPDXID: SPDXRef-item9157081
+FileChecksum: SHA1: 9b355ef014aabc3a70f6be44a61f9c4fff61251b
+FileChecksum: MD5: a7a44a5246d5870cdc802f46ffd605d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsnstart.xml
+SPDXID: SPDXRef-item9157082
+FileChecksum: SHA1: b9e4214d10d05d2364d63c712cfef36af6ce6c35
+FileChecksum: MD5: 0316d50cd59e41cdfcbe8d8e1d6a9163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsndddf.xml
+SPDXID: SPDXRef-item9157083
+FileChecksum: SHA1: 37a6664a410e82d2d8db88012c79cc66721145fb
+FileChecksum: MD5: 766c26e0748702c9b36e086b86ff8a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijtu
+SPDXID: SPDXRef-item9157084
+FileChecksum: SHA1: 5fa9fab99cc8163b91bc5d4eccf9b7ca10cb6aa5
+FileChecksum: MD5: 5521f4af1dcff45d58264d4ee2dccd19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjuz
+SPDXID: SPDXRef-item9157085
+FileChecksum: SHA1: 46da15b7099162d5a3893b228652e8f8c8f5323b
+FileChecksum: MD5: c5f7dbbc114784088dcd0f6088d387a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijso
+SPDXID: SPDXRef-item9157086
+FileChecksum: SHA1: fac79c578363ba62836d53cef751169ae4e5d440
+FileChecksum: MD5: 7a7fc8af9887544ca95558d4394805fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijmw
+SPDXID: SPDXRef-item9157087
+FileChecksum: SHA1: 31d07f045a9fc2a8d0a771cff71068b6ffa9101e
+FileChecksum: MD5: 57fca2498e15001a8e00b12bb0721f1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijmj
+SPDXID: SPDXRef-item9157088
+FileChecksum: SHA1: 5b6a903dbe1de890c0c5eeea67ee1a117e17e568
+FileChecksum: MD5: 4f6fdc89c9b0d91263e84f5ddac6d6e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijvc
+SPDXID: SPDXRef-item9157089
+FileChecksum: SHA1: db50f6f2f0a0177ad0f455bd49aed6b133064809
+FileChecksum: MD5: 23e74c9fe5bae26bcd99e21c1116f827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijmd
+SPDXID: SPDXRef-item9157090
+FileChecksum: SHA1: 02e54a38862023bc348f2ad48edafbed8ea1511f
+FileChecksum: MD5: c881aae7c393d6562837fa0a296e4d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijrv
+SPDXID: SPDXRef-item9157091
+FileChecksum: SHA1: 59a0fbb853f16f725adaadbc3dbf0b03e475e91f
+FileChecksum: MD5: aa8ee90a00a4a468a73f1af3c242ffdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/validatessn.rexx
+SPDXID: SPDXRef-item9157092
+FileChecksum: SHA1: 56913347db26cfa71776d274396c35d8d11dee12
+FileChecksum: MD5: a2d9517cc7a1c730848747ee79680053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijcl
+SPDXID: SPDXRef-item9157093
+FileChecksum: SHA1: e80da14d234bba708fc0c887138a928883e2a1a5
+FileChecksum: MD5: 90c7ab42ee5c2942e2ce775896e7e2f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntiwin.xml
+SPDXID: SPDXRef-item9157094
+FileChecksum: SHA1: 34d14b3b4dc08571fb87a21b2b11a3b4234fcac3
+FileChecksum: MD5: 875c611de33fca6fb9841ee5758e1103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdj1
+SPDXID: SPDXRef-item9157095
+FileChecksum: SHA1: d0c84464b3761c078ec7a1b2594eae891081aa25
+FileChecksum: MD5: b2ba33c33cf30dc1aa6a94c583451362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjmd
+SPDXID: SPDXRef-item9157096
+FileChecksum: SHA1: 0b30a755abb8f07439645b6c63c67d44615c3735
+FileChecksum: MD5: 539baf2cf09cc062763ab43e16a4073f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/.classpath
+SPDXID: SPDXRef-item9157100
+FileChecksum: SHA1: e3d07ed58097c36e529626b5b89aaed07d702b7f
+FileChecksum: MD5: ea129d50161a251236b1d84cd530a1a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/.DS_Store
+SPDXID: SPDXRef-item9157102
+FileChecksum: SHA1: 05e5ecd00ded993146507dd4e8c08a4d226617cd
+FileChecksum: MD5: 29078d00f95690463caa98d835cfedfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/.DS_Store
+SPDXID: SPDXRef-item9157104
+FileChecksum: SHA1: e373590261d924b69952711ff7ccc0e549cce0bf
+FileChecksum: MD5: 13b51d83ff81d5a8e82550778288cabb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/.DS_Store
+SPDXID: SPDXRef-item9157106
+FileChecksum: SHA1: 46c7c9281ebea241bc4c465671c290ff8c9dee7c
+FileChecksum: MD5: e4cfe22fa777bedf1cdd37576f672c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/dsntej91.class
+SPDXID: SPDXRef-item9157108
+FileChecksum: SHA1: 1dba486353066dee50fad7235382c13ba73151cd
+FileChecksum: MD5: 1d3fe3ec3d72bcdbb45682f98356b0cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/dsntej92.class
+SPDXID: SPDXRef-item9157109
+FileChecksum: SHA1: 1d920357663db0f02a2b41821ffb83fdca9181b5
+FileChecksum: MD5: 3b61afae4ec244418b55d2a516e6296d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/com/ibm/db2z/db2provision/passticket.class
+SPDXID: SPDXRef-item9157110
+FileChecksum: SHA1: c376dbef7c7b2222dc2b328f288319543b74b875
+FileChecksum: MD5: 0d977d350ae5dc926a2f0fd7f9b3c2fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/.project
+SPDXID: SPDXRef-item9157111
+FileChecksum: SHA1: cd083a3f2dfdc0f2e2c685c465492adf04aa0bf6
+FileChecksum: MD5: b9fd0779a62173c983b357589292cc41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/.DS_Store
+SPDXID: SPDXRef-item9157112
+FileChecksum: SHA1: cf966186232f908607b2cafd5d4cb23e654da64d
+FileChecksum: MD5: 319b46a4d4d097c67e726dfcdae3d824
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/db2provision.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157114
+FileChecksum: SHA1: 79e33dd52ebdf615e6696ae69add91cb990d81e2
+FileChecksum: MD5: 92d04d6bd8a0235843240bba30d2f091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijaf
+SPDXID: SPDXRef-item9157115
+FileChecksum: SHA1: 778880246ceb54b28cbc9b56000d0b57bbdad7ee
+FileChecksum: MD5: f0e4729c56d21e8e92ed5dfe4327707b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijum
+SPDXID: SPDXRef-item9157116
+FileChecksum: SHA1: e57d7c961cf109b696371ed7cd95517b75fad0ee
+FileChecksum: MD5: 63c28f89891de99f0962339b303c5ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijul
+SPDXID: SPDXRef-item9157117
+FileChecksum: SHA1: ad302d12b272240afe992aea837cbbabda963327
+FileChecksum: MD5: 156d0f2a3664290d284495d3b1117b5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntijid
+SPDXID: SPDXRef-item9157118
+FileChecksum: SHA1: 8d886ee3c56d8bda2232123a1733a7a96d822f57
+FileChecksum: MD5: ce0da527f33fd646708dd3e1467f12da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/Db2ProvisionSystemNonDS/Db2ProvisionSystemNonDS.pax/Db2ProvisionSystemNonDS/dsntdjin
+SPDXID: SPDXRef-item9157119
+FileChecksum: SHA1: 1e33295e1272961cf6fa903ffcad65718b76d906
+FileChecksum: MD5: 3ca98bbe8c3e34b91ff964f6d80ea310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SystemServices/readme.md
+SPDXID: SPDXRef-item9157120
+FileChecksum: SHA1: 57cba55ba331adfa600136aeb21021e700cbea60
+FileChecksum: MD5: 9125ba8e976a1ef806164f120cf8eed6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/Dependency/DeprovisionStoredProcedure/build.sql
+SPDXID: SPDXRef-item9157124
+FileChecksum: SHA1: 4a1f0caaf341080126afe3a4a81f05a496bd4f35
+FileChecksum: MD5: 7ae070212008290c92018374fdc93686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/Dependency/DeprovisionStoredProcedure/README.md
+SPDXID: SPDXRef-item9157125
+FileChecksum: SHA1: 5b13a4002091134afad6af69eec01cc033d0bf70
+FileChecksum: MD5: 5d7fd2c41fdf924f63345778fe026c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/Dependency/DeprovisionStoredProcedure/clean.sql
+SPDXID: SPDXRef-item9157127
+FileChecksum: SHA1: 6445070844423be943a2979caab33a2dc683ae99
+FileChecksum: MD5: 3e9dd7957e4ec6cb153132f6a13b6d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/README.md
+SPDXID: SPDXRef-item9157129
+FileChecksum: SHA1: 72c7ca9c74c6c03ef57556d4f8255a41f7c54083
+FileChecksum: MD5: 2648a99c73e556afde0fd6ecb29f826e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/clouddb2.input
+SPDXID: SPDXRef-item9157133
+FileChecksum: SHA1: e8434e648b26502fb282c1ba83cf07b38094c5f6
+FileChecksum: MD5: ef40a4e020eb8f66b19e2123e3100e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/actions.xml
+SPDXID: SPDXRef-item9157134
+FileChecksum: SHA1: 125f544514ecdc1ae27431f81d03cece7b7ccd69
+FileChecksum: MD5: f084a1874e6ab2ccd8bfb48b46e70787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157136
+FileChecksum: SHA1: 84525aabfcc855c934b1b1e347e6fb2c41d7354f
+FileChecksum: MD5: cda4beeec8e53d585aa2d8fc05ce0726
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157137
+FileChecksum: SHA1: 800ea01bdc6c49c6febf89b8b66dbee3780c1997
+FileChecksum: MD5: cf0f8824df2de1311eadd0640a8baf96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157138
+FileChecksum: SHA1: 4cbe86e6f7744c933035c93411dcf168976b956b
+FileChecksum: MD5: 8be19ad2115b5b9c532b270fba4f1102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157139
+FileChecksum: SHA1: ef0c8a7505e9b5bc053a517ff670c0d5c5eae961
+FileChecksum: MD5: 5d15148e7a932875e4aeaab6a989c9dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157140
+FileChecksum: SHA1: 74878473c24795e81a53b7d9b8883f89b571841f
+FileChecksum: MD5: 9fd55a9e7b5fd545d30e47012b375d7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157141
+FileChecksum: SHA1: 067bea30d8521b521149317c6a4caed1a5455946
+FileChecksum: MD5: caf62b61db4ea4cd80471c87ea526713
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157142
+FileChecksum: SHA1: ab45ff50ba17efa79c688f2cf9a3201bb35563f3
+FileChecksum: MD5: 415625e46de447bc86045146b57160d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157143
+FileChecksum: SHA1: 6edddae7e929027c49eef7125c75aa3caec28b53
+FileChecksum: MD5: d3618406136b6c5455a9f2fb4b0bfb44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157144
+FileChecksum: SHA1: 2f970c7dbac5dbd4215ab167361664c37e4e11e3
+FileChecksum: MD5: f9e8c28f9bd9a83a122886cdf50195fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157145
+FileChecksum: SHA1: 0d1a8e778ade101457100998555a5746509ad71b
+FileChecksum: MD5: d2a800eee2fdd52545ee6690dee03e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157149
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157151
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/CREATDB.jcl
+SPDXID: SPDXRef-item9157152
+FileChecksum: SHA1: 16916aba09f475fd23209f70340378fdbcc07e8f
+FileChecksum: MD5: 6bdfb77b1ad416e90c2b221bcd6d3c03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/deprovision.xml
+SPDXID: SPDXRef-item9157153
+FileChecksum: SHA1: 26642bd9fd8a3ff760b82eeadcbef12c996fffed
+FileChecksum: MD5: 6a9362b0965e18d5add13467dc33a187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/deprovision.sh
+SPDXID: SPDXRef-item9157154
+FileChecksum: SHA1: 6d948dc1f553e299d7c6315cadba9b34b151c7f7
+FileChecksum: MD5: b461fd71329d4dcafdab078868691a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/Db2ProvisionDB.pax/ProvisionEmptyDB/provision.xml
+SPDXID: SPDXRef-item9157155
+FileChecksum: SHA1: 287b08a0ddb1465c40183611ffb22339a9de6d21
+FileChecksum: MD5: 03847f2c77a1cb6a4a1fec1b68bff387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/clouddb2.input
+SPDXID: SPDXRef-item9157157
+FileChecksum: SHA1: 138fd30d77ecd05cc373707238249dea887824fb
+FileChecksum: MD5: d30f6abee4f960a1740388d20b4053bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/actions.xml
+SPDXID: SPDXRef-item9157158
+FileChecksum: SHA1: 125f544514ecdc1ae27431f81d03cece7b7ccd69
+FileChecksum: MD5: f084a1874e6ab2ccd8bfb48b46e70787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157160
+FileChecksum: SHA1: 3545ce1b18f24cfa0cddef04ab9a5ce8118dd190
+FileChecksum: MD5: 9f0ca286f774396ce3ce9fb6e6204b57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157161
+FileChecksum: SHA1: e423b1cfa924992f5cb14ff64438fc022855f5d5
+FileChecksum: MD5: 75d09ba1c454ea2dc793699f09dfe20c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157162
+FileChecksum: SHA1: b6c3d017199e08ac33db569a7f44820091438d11
+FileChecksum: MD5: 58e4b653d3b794a7cf9b25f5bef26087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157163
+FileChecksum: SHA1: b1c7533f2c6cff7a0ea609436c137d8b7211a208
+FileChecksum: MD5: c1e9ad72f4de3c084a51b254e77827ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157164
+FileChecksum: SHA1: 88876d248f92cbf01e993fa161d23e258df103b4
+FileChecksum: MD5: 978dc2a5f9272d561a7e995d86740633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157165
+FileChecksum: SHA1: 0f30e050111ce5c98dc19477feb635e620591659
+FileChecksum: MD5: 9d89cd5b5563971b8b83b3ce77a4548c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157166
+FileChecksum: SHA1: ab45ff50ba17efa79c688f2cf9a3201bb35563f3
+FileChecksum: MD5: 415625e46de447bc86045146b57160d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157167
+FileChecksum: SHA1: 6edddae7e929027c49eef7125c75aa3caec28b53
+FileChecksum: MD5: d3618406136b6c5455a9f2fb4b0bfb44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157168
+FileChecksum: SHA1: 7215da4b29a23195801d863064c59f9435473a76
+FileChecksum: MD5: 33d197a84f93b9222b10f5aeeaf253d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157169
+FileChecksum: SHA1: bf18c63cee82e63124ac3bd6b2fb5dbe792d8b53
+FileChecksum: MD5: ef07d4afab15d8debaaff28158d3c0af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157173
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157175
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/CREATDB.jcl
+SPDXID: SPDXRef-item9157176
+FileChecksum: SHA1: 35455e7d7e1d3d993e91d49cce8e1dd6006a8053
+FileChecksum: MD5: e254e85b9c2d2a3498133ca445c8c08f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/deprovision.xml
+SPDXID: SPDXRef-item9157177
+FileChecksum: SHA1: 26642bd9fd8a3ff760b82eeadcbef12c996fffed
+FileChecksum: MD5: 6a9362b0965e18d5add13467dc33a187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/deprovision.sh
+SPDXID: SPDXRef-item9157178
+FileChecksum: SHA1: 6a909fe8f10b6e1310c2de3b29496f5d5a625603
+FileChecksum: MD5: 3b63f624fdc4e49c124955d0dee8ec19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionDatabase/ProvisionEmptyDB/provision.xml
+SPDXID: SPDXRef-item9157179
+FileChecksum: SHA1: 287b08a0ddb1465c40183611ffb22339a9de6d21
+FileChecksum: MD5: 03847f2c77a1cb6a4a1fec1b68bff387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/README.md
+SPDXID: SPDXRef-item9157181
+FileChecksum: SHA1: 98e9199d6688ee2b91b9a5c8f3351547a4b64435
+FileChecksum: MD5: 1ad46818808e9f058347e9cac8eebae5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/restore/restore.xml
+SPDXID: SPDXRef-item9157184
+FileChecksum: SHA1: 9b8e5c590a71a6ec4efed1c92f3f6a5c2deed3ad
+FileChecksum: MD5: 01e03dc52ad885f1ca618915d5245623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/clouddb2.input
+SPDXID: SPDXRef-item9157185
+FileChecksum: SHA1: 6ab41def52362fd671a9a59e8954446a98f9523e
+FileChecksum: MD5: d9fe3848c9c927ebf4eca66207be7b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/actions.xml
+SPDXID: SPDXRef-item9157186
+FileChecksum: SHA1: 9a53404413f9398a17a53876819db32e5f3f0873
+FileChecksum: MD5: 8a04798a2e6e580938059ab63864ce27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/snapshot/snapshot.xml
+SPDXID: SPDXRef-item9157188
+FileChecksum: SHA1: 209649a7fe36aeb776a64694543d04ec56734b2d
+FileChecksum: MD5: bd55eebeff913f5f2ab77d3e1d60a277
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157190
+FileChecksum: SHA1: 17a5926acd1fe0fccf99bd8fb18fc84fa0aada41
+FileChecksum: MD5: aa4a91d71afe6a17d1f3363529a1c323
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157191
+FileChecksum: SHA1: e7f533a57edddbdeaf9f7e34854c2085a8af79e0
+FileChecksum: MD5: 0651468906c3831c211cd1f86ccbc686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157192
+FileChecksum: SHA1: 3a5c7882966b07232799cb26b5227261c11df79f
+FileChecksum: MD5: 37ffd537b62714bbbe6ca9ca4683bf72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157193
+FileChecksum: SHA1: 126f22ee47115a20115f4bba77eaf0f51cd7c3b2
+FileChecksum: MD5: 87c20dd11a866cbcc0558a1afe1c1e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157194
+FileChecksum: SHA1: af437c5317fd9661ec0e4bf77c57649c9acf9577
+FileChecksum: MD5: 4b76d4421357f48732d003a3a7e27c8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157195
+FileChecksum: SHA1: 64cebbfced1def4619bc62fc0b2d7a10acf9e7ac
+FileChecksum: MD5: f1ee4f5a2821169e9fc4c1d270afd816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157196
+FileChecksum: SHA1: a0291accf5cdd8165e2b5b9836c0b1c54ea4a6f1
+FileChecksum: MD5: b37bae3eb2fe78368336d6deec8b5a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157197
+FileChecksum: SHA1: 07cfa571043a55f95a1e20b7a3689a2a60451b7e
+FileChecksum: MD5: 2de4f6d266f41541895d85a4c260fc6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157198
+FileChecksum: SHA1: ed031b228eea47729be06f78a3103a741669368d
+FileChecksum: MD5: c0bc86ea69629aae25d32f60135a527b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157199
+FileChecksum: SHA1: 4277ff0e23141b7a64f6657bd05ec33d62220fe4
+FileChecksum: MD5: c7c8dd044a9420e17a918386910f8550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157203
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157205
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/deprovision.xml
+SPDXID: SPDXRef-item9157206
+FileChecksum: SHA1: 8d94f4513efab420f9577f71c7c770443b82db33
+FileChecksum: MD5: 1d4314a9fae1d5c949874045204d3f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/deprovision.sh
+SPDXID: SPDXRef-item9157207
+FileChecksum: SHA1: 6a909fe8f10b6e1310c2de3b29496f5d5a625603
+FileChecksum: MD5: 3b63f624fdc4e49c124955d0dee8ec19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/ProvisionSchemaLike/provision.xml
+SPDXID: SPDXRef-item9157208
+FileChecksum: SHA1: dfe4e98498e2215c6d838dbd2c5bf1aa24097b3a
+FileChecksum: MD5: d9e0e24806e3c348a21362754bf30f36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/restore/restore.xml
+SPDXID: SPDXRef-item9157213
+FileChecksum: SHA1: 9b8e5c590a71a6ec4efed1c92f3f6a5c2deed3ad
+FileChecksum: MD5: 01e03dc52ad885f1ca618915d5245623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/clouddb2.input
+SPDXID: SPDXRef-item9157214
+FileChecksum: SHA1: 56cf0e01646316cb96babe290d8f4e185244bd3c
+FileChecksum: MD5: 949274dd0009032264d648647964e742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/actions.xml
+SPDXID: SPDXRef-item9157215
+FileChecksum: SHA1: 9a53404413f9398a17a53876819db32e5f3f0873
+FileChecksum: MD5: 8a04798a2e6e580938059ab63864ce27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/snapshot/snapshot.xml
+SPDXID: SPDXRef-item9157217
+FileChecksum: SHA1: 209649a7fe36aeb776a64694543d04ec56734b2d
+FileChecksum: MD5: bd55eebeff913f5f2ab77d3e1d60a277
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157219
+FileChecksum: SHA1: 157ce130c5cabcb90ef9ecb359a4731a6b94f4c3
+FileChecksum: MD5: 278f0bee6d0382b78aa36f4a5d56644f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157220
+FileChecksum: SHA1: f1fbe721a5303130856d9406f4750e40fa1f55a8
+FileChecksum: MD5: 12f5919faddd2986ba062075dca97710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157221
+FileChecksum: SHA1: e300a3af23561753567bafda83540e83c17b07d8
+FileChecksum: MD5: 941a6eb84bc8925aa3caaf40e74215c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157222
+FileChecksum: SHA1: 4d4819fe62e68f23f7af0d7c1314d5818ef96944
+FileChecksum: MD5: 7494417e2b9adce76e8ee21e52c19f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157223
+FileChecksum: SHA1: 77978cf0432af1e835dd7ad683847a2e3dbac515
+FileChecksum: MD5: 300365b3604b843b2a8c9732c4a67859
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157224
+FileChecksum: SHA1: 2c1557f14a37847fa4fceebd1045e812661908ba
+FileChecksum: MD5: 50195d0287e7ce45f5d426b5f31dd007
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157225
+FileChecksum: SHA1: a0291accf5cdd8165e2b5b9836c0b1c54ea4a6f1
+FileChecksum: MD5: b37bae3eb2fe78368336d6deec8b5a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157226
+FileChecksum: SHA1: 07cfa571043a55f95a1e20b7a3689a2a60451b7e
+FileChecksum: MD5: 2de4f6d266f41541895d85a4c260fc6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157227
+FileChecksum: SHA1: e926cf5e3792a86c2a89f2c551a0bcc051f55212
+FileChecksum: MD5: e9b06d77516bed74a830bc608911f8a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157228
+FileChecksum: SHA1: 204068c861a46a0a92277bb87723fe3cea0aa944
+FileChecksum: MD5: e6517c4ce38c0a4f24653d8db3a8ae1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157232
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157234
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/deprovision.xml
+SPDXID: SPDXRef-item9157235
+FileChecksum: SHA1: 8d94f4513efab420f9577f71c7c770443b82db33
+FileChecksum: MD5: 1d4314a9fae1d5c949874045204d3f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/deprovision.sh
+SPDXID: SPDXRef-item9157236
+FileChecksum: SHA1: 6d948dc1f553e299d7c6315cadba9b34b151c7f7
+FileChecksum: MD5: b461fd71329d4dcafdab078868691a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSchemaLike/Db2SchemaService.pax/ProvisionSchemaLike/provision.xml
+SPDXID: SPDXRef-item9157237
+FileChecksum: SHA1: dfe4e98498e2215c6d838dbd2c5bf1aa24097b3a
+FileChecksum: MD5: d9e0e24806e3c348a21362754bf30f36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/README.md
+SPDXID: SPDXRef-item9157239
+FileChecksum: SHA1: f82c9310ebbc64b7f28b67e6038598bd81eea3cf
+FileChecksum: MD5: 8a668a2ec3356f786f0f7e712672c829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/LOADDATA.jcl
+SPDXID: SPDXRef-item9157243
+FileChecksum: SHA1: 64434c4243ac3a71c43d35d3dd18453301dcd2d1
+FileChecksum: MD5: 14135d82218f212b926dce582b57c951
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/clouddb2.input
+SPDXID: SPDXRef-item9157244
+FileChecksum: SHA1: 0de94a098119f2a090f5ad7c811e08c825b195ce
+FileChecksum: MD5: 99246cde8414e35aab89bf4bc6f5ef12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/actions.xml
+SPDXID: SPDXRef-item9157245
+FileChecksum: SHA1: 45b40d90e5d58666a0b35e0d1953411a20190158
+FileChecksum: MD5: 42a6628c208a0620185daafb3241423b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157247
+FileChecksum: SHA1: bb57aaee5c51880a655278cef941e6e5ee80c8d0
+FileChecksum: MD5: 6afdac861eef68b6635ec848d06a7477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157248
+FileChecksum: SHA1: e6611f34f68c7ab7eba44a89bad44073a6ffca16
+FileChecksum: MD5: 9feafcac56057b40bd6e3927fd04ceb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157249
+FileChecksum: SHA1: 4cbe86e6f7744c933035c93411dcf168976b956b
+FileChecksum: MD5: 8be19ad2115b5b9c532b270fba4f1102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157250
+FileChecksum: SHA1: 303db2c9e6b6bd0dcefdd05efe90a82f833a7c3c
+FileChecksum: MD5: e8ecec3cd9a773bcd7866ef349ae0bc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157251
+FileChecksum: SHA1: 327b5a0797fe2bf20bea53249de71f15665874ce
+FileChecksum: MD5: e382d4e80b3b204b302c685cf2d12ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157252
+FileChecksum: SHA1: 24c56c851b02f36a806084af5b1f2b0067eaf5da
+FileChecksum: MD5: 152582a64f9739bfd86d2ca659b8aef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157253
+FileChecksum: SHA1: adf775d8193e608c683a24a1ec928823e2f192e4
+FileChecksum: MD5: 08de1df997e02a43f6f3ff573df39a70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157254
+FileChecksum: SHA1: 07bcd60d6629379ff16ff5894a6f0978557b7056
+FileChecksum: MD5: 7695ba3af0541d4f662dfc22c36a6117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157255
+FileChecksum: SHA1: 2f970c7dbac5dbd4215ab167361664c37e4e11e3
+FileChecksum: MD5: f9e8c28f9bd9a83a122886cdf50195fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157256
+FileChecksum: SHA1: 0579138843553498874e15c446fd160a37656c71
+FileChecksum: MD5: 456e905828be896c4c95b609a93cacce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157260
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157262
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/CREATDB.jcl
+SPDXID: SPDXRef-item9157263
+FileChecksum: SHA1: 5c69a936cc4e407c93a22ff32be64ecd7c77c1f1
+FileChecksum: MD5: ca4e3f6bc583828c80c4b0d338aa2b0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/deprovision.xml
+SPDXID: SPDXRef-item9157264
+FileChecksum: SHA1: 01d5cbe92d6cad1b3dbdfe8daab83aba9a8528b4
+FileChecksum: MD5: ba29a86f241ffe0da13be73806e324e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/deprovision.sh
+SPDXID: SPDXRef-item9157265
+FileChecksum: SHA1: 6d948dc1f553e299d7c6315cadba9b34b151c7f7
+FileChecksum: MD5: b461fd71329d4dcafdab078868691a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/Db2ProvisionSample.pax/ProvisionSampleSchema/provision.xml
+SPDXID: SPDXRef-item9157266
+FileChecksum: SHA1: f255ca5aaf70cd46625b0baf6674839520cd42e3
+FileChecksum: MD5: bd7f7fa895324cf128f191fb203e1eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/LOADDATA.jcl
+SPDXID: SPDXRef-item9157268
+FileChecksum: SHA1: 3c955303ecaa2e8db96fa7fa783d5f990bc27580
+FileChecksum: MD5: fc32a90af0f7b1e999009f27e71f354a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/clouddb2.input
+SPDXID: SPDXRef-item9157269
+FileChecksum: SHA1: 9ffea22d5cc46b37e2d2d733f3f005776c9e0be9
+FileChecksum: MD5: 8fee2be6419bf8185a6a750e2cafb2f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/actions.xml
+SPDXID: SPDXRef-item9157270
+FileChecksum: SHA1: 45b40d90e5d58666a0b35e0d1953411a20190158
+FileChecksum: MD5: 42a6628c208a0620185daafb3241423b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/REVOKEU.jcl
+SPDXID: SPDXRef-item9157272
+FileChecksum: SHA1: 44bdf61cfb6fee619febcc75139f43c3bd581ee3
+FileChecksum: MD5: b647e3fb551d47956a24158a827b5a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/GRANTU.jcl
+SPDXID: SPDXRef-item9157273
+FileChecksum: SHA1: 93415131d4081a71dc2f94243cbd9e9dc6b3c860
+FileChecksum: MD5: 724b29526f8193d9e794e7673e3e4454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/DELETETCMAP.jcl
+SPDXID: SPDXRef-item9157274
+FileChecksum: SHA1: b6c3d017199e08ac33db569a7f44820091438d11
+FileChecksum: MD5: 58e4b653d3b794a7cf9b25f5bef26087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/CREATERACF.jcl
+SPDXID: SPDXRef-item9157275
+FileChecksum: SHA1: 86c0393fdbfd4e1fda3cf6d8baa8359717a016fb
+FileChecksum: MD5: bd443167a3e9ab2e5782405d8243119f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/DELETETC.jcl
+SPDXID: SPDXRef-item9157276
+FileChecksum: SHA1: 1d57a3ace4e38f2954f5f59a3cfa6243f10bafaa
+FileChecksum: MD5: 569817053b450c659d6ceb696c74e5b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/DELETERACF.jcl
+SPDXID: SPDXRef-item9157277
+FileChecksum: SHA1: 6c7ac57e973f10ee7eff81dd6a4b857be23d2ac3
+FileChecksum: MD5: a90c88f1b9e78e5fb1c12d5e6073a376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/provisionSecurity.xml
+SPDXID: SPDXRef-item9157278
+FileChecksum: SHA1: adf775d8193e608c683a24a1ec928823e2f192e4
+FileChecksum: MD5: 08de1df997e02a43f6f3ff573df39a70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/deprovisionSecurity.xml
+SPDXID: SPDXRef-item9157279
+FileChecksum: SHA1: 07bcd60d6629379ff16ff5894a6f0978557b7056
+FileChecksum: MD5: 7695ba3af0541d4f662dfc22c36a6117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/CREATETCMAP.jcl
+SPDXID: SPDXRef-item9157280
+FileChecksum: SHA1: 7215da4b29a23195801d863064c59f9435473a76
+FileChecksum: MD5: 33d197a84f93b9222b10f5aeeaf253d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/security/CREATETC.jcl
+SPDXID: SPDXRef-item9157281
+FileChecksum: SHA1: cf93dbef7321bf669a29087a6886d98cc685a2f6
+FileChecksum: MD5: ddce4b39fcb3cba3aaecef14f570e59f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/DeprovisionService.jar/DeprovisionService.class
+SPDXID: SPDXRef-item9157285
+FileChecksum: SHA1: a17c632c2b9f6afcc08f0de5ba1731e7ac3ab1b6
+FileChecksum: MD5: 4e411449282549ee33264fc0ffedecd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/DeprovisionService.jar/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157287
+FileChecksum: SHA1: c6be202bc68c14a9ba046e94fea582a8a669961d
+FileChecksum: MD5: 7f291ff3dd29f5623f19561f2ba7245f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/CREATDB.jcl
+SPDXID: SPDXRef-item9157288
+FileChecksum: SHA1: 515494a54af0a07718ad9b7d919698a3868f135f
+FileChecksum: MD5: 0e30d1becaf0264f3b4a328735008a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/deprovision.xml
+SPDXID: SPDXRef-item9157289
+FileChecksum: SHA1: 01d5cbe92d6cad1b3dbdfe8daab83aba9a8528b4
+FileChecksum: MD5: ba29a86f241ffe0da13be73806e324e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/deprovision.sh
+SPDXID: SPDXRef-item9157290
+FileChecksum: SHA1: 6a909fe8f10b6e1310c2de3b29496f5d5a625603
+FileChecksum: MD5: 3b63f624fdc4e49c124955d0dee8ec19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/Db2/Db2SchemaServices/ProvisionSampleSchema/ProvisionSampleSchema/provision.xml
+SPDXID: SPDXRef-item9157291
+FileChecksum: SHA1: f255ca5aaf70cd46625b0baf6674839520cd42e3
+FileChecksum: MD5: bd7f7fa895324cf128f191fb203e1eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/IMS/README.md
+SPDXID: SPDXRef-item9157293
+FileChecksum: SHA1: 20f970d50e1ceb0953e7d2773332290837b9f8ad
+FileChecksum: MD5: b9eb2d6230686e38c682a76f6bb18820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/zOS-Connect-EE/README.md
+SPDXID: SPDXRef-item9157295
+FileChecksum: SHA1: 9b7ea2dba9ca593e13db0471e1cbc5bedf745953
+FileChecksum: MD5: 8db12955b8ea504660485d2cd07c859d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/stopServer.xml
+SPDXID: SPDXRef-item9157298
+FileChecksum: SHA1: 0d61bb97dbc1cdbc12b885a8dbcb82f79caeaf69
+FileChecksum: MD5: ccd500a7c55c7d698ad230645bc8d056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/db2Bind.xml
+SPDXID: SPDXRef-item9157299
+FileChecksum: SHA1: e288f320235f384cc253562e5f0b6c516dfe3664
+FileChecksum: MD5: b1ae10b11b689d94ab5e156f2e22c0a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/actions.xml
+SPDXID: SPDXRef-item9157300
+FileChecksum: SHA1: 7bcb830c1cbd1cc0e6ba8fb325cf36cf11bdf644
+FileChecksum: MD5: f03be971d4547c608b31c4ea59fe222e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/datasource.properties
+SPDXID: SPDXRef-item9157302
+FileChecksum: SHA1: 964d85433cca4e7a55ffb4a516e8f6567354f1cb
+FileChecksum: MD5: 7f907bad6798996599b0dcd655abc8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/bootstrap.properties
+SPDXID: SPDXRef-item9157303
+FileChecksum: SHA1: c831162715e7dd32472f17eeacc5828bf8c257be
+FileChecksum: MD5: 03017a05de4a66d6f23032bb6806fa77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/keystore_default.xml
+SPDXID: SPDXRef-item9157304
+FileChecksum: SHA1: 57167f0af9a586cf42174372b8dc9bcc908af007
+FileChecksum: MD5: f810e79f8e12cc1f9d79a7dcf11d96e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/datasource_type4.xml
+SPDXID: SPDXRef-item9157305
+FileChecksum: SHA1: ce5acf4c42bcf7649ed1072851c31baa3c656426
+FileChecksum: MD5: 5a7461d932523ab54aa235a5e9dd38d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/keystore_saf.xml
+SPDXID: SPDXRef-item9157306
+FileChecksum: SHA1: 22b624afbab2d4b50a5fb80e48d35a9ccccc732e
+FileChecksum: MD5: 2b386e9e37a2930606cb3c8d99743a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/datasource_type2.xml
+SPDXID: SPDXRef-item9157307
+FileChecksum: SHA1: 6b4431627064b267e58e20cab5ee15741c014811
+FileChecksum: MD5: 26c323fd4c5c3a828ee44ed827cdf836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/config/server.xml
+SPDXID: SPDXRef-item9157308
+FileChecksum: SHA1: 51e910ad0712a32d49ed1c678f728c8fdd683130
+FileChecksum: MD5: 5a572d097fd0ddcaa2169df39f2f3f93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/db2Unbind.xml
+SPDXID: SPDXRef-item9157309
+FileChecksum: SHA1: 38f99797a91807210d59815a3264d621b88fd1de
+FileChecksum: MD5: abadc2f659a2ee4f9779480f1f67cad5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-create-server-proc.jcl
+SPDXID: SPDXRef-item9157311
+FileChecksum: SHA1: a1f50ecdaaa4e72f83bd42389ba379294e0b3748
+FileChecksum: MD5: 0b6ccc2d25bc803e5e45edadd152203c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-create-ssl-keyring.rexx
+SPDXID: SPDXRef-item9157312
+FileChecksum: SHA1: d4ed1133bdb973dbae7a20bbe1d153ff64463b0b
+FileChecksum: MD5: ba8037e28a336182e8c57542adb92cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-delete-zfs.jcl
+SPDXID: SPDXRef-item9157313
+FileChecksum: SHA1: 3df28f998b4e2444ad05c7fcb0971d302fb4a335
+FileChecksum: MD5: 7705f225eae69018279b507bd2501414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-delete-server-proc.jcl
+SPDXID: SPDXRef-item9157314
+FileChecksum: SHA1: 1c535ea44180cdba5194cbbdd35d7b59872ff0b4
+FileChecksum: MD5: 86bfef649edb65964788d343408832db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-authorized-services-teardown.rexx
+SPDXID: SPDXRef-item9157315
+FileChecksum: SHA1: ea526fb42952b42f315b6c133115644b28548284
+FileChecksum: MD5: e8aa6d38ce9e53d4dd567f7ee72ab9b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-authorized-services-setup.rexx
+SPDXID: SPDXRef-item9157316
+FileChecksum: SHA1: d60bc13019bdd8436a598271c7b9156c0035f5bd
+FileChecksum: MD5: d6f5e4a091d04f80077126b92a961d0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-create-zfs.jcl
+SPDXID: SPDXRef-item9157317
+FileChecksum: SHA1: 125be73acc6aa63765a46ac6ef7069651a79706f
+FileChecksum: MD5: 1b85385a0aafd5ed749a5a8bc51ea28e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-provisioning.sh
+SPDXID: SPDXRef-item9157318
+FileChecksum: SHA1: d514e3ba9995d8533142184192030b7642dbe37b
+FileChecksum: MD5: 0f974e0e15dff1fe9091cb4f5804d67b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/templates/wlp-delete-ssl-keyring.rexx
+SPDXID: SPDXRef-item9157319
+FileChecksum: SHA1: 97a8f76eae53b6d173b17975fb34fd77a0e400d7
+FileChecksum: MD5: af4cf5e36e36c2091b3d6d0b8418a5e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/provisionWLP.mf
+SPDXID: SPDXRef-item9157320
+FileChecksum: SHA1: 88daf56e901a5eae5d721136f43b6c136f6bde7b
+FileChecksum: MD5: e8556104e59f4adac78a90e415c83e55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/deprovision.xml
+SPDXID: SPDXRef-item9157321
+FileChecksum: SHA1: 35052565b6a88e3ff929c53ff6728027cdc01662
+FileChecksum: MD5: 6557f674182eea7fc7cbac8d28f37e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/startServer.xml
+SPDXID: SPDXRef-item9157322
+FileChecksum: SHA1: 5d8436ef5cb6b9125b3a2f7b7ae7f271aac15707
+FileChecksum: MD5: a10262c68675c9028b690f81bd58fd5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/variable_imports.xml
+SPDXID: SPDXRef-item9157323
+FileChecksum: SHA1: 20fe177a0e8d24889c15e9d64b3ba5cb48463795
+FileChecksum: MD5: 41a748d9db589fdfb1ba279324d65a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestServlet.war/WEB-INF/ibm-web-ext.xml
+SPDXID: SPDXRef-item9157329
+FileChecksum: SHA1: 19090323312ee4c2ebcd89785ed4ed4e20bb7e6d
+FileChecksum: MD5: 818adde4b5c7972fb73d520f6edda6c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestServlet.war/WEB-INF/classes/com/ibm/ats/SimpleServlet.class
+SPDXID: SPDXRef-item9157334
+FileChecksum: SHA1: 8b781c27fe548cfe630be6fb86a3ed1db1840ddc
+FileChecksum: MD5: 49d2bb1eaab5ec363a9f8208ad688bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestServlet.war/WEB-INF/classes/com/ibm/ats/SimpleServlet.java
+SPDXID: SPDXRef-item9157335
+FileChecksum: SHA1: eec3b3f35d8cdc432660fdb054a8c3994c148099
+FileChecksum: MD5: 94a307ad60c8aad804b3451ba5c020ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestServlet.war/WEB-INF/ibm-web-bnd.xml
+SPDXID: SPDXRef-item9157337
+FileChecksum: SHA1: 48ad38de2c38c9e303fe2f9323cf2bd3bc9844cc
+FileChecksum: MD5: 0caeee22a294c106f352f3dd4bda85e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestServlet.war/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157339
+FileChecksum: SHA1: e9856d0dd103d59a7ca563d919d983470d81e004
+FileChecksum: MD5: b10f37c8bb1803d98c127a01d1a71cc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/ibm-web-ext.xml
+SPDXID: SPDXRef-item9157344
+FileChecksum: SHA1: 362dbbccc6332445beb732d599b578f77e3589c7
+FileChecksum: MD5: c91d9fedc6140fd909899a2a4cff10c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_select.class
+SPDXID: SPDXRef-item9157349
+FileChecksum: SHA1: 67a07e44bfe1c94e1f744cdf89371b8f043e1f4a
+FileChecksum: MD5: 663ded65a93b242175f9e58a6b5f2f3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_delete.class
+SPDXID: SPDXRef-item9157350
+FileChecksum: SHA1: ea2a35f2a9f4c07b9750be90248757d950e425b9
+FileChecksum: MD5: 778f9a37e0f02015d557d97801cba765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_create.class
+SPDXID: SPDXRef-item9157351
+FileChecksum: SHA1: ad67b125740f6daf7eb1f630d4da19c8a2c72554
+FileChecksum: MD5: 93d1095ed17d364d5d7b92d9f101496e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_delete.java
+SPDXID: SPDXRef-item9157352
+FileChecksum: SHA1: 3c509b8c8bfde01aa71c4e03727a76401c830f96
+FileChecksum: MD5: 78e91a24acbb31be784dd1bcd29d3dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_create.java
+SPDXID: SPDXRef-item9157353
+FileChecksum: SHA1: dbfab3c6e98d6b5743cec0e0948fba36b539cc15
+FileChecksum: MD5: 5720c2b3a9663fdbc2ae2142125ef8e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_insert.class
+SPDXID: SPDXRef-item9157354
+FileChecksum: SHA1: 6f95baa3b0440a5c76c24d607048ada83fd43a43
+FileChecksum: MD5: 5c7b4c0e28a6a4ab486f951df7df7048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_select.java
+SPDXID: SPDXRef-item9157355
+FileChecksum: SHA1: 26ae1c7acac0462fa9139bc13d8f1ef63def4fff
+FileChecksum: MD5: 645fc72115c3c968356976993bbdfd4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/classes/com/ibm/ats/JDBC_insert.java
+SPDXID: SPDXRef-item9157356
+FileChecksum: SHA1: 2777b2bf502327914addfde1d6aeb8ac066f4f02
+FileChecksum: MD5: d24727c50fc3f2532349e18e22f9a14d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/WEB-INF/ibm-web-bnd.xml
+SPDXID: SPDXRef-item9157358
+FileChecksum: SHA1: 48ad38de2c38c9e303fe2f9323cf2bd3bc9844cc
+FileChecksum: MD5: 0caeee22a294c106f352f3dd4bda85e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestJDBC.war/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157360
+FileChecksum: SHA1: e9856d0dd103d59a7ca563d919d983470d81e004
+FileChecksum: MD5: b10f37c8bb1803d98c127a01d1a71cc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/ibm-web-ext.xml
+SPDXID: SPDXRef-item9157365
+FileChecksum: SHA1: 95a801acfebf00d3345d23235f349054d119726f
+FileChecksum: MD5: ffac501d5fbd4598d280539b2961be00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/classes/com/.DS_Store
+SPDXID: SPDXRef-item9157368
+FileChecksum: SHA1: bc6a6e9dd92578911870e29be950efafc3362378
+FileChecksum: MD5: 22abea162a31e6bd6d2cf420cbe8998d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/classes/com/ibm/.DS_Store
+SPDXID: SPDXRef-item9157370
+FileChecksum: SHA1: fde1bc74b2be739b5240b3bd542a5cdf8515d3f7
+FileChecksum: MD5: 004664a5bb895ad678b8a0f04a58542b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/classes/com/ibm/ats/SimpleSecureServlet.java
+SPDXID: SPDXRef-item9157372
+FileChecksum: SHA1: 0b85e1cdeff9eca60257f684e8a2701b18d8675b
+FileChecksum: MD5: 9f7dbac9e2650ae7978a6aaf59bf5e0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/classes/com/ibm/ats/SimpleSecureServlet.class
+SPDXID: SPDXRef-item9157373
+FileChecksum: SHA1: 1573306d95e262a1fe0fe66a5c0d84b5940cb431
+FileChecksum: MD5: 16e8ffbb59611694ee5562b2245fd1bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/classes/.DS_Store
+SPDXID: SPDXRef-item9157374
+FileChecksum: SHA1: 7ada02e783b5bed91c7cc2ead35e1dc10a8215ad
+FileChecksum: MD5: bc1aeb2c40540b62eff49c3e02215bb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/web.xml
+SPDXID: SPDXRef-item9157375
+FileChecksum: SHA1: 7f0866b2f7737e8e2beb15ea205f5a6325e042e1
+FileChecksum: MD5: 22d9cc6c80c4005c6fb4f60309fa6c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/.DS_Store
+SPDXID: SPDXRef-item9157376
+FileChecksum: SHA1: 3976041fb125efeeeb6f09bf2a9de5677769b632
+FileChecksum: MD5: 76aac2e44561cd27c31f138a70238cea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/WEB-INF/ibm-web-bnd.xml
+SPDXID: SPDXRef-item9157378
+FileChecksum: SHA1: 48ad38de2c38c9e303fe2f9323cf2bd3bc9844cc
+FileChecksum: MD5: 0caeee22a294c106f352f3dd4bda85e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/banner.jpg
+SPDXID: SPDXRef-item9157379
+FileChecksum: SHA1: 3ac7ed4720a464b870663c2cf552be46f6a8c549
+FileChecksum: MD5: 01405234393a9738fc45953b6e14f3e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/apps/CloudTestSecureServlet.war/META-INF/MANIFEST.MF
+SPDXID: SPDXRef-item9157381
+FileChecksum: SHA1: a1e24c625c1100b43da6b322075f22ed619863c5
+FileChecksum: MD5: 2e75800d15e47e86fa649a5359ca2d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/workflows/provision.xml
+SPDXID: SPDXRef-item9157383
+FileChecksum: SHA1: 0c0386a1b64785da5f2a767d826581aecb167463
+FileChecksum: MD5: 91da1084b9ff9c55191d47025cead478
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp., 2015 </text>
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/README.md
+SPDXID: SPDXRef-item9157384
+FileChecksum: SHA1: fa37d8a529d452754587a49da0a9f03dddcc1009
+FileChecksum: MD5: 5cad2fde7ca82f1ab91477baa03ce98d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/tools/db2_registry_add_subsystem.xml
+SPDXID: SPDXRef-item9157386
+FileChecksum: SHA1: ea1876da7616444840c9c6d28b6bccd3cb59b526
+FileChecksum: MD5: cb219e9a5edc3c70fcd79fc32b642a27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/properties/workflow_variables.properties
+SPDXID: SPDXRef-item9157389
+FileChecksum: SHA1: 2e286cde1e4da415cb48142ba96f4f0983bd4489
+FileChecksum: MD5: fdb24ba54a9e70bf1bab01d7d191c9a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/provisioning-workflows/WLP/Setup_and_Configuration.pdf/Setup_and_Configuration
+SPDXID: SPDXRef-item9157392
+FileChecksum: SHA1: 967bd2b9e08eca1e934d9e93e5684d220964b75c
+FileChecksum: MD5: f1bc4b2a2ab603eb2134d0da1c997994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/zOSMF-Samples/README.md
+SPDXID: SPDXRef-item9157403
+FileChecksum: SHA1: f0a2c146adf765cac0b37c424acefcd0912c05ab
+FileChecksum: MD5: 1e4c3a7ce69b514596a9066e1afb1c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/governance.md
+SPDXID: SPDXRef-item9157424
+FileChecksum: SHA1: 7194369a34ed71247229b5e0482f5e40d2ae156f
+FileChecksum: MD5: 94c147bbd5c9d63bcfde71c658ea86f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: zorow/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9157425
+FileChecksum: SHA1: de53e39e2cbb11b2c04fd98fab80487f7ff3dfbc
+FileChecksum: MD5: 89ee1544c64c633e6b60b4b62e170302
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-BSD-possibility
+LicenseName: BSD-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Restricted-rights
+LicenseName: Restricted-rights
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-IBM-materials-1
+LicenseName: IBM materials 1
+ExtractedText: <text> # Licensed Materials - Property of IBM *
+# (C) Copyright IBM Corp. 1992, 1999 * </text>
+
+LicenseID: LicenseRef-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+

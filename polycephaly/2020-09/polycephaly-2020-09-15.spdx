@@ -1,0 +1,770 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_polycephaly-2020-09-15.zip_1600176978.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2020-09-15T13:36:18Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: polycephaly-2020-09-15.zip
+PackageFileName: polycephaly-2020-09-15.zip
+SPDXID: SPDXRef-upload2848
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: a72da7a01dc4e06547f04bf74115ec0c5166abd1
+PackageChecksum: SHA1: 0816d79f3cdfde26f062cb084d03ac61ee6fff02
+PackageChecksum: MD5: 5504ba0f4ebbeac49ab7f649772c3d81
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2848
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: polycephaly/conf/ADMIN.pw
+SPDXID: SPDXRef-item10815034
+FileChecksum: SHA1: 1697797e6d4ee51b80dfb9c4b1f7aa4ebe0dec99
+FileChecksum: MD5: 0fccb30943c8b64c0bfc2e2b32758b36
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/AppBuild2.xml
+SPDXID: SPDXRef-item10815041
+FileChecksum: SHA1: a631bec3d5914d8850f3c05c994e9dc5b07e5557
+FileChecksum: MD5: 242349091ac50a62295672732aa5bd60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/AppBuild.xml
+SPDXID: SPDXRef-item10815038
+FileChecksum: SHA1: 57efae88634793af54fa730f735b85b2d8e6af92
+FileChecksum: MD5: 3357e8e55576dbcbc35f7b8735d32bd7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/build.properties
+SPDXID: SPDXRef-item10815040
+FileChecksum: SHA1: 13bd3b96321521eec86207ed2e248ec342e81015
+FileChecksum: MD5: 30aef8e5e9cedcd0e7e7182fde733535
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/CleanUp.xml
+SPDXID: SPDXRef-item10815039
+FileChecksum: SHA1: 1cae8ef2e1c84a43cab95d9d01797f2aaa827f71
+FileChecksum: MD5: bb25eacea7f2d51af163207f1deca299
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/DB2Bind.properties
+SPDXID: SPDXRef-item10815035
+FileChecksum: SHA1: 4e7fe6baf5e1bcad3b2c96af07da87b93d47e617
+FileChecksum: MD5: b7a536a4c7a469d7e038faf118e58896
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/FileTypeMap.properties
+SPDXID: SPDXRef-item10815042
+FileChecksum: SHA1: 15398b8f4e4917b255eba2b1f9808127469b0474
+FileChecksum: MD5: e245be1aecec7503fe056761de0f818c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/GlobalAnt.properties
+SPDXID: SPDXRef-item10815036
+FileChecksum: SHA1: c3213f26488d10718ea204d4643c11dbf8b0b41d
+FileChecksum: MD5: dd5e5951ae1c01b03390acb15d24d904
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/LinkEditScanner.properties
+SPDXID: SPDXRef-item10815037
+FileChecksum: SHA1: 48bd973d8e44dac3d60ca66ea090965bceeb75af
+FileChecksum: MD5: a416d88a967f32864101b728c633fbcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/conf/System.properties
+SPDXID: SPDXRef-item10815033
+FileChecksum: SHA1: 54d062bfb39d34231364b6e0163c658c3242d54b
+FileChecksum: MD5: ff890a94aa386ec6a41f86504555110f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/cics/groovy/utilities/CicsApiBuild.groovy
+SPDXID: SPDXRef-item10815007
+FileChecksum: SHA1: d0fc83d589aeff2828757c97f81d76abcd3224b6
+FileChecksum: MD5: d52eb608465ea793ad6394424f73b6e1
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/cics/groovy/utilities/CicsWsBuild.groovy
+SPDXID: SPDXRef-item10815008
+FileChecksum: SHA1: c9a46dde35dab05985143386e4dc4644c9aecd54
+FileChecksum: MD5: a9b5ac57da415c89c634022b022a777b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/cics/groovy/utilities/package-info.java
+SPDXID: SPDXRef-item10815009
+FileChecksum: SHA1: f634a991402d6b5a903d880c41fcec679e168cc6
+FileChecksum: MD5: 316939b9dfe3bdfcee2ebfe4e09b146b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/package-info.java
+SPDXID: SPDXRef-item10815018
+FileChecksum: SHA1: 3ac45b44791d873478b0a5fdd570ed6453ce75ce
+FileChecksum: MD5: 30fbb3832c26cbad69670f9124afa52d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/Tools.groovy
+SPDXID: SPDXRef-item10815017
+FileChecksum: SHA1: 3508d42e3b655b71ac2a4808b7d239efdd8c5c70
+FileChecksum: MD5: a73ebf62aa546e1f0555d24095874961
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/Zconstants.groovy
+SPDXID: SPDXRef-item10815013
+FileChecksum: SHA1: 37677ba9e9a76a6ebe3b506a67d67c4f3fed0306
+FileChecksum: MD5: 75a584b76bc7bf8c08d02fca5a9c1f53
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/ZosAppBuild.groovy
+SPDXID: SPDXRef-item10815014
+FileChecksum: SHA1: 65e270795917f7506bee3ca1e1e362d5b8d0b330
+FileChecksum: MD5: 7a44f1d5a890307ed6171527518d5d9e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/ZosResBuild.groovy
+SPDXID: SPDXRef-item10815015
+FileChecksum: SHA1: e9c056ab1f0b6ffd6b3a45551b7d03c4d1bf0425
+FileChecksum: MD5: bb5fdb8506a41a02e81b99b4d08ebd2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/Zprograms.groovy
+SPDXID: SPDXRef-item10815012
+FileChecksum: SHA1: e8c91ef45f31602339ea3880d18bd86bdb5dcdea
+FileChecksum: MD5: cfb807f8051f6b1ea64ea6b96925bdc4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/groovy/utilities/Zutilities.groovy
+SPDXID: SPDXRef-item10815016
+FileChecksum: SHA1: 95988f9895fe3cfac281e82d7c17c52028262aca
+FileChecksum: MD5: 8aa234e0d66907cd747447182ae2df2d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/Assembler.groovy
+SPDXID: SPDXRef-item10815026
+FileChecksum: SHA1: 9a24d52f3e703ceb0e1cf38c95bda6a84e4538eb
+FileChecksum: MD5: 6493f53437c988012b8baa95d7f8315a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/BMSProcessing.groovy
+SPDXID: SPDXRef-item10815025
+FileChecksum: SHA1: a2b39349949ca4708ae441bc5f209a2cd9de13f8
+FileChecksum: MD5: 5a4cbe77029a89e2ab05ee5a15fd2f22
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/CobolCompile.groovy
+SPDXID: SPDXRef-item10815024
+FileChecksum: SHA1: 85e093d905793111db21eb15b47a3e5124da52fd
+FileChecksum: MD5: 62c2c4441386542629d9a6383d54384f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/Compile.groovy
+SPDXID: SPDXRef-item10815027
+FileChecksum: SHA1: c79d37baa34044e87b6b3022cf365cdfb8c3e26d
+FileChecksum: MD5: d0c8cd2995b39e93ea682e7507152a60
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/Copybook.groovy
+SPDXID: SPDXRef-item10815020
+FileChecksum: SHA1: a401bfdc4ddba4548c3a8344a8dad6854cfb43c2
+FileChecksum: MD5: bb6d09d8366296155f041e4b5aaf2523
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/DualCompiles.groovy
+SPDXID: SPDXRef-item10815023
+FileChecksum: SHA1: 2a2af9345f771cb08589149c831acf780964cadf
+FileChecksum: MD5: 04dd4afdb662c4a2f24b4e024c0f3c48
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/Easytrieve.groovy
+SPDXID: SPDXRef-item10815030
+FileChecksum: SHA1: 996a2fd5bc2fb73f99cbcf0a62be97de6933a943
+FileChecksum: MD5: c53fe3455d1878d074427454c6bb8977
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/JCLcheck.groovy
+SPDXID: SPDXRef-item10815022
+FileChecksum: SHA1: 16509a169c7228237dd7d476c8d5f65bac2e5381
+FileChecksum: MD5: 6d76f21aa02464c9e4a9950c8c27bdcc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/LinkEdit.groovy
+SPDXID: SPDXRef-item10815029
+FileChecksum: SHA1: 7451056586d6e215602181e2ad81670f986b299f
+FileChecksum: MD5: 77b00fda75dbc692cbf9b00bc2946843
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/MFSGenUtility.groovy
+SPDXID: SPDXRef-item10815031
+FileChecksum: SHA1: 8528d7b886390089bde5cddb003c755589743a0d
+FileChecksum: MD5: 1af811671c9cdc41a9c788f31eb959e6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/package-info.java
+SPDXID: SPDXRef-item10815028
+FileChecksum: SHA1: 53d8257387ca07869586da0bbbc3af4f3806a31e
+FileChecksum: MD5: a39e729dfec4a15077bfe63a33863ac4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/groovy/com/zos/language/SDFGenUtility.groovy
+SPDXID: SPDXRef-item10815021
+FileChecksum: SHA1: 861a1585ab0f4a2dc921a8999628617bd7ab4596
+FileChecksum: MD5: 36e1bc4501473492c6afb91b6d157108
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/jenkins/zos/file/CopyFiletoFile.java
+SPDXID: SPDXRef-item10814992
+FileChecksum: SHA1: 9ab4934e738ed0150f978805ebf666351439c171
+FileChecksum: MD5: b30f4e65518642a83e611d97d92a360d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/jenkins/zos/file/FileFactoryCopy.java
+SPDXID: SPDXRef-item10814993
+FileChecksum: SHA1: f859324778d68e6055fd5888f6fa6972ad2c3b49
+FileChecksum: MD5: 2f8d0aae5eef674b22710441400229de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/jenkins/zos/file/package-info.java
+SPDXID: SPDXRef-item10814994
+FileChecksum: SHA1: 7e37bd70e8619acedacdeadd2211b1b8eb340882
+FileChecksum: MD5: 7dd20f9c2b3201635e8063798b05e927
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/zos/java/utilities/package-info.java
+SPDXID: SPDXRef-item10815000
+FileChecksum: SHA1: fa8472e167f7f056836fbc22a1b7aeced4cef8c2
+FileChecksum: MD5: c0753e28bdf72e87808839878b52540b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/zos/java/utilities/RunShell.java
+SPDXID: SPDXRef-item10814999
+FileChecksum: SHA1: 93f6f3d2ec4a67715649203b053e15734b76fd8e
+FileChecksum: MD5: 8bb4f259d6e9c4dd5bd57cbaccdab3ea
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/java/com/zos/java/utilities/SubmitJob.java
+SPDXID: SPDXRef-item10814998
+FileChecksum: SHA1: efed33ff9fe29f9b379faac963e29813b14b8be2
+FileChecksum: MD5: 16547cdc495fadfcb64a4b90143a69bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/rexx/com/zos/rexx/BCPiiTest.rexx
+SPDXID: SPDXRef-item10814969
+FileChecksum: SHA1: 3ca2625feef88e67c5d92573e14c8dbf688a4ed2
+FileChecksum: MD5: 89def38d1483a5eed273c128389497cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/build.xml
+SPDXID: SPDXRef-item10815056
+FileChecksum: SHA1: ac81e9e801e645f16219dda3120d9205ee7e7fb9
+FileChecksum: MD5: ebcd647a4c606f714db6c705b4ecbacf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/CONTRIBUTING.md
+SPDXID: SPDXRef-item10814961
+FileChecksum: SHA1: 6ec8d2fb2fdb0d0ec5cfe823e0eb7410823f6865
+FileChecksum: MD5: ce34989ad28cff876b1284d28861875e
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/LICENSE
+SPDXID: SPDXRef-item10815044
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/README.md
+SPDXID: SPDXRef-item10814962
+FileChecksum: SHA1: fc21f2c7ceb7c6a3833e11c0ec285d7c5664191f
+FileChecksum: MD5: 35fe88ea1ebc79b3dc04845a91d00091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/jcl/zfsDBB.jcl
+SPDXID: SPDXRef-item10814974
+FileChecksum: SHA1: 602fc1db7d35ce43ec688f6d5cc6bf146964cd6b
+FileChecksum: MD5: efd6af76172824f2087c67cecdbd8bfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/jcl/zfsdefine.jcl
+SPDXID: SPDXRef-item10814975
+FileChecksum: SHA1: ecc5706ef987ba7268c24f319b55142ccae9308d
+FileChecksum: MD5: e55f21a14f385ada4293a31e23d73e27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/ZosResDataset.java
+SPDXID: SPDXRef-item10814977
+FileChecksum: SHA1: 09f555b2735b947228eee7374542bba8691163fb
+FileChecksum: MD5: d14339f721896fa786cfbff41139470a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/CopyFiletoFile.java
+SPDXID: SPDXRef-item10814978
+FileChecksum: SHA1: 38144cf9d3bed22d2adcb822f9c7cf2dd261faf6
+FileChecksum: MD5: 955ad64fb10764baae30011b32704101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/ZosResBuild.java
+SPDXID: SPDXRef-item10814979
+FileChecksum: SHA1: 5efe7adbc6a8f968d68aac37bb02d6752103b213
+FileChecksum: MD5: 17ceb71cabbeb1dbebbecf0dab1c49ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/SubmitJob.java
+SPDXID: SPDXRef-item10814980
+FileChecksum: SHA1: 62346fbd57234e90b8a4765652bda084a6c9bd05
+FileChecksum: MD5: eca018272b9ca514975dbbaa68636f41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/RunShell.java
+SPDXID: SPDXRef-item10814981
+FileChecksum: SHA1: 704878dbf1b2614170eaee7a98abb016384a1f9b
+FileChecksum: MD5: e75b95f94c21af5b9c52705d1b891c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/ZosUtilities.java
+SPDXID: SPDXRef-item10814982
+FileChecksum: SHA1: fa3ef6624a906fe2c84a59763658e70c9c0aac3e
+FileChecksum: MD5: d6724a012ba92ddaa780ae851666004e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/ExecProgram.java
+SPDXID: SPDXRef-item10814983
+FileChecksum: SHA1: a34c37b85662b2bb1e424eae7bc9ab5e721623b7
+FileChecksum: MD5: 47b685235d5d567c5a206dc17a347e96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/ZosResInit.java
+SPDXID: SPDXRef-item10814984
+FileChecksum: SHA1: a845898963936c85b86b4e923e41b9e8fae93923
+FileChecksum: MD5: 33126099d1b27e046af41b4481bd62c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/FileFactoryCopy.java
+SPDXID: SPDXRef-item10814985
+FileChecksum: SHA1: 06d564c112a17603ca001b154e4bc4b0935abb9f
+FileChecksum: MD5: d9df230e5a03d993b8bb37ea8cd5fb14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/src/main/zOS/com/zos/resbuild/package-info.java
+SPDXID: SPDXRef-item10814986
+FileChecksum: SHA1: 148c4706705b7d25da7956f2081ea163771b4d24
+FileChecksum: MD5: 56bb34b553526646c94508d0446e4c1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/_config.yml
+SPDXID: SPDXRef-item10815043
+FileChecksum: SHA1: a0ca9c51a1f49f301d9a0d82a76a2b020ca932f9
+FileChecksum: MD5: 21e0c82a2d69276c111ead2159adf03b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/meetings/20200330.md
+SPDXID: SPDXRef-item10815046
+FileChecksum: SHA1: a5922526aa59aa7f18f554a39b8692092ee6a8d3
+FileChecksum: MD5: 11150201b5edec41ca171c5b2728df42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/meetings/20200316.md
+SPDXID: SPDXRef-item10815047
+FileChecksum: SHA1: fecb1a2692a4a582ba2bd65963bc8907f923d21d
+FileChecksum: MD5: 5a6f9b5e7e5ee3b099d15232ce895f6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/.gitattributes
+SPDXID: SPDXRef-item10815048
+FileChecksum: SHA1: a7f73af142da31fc9d093813a1ce4d6f95caf909
+FileChecksum: MD5: a361a5b39fac62adcb33d22d48e76c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/governance.md
+SPDXID: SPDXRef-item10815049
+FileChecksum: SHA1: 7194369a34ed71247229b5e0482f5e40d2ae156f
+FileChecksum: MD5: 94c147bbd5c9d63bcfde71c658ea86f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/.gitignore
+SPDXID: SPDXRef-item10815050
+FileChecksum: SHA1: ceb68d84ab6670ae76b7b442439794fe1e756c07
+FileChecksum: MD5: 44fd6872a9738427b8e4a073903ae883
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item10815053
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item10815054
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: polycephaly/zJenkins-OpenMainframeProject.pptx
+SPDXID: SPDXRef-item10815055
+FileChecksum: SHA1: 74a4bf087cf3c6ed1e4fa086f94a0368d62ad290
+FileChecksum: MD5: 15a8a552782a1fdf55af16fa13d9a5cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+

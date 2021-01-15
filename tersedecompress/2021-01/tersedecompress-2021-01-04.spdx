@@ -1,0 +1,394 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_tersedecompress-2021-01-04.zip_1610738398.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-01-15T19:19:58Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: tersedecompress-2021-01-04.zip
+PackageFileName: tersedecompress-2021-01-04.zip
+SPDXID: SPDXRef-upload3220
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: dde9ac06b161453426e128be9db813a5f4909b0e
+PackageChecksum: SHA1: 91ba6b1faf71c46c17d79420b6c4b3283729067d
+PackageChecksum: MD5: abe47637b7bb3659706484a069869620
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3220
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: tersedecompress/TerseDecompress.java
+SPDXID: SPDXRef-item12559713
+FileChecksum: SHA1: b63f59ef1e48eebaaf3038f9b85aca57a01f9441
+FileChecksum: MD5: 6ce07648385dbf4fa35837eb2bf327f7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2018 IBM Corp.
+Copyright Contributors to the TerseDecompress Project. </text>
+ 
+
+##File
+
+FileName: tersedecompress-testdata/LICENSE
+SPDXID: SPDXRef-item12559683
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/LICENSE
+SPDXID: SPDXRef-item12559712
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/CONTRIBUTING.md
+SPDXID: SPDXRef-item12559680
+FileChecksum: SHA1: ae5f78ef4d3ac40cf32895213d5f4bc10ad14a24
+FileChecksum: MD5: eda3362bfdbb4209b571893ac1f4d266
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/INSTRUCTIONS.md
+SPDXID: SPDXRef-item12559681
+FileChecksum: SHA1: 4bf1691f28610aaa8812f353488869307c931a5a
+FileChecksum: MD5: c4d329b2546ba037e3a7a8bdce7a123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/README.md
+SPDXID: SPDXRef-item12559682
+FileChecksum: SHA1: 3419dd07c6377aa30fbc841c950954506aea9a80
+FileChecksum: MD5: 01bedc7ca886efdfd04bf628a56ca9cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/tsc/README.md
+SPDXID: SPDXRef-item12559685
+FileChecksum: SHA1: 1a1a32c8f7d580b68cd8bdfe44c92c2db396c7c1
+FileChecksum: MD5: 2950ad5aa387e161959c3ae1ff1261bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/tsc/meetings/README.md
+SPDXID: SPDXRef-item12559687
+FileChecksum: SHA1: aae3a8cefa8f9b2d3a124a1070fe0b2c1fe3cf6b
+FileChecksum: MD5: ae7321cd8c3c7562e9d85e8bb9744b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/SUPPORT.md
+SPDXID: SPDXRef-item12559688
+FileChecksum: SHA1: 0fefeac692c82a8aae56f28e2619d6d2ee4c361a
+FileChecksum: MD5: c68235c10c9f7994c22aab0a8298d7d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item12559689
+FileChecksum: SHA1: 709651fce54ff67311e001119d8fc11e1d9a6e31
+FileChecksum: MD5: 36d24001359635e3a9438b64718e3fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/tests/README.md
+SPDXID: SPDXRef-item12559691
+FileChecksum: SHA1: 0d123a3dc27f5cec76200dbcb1468ed5d91b2de7
+FileChecksum: MD5: 71dbd527440985cd44b2fa5a147ca6cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.gitignore
+SPDXID: SPDXRef-item12559692
+FileChecksum: SHA1: 48708440bec57b09aa8ed461f7e640460e679ae7
+FileChecksum: MD5: 2351573a646e8ad269ca597b9a47c5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/COMMITTERS.csv
+SPDXID: SPDXRef-item12559693
+FileChecksum: SHA1: 5531b7714595cf5b6e9b3c9720b5566947fe1a55
+FileChecksum: MD5: 6b4688d45532c371b6bc06f86574345a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item12559696
+FileChecksum: SHA1: e3e56c4521e960501ebfc635a99cf44f6a53dac8
+FileChecksum: MD5: 27b58816b0bb2f7ca4fe6d685c8c734b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item12559697
+FileChecksum: SHA1: f7cb73430140e6e12d1dd08783d4831220a6d264
+FileChecksum: MD5: 4ef020d29b801253ada9f71dc26d125c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item12559698
+FileChecksum: SHA1: ec64f3df8bdc12bed8e05cefdd3f03744a110c7b
+FileChecksum: MD5: fb2572e262d21290374d33c8ccffe9a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item12559700
+FileChecksum: SHA1: a8fdc0f69520a4fe3ed8e605f41e96d2c95359dc
+FileChecksum: MD5: 1ce582a704498623bd09e22533a06a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item12559702
+FileChecksum: SHA1: f926bb1b29b57e65db831afca25b5529f81f6e01
+FileChecksum: MD5: 4acaf7d540c14f7f894a3b5c3b4255b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item12559703
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item12559704
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/SECURITY.md
+SPDXID: SPDXRef-item12559705
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/THIRD_PARTY.md
+SPDXID: SPDXRef-item12559706
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/CHANGELOG.md
+SPDXID: SPDXRef-item12559707
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress-testdata/GOVERNANCE.md
+SPDXID: SPDXRef-item12559708
+FileChecksum: SHA1: af2e916736cbffc914db03e59af796f70ac25d1d
+FileChecksum: MD5: 5490608c843f339674e3fc016afcac5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/CONTRIBUTING.md
+SPDXID: SPDXRef-item12559710
+FileChecksum: SHA1: 51b9fe2e9e6001e7dde7005be9ac4e6b76324652
+FileChecksum: MD5: 1b22e48edc9e7c53595821d073fec708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/README.md
+SPDXID: SPDXRef-item12559711
+FileChecksum: SHA1: b6d63f6890c76ed872546e52834e865ce302a4ee
+FileChecksum: MD5: f38bf9e938e163c11cbd8b8571d8fe8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/COMMITTERS.md
+SPDXID: SPDXRef-item12559714
+FileChecksum: SHA1: 6ac7d0aa3556962ce7f8420c6c4b3cf17bb1ad8c
+FileChecksum: MD5: e55f1c7203e6baa9abebe71ad85f49e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item12559715
+FileChecksum: SHA1: de53e39e2cbb11b2c04fd98fab80487f7ff3dfbc
+FileChecksum: MD5: 89ee1544c64c633e6b60b4b62e170302
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/.gitignore
+SPDXID: SPDXRef-item12559716
+FileChecksum: SHA1: 19d167e90a1812a8205893e170b9a2471c45a91f
+FileChecksum: MD5: 814cd021cbcaaf399c7c67f627016b85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: tersedecompress/GOVERNANCE.md
+SPDXID: SPDXRef-item12559717
+FileChecksum: SHA1: cd0de58121ed716226d208f89a21aa406a87fc58
+FileChecksum: MD5: 1add0acdc52e3e41c5a180becea391cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+

@@ -1,0 +1,423 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://fossology.lfscanning.org/repo/SPDX2TV_software-discovery-tool-2021-01-04.zip_1610738389.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: steve ()
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2021-01-15T19:19:50Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: software-discovery-tool-2021-01-04.zip
+PackageFileName: software-discovery-tool-2021-01-04.zip
+SPDXID: SPDXRef-upload3219
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 2d4a323271bf58f1ed87e29477b8c8eeb96e7ca7
+PackageChecksum: SHA1: e2f9f3de36df22bc4f300901f938881a3720cb45
+PackageChecksum: MD5: 02505b1b954c44f521202a4b345b59f6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.6.0-rc2-13-gfc1b3cef".fc1b3c)
+ - monk ("3.6.0-rc2-13-gfc1b3cef".fc1b3c) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload3219
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/angular-animate.min.js
+SPDXID: SPDXRef-item12559650
+FileChecksum: SHA1: dfba909727f999851f4f3e9b5f8ee56e0de5b324
+FileChecksum: MD5: e9f13e431eb5c9455a8dc99f107d5493
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/angular.min.js
+SPDXID: SPDXRef-item12559651
+FileChecksum: SHA1: 9c923313eabc56d715a7c07bf855feb26a72f671
+FileChecksum: MD5: be6af23e2a716c006da75d0291784254
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/angular-route.js
+SPDXID: SPDXRef-item12559649
+FileChecksum: SHA1: 8338ae8bed3a2122b38aae69a9db222f088069be
+FileChecksum: MD5: 915537e6f12fb8309087deace85c1756
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/angular-route.min.js
+SPDXID: SPDXRef-item12559655
+FileChecksum: SHA1: 769407a2492a7c7939e5a5d506a6a61b80061917
+FileChecksum: MD5: 3239462a70a6adf52bd3ef6b98d44f44
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/angular-touch.min.js
+SPDXID: SPDXRef-item12559648
+FileChecksum: SHA1: dca95f0fe71f5ce5405f3e61a98df12e53e82fbd
+FileChecksum: MD5: 3c52ae69cbc4d5c3370840324b636d3d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/jquery.min.js
+SPDXID: SPDXRef-item12559653
+FileChecksum: SHA1: 1055018c28ab41087ef9ccefe411606893dabea2
+FileChecksum: MD5: c9f5aeeca3ad37bf2aa006139b935f0a
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: <text> (c) JS Foundation and other contributors </text>
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-1.3.3.min.js
+SPDXID: SPDXRef-item12559654
+FileChecksum: SHA1: 49c6ddb66f150329d30d09173902b268913428ee
+FileChecksum: MD5: 32cc8232205155f5825ae4e829c9d77c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-2.5.0.min.js
+SPDXID: SPDXRef-item12559652
+FileChecksum: SHA1: f692082f69c296cc7635b01e1fef8173c27dac54
+FileChecksum: MD5: c572f42d057f681abb138e2c2c966157
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/LICENSE
+SPDXID: SPDXRef-item12559669
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/README.md
+SPDXID: SPDXRef-item12559626
+FileChecksum: SHA1: 8fc4d9e393ab1de6ed68cdf23a06502997570a4b
+FileChecksum: MD5: 276cbd2ea24ad49d7c285e4b8de53c85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/classes/package_search.py
+SPDXID: SPDXRef-item12559629
+FileChecksum: SHA1: d09cbd18c189f4b8e0a46744732eb5cd12e35d70
+FileChecksum: MD5: 8fe455e050466d960743965623222045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/classes/__init__.py
+SPDXID: SPDXRef-item12559630
+FileChecksum: SHA1: a68d6eba82b437d7de86bedd6288f2efe598b333
+FileChecksum: MD5: 7f8fd2002939fa2787c17d953c88b2a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/main.py
+SPDXID: SPDXRef-item12559631
+FileChecksum: SHA1: d5232d9625d72eeb531a4dc63b67cf9007d71251
+FileChecksum: MD5: 78b4b596fc9628b2196a0e046aac43c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/config/config.py
+SPDXID: SPDXRef-item12559633
+FileChecksum: SHA1: 018688d3be4838e2ee011d79e23deccfaf0ea361
+FileChecksum: MD5: b892c2a1fc191088d6a857f69c2dd8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/config/__init__.py
+SPDXID: SPDXRef-item12559634
+FileChecksum: SHA1: 6761962b6518d5bf6755870c0cb87d08d14a49b2
+FileChecksum: MD5: 7365d5c0f6584e6ba2f02dc4e5bd7938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/config/pds.conf
+SPDXID: SPDXRef-item12559635
+FileChecksum: SHA1: 40f66bd512fff0f224a8a5b24e70c1e68e5e3671
+FileChecksum: MD5: d90adf0c895a7f21792d188e71329cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/templates/index.html
+SPDXID: SPDXRef-item12559637
+FileChecksum: SHA1: 00960c40963711cdc485c68c7e0b7757505ed841
+FileChecksum: MD5: 3e168c722f6c6921d0897566f347ea44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/controller/FAQController.js
+SPDXID: SPDXRef-item12559641
+FileChecksum: SHA1: 604f037cc48bb8b58fed9f587c93b232f8591cc9
+FileChecksum: MD5: 9b653b932d3970fbad48db74451427dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/controller/HomeController.js
+SPDXID: SPDXRef-item12559642
+FileChecksum: SHA1: 7d7d153338d7e05661b8c5bddee49f9368d2f8ba
+FileChecksum: MD5: 1bf8d04fa984b58e263f9a8e63c284e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/app.js
+SPDXID: SPDXRef-item12559643
+FileChecksum: SHA1: 72b79b7c5fcb3b7f80a8c36e193e93a5ce806e46
+FileChecksum: MD5: 670ded7dbb53d0a920a88ee2b4f5441f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/views/faq.html
+SPDXID: SPDXRef-item12559645
+FileChecksum: SHA1: dc6b8892fbb9de5064b88bccb14a9c71ebfa4b3c
+FileChecksum: MD5: f769b4648d7ca81fbda25788839a1822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/js/views/home.html
+SPDXID: SPDXRef-item12559646
+FileChecksum: SHA1: 16db483f0b59a7ed471ccbea3e28f3f24f899c19
+FileChecksum: MD5: 9958e7d6ffe3b3424feeba2a996cd90e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/css/images/ui-icons_444444_256x240.png
+SPDXID: SPDXRef-item12559658
+FileChecksum: SHA1: a3beaacd2b07d6bd28b051746cfba5163e9a2ded
+FileChecksum: MD5: 68e2fd63df542df065fad6c8054a80c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/css/app.css
+SPDXID: SPDXRef-item12559659
+FileChecksum: SHA1: e4e5c97f648ebeac7fe9eca0833e68860446fd1e
+FileChecksum: MD5: 9978c10a529e467ad5a0e48b6273f646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/css/faq.css
+SPDXID: SPDXRef-item12559660
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/static/images/ajax-loader.gif
+SPDXID: SPDXRef-item12559662
+FileChecksum: SHA1: ee93ebddb752c7b8a0426c41757ffc3d49c0568c
+FileChecksum: MD5: 2167e055e7de9a38da1acf8c9c15a1e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/PDS.wsgi
+SPDXID: SPDXRef-item12559663
+FileChecksum: SHA1: ffc461785ada00c489000a103ac1450b8e917884
+FileChecksum: MD5: 1fda28ed9f67bd47afd4560c5178cc0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/scripts/distro_scripts/getPackageInfoUsingLaunchpad.py
+SPDXID: SPDXRef-item12559666
+FileChecksum: SHA1: 7878a99cff41ca75ba560fa24cd52ebe603d0076
+FileChecksum: MD5: d34719f6f8dceed8536e14c460693dad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/src/setup/Dockerfile
+SPDXID: SPDXRef-item12559668
+FileChecksum: SHA1: c68afb8eabb9dcce3d36bb30aa659a73ab5d982e
+FileChecksum: MD5: d984e09bb7e06294de2f96f576369a8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item12559672
+FileChecksum: SHA1: bf84eb18e9a999a6c7825c2cf5a46caf4b5b8abf
+FileChecksum: MD5: 3a6c06494d649718196de3da1c1a0852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item12559673
+FileChecksum: SHA1: f7cb73430140e6e12d1dd08783d4831220a6d264
+FileChecksum: MD5: 4ef020d29b801253ada9f71dc26d125c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: software-discovery-tool/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item12559675
+FileChecksum: SHA1: 3bdfcf02baf53e004346af25edbfedfb6bf853d4
+FileChecksum: MD5: ec2137a7b4143158cb1e05132c976964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+

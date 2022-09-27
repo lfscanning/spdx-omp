@@ -1,0 +1,1044 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_atom-2022-09-07.zip_1663586710.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2022-09-19T11:25:10Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: atom-2022-09-07.zip
+PackageFileName: atom-2022-09-07.zip
+SPDXID: SPDXRef-upload608
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 69057611b2ca980db981d502e7edb907c6a3e78d
+PackageChecksum: SHA1: 5957b333cae158d4c8416b24aafa60c1fe5fc073
+PackageChecksum: SHA256: f286ca0d915fcd14f8e7b4c5f26fea3d6d99fa91e23dadb8afcc9124a40570dd
+PackageChecksum: MD5: 328cf2a45051166fadb32274ac344f32
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload608
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/LICENSE.md
+SPDXID: SPDXRef-item2754687
+FileChecksum: SHA1: 37c9b0a586313ec881be538f36b0e7379e552618
+FileChecksum: SHA256: 92612a1dccb0a1048062637c033e5e0b690f5a3ea972b66f8f79201d945b122d
+FileChecksum: MD5: 7aa53b6a8553e8925531cef051bccc45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/README.md
+SPDXID: SPDXRef-item2754709
+FileChecksum: SHA1: c611f44f8a608e65f78d65beccd65354fefe036f
+FileChecksum: SHA256: b994cb094b99a3fcc6b137b50be5817614155ce526223f90ca48020591728e14
+FileChecksum: MD5: f19d41854332804ab331c68b59b2502b
+LicenseConcluded: LicenseRef-See-file.LICENSE
+LicenseInfoInFile: LicenseRef-See-file.LICENSE
+FileCopyrightText: <text> copyrights. See the LICENSE file for license information. </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/package.json
+SPDXID: SPDXRef-item2754710
+FileChecksum: SHA1: f7de766f10dd34867d57388bfd8d3e773de7129c
+FileChecksum: SHA256: a03dba015e629e4ce081ffd60b9c937b944b559aa263a82c2fa1142b80000170
+FileChecksum: MD5: f79fa3cf1807112cfce0e2d88a7fb82c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright notices", activationCommands": { atom-workspace": "language-zvm-gml:toggle", atom-text-editor": "language-zvm-gml:addRevisionBars" </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/LICENSE
+SPDXID: SPDXRef-item2754634
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: SHA256: b40930bbcf80744c86c46a12bc9da056641d722716c378f5659b9e555ef833e1
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/README.md
+SPDXID: SPDXRef-item2754653
+FileChecksum: SHA1: 1f72fc15c3b3e5f97bfc7a716adf79c26da68f37
+FileChecksum: SHA256: 5204fe230f9027567a377c3964e7d7b3786738d5ff45f2d73f0ccb235d5ca900
+FileChecksum: MD5: a6d1e3b74a8be2b80c25527c56aa2e55
+LicenseConcluded: LicenseRef-See-file.LICENSE
+LicenseInfoInFile: LicenseRef-See-file.LICENSE
+FileCopyrightText: <text> copyrights. See the LICENSE file for license information. </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/package.json
+SPDXID: SPDXRef-item2754654
+FileChecksum: SHA1: 29cf059941e5d49712f8b08ef532db79cd50348d
+FileChecksum: SHA256: 5666c0d911060925e9a9c817f9b88b7b506fb094f49f0f1a3f25cce9bf8e5c26
+FileChecksum: MD5: 0f8f918faac59326f7ada3a48c4dcd98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright notices", engines": { atom": ">=1.0.0 <2.0.0" </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/LICENSE.md
+SPDXID: SPDXRef-item2754714
+FileChecksum: SHA1: 37c9b0a586313ec881be538f36b0e7379e552618
+FileChecksum: SHA256: 92612a1dccb0a1048062637c033e5e0b690f5a3ea972b66f8f79201d945b122d
+FileChecksum: MD5: 7aa53b6a8553e8925531cef051bccc45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/README.md
+SPDXID: SPDXRef-item2754738
+FileChecksum: SHA1: 3724a73288acfcbc3a8b02fca455ed0308acfcc4
+FileChecksum: SHA256: 60f3923cd2f894940e3e1e835312d1d4978e3755ce430ea0cccff1997bd54b44
+FileChecksum: MD5: 73de46d233a0c0025eeb990a0ae51e86
+LicenseConcluded: LicenseRef-See-file.LICENSE
+LicenseInfoInFile: LicenseRef-See-file.LICENSE
+FileCopyrightText: <text> copyrights. See the LICENSE file for license information. </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/package.json
+SPDXID: SPDXRef-item2754739
+FileChecksum: SHA1: 96e16c1499fb24ea6c359f1e249fd665c5e633d0
+FileChecksum: SHA256: df029c66d27ed8148ba9da48ea35950fe8dd9434b17b81545171e662991fa057
+FileChecksum: MD5: a61e7d7cd07183261f75ed96063eb302
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright notices", engines": { atom": ">=1.0.0 <2.0.0" </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/LICENSE.md
+SPDXID: SPDXRef-item2754658
+FileChecksum: SHA1: 37c9b0a586313ec881be538f36b0e7379e552618
+FileChecksum: SHA256: 92612a1dccb0a1048062637c033e5e0b690f5a3ea972b66f8f79201d945b122d
+FileChecksum: MD5: 7aa53b6a8553e8925531cef051bccc45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright {yyyy} {name of copyright owner} </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/README.md
+SPDXID: SPDXRef-item2754682
+FileChecksum: SHA1: 5d5189f00361341dccbdb0e3cb44a0c45f8a450c
+FileChecksum: SHA256: 5527d46c087df5f926f6132d70abc46f14006548630a9ba9f1ab2e28e140de95
+FileChecksum: MD5: f38bc0ac47e994d5bd3643e6c73fc5ac
+LicenseConcluded: LicenseRef-See-file.LICENSE
+LicenseInfoInFile: LicenseRef-See-file.LICENSE
+FileCopyrightText: <text> copyrights. See the LICENSE file for license information. </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/package.json
+SPDXID: SPDXRef-item2754683
+FileChecksum: SHA1: 259846c099ee391ccb6f1b0a7edca48aca8ca8dd
+FileChecksum: SHA256: de0f899d54d2a45028a9c1565bd243509e86b778ac98fe84d69fcb6896556585
+FileChecksum: MD5: dd700176660e2bdbc0591b06639f91c9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright notices", engines": { atom": ">=1.0.0 <2.0.0" </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2754632
+FileChecksum: SHA1: 7c9dec5a1e8bd23c87f82c770f1c931da587d5b2
+FileChecksum: SHA256: 77597af92b80b8da652adbf67abae38b17a7461b72b06dcb06d4cd87c3a0cd32
+FileChecksum: MD5: bf36b726c01903502a6ef111e3c8a16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/GOVERNANCE.md
+SPDXID: SPDXRef-item2754633
+FileChecksum: SHA1: 1fc855eef87740d8799c94d710c4bef1fa1b68d3
+FileChecksum: SHA256: bfa95411c2b32003fdb6033e86842b537d8bcda36513bd4518165e1147028005
+FileChecksum: MD5: d4f44eb306bc295d96b5843d7f7a7474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/CONTRIBUTING.md
+SPDXID: SPDXRef-item2754635
+FileChecksum: SHA1: f49989c6fdd11dc7aec2c4f54dd45371cf29cce3
+FileChecksum: SHA256: 7387ad7c8b24092d20942a52f69f64b005e62df73bb8f547171d3240b5469b7d
+FileChecksum: MD5: 3ffc4562eb59b94ab1465872ae007d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/keymaps/language-zvm-names.cson
+SPDXID: SPDXRef-item2754637
+FileChecksum: SHA1: 5d8de1c9725940fd8f790820c9c1454aac9d0e40
+FileChecksum: SHA256: 911328ba26ebb78f4d4282888b39efbd52d2b1e4dd762272dd959d2be3cba7d5
+FileChecksum: MD5: 736cd8e297424633bbdd83d77d0856dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright Commented out all generated "code", since this package is not supplying any default key bindings. Commented it out rather than deleting it in case default key bindings are needed in the future. </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/lib/language-zvm-names.coffee
+SPDXID: SPDXRef-item2754639
+FileChecksum: SHA1: 27db9562d6f248d61ddcf19faf1a020e845cb76b
+FileChecksum: SHA256: 43038f277539f076d66a273734c5927b3d0d491e222aeb10b6fab05580a78ba7
+FileChecksum: MD5: 1b23ac842694a622220f4489f950cbba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/lib/language-zvm-names-view.coffee
+SPDXID: SPDXRef-item2754640
+FileChecksum: SHA1: ed9b86d50a6888e4fd9341869b46b60d81b1a21b
+FileChecksum: SHA256: 4b8f5ec20a5bde92d1e28aa27b1d4fd694152107649987ed1f634ad0d8f3e831
+FileChecksum: MD5: f52df01cbc513ad40fdb3dd010779b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/menus/language-zvm-names.cson
+SPDXID: SPDXRef-item2754642
+FileChecksum: SHA1: 995bd045c6f0ca73041146402cf2445dc277325a
+FileChecksum: SHA256: 5b4631b6a33008c53fdc89cae6a6796ad5df43efebb44f31e8b68b3f4e5df402
+FileChecksum: MD5: 1ba0dd090ffad95073be4d8024496967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/spec/language-zvm-names-view-spec.coffee
+SPDXID: SPDXRef-item2754644
+FileChecksum: SHA1: 9f13edbdeea1d6541b6681454aec5d9189cd9990
+FileChecksum: SHA256: ee1e3f4a1ce5ae4d93bfebf2fa33e6b06a52b7eae8e7ee31a7f143dbdf829543
+FileChecksum: MD5: 7d888922dd78bbb51faf4f663b74b5ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/spec/language-zvm-names-spec.coffee
+SPDXID: SPDXRef-item2754645
+FileChecksum: SHA1: c7743f8ce6726259d4508ebaa1968dfcc4d45cb3
+FileChecksum: SHA256: 677b75c1a7f4ab6804fa2aae6bd21150715e4bc42a177d63efd85d908526a10e
+FileChecksum: MD5: 4d41065df75dae0cc457fb5e85610729
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/.gitignore
+SPDXID: SPDXRef-item2754646
+FileChecksum: SHA1: 050c3839f23014887ff895cddf49799b2e470ce1
+FileChecksum: SHA256: a5e27c4e7d540f92f18cf49042db74d6e0596ba9f8c602d6d460bf23c100f707
+FileChecksum: MD5: f9b51937dd357b9ddda3aa46ab7148ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/NOTICE.md
+SPDXID: SPDXRef-item2754647
+FileChecksum: SHA1: 82bf183c3c1fd87f1a869861229162b9d845a032
+FileChecksum: SHA256: 1920aa9154c874311ca2bcfe2fca3e00a53916c59d205b411906c94c76ef54bb
+FileChecksum: MD5: 1ec413fc865625049bc03e7255a64bb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyrights
+copyrights apply to all files in this Work. Additional copyrights MAY be present in individual files as well. Consult the license for requirements when redistributing, creating Derivative Works, and so on.
+Copyright 2017 IBM Corporation </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/CHANGELOG.md
+SPDXID: SPDXRef-item2754648
+FileChecksum: SHA1: 4ece06fb826d2cf7e7333df6df6c02032e77a259
+FileChecksum: SHA256: 840c7b19a67ef32ee3a754b0fdae7aff107bbd1c7f2b9c96a470bc0d006a8f2a
+FileChecksum: MD5: df325a070b6891cec3b252995b070780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/grammars/zvm-names.cson
+SPDXID: SPDXRef-item2754650
+FileChecksum: SHA1: d32d62687a76fc38d192224f2342486c759817e6
+FileChecksum: SHA256: 2211bd29dc1395b41de65aa4c82d03bb966549c29f0c0de11b411cb6d35a06f2
+FileChecksum: MD5: d97819f534dafde6150c106a7b4d94a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/grammars/zvm-names-edl.cson
+SPDXID: SPDXRef-item2754651
+FileChecksum: SHA1: de774bf8820385331c155366beb8ba2130fd7774
+FileChecksum: SHA256: d6c18aa6db9b7f5bad37de74c7bb881fdc2268c8bd501923f495b1cc3a2185da
+FileChecksum: MD5: 65809a572f126c62e1d8f7df18699b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/Screenshot.PNG
+SPDXID: SPDXRef-item2754652
+FileChecksum: SHA1: 078cbfd4eab242404c249c09f0efc7e331450d1a
+FileChecksum: SHA256: 09ac7a4c5f514bf67a1ae78486bc892d2b58e6aa144e87eea382c296e1ad724e
+FileChecksum: MD5: c4a5f2f9156aca3f87d0728a40d8a3a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-names/styles/language-zvm-names.less
+SPDXID: SPDXRef-item2754656
+FileChecksum: SHA1: 54338ab52ef7493ea2494d2d05a086f09b800f8b
+FileChecksum: SHA256: c2eac35fb2d1548c094bdd0f60f7b2e91f16616a7326afffb5bd8dd1be452c28
+FileChecksum: MD5: fd58e5ffb1d7daabc8e942f3d91693e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2754659
+FileChecksum: SHA1: 7c9dec5a1e8bd23c87f82c770f1c931da587d5b2
+FileChecksum: SHA256: 77597af92b80b8da652adbf67abae38b17a7461b72b06dcb06d4cd87c3a0cd32
+FileChecksum: MD5: bf36b726c01903502a6ef111e3c8a16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/screenshot1.png
+SPDXID: SPDXRef-item2754660
+FileChecksum: SHA1: a5cdbd9067af34454f2f04a735b4514647743057
+FileChecksum: SHA256: 9686322b48852b01559b01cb92849d0fe6dd646c2cefd8c1b4ef5da57fb3fb2b
+FileChecksum: MD5: 9105675dde6da4a623dbb11640f8423b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/GOVERNANCE.md
+SPDXID: SPDXRef-item2754661
+FileChecksum: SHA1: 1fc855eef87740d8799c94d710c4bef1fa1b68d3
+FileChecksum: SHA256: bfa95411c2b32003fdb6033e86842b537d8bcda36513bd4518165e1147028005
+FileChecksum: MD5: d4f44eb306bc295d96b5843d7f7a7474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/snippets/language-PLX.cson
+SPDXID: SPDXRef-item2754663
+FileChecksum: SHA1: e5a13b9aa89d032f7c8904b32b7bdb0264f5ba6e
+FileChecksum: SHA256: 381a2fa3d68012ba87a28e0467768b6b86173cbb9f70d6219995d07b9a79b8cb
+FileChecksum: MD5: 1bbddb64df476faab3a3819b99e6e828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/CONTRIBUTING.md
+SPDXID: SPDXRef-item2754664
+FileChecksum: SHA1: f49989c6fdd11dc7aec2c4f54dd45371cf29cce3
+FileChecksum: SHA256: 7387ad7c8b24092d20942a52f69f64b005e62df73bb8f547171d3240b5469b7d
+FileChecksum: MD5: 3ffc4562eb59b94ab1465872ae007d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/keymaps/language-zvm-asm.cson
+SPDXID: SPDXRef-item2754666
+FileChecksum: SHA1: 2a4a8acd84939933c16b0bdd6600186dee708f8b
+FileChecksum: SHA256: e915a357f417439c1090999f407ce3904f446216b7853b9e59c354a06a749902
+FileChecksum: MD5: b84f8a05c40aa753f8e75e9ba7e0ed9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/lib/language-zvm-asm.coffee
+SPDXID: SPDXRef-item2754668
+FileChecksum: SHA1: 9dd5a4a06fb8c8fcb59632d0c35f9a608fc95bbb
+FileChecksum: SHA256: 28e4bacef63aacd3eb607db043ecdbfddb92dc6cc78ce0c27ba38945286eccdf
+FileChecksum: MD5: 936c90507dd0049a5366d570143e2508
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/lib/language-zvm-asm-view.coffee
+SPDXID: SPDXRef-item2754669
+FileChecksum: SHA1: f633aaeb89eca15a6060559022e267fc0e9425f7
+FileChecksum: SHA256: bd14214aa3ae6652fac88cfec70f2ede2b7c1330c59e3c8c63a532ef7f6e8802
+FileChecksum: MD5: 483b60a9d7e6e7d9005bd26c7be7e889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/menus/language-zvm-asm.cson
+SPDXID: SPDXRef-item2754671
+FileChecksum: SHA1: 4579fd23d1b747ce6ffad9bec86c51b09dd07390
+FileChecksum: SHA256: 03cc0b080b540388f1330a206c917232a92c8eaf4f6db169f0ca8256788f3591
+FileChecksum: MD5: e2e2b7914afa4c6e7a3aeaa1e02a0aa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/spec/language-zvm-asm-view-spec.coffee
+SPDXID: SPDXRef-item2754673
+FileChecksum: SHA1: 76053ca3064ecdd51a9befa35c57fbdfc7b73381
+FileChecksum: SHA256: 6a5a55c2a220dfb25cc93adaf2b859be8ff763c707ada42b23614f54dd15932a
+FileChecksum: MD5: 7ce166742206c72ea1466f0dfad4d7c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/spec/language-zvm-asm-spec.coffee
+SPDXID: SPDXRef-item2754674
+FileChecksum: SHA1: defbbdbc690edef9841aca2a2e6b5dd3aea98427
+FileChecksum: SHA256: 5b5743ae67a9e04a7545268b0acfc70e8218465164fbc8fdc8b9bb9fc5809422
+FileChecksum: MD5: 63de00d70d08032c07f71593bc0ce112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/.gitignore
+SPDXID: SPDXRef-item2754675
+FileChecksum: SHA1: 050c3839f23014887ff895cddf49799b2e470ce1
+FileChecksum: SHA256: a5e27c4e7d540f92f18cf49042db74d6e0596ba9f8c602d6d460bf23c100f707
+FileChecksum: MD5: f9b51937dd357b9ddda3aa46ab7148ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/NOTICE.md
+SPDXID: SPDXRef-item2754676
+FileChecksum: SHA1: 16609f725bf0721f933d4b7cbce9deccf1e023ba
+FileChecksum: SHA256: fe053b7b1bbb5070e4abe720630d5f8ccec0fdd29627406d997f5fc26caa8a56
+FileChecksum: MD5: 027bca8e7427b6065d9f261c14fb4765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyrights
+copyrights apply to all files in this Work. Additional copyrights MAY be present in individual files as well. Consult the license for requirements when redistributing, creating Derivative Works, and so on.
+Copyright 2017 IBM Corporation </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/CHANGELOG.md
+SPDXID: SPDXRef-item2754677
+FileChecksum: SHA1: 33ca8521c431e48edb6658c9506dc68a2513e3fa
+FileChecksum: SHA256: c0202c0363544fe539cd3c39d0f6c2f726594e229f83d03eec7128c12426d1c9
+FileChecksum: MD5: 9d416141b67a5b336766b0981c0464b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/grammars/zvm-asm.cson
+SPDXID: SPDXRef-item2754679
+FileChecksum: SHA1: 57ceaebb32e3b5986d39e71693bf4cb6a7222398
+FileChecksum: SHA256: 064ee6f8829b6be42f6ce2f227850e739cc5cd061e0998728275c89c04866c7f
+FileChecksum: MD5: 61e5c72226209edee16824a302b1cbfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/grammars/zvm-plx.cson
+SPDXID: SPDXRef-item2754680
+FileChecksum: SHA1: c384641ed0851cba6517c122f297e297259ecc1c
+FileChecksum: SHA256: 0bf4e22e576efbf83c87f828870b7237b3f01a32601d1fbf0b99bdf1e9102f48
+FileChecksum: MD5: cdeb957752ef9c28514b6e0c96d6dbd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/screenshot2.png
+SPDXID: SPDXRef-item2754681
+FileChecksum: SHA1: dd9766af6b46bb8f4020e43114a8a92591401c05
+FileChecksum: SHA256: a4a3da8d401da5aec849224085563a7c0bdfb1fe8df4c716983ea8fdcf18061c
+FileChecksum: MD5: 5617805a01b37f3b9f141868f3645e42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-languages-zvm/styles/language-zvm-asm.less
+SPDXID: SPDXRef-item2754685
+FileChecksum: SHA1: 030748a4479f5ae11db9d56cfc1d47f5616988fb
+FileChecksum: SHA256: 6298ff82dc95e84b37fe23b56c5204f7e4b0074c366add1c55d6d70fcef6d9cc
+FileChecksum: MD5: 60e04a152574be0b8271bdd7db9f5189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2754688
+FileChecksum: SHA1: 7c9dec5a1e8bd23c87f82c770f1c931da587d5b2
+FileChecksum: SHA256: 77597af92b80b8da652adbf67abae38b17a7461b72b06dcb06d4cd87c3a0cd32
+FileChecksum: MD5: bf36b726c01903502a6ef111e3c8a16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/GOVERNANCE.md
+SPDXID: SPDXRef-item2754689
+FileChecksum: SHA1: 1fc855eef87740d8799c94d710c4bef1fa1b68d3
+FileChecksum: SHA256: bfa95411c2b32003fdb6033e86842b537d8bcda36513bd4518165e1147028005
+FileChecksum: MD5: d4f44eb306bc295d96b5843d7f7a7474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/Screenshot.png
+SPDXID: SPDXRef-item2754690
+FileChecksum: SHA1: 8a76251ebe001ef1ec8c609ea707e24b4983ebb0
+FileChecksum: SHA256: 7cf85f88ab006bd1912a36354915d23732dabafaf018078d43135e086a4cde6a
+FileChecksum: MD5: 880f70f60f31384b2334b4bae6d55d2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/snippets/language-zvm-gml.cson
+SPDXID: SPDXRef-item2754692
+FileChecksum: SHA1: 381ba508e4088f2870751ecd4264dd79ab00c650
+FileChecksum: SHA256: 7578b931f29b0662e1a0e15931a16c6bd938077ceeea45b60d6084f6f6f2e56e
+FileChecksum: MD5: 36969bc7478b3b54d1150663d46b730e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/CONTRIBUTING.md
+SPDXID: SPDXRef-item2754693
+FileChecksum: SHA1: f49989c6fdd11dc7aec2c4f54dd45371cf29cce3
+FileChecksum: SHA256: 7387ad7c8b24092d20942a52f69f64b005e62df73bb8f547171d3240b5469b7d
+FileChecksum: MD5: 3ffc4562eb59b94ab1465872ae007d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/keymaps/language-zvm-gml.cson
+SPDXID: SPDXRef-item2754695
+FileChecksum: SHA1: deed7b689aba0f49d245ec472b9fb1e865240f4d
+FileChecksum: SHA256: 021e8b5fd7bf9ae8aa33cb0596cf6c46c9d7ab830194e1a48f4b9ecd33c9beed
+FileChecksum: MD5: 45679d04b6167c9b4e9a82c96e79bcfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/lib/language-zvm-gml-view.coffee
+SPDXID: SPDXRef-item2754697
+FileChecksum: SHA1: 17ff9767a33b330d6d9b6bc0ee65bd6326ff9143
+FileChecksum: SHA256: be35a6f041bd4e7e80befe50011e5a5d8d6c39ecd7755c5e49b118277aa5a541
+FileChecksum: MD5: 3422aeec47444cacc91453777601fb66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/lib/language-zvm-gml.coffee
+SPDXID: SPDXRef-item2754698
+FileChecksum: SHA1: 559a61e9928d9c0b87fe463e7701c3b985e98f83
+FileChecksum: SHA256: 51b3c5a62d690f7920866ac95ca593179c1d5c39dabb0d0ae92a23a602a9c187
+FileChecksum: MD5: 7c16de7577cd8398b9c9ae8959dcfe0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/menus/language-zvm-gml.cson
+SPDXID: SPDXRef-item2754700
+FileChecksum: SHA1: 7087f0b5c3f98d1a9f5e9a4a60439642de8b40aa
+FileChecksum: SHA256: 2d6fe1d1125552f49ebd26c0e0f649f62b916b977c47b7e31ca5ac6fdd44d68d
+FileChecksum: MD5: d26d55c116aa067210f922eb48f5191c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/spec/language-zvm-gml-spec.coffee
+SPDXID: SPDXRef-item2754702
+FileChecksum: SHA1: eb346cd52eff32c92dd40830166d67bb08694d3d
+FileChecksum: SHA256: e5cfddd9625f5c6b4b1fdaca84693d2f1964405d3f73cb33b5925e3502d780d7
+FileChecksum: MD5: 77b55a1a8a839b56f6f80ef256e46564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/spec/language-zvm-gml-view-spec.coffee
+SPDXID: SPDXRef-item2754703
+FileChecksum: SHA1: 621d570ab18a241a6dd0cacb7fd0343bdacf632c
+FileChecksum: SHA256: d9fbdbf61bf2f0b1913c37125276070e141c3030f9e49ab4eca86dfeb68be2ff
+FileChecksum: MD5: 5835fd8dcfce5a2833a8d45864708f0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/.gitignore
+SPDXID: SPDXRef-item2754704
+FileChecksum: SHA1: 050c3839f23014887ff895cddf49799b2e470ce1
+FileChecksum: SHA256: a5e27c4e7d540f92f18cf49042db74d6e0596ba9f8c602d6d460bf23c100f707
+FileChecksum: MD5: f9b51937dd357b9ddda3aa46ab7148ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/NOTICE.md
+SPDXID: SPDXRef-item2754705
+FileChecksum: SHA1: 16609f725bf0721f933d4b7cbce9deccf1e023ba
+FileChecksum: SHA256: fe053b7b1bbb5070e4abe720630d5f8ccec0fdd29627406d997f5fc26caa8a56
+FileChecksum: MD5: 027bca8e7427b6065d9f261c14fb4765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyrights
+copyrights apply to all files in this Work. Additional copyrights MAY be present in individual files as well. Consult the license for requirements when redistributing, creating Derivative Works, and so on.
+Copyright 2017 IBM Corporation </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/CHANGELOG.md
+SPDXID: SPDXRef-item2754706
+FileChecksum: SHA1: 234cbb937bbc2e840ab8e621f6765d17293f22aa
+FileChecksum: SHA256: bbb96ce3292c104786c9dacbdef636a89ae8207185b0c706750c0f02be66bbb5
+FileChecksum: MD5: 1bb6ef9078d695c32833836872d5f517
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/grammars/zvm-gml.cson
+SPDXID: SPDXRef-item2754708
+FileChecksum: SHA1: cee5786160020b623cd7c460f289c55d6dab411b
+FileChecksum: SHA256: 963648a0aa2297bc3b58b0680fe6641418d070f76940cb7ce78711e944abfb86
+FileChecksum: MD5: 826fbad9c832807b11e81caebee7e665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-gml/styles/language-zvm-gml.less
+SPDXID: SPDXRef-item2754712
+FileChecksum: SHA1: a176e68117fecb30665bbade21f5826bd0feba1e
+FileChecksum: SHA256: bb874d794e30e50e7f0bba88db53eae2e3c2cedbc5dbbe91e8fa7ae7a3231856
+FileChecksum: MD5: d011ceb605fc3598d9cebb02e11e0969
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item2754715
+FileChecksum: SHA1: de53e39e2cbb11b2c04fd98fab80487f7ff3dfbc
+FileChecksum: SHA256: 99a57e1db7f4121a4edafd59db1a49ccc8bd72bc1c5c199fd5c6c4568329a44c
+FileChecksum: MD5: 89ee1544c64c633e6b60b4b62e170302
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/screenshot1.png
+SPDXID: SPDXRef-item2754716
+FileChecksum: SHA1: 9618c0d9805cb0e7848f59a3843d09e6ac25be13
+FileChecksum: SHA256: 51db92c4b391bba4a65b19f4fc586f79f36085336dc1daf5b61b35e8a25a629e
+FileChecksum: MD5: 9464c23dd1fd3897b0ca7d83559724b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/GOVERNANCE.md
+SPDXID: SPDXRef-item2754717
+FileChecksum: SHA1: 66ef2de06e0d4df79d549882b59100c31eccc755
+FileChecksum: SHA256: 4fb2104cfa535c5acdd012999b8fa5b714e6b637579e45f31878f74b99a42972
+FileChecksum: MD5: 5fa8a8853df4876a2ab2e2ec391605de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/snippets/language-Rexx.cson
+SPDXID: SPDXRef-item2754719
+FileChecksum: SHA1: 88ce0f6e7a5c5c19344b5bf6102b764a42e69a0d
+FileChecksum: SHA256: 0953e608563aedb5d3666c6482836dd8f5e7bd3559f273e96c088e4726a1a86c
+FileChecksum: MD5: 89ddf8c52135e2c16bd940f463bf260a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/CONTRIBUTING.md
+SPDXID: SPDXRef-item2754720
+FileChecksum: SHA1: 51b9fe2e9e6001e7dde7005be9ac4e6b76324652
+FileChecksum: SHA256: 88d3040f85219cb78d4fac8da904572fd4a9ac69515550ca6844c80069168ebe
+FileChecksum: MD5: 1b22e48edc9e7c53595821d073fec708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/keymaps/language-zvm-rexx.cson
+SPDXID: SPDXRef-item2754722
+FileChecksum: SHA1: 06f0bfdf5a3d13567148200102301f0c8d0ff4b2
+FileChecksum: SHA256: 266e2dc39cf8868a6d8e01fffc12131c4dc8fd76a43fa96895098790e2c02530
+FileChecksum: MD5: f62a4687ca7b23b892f6ff2d713169f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/lib/language-zvm-rexx-view.coffee
+SPDXID: SPDXRef-item2754724
+FileChecksum: SHA1: e4ec2d09e0c02584db8685a6b3e2b4801a632673
+FileChecksum: SHA256: 33ffc6e46257a53d49d0e7c0497e8e7fcbd6493ff466a0803dc5c1e4421dd63c
+FileChecksum: MD5: 5fb64036fd278a35d47f30c2fb6c4ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/lib/language-zvm-rexx.coffee
+SPDXID: SPDXRef-item2754725
+FileChecksum: SHA1: a055886a31e980ba6da630512866ebd5c3eb6860
+FileChecksum: SHA256: a402bf005179e925308748c3a85d17c7f36314c85cc324f5d09a30b002b1ab6c
+FileChecksum: MD5: 9ec89fb3b2f8aa1c386738ab94c33fad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/menus/language-zvm-rexx.cson
+SPDXID: SPDXRef-item2754727
+FileChecksum: SHA1: 3b9c4b3433869b95a090f185bd2d2cf28744b4cf
+FileChecksum: SHA256: 7b256d3fffad6cd43e06eb6113a36d2208440d132b95bb5376a52a31c84d6e4a
+FileChecksum: MD5: 84e74dc212214307fe14d1d68f1e79a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/spec/language-zvm-rexx-spec.coffee
+SPDXID: SPDXRef-item2754729
+FileChecksum: SHA1: d947aaba67730777695047e6481c8f8fa88fb30d
+FileChecksum: SHA256: 27383c336c0cdc6416f17be5b48eac98f21d6aeb21856e74bb7f8868336b09a9
+FileChecksum: MD5: 200c525355ea6354720b5ea261f1a793
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/spec/language-zvm-rexx-view-spec.coffee
+SPDXID: SPDXRef-item2754730
+FileChecksum: SHA1: b8c26e6e2510ab4815bd778a9afd2e98e3fda224
+FileChecksum: SHA256: b06c7dfe96e21e6e5edc986d034e906dccb59e29b1ff798d7dab2f40e8ed5e8d
+FileChecksum: MD5: f8c5547b0357e44051ec6b7da4267f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/.gitignore
+SPDXID: SPDXRef-item2754731
+FileChecksum: SHA1: 050c3839f23014887ff895cddf49799b2e470ce1
+FileChecksum: SHA256: a5e27c4e7d540f92f18cf49042db74d6e0596ba9f8c602d6d460bf23c100f707
+FileChecksum: MD5: f9b51937dd357b9ddda3aa46ab7148ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/NOTICE.md
+SPDXID: SPDXRef-item2754732
+FileChecksum: SHA1: c66d7884145b388fcd9014419274a67d65805f84
+FileChecksum: SHA256: af5a1a4eb9c44be5223b8f68aa1103ca4ab5abe6acb07de8559624655c8e42d4
+FileChecksum: MD5: 0f704b09af09cef144910a57646b2bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyrights
+copyrights apply to all files in this Work. Additional copyrights MAY be present in individual files as well. Consult the license for requirements when redistributing, creating Derivative Works, and so on.
+Copyright 2017 IBM Corporation </text>
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/CHANGELOG.md
+SPDXID: SPDXRef-item2754733
+FileChecksum: SHA1: f113667239664f31b8a2f10d7f205d3c506fe3de
+FileChecksum: SHA256: 7ee045c52243432ada3129d2fabd80b40b9f3ba76fc53596c3252f7b47e02f21
+FileChecksum: MD5: d064cd1ae0949b03376070786b544aa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/grammars/zvm-rexx-pipes.cson
+SPDXID: SPDXRef-item2754735
+FileChecksum: SHA1: e24acf539e03e731b9612aabbbde23bfe1bfcd1f
+FileChecksum: SHA256: e42ec89df30910342e9aa31855996559f7180a06a6cabc06e296717bf2a0c708
+FileChecksum: MD5: 8801d68a2340345db1987a8381891d07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/grammars/zvm-rexx.cson
+SPDXID: SPDXRef-item2754736
+FileChecksum: SHA1: a9dc80d7a2dcc08fae2011f0df6c4a790d743a0f
+FileChecksum: SHA256: c4ff43697a2f0a562051556c637b5f6c9ae24742f03697d7c4370088d0e3c86e
+FileChecksum: MD5: 35c75a3bef1831861b0b1e5fe062e63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/screenshot2.png
+SPDXID: SPDXRef-item2754737
+FileChecksum: SHA1: a654e17c9626296c9fff4f8718ea7e38f05c371d
+FileChecksum: SHA256: 469503a9835a0c30b5b24b85ca5344ee005cce09979c2ee53aac9c933abf0efc
+FileChecksum: MD5: 491b7761d56c8e139f81eedff0abb564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: atom-2022-09-07.zip/atompkg-language-zvm-rexx/styles/language-zvm-rexx.less
+SPDXID: SPDXRef-item2754741
+FileChecksum: SHA1: 76cf049db17961e5b5c79a1c46ba48e3f4451614
+FileChecksum: SHA256: 465d3d47a7e9c4e10bdfd33d7b25e10da253d323b673449fe7a0baa54f6abe83
+FileChecksum: MD5: 586cd539714374c14044c4fe15ed5437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file.LICENSE
+LicenseName: See-file.LICENSE
+ExtractedText: <text> License by Nomos. </text>
+

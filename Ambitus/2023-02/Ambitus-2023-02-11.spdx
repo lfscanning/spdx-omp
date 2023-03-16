@@ -1,0 +1,4178 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_ambitus-2023-02-11.zip_1678776488.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: spdx2
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-03-14T06:48:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ambitus-2023-02-11.zip
+PackageFileName: ambitus-2023-02-11.zip
+SPDXID: SPDXRef-upload781
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: 0431f19daf53e250b358b5e7a74a9885d9c750db
+PackageChecksum: SHA1: 5e72a6d6314d7e131654d8cf27fcb1b430687b60
+PackageChecksum: SHA256: 248ff6e86e414b6bd43c6ef2ae26c7d648354bf4e018b7d7d676301ceb97d9f2
+PackageChecksum: MD5: 2f390cd49ecb4edc2fe58c8f30cacdcb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.11.0".c93921)
+ - monk ("3.11.0".c93921) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload781
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/tools/Endian_converter/pb_endian_convert_utility.py
+SPDXID: SPDXRef-item3866559
+FileChecksum: SHA1: 3eb31af352483a828722de3f77b038fc5eea9048
+FileChecksum: SHA256: 53bb62eff7dcc23a86026c87032bb790c22a0dfba1dd33b5b0b73f5058d41a5d
+FileChecksum: MD5: 6959d41c7a6c9906a8ea68a9e4b59453
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright 2020 IBM All Rights Reserved. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/examples/P2ZASM.yaml
+SPDXID: SPDXRef-item3866528
+FileChecksum: SHA1: b769bed130b172c0f8516cac84007c2c79256770
+FileChecksum: SHA256: 8104fd5e4404e4576e74523988f228dcbb07c93fee31366a77a8d04e415b6273
+FileChecksum: MD5: c645227e7137e829cb98d7a91152967f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/examples/P2ZASM.hlasm
+SPDXID: SPDXRef-item3866527
+FileChecksum: SHA1: 3d3ab8071f292221e7df9bb430c7512be12af4db
+FileChecksum: SHA256: aa2a98bbf0e714ac71ede5a0da551d7f735e58647198d1c139bb0467da2fdaf0
+FileChecksum: MD5: 8c2407438e159cfa5a5e581bfb8905e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/ZML-Specification/draft/ZML-Specification.adoc
+SPDXID: SPDXRef-item3866546
+FileChecksum: SHA1: f73c030b214dc938a9aaedf25f41a7381ab35efc
+FileChecksum: SHA256: d5f492d7cd0761d279d0faa391b79ece55ab511462118f479f1c78121753fdcf
+FileChecksum: MD5: ca286e8cf9b5b663aec7a7a5553a9452
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/sustainability-grafana-dashboard/LICENSE
+SPDXID: SPDXRef-item3866137
+FileChecksum: SHA1: 521abf4b47a17893ebda5a105ee0c8de28d4e2db
+FileChecksum: SHA256: 84a68a38f044a60137f209bb116da5744e354efe359cac55d36708f7076459ec
+FileChecksum: MD5: 0bfc61998d6c4bbe06a65663b7728f9c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright 2022 Sustainability Grafana Dashboard Contributors </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Grafana-Demo-FOREX-master/backgroundForex.py
+SPDXID: SPDXRef-item3866259
+FileChecksum: SHA1: dbfb0458e25aa09a167aa237961b6a7e4559680c
+FileChecksum: SHA256: 1a7471e215ef2d50ec6f327c1b88dbe6448981d6755d3dccb629ecbd5946f139
+FileChecksum: MD5: 63f25471d140e31d052ac1680b61fe81
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/ELK_stack_demo_twitter/README.md
+SPDXID: SPDXRef-item3866285
+FileChecksum: SHA1: 87739e0d215a5780dbfe82128e36849123776687
+FileChecksum: SHA256: 6153f2888ddadaa5652ab5100baa136fc368f4d16e3b2aaa819369eeba89d808
+FileChecksum: MD5: 08a5cbaa97f9f671b7d59689e5d45e8c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/python/uadmin.py
+SPDXID: SPDXRef-item3866333
+FileChecksum: SHA1: 8dfcce1393692ec5a6e4838dac6b9e35cc3a966b
+FileChecksum: SHA256: bc48d6734703ede8cc55e09933bc04672bcd9044634d285e11f9c5b68eebc9b3
+FileChecksum: MD5: eb12867162f5612cd4b00f54863d2fbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/python/uadmin.py
+SPDXID: SPDXRef-item3866406
+FileChecksum: SHA1: 8dfcce1393692ec5a6e4838dac6b9e35cc3a966b
+FileChecksum: SHA256: bc48d6734703ede8cc55e09933bc04672bcd9044634d285e11f9c5b68eebc9b3
+FileChecksum: MD5: eb12867162f5612cd4b00f54863d2fbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/python/r_admin.py
+SPDXID: SPDXRef-item3866334
+FileChecksum: SHA1: 1b380f686d1016777ad6b9c4de19bb16f4743bf8
+FileChecksum: SHA256: aa7cafccfe0fc42639abbe30d6cdc9c58483651cd84dd370a41d7abda1bed55e
+FileChecksum: MD5: be16abe08e0472f02cd565f1d9547e45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/python/r_admin.py
+SPDXID: SPDXRef-item3866407
+FileChecksum: SHA1: 1b380f686d1016777ad6b9c4de19bb16f4743bf8
+FileChecksum: SHA256: aa7cafccfe0fc42639abbe30d6cdc9c58483651cd84dd370a41d7abda1bed55e
+FileChecksum: MD5: be16abe08e0472f02cd565f1d9547e45
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/python/r_admin_fff.py
+SPDXID: SPDXRef-item3866335
+FileChecksum: SHA1: 6aadaedf2cd3d826d2020e9b71d8131dd80ad0d9
+FileChecksum: SHA256: d9a6701651030b2822db06564c6a1beb204b7baf0d8d802376efa67232202a21
+FileChecksum: MD5: 6afe08f4d84d849ff624d0898eee9c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/python/r_admin_fff.py
+SPDXID: SPDXRef-item3866408
+FileChecksum: SHA1: 6aadaedf2cd3d826d2020e9b71d8131dd80ad0d9
+FileChecksum: SHA256: d9a6701651030b2822db06564c6a1beb204b7baf0d8d802376efa67232202a21
+FileChecksum: MD5: 6afe08f4d84d849ff624d0898eee9c1c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/python/pxtr.py
+SPDXID: SPDXRef-item3866336
+FileChecksum: SHA1: 2edcfb0ca2606d28685ac4e2f9d05a2368d770a2
+FileChecksum: SHA256: 3636bb3085757735bf01f7383d5bcf2d1c894554834f9a7158c3a07c057fdaf3
+FileChecksum: MD5: a68dc941827860fafb307fc00358ba98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/python/pxtr.py
+SPDXID: SPDXRef-item3866409
+FileChecksum: SHA1: 2edcfb0ca2606d28685ac4e2f9d05a2368d770a2
+FileChecksum: SHA256: 3636bb3085757735bf01f7383d5bcf2d1c894554834f9a7158c3a07c057fdaf3
+FileChecksum: MD5: a68dc941827860fafb307fc00358ba98
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/irrpcomp.h
+SPDXID: SPDXRef-item3866339
+FileChecksum: SHA1: 78b36ce9d04cb3e143317071ac452203dd557349
+FileChecksum: SHA256: 0d3f348b2c8d95661a944618fe5d9d2731db9f9c425f1a8c8cc7b8c9137a9ab9
+FileChecksum: MD5: c438d78faa8f2c053d42ac5a842a3907
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/irrpcomp.h
+SPDXID: SPDXRef-item3866418
+FileChecksum: SHA1: 78b36ce9d04cb3e143317071ac452203dd557349
+FileChecksum: SHA256: 0d3f348b2c8d95661a944618fe5d9d2731db9f9c425f1a8c8cc7b8c9137a9ab9
+FileChecksum: MD5: c438d78faa8f2c053d42ac5a842a3907
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_dump.c
+SPDXID: SPDXRef-item3866342
+FileChecksum: SHA1: 3804f1dc32c65d05fc31198e883e807f33015787
+FileChecksum: SHA256: 322db4bdee57e0fae0c5cf7f76bbb877ba4cd35142305909aad7aec5b31875eb
+FileChecksum: MD5: 59a59bc3a9df2912e83258d0af53c9b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_dump.c
+SPDXID: SPDXRef-item3866425
+FileChecksum: SHA1: 3804f1dc32c65d05fc31198e883e807f33015787
+FileChecksum: SHA256: 322db4bdee57e0fae0c5cf7f76bbb877ba4cd35142305909aad7aec5b31875eb
+FileChecksum: MD5: 59a59bc3a9df2912e83258d0af53c9b8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr.h
+SPDXID: SPDXRef-item3866344
+FileChecksum: SHA1: f0770213fdc0095416bd78335c4b7abc924e14cf
+FileChecksum: SHA256: c03acc746e3e4571edecced2befe82eb57ba892ce8d286e2420e50b6dffd8f3a
+FileChecksum: MD5: 4046299bd21e8945f1aaec90e2ce28ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr.h
+SPDXID: SPDXRef-item3866428
+FileChecksum: SHA1: f0770213fdc0095416bd78335c4b7abc924e14cf
+FileChecksum: SHA256: c03acc746e3e4571edecced2befe82eb57ba892ce8d286e2420e50b6dffd8f3a
+FileChecksum: MD5: 4046299bd21e8945f1aaec90e2ce28ba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_kv.c
+SPDXID: SPDXRef-item3866343
+FileChecksum: SHA1: 5f65c5a68ff543de0cf7e616d0d7f70af205dc66
+FileChecksum: SHA256: 5d32916e03a42bb9ffbf4da78036c401c5377499132beb6fc21415b81e9f2294
+FileChecksum: MD5: f9937657379f06cc295f7041378f29a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_kv.c
+SPDXID: SPDXRef-item3866427
+FileChecksum: SHA1: 5f65c5a68ff543de0cf7e616d0d7f70af205dc66
+FileChecksum: SHA256: 5d32916e03a42bb9ffbf4da78036c401c5377499132beb6fc21415b81e9f2294
+FileChecksum: MD5: f9937657379f06cc295f7041378f29a3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr.c
+SPDXID: SPDXRef-item3866345
+FileChecksum: SHA1: 49b2db65f150bbbc13afc9cdfe81c52b7116aff4
+FileChecksum: SHA256: 4ce4bef71e5b8014d3445dd48b33da1f154ab9f7e5a6f350a8f78fa048f26e40
+FileChecksum: MD5: 3f84a0af73738a7199bb0b30197f010c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr.c
+SPDXID: SPDXRef-item3866429
+FileChecksum: SHA1: 49b2db65f150bbbc13afc9cdfe81c52b7116aff4
+FileChecksum: SHA256: 4ce4bef71e5b8014d3445dd48b33da1f154ab9f7e5a6f350a8f78fa048f26e40
+FileChecksum: MD5: 3f84a0af73738a7199bb0b30197f010c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/r_admin.h
+SPDXID: SPDXRef-item3866346
+FileChecksum: SHA1: 565d105fa2e2ad34208c87725cfee364bbf3090b
+FileChecksum: SHA256: cc3e26511c10b62a4cd027765e250690a02b2d0a59823a1f64dc382f3a0feb5c
+FileChecksum: MD5: 176e63eb98dd4717d0d684f5a981e5a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/r_admin.h
+SPDXID: SPDXRef-item3866434
+FileChecksum: SHA1: 565d105fa2e2ad34208c87725cfee364bbf3090b
+FileChecksum: SHA256: cc3e26511c10b62a4cd027765e250690a02b2d0a59823a1f64dc382f3a0feb5c
+FileChecksum: MD5: 176e63eb98dd4717d0d684f5a981e5a4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/r_admin.c
+SPDXID: SPDXRef-item3866347
+FileChecksum: SHA1: d1fc7f898cf309d9f14218e5890c41f6108ea668
+FileChecksum: SHA256: 5ac153b584e624b5cc7ba82260e1c02fc43bc7cb04ce030e3de244ea9dda565f
+FileChecksum: MD5: 68c9ae8d6f1b5d44900ded799ce1c3fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/r_admin.c
+SPDXID: SPDXRef-item3866436
+FileChecksum: SHA1: d1fc7f898cf309d9f14218e5890c41f6108ea668
+FileChecksum: SHA256: 5ac153b584e624b5cc7ba82260e1c02fc43bc7cb04ce030e3de244ea9dda565f
+FileChecksum: MD5: 68c9ae8d6f1b5d44900ded799ce1c3fa
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/python/fetch_RACF_lib.py
+SPDXID: SPDXRef-item3866354
+FileChecksum: SHA1: 959dafdf7676b38bb6ec2a40d637587214133afc
+FileChecksum: SHA256: 76b11b75e1bf07a4c6d108e52b2f66ac052458f9f78eeee622bde3c8b01b225b
+FileChecksum: MD5: bb2719315d1a0f2fd4eca7ffc4b1ec09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/python/fetch_RACF_lib.py
+SPDXID: SPDXRef-item3866445
+FileChecksum: SHA1: 959dafdf7676b38bb6ec2a40d637587214133afc
+FileChecksum: SHA256: 76b11b75e1bf07a4c6d108e52b2f66ac052458f9f78eeee622bde3c8b01b225b
+FileChecksum: MD5: bb2719315d1a0f2fd4eca7ffc4b1ec09
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/transcode.c
+SPDXID: SPDXRef-item3866356
+FileChecksum: SHA1: 4e7cae4cd690d3f831c1a1a55309931d72e2c98b
+FileChecksum: SHA256: f51f5f1e89c0cc3fa8bb6bf3e0b4c8afcfbd659101bc1b2d4a867dc3763c951e
+FileChecksum: MD5: f135603a06151ac88d439929ab1d9fdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/transcode.c
+SPDXID: SPDXRef-item3866447
+FileChecksum: SHA1: 4e7cae4cd690d3f831c1a1a55309931d72e2c98b
+FileChecksum: SHA256: f51f5f1e89c0cc3fa8bb6bf3e0b4c8afcfbd659101bc1b2d4a867dc3763c951e
+FileChecksum: MD5: f135603a06151ac88d439929ab1d9fdc
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/bytes.h
+SPDXID: SPDXRef-item3866358
+FileChecksum: SHA1: 89e29dd29d653443f23ebad96f371d5d28de5be4
+FileChecksum: SHA256: 59ede97b1fed8e14d92ec228c0e3a34bfb7d77a63772103389f7060f11edf9d8
+FileChecksum: MD5: b7491fb9909fa98c61fdf7bcbd47e5df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/bytes.h
+SPDXID: SPDXRef-item3866451
+FileChecksum: SHA1: 89e29dd29d653443f23ebad96f371d5d28de5be4
+FileChecksum: SHA256: 59ede97b1fed8e14d92ec228c0e3a34bfb7d77a63772103389f7060f11edf9d8
+FileChecksum: MD5: b7491fb9909fa98c61fdf7bcbd47e5df
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/log.c
+SPDXID: SPDXRef-item3866359
+FileChecksum: SHA1: aaf845ada8e868702a2a1a4435bab7d4ddcf0358
+FileChecksum: SHA256: 91effeff4bdd33c410fb1b2663a9ab99e91c138f083f7a6a73ed57654282efea
+FileChecksum: MD5: 5dbda99da30934e2fe52258806ad9478
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/log.c
+SPDXID: SPDXRef-item3866452
+FileChecksum: SHA1: aaf845ada8e868702a2a1a4435bab7d4ddcf0358
+FileChecksum: SHA256: 91effeff4bdd33c410fb1b2663a9ab99e91c138f083f7a6a73ed57654282efea
+FileChecksum: MD5: 5dbda99da30934e2fe52258806ad9478
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/dump.h
+SPDXID: SPDXRef-item3866361
+FileChecksum: SHA1: f23f3c17a82db15b36810d0da8d0f82e5c372525
+FileChecksum: SHA256: 25d87a0b0e6d6a84f73687a50aaf902a3b7fae7e87e50ce46d24f6e36e854927
+FileChecksum: MD5: ed961cf006a0ac232712ed68d3c0f574
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/dump.h
+SPDXID: SPDXRef-item3866454
+FileChecksum: SHA1: f23f3c17a82db15b36810d0da8d0f82e5c372525
+FileChecksum: SHA256: 25d87a0b0e6d6a84f73687a50aaf902a3b7fae7e87e50ce46d24f6e36e854927
+FileChecksum: MD5: ed961cf006a0ac232712ed68d3c0f574
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/log.h
+SPDXID: SPDXRef-item3866362
+FileChecksum: SHA1: 49f21314e41233f688aff7b064766d36afb85b93
+FileChecksum: SHA256: 05933cc4c5ef014f236c5df3da6146242ed75db8ab784aeda2e2cd62a1903c7c
+FileChecksum: MD5: 32cb130a2bdae114330b0c2d0046a08e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/log.h
+SPDXID: SPDXRef-item3866455
+FileChecksum: SHA1: 49f21314e41233f688aff7b064766d36afb85b93
+FileChecksum: SHA256: 05933cc4c5ef014f236c5df3da6146242ed75db8ab784aeda2e2cd62a1903c7c
+FileChecksum: MD5: 32cb130a2bdae114330b0c2d0046a08e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/fileio.c
+SPDXID: SPDXRef-item3866360
+FileChecksum: SHA1: 8cbea0f304d0a01596bb2e03fd4ad97ca66f3768
+FileChecksum: SHA256: b4a0e00defd42e56a8ba77655b0d547eb35dcd7097db3f735a10c014b541a658
+FileChecksum: MD5: 2caf820c1a99e412a040eda9e0e0b723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/fileio.c
+SPDXID: SPDXRef-item3866453
+FileChecksum: SHA1: 8cbea0f304d0a01596bb2e03fd4ad97ca66f3768
+FileChecksum: SHA256: b4a0e00defd42e56a8ba77655b0d547eb35dcd7097db3f735a10c014b541a658
+FileChecksum: MD5: 2caf820c1a99e412a040eda9e0e0b723
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/transcode.h
+SPDXID: SPDXRef-item3866363
+FileChecksum: SHA1: 921572cf9d07bb07d88cee10a4a62e74320549fe
+FileChecksum: SHA256: 30695fca08dc14be22d9eae0c28dc9476924899d76ac764a33c459e832522c3c
+FileChecksum: MD5: 2ec3c07571bffce249cfeb74f24367c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/transcode.h
+SPDXID: SPDXRef-item3866456
+FileChecksum: SHA1: 921572cf9d07bb07d88cee10a4a62e74320549fe
+FileChecksum: SHA256: 30695fca08dc14be22d9eae0c28dc9476924899d76ac764a33c459e832522c3c
+FileChecksum: MD5: 2ec3c07571bffce249cfeb74f24367c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/keyval.h
+SPDXID: SPDXRef-item3866364
+FileChecksum: SHA1: 9b7ecadb1e8a782c8f538ac61dbf1a6108e6c834
+FileChecksum: SHA256: c1eb1b3e25c7a99aa72646ec638b4b46cf764f7c28d7117659f889ab2a374b6e
+FileChecksum: MD5: 8cd8516bf9248e7fb076ac12a130ebc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/keyval.h
+SPDXID: SPDXRef-item3866458
+FileChecksum: SHA1: 9b7ecadb1e8a782c8f538ac61dbf1a6108e6c834
+FileChecksum: SHA256: c1eb1b3e25c7a99aa72646ec638b4b46cf764f7c28d7117659f889ab2a374b6e
+FileChecksum: MD5: 8cd8516bf9248e7fb076ac12a130ebc9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/bytes.c
+SPDXID: SPDXRef-item3866367
+FileChecksum: SHA1: 6f8ccf5e62ed8fd448c19572796e9e04e4b9ee3b
+FileChecksum: SHA256: 90844173dc779db3dacaf506012123d45dd71c954130df87ddcf1f9a86a09743
+FileChecksum: MD5: eba18e52426e3224300eebd0493791bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/bytes.c
+SPDXID: SPDXRef-item3866465
+FileChecksum: SHA1: 6f8ccf5e62ed8fd448c19572796e9e04e4b9ee3b
+FileChecksum: SHA256: 90844173dc779db3dacaf506012123d45dd71c954130df87ddcf1f9a86a09743
+FileChecksum: MD5: eba18e52426e3224300eebd0493791bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/json_gen.c
+SPDXID: SPDXRef-item3866365
+FileChecksum: SHA1: 2571d2d323ef2a47b2dec200d70523ce935235ca
+FileChecksum: SHA256: aac7cdb904c6a1330ba82f107f8d82b6ef568c005cdb05b05c07b11d3dbf5c37
+FileChecksum: MD5: 4f171ee995fb893bd188ee73023527e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/json_gen.c
+SPDXID: SPDXRef-item3866461
+FileChecksum: SHA1: 2571d2d323ef2a47b2dec200d70523ce935235ca
+FileChecksum: SHA256: aac7cdb904c6a1330ba82f107f8d82b6ef568c005cdb05b05c07b11d3dbf5c37
+FileChecksum: MD5: 4f171ee995fb893bd188ee73023527e9
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/json_prs.c
+SPDXID: SPDXRef-item3866368
+FileChecksum: SHA1: 237edd03f17f2d7a7af248ebbefcce0aff230298
+FileChecksum: SHA256: 54cd07c314cd5500600d6772db17e26d16bb666a9cc64e7018b5f5ca93adfcbc
+FileChecksum: MD5: ee141d816d927c9c02b2f6d91cc07983
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/json_prs.c
+SPDXID: SPDXRef-item3866466
+FileChecksum: SHA1: 237edd03f17f2d7a7af248ebbefcce0aff230298
+FileChecksum: SHA256: 54cd07c314cd5500600d6772db17e26d16bb666a9cc64e7018b5f5ca93adfcbc
+FileChecksum: MD5: ee141d816d927c9c02b2f6d91cc07983
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/dump.c
+SPDXID: SPDXRef-item3866369
+FileChecksum: SHA1: 243c52a5811ded270053ced235ebd455b036f750
+FileChecksum: SHA256: d874e0382f56c4f9848fc8b2e56bb71cfb081e21ae44e4d76a7b31c2f899fa56
+FileChecksum: MD5: b6d23c4524fd350b903a3c577d44dc61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/dump.c
+SPDXID: SPDXRef-item3866467
+FileChecksum: SHA1: 243c52a5811ded270053ced235ebd455b036f750
+FileChecksum: SHA256: d874e0382f56c4f9848fc8b2e56bb71cfb081e21ae44e4d76a7b31c2f899fa56
+FileChecksum: MD5: b6d23c4524fd350b903a3c577d44dc61
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/fileio.h
+SPDXID: SPDXRef-item3866372
+FileChecksum: SHA1: df14f37e74ec189eaff531e095900a9accc813d7
+FileChecksum: SHA256: b145ca99a7480fd9d9cb87985b26180b05278809365b8c53fefa9705ba703425
+FileChecksum: MD5: c525a9a25b221aeeebd3b548698f17b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/fileio.h
+SPDXID: SPDXRef-item3866472
+FileChecksum: SHA1: df14f37e74ec189eaff531e095900a9accc813d7
+FileChecksum: SHA256: b145ca99a7480fd9d9cb87985b26180b05278809365b8c53fefa9705ba703425
+FileChecksum: MD5: c525a9a25b221aeeebd3b548698f17b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/keyval.c
+SPDXID: SPDXRef-item3866371
+FileChecksum: SHA1: 1b19bae41a9ac52d9b8dd408c38746aaedbbaf0d
+FileChecksum: SHA256: eb7fe3901afb9117958750c03c7f8da30b5512e42a73562996d2c9f598cb7b18
+FileChecksum: MD5: 9804678963f0cf7e3212b31bda2f83eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/keyval.c
+SPDXID: SPDXRef-item3866469
+FileChecksum: SHA1: 1b19bae41a9ac52d9b8dd408c38746aaedbbaf0d
+FileChecksum: SHA256: eb7fe3901afb9117958750c03c7f8da30b5512e42a73562996d2c9f598cb7b18
+FileChecksum: MD5: 9804678963f0cf7e3212b31bda2f83eb
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/py_racf.py
+SPDXID: SPDXRef-item3866380
+FileChecksum: SHA1: 43df7d1fe0d3f4f59aa08fece5d8fbb3d0924b6a
+FileChecksum: SHA256: e6372d6a1eb725ce4bc6e32a3a6c1f480b39c44989824460727c3759de1d14ea
+FileChecksum: MD5: 54d38e01e848205e51163c1c16a48fd2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/config.py
+SPDXID: SPDXRef-item3866504
+FileChecksum: SHA1: 10ff52285a8057dd3b99b642da59003e71d14ed2
+FileChecksum: SHA256: a31ba898989b75043f94283d844fd8330582d96c9e4ac89c27f5cf240884f958
+FileChecksum: MD5: 6f0dfdd7a69907f17f0dcfaaa7e661d3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/ztron
+SPDXID: SPDXRef-item3866505
+FileChecksum: SHA1: 4a86700095d27d1e51c522e454e2e57a5d5947a5
+FileChecksum: SHA256: 2287abf9115c88bfde98779439f722d3e7796548c8faa5b025b61f634672d063
+FileChecksum: MD5: 49df12e407892e3c8972729dc363018e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/pipeline.py
+SPDXID: SPDXRef-item3866506
+FileChecksum: SHA1: b039b33d144dd77f1b4f200f7b6daad8697f2e33
+FileChecksum: SHA256: ec56a7c22efee7d72524702fadb57498b6e0d08aba85958b2a0a4abafa03dd39
+FileChecksum: MD5: e739154276164ee85d24c76537a43fc2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/log.py
+SPDXID: SPDXRef-item3866508
+FileChecksum: SHA1: 5fe59eb5219508cc48bc2f3d3aaa2f9e23d4e741
+FileChecksum: SHA256: 3a9737113ae18a832b9391201681eb022fb6e2c5c186744b29de62b36324d127
+FileChecksum: MD5: 96f84595d957c38b28e0dbe10c1ba3bd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/log_file.py
+SPDXID: SPDXRef-item3866509
+FileChecksum: SHA1: 116fb33c84e29f7b74894cd7e462b72bd2061e39
+FileChecksum: SHA256: e2bccc843ea56348778e1b8e70d8d236ae8cd2014b114590c48eba105a6c4fe9
+FileChecksum: MD5: e61c4663c08de83a412081efdd3ca05e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/zt_run.py
+SPDXID: SPDXRef-item3866511
+FileChecksum: SHA1: b0a3e5888eab9ec6a0b2381482781ec24a6e8d0a
+FileChecksum: SHA256: f9c27314059ebdd300f525b0c19803cde55ea852f61cece3e2e9db1d87d0cdaa
+FileChecksum: MD5: 4ab30923657c38d043da7f98bc1e9373
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/stage.py
+SPDXID: SPDXRef-item3866510
+FileChecksum: SHA1: 8e0f3c4f220f8508da7e57202e459225e63faa64
+FileChecksum: SHA256: c21c4c8db24e02da913ca3c68bddc58773ddeb277bca4513dad53ce0f8423299
+FileChecksum: MD5: 9dd8e080df7eafcec3d49320bd212f77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/cmd.py
+SPDXID: SPDXRef-item3866512
+FileChecksum: SHA1: 1dc6da20d3d948560d3a2060beb2a8beb226e4f3
+FileChecksum: SHA256: 22c7316ebce504457a2c325348b8280f048bad598c0352cb5c81dd9cd1e2869a
+FileChecksum: MD5: ad8482e269924b66dc519d8dbbbd18ca
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/ztron.py
+SPDXID: SPDXRef-item3866513
+FileChecksum: SHA1: 5ce476ab112a8fd3d0a7c342634402f2c31c97a4
+FileChecksum: SHA256: e1bdf8a0988a3f636bdbe1a2ba576bb988bec39bb0d9a37ba6884c61184329ac
+FileChecksum: MD5: c818039f828f72464c7af3e1b1d5bc14
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/src/utils.yaml
+SPDXID: SPDXRef-item3866536
+FileChecksum: SHA1: 780f213952bf0db815eae07c5d09ca98e1588f07
+FileChecksum: SHA256: 0922e6a8edf0c48b49b54a735839eae2d576f396d17506cd5bed72f6a19de9e6
+FileChecksum: MD5: 4cb8eac11d0adb856fe01012f115e3b6
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/src/zml.yaml
+SPDXID: SPDXRef-item3866537
+FileChecksum: SHA1: 8094ee0475b63371477667d7473ce5235416bdde
+FileChecksum: SHA256: 698a9f2aaeb93a3d889ade3a61c39a8a8041e1358bf38a3b4e22138840d07103
+FileChecksum: MD5: 36a9d6c0e1835c5216ef1fcefcea9fc7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/src/info.yaml
+SPDXID: SPDXRef-item3866539
+FileChecksum: SHA1: 811645c049ee526bf4750089dc8ee5857de91b7c
+FileChecksum: SHA256: e34e3dd6b40afcd66b7a400a5e0f92c6f0e44d581baac8d2c28bd7e7bc0490cb
+FileChecksum: MD5: 778fa8f8c2f0e4a29f542d7bb9e59cba
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/src/formats.yaml
+SPDXID: SPDXRef-item3866540
+FileChecksum: SHA1: 0d0a622780f8495e1a60922d2fac6450da8a97ff
+FileChecksum: SHA256: b05a75e4da2ee211b305686ba1acf39e25d13d8a9d0809eb8fdb50ede15821ec
+FileChecksum: MD5: 3c4ed5cef4e77bfc267b3ec6013a21bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/src/properties.yaml
+SPDXID: SPDXRef-item3866538
+FileChecksum: SHA1: 7405cc5a4faab20a9a84cca0ce380954ad072538
+FileChecksum: SHA256: b7957f510273b099f5dea860160228d8fedc20006497769c29d615ddcb9e1aee
+FileChecksum: MD5: 943daedfeeab16c86ec1358a2edbea74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/profiles/general_sh_profile.txt
+SPDXID: SPDXRef-item3866552
+FileChecksum: SHA1: c5b92445717488b91e3c4629cf239cf1a67b6767
+FileChecksum: SHA256: 10928731c9420395084097a24ba9b96cf1c48ba5e89ed84519c94c139b0f99ed
+FileChecksum: MD5: 15b028c670c6bcb561c1d5b475a9f577
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Ambitus Project. SPDX-License-Identifier: Apache-2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/resources/P2ZASM.yaml
+SPDXID: SPDXRef-item3866180
+FileChecksum: SHA1: b769bed130b172c0f8516cac84007c2c79256770
+FileChecksum: SHA256: 8104fd5e4404e4576e74523988f228dcbb07c93fee31366a77a8d04e415b6273
+FileChecksum: MD5: c645227e7137e829cb98d7a91152967f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/AbstractType.py
+SPDXID: SPDXRef-item3866147
+FileChecksum: SHA1: 7c4bbdcd6df38b7e9dda8a25f13a4141e58de6f3
+FileChecksum: SHA256: a1e3a9be691decafb165c11f921bbbcc0129e24e7bd3126742b4502ec3646557
+FileChecksum: MD5: 46c0ea17fdfbc20ad03d48e64885412a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/Pointer.py
+SPDXID: SPDXRef-item3866148
+FileChecksum: SHA1: c1bb32d79022d8795d252146fb44d59130c607b6
+FileChecksum: SHA256: 5c39ed84d54db17bd36afdface07c2c768ec1933a04d33f7b88122afdcda3343
+FileChecksum: MD5: 8f8319a0206c69693af8835d2025d28b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/Char.py
+SPDXID: SPDXRef-item3866149
+FileChecksum: SHA1: 1384ad02efd8b998be4d6016f777d8481546fe36
+FileChecksum: SHA256: e9d7f4f474e050d60d462033f4fd2196aa7405458c2ddbeba20387af3aa901d9
+FileChecksum: MD5: 30120ff398d1383d6522439d5f2206de
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/__init__.py
+SPDXID: SPDXRef-item3866150
+FileChecksum: SHA1: 6a7919742a3ee4d0ae839882a4f8f3f4249c5fd9
+FileChecksum: SHA256: 481de96314a10f67dc54c0dc82b58c166bbd8e5418fd730d1c97da9bd9f04527
+FileChecksum: MD5: 8619c7d40119dbedf36bdd62032e35c3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/Bit.py
+SPDXID: SPDXRef-item3866151
+FileChecksum: SHA1: 91d29b0e972f812c5dc475b5f75ca727e5f22c52
+FileChecksum: SHA256: 428d40568b51ee9dff5f4ec7285f4edfb9f326d57903a6d0d2630df79cc1bdcf
+FileChecksum: MD5: 3a741399b4e535048235dd925146ba7c
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/Array.py
+SPDXID: SPDXRef-item3866152
+FileChecksum: SHA1: 781ca58ec326c2a91e81c57eb3bb0cffdc961e49
+FileChecksum: SHA256: bb7799a8d768fd005d6c8ff2e01e824edc725dcf962e1f648da03d1d921299de
+FileChecksum: MD5: f89f165818dc257e46088a739e95472d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/types/Number.py
+SPDXID: SPDXRef-item3866153
+FileChecksum: SHA1: 4afb015ec0eb9c81acdd525dd2a19ad5fc66365a
+FileChecksum: SHA256: a9edd39048549ec82d0b9484d0216a1e3f7d1fb7a0c6e908ee51dc61673a631a
+FileChecksum: MD5: 34ce96bb74a901ff988d78d33c3579d4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/load/__init__.py
+SPDXID: SPDXRef-item3866156
+FileChecksum: SHA1: ad8d51110a359fc48704cb4b00db4aa096adae28
+FileChecksum: SHA256: e934b71d0dd35deb480edc7585e1b980962fed7ad61e94c3e908eb11029ced44
+FileChecksum: MD5: 0781dc8583b70cff29b0fa2ed83bef51
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/locate/__init__.py
+SPDXID: SPDXRef-item3866160
+FileChecksum: SHA1: 90465c160bba9625b851a1aa748fcee90c811e76
+FileChecksum: SHA256: 3789d65a11e1476cbba699841f1253a5d4f0ba388f13f4816fbd51907b506925
+FileChecksum: MD5: e3794c53551ceb9990855877cc7d18db
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/locate/LocatorFactory.py
+SPDXID: SPDXRef-item3866158
+FileChecksum: SHA1: c669ad58911c9a892616ddbba5fbc08762722161
+FileChecksum: SHA256: 87a8243fe6589bb23e9a0a6f09f1a4201d118ec40189dd7cd544a5434add7220
+FileChecksum: MD5: 2274168ed22c1704834ff3d557959239
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/locate/AddressLocator.py
+SPDXID: SPDXRef-item3866161
+FileChecksum: SHA1: ae2b585b483b25c0f1a7022d727e54ab96a29837
+FileChecksum: SHA256: 2ff3aa63856692a289dafcde84864654403a60d2feae03b6503c46efbc2745dc
+FileChecksum: MD5: 3c2e0faec400b4855a94d51f680e4839
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/locate/Locator.py
+SPDXID: SPDXRef-item3866159
+FileChecksum: SHA1: 482ad08cb979ffea454af9274dae81716cb983dd
+FileChecksum: SHA256: a38266cd9c8096cf70079eaaba44e954d1e19145dcdbf4b2c2a4033bd708be36
+FileChecksum: MD5: a316bdc4324d7b4584826cabe5448f7a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/locate/FileLocator.py
+SPDXID: SPDXRef-item3866162
+FileChecksum: SHA1: dab5f89453f7899e881921c09e72da3f1f0bd067
+FileChecksum: SHA256: 11aa90c5bb0d996237c606ff335334f68adf76dcd797eed6aa1ab44b8850dc30
+FileChecksum: MD5: 3f55be0927f2fdad5e1b2d28a7e9c1ef
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/python.jinja
+SPDXID: SPDXRef-item3866164
+FileChecksum: SHA1: 5c3e6bc6786962c0d17b45763a0b712aa2f4fb25
+FileChecksum: SHA256: 7721733d7688090c91deeb7f91774c602f6102645425b8efb88eb93fab1e02c0
+FileChecksum: MD5: e94bc34ba209d03c17b60f83f936c66d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/__init__.py
+SPDXID: SPDXRef-item3866165
+FileChecksum: SHA1: d6eefb184f17a6cd5bff5d5c10ccf6aa6758a2b9
+FileChecksum: SHA256: ec362ada5afc94c7178fb169d867a67c5769ae72fa6a5e90bf8603a932048c95
+FileChecksum: MD5: e5390f9bf8dc19161eafb21cb4b15adf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/__main__.py
+SPDXID: SPDXRef-item3866167
+FileChecksum: SHA1: 89641cf37caa210a19234ab492cd45f2fb9dae48
+FileChecksum: SHA256: 0d0686e4646245cb3918e42620484243d2193849c27af426960feb992978ab09
+FileChecksum: MD5: 74bbe3d85ef0f23c31110c5969d39475
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/zml_parser.py
+SPDXID: SPDXRef-item3866163
+FileChecksum: SHA1: 88f3d31d99b0e98d8b8273414138eee3b2ff1cd0
+FileChecksum: SHA256: 7915c0109b27f6e09b142bd3a8a012b45d1e64aeff5f99e1c67419b1aed0bc1c
+FileChecksum: MD5: bb228df3c8c8181e6bdb3496373c3c18
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/__version__.py
+SPDXID: SPDXRef-item3866166
+FileChecksum: SHA1: 726285b8d5e942842287af0ec6d6edcd23cb1de3
+FileChecksum: SHA256: 835c8537a1329014f93c3d370116f225064de8302cdfe1c59a5d20bccba0a92d
+FileChecksum: MD5: 3a52921eca1bd4d76aee8fc6531c3e12
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/AbstractControlBlock.py
+SPDXID: SPDXRef-item3866168
+FileChecksum: SHA1: db70f031789185517f9ab353d5cf46cc797a1e7b
+FileChecksum: SHA256: e788e6131b61c743f8f492ff44b2fa9e66bbd308e1dfaa2bac9500fb9b82919c
+FileChecksum: MD5: 3c093c27221ec41dec0b8d48a8bf9321
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/cbexplorer.sh
+SPDXID: SPDXRef-item3866170
+FileChecksum: SHA1: 6de3cf277c0690bdf5be82a822de21c1857b2df9
+FileChecksum: SHA256: c4f677f4225960c54b755aac73fd3a2f328d23d2d8845574bc2bced4b70fe114
+FileChecksum: MD5: 8dc5d1cd0cc8c79d0a91543622552d3d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/test.sh
+SPDXID: SPDXRef-item3866171
+FileChecksum: SHA1: 3fbb6872cc5f1abef32e5b0114c3a3dac1516cf2
+FileChecksum: SHA256: 8980bd25d25d33cdb5ee9e7579cba1ba68586cce2f1f5d17a2377a89cea35141
+FileChecksum: MD5: 7baac97a01078c83c882ddfaf14c0d6e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/test_types.py
+SPDXID: SPDXRef-item3866172
+FileChecksum: SHA1: faef2483e46be000cbc7cdb06afeaed6e2645404
+FileChecksum: SHA256: 096524d51826d1b96e37b7d68b814efc92b4a23a173d176125ae99552685cca3
+FileChecksum: MD5: 667ae9e88ae4a4a0be6388adb9504a4d
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/test_Locator.py
+SPDXID: SPDXRef-item3866174
+FileChecksum: SHA1: a2fa2dad2aab48ba739ed99bab2edf7da70ce281
+FileChecksum: SHA256: 21abfab880377ef670460ec30068a7304638164aa2c89cb1dd488c777f1f4afb
+FileChecksum: MD5: 1f665d985fa84b0061962a3b5e51e85a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/test_Loader.py
+SPDXID: SPDXRef-item3866175
+FileChecksum: SHA1: 5cefc3c89208719e239e6062083c23af04923f44
+FileChecksum: SHA256: 11eafc5efd81de5e9627b7dab0be1dad320b51663d7312c9eed3b94697be9c0f
+FileChecksum: MD5: 2f3296ee0b82f604f845b0f7271d90c4
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/tests/__init__.py
+SPDXID: SPDXRef-item3866173
+FileChecksum: SHA1: f2901fa80ed0a38ce1bd14e7334408187f4d2df6
+FileChecksum: SHA256: 2ae153b00dc108b11a0bb7283ce4d2efe8deadd5d136e9b7dc61b428ac1d8c1b
+FileChecksum: MD5: 9ff66517a30e4b0950dc95acb7af58c5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/Makefile
+SPDXID: SPDXRef-item3866176
+FileChecksum: SHA1: 72ecd217873d9de5441c4699cc4a05fce478cbce
+FileChecksum: SHA256: db399318b08e262b7177129b7169d22835e5cf45780f19033ebcda452d2271fd
+FileChecksum: MD5: 1fbb59e5f5d9ae522dd6a382de6dcd47
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/setup.py
+SPDXID: SPDXRef-item3866185
+FileChecksum: SHA1: 01388184b36e347bae3b95832181c3bbbe7d41d6
+FileChecksum: SHA256: 4e8b1f424586a1d2d1b46edfd08df342628794da1858f649ee357001ae56cc22
+FileChecksum: MD5: f64cbbf4f3cb006f2adea8a40cc2b84a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: <text> Copyright 2020- IBM Inc. All rights reserved SPDX-License-Identifier: Apache2.0 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/README.md
+SPDXID: SPDXRef-item3866214
+FileChecksum: SHA1: 609706d1eca39ce96caa91e1ddd4569fe419a3f7
+FileChecksum: SHA256: d21b800e712cdfb34398fcaac981e436ae924e6e61f9e3ecc3b1355b1851df47
+FileChecksum: MD5: 187489428b4d5b53d595b7c6bd802349
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/LICENSE
+SPDXID: SPDXRef-item3866195
+FileChecksum: SHA1: dae17fdaf0b07242bd19bb4ea685157fe65b8a55
+FileChecksum: SHA256: 8d3fceb4cb62663775f02c1c551cfbf332d1c736667c17817c16c635caba21e0
+FileChecksum: MD5: dd44fc98fc34924a5614ce865a50e4d8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright. More considerations for licensors : wiki.creativecommons.org/Considerations_for_licensors
+copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public : wiki.creativecommons.org/Considerations_for_licensees
+copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world. k. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning. Section 2 – Scope.
+copyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable; B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License. 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information. 3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable. 4. If You Share Adapted Material You produce, the Adapter's License You apply must </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/CONTRIBUTING.md
+SPDXID: SPDXRef-item3866210
+FileChecksum: SHA1: a03d1f846f470dae0a154bd55f8a6849b8777d2e
+FileChecksum: SHA256: 8aacacb2f5b4b3b667aac00717a29825c6a63adc53e2b454941a48eb4e4f00d1
+FileChecksum: MD5: 92b15c868d6b203bbf25db4f96e70ea0
+LicenseConcluded: Apache-2.0 AND CC-BY-4.0
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright guidelines of the Open Mainframe Project](https://github.com/openmainframeproject/tsc/blob/master/process/contribution_guidelines.md#license-specification) All contributions must be accompanied by a [Developer Certification of Origin (DCO) signoff](https://github.com/openmainframeproject/tsc/blob/master/process/contribution_guidelines.md#developer-certificate-of-origin) Contributions must be made as a pull request, and is subject to review by a [committer](https://github.com/ambitus/ambitus/blob/master/governance.md#committer) to be accepted. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/LICENSE
+SPDXID: SPDXRef-item3866289
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/LICENSE
+SPDXID: SPDXRef-item3866314
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core-0.1.1.dist-info/LICENSE
+SPDXID: SPDXRef-item3866484
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/LICENSE
+SPDXID: SPDXRef-item3866555
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/LICENSE
+SPDXID: SPDXRef-item3866523
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/LICENSE
+SPDXID: SPDXRef-item3866501
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/LICENSE
+SPDXID: SPDXRef-item3866177
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/LICENSE
+SPDXID: SPDXRef-item3866219
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/sustainability-grafana-dashboard/README.md
+SPDXID: SPDXRef-item3866138
+FileChecksum: SHA1: 8863c798e8e2149ceadb17d57f39b1f6970e4797
+FileChecksum: SHA256: 40b4393bf89d49290316d81a407683e78e9c4b0511e788d6b84a2dc9196dc45f
+FileChecksum: MD5: f4691f4c7405eec277869e516846c9be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/sustainability-grafana-dashboard/doc/dashboard-sample.png
+SPDXID: SPDXRef-item3866140
+FileChecksum: SHA1: 0cefa8d87f33ed779eaf2d79420da98d523720b9
+FileChecksum: SHA256: 74cfd6171c8827a89798bac9cb3fd7ab9d2ce73a2426460edd9cbb9717b9443a
+FileChecksum: MD5: 3f7c9a1597e44c735ac8f2f833afd1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/sustainability-grafana-dashboard/doc/sustainability-dashboard.png
+SPDXID: SPDXRef-item3866141
+FileChecksum: SHA1: db08ccb7f156d0391f9e74e06d6f865bcee0b536
+FileChecksum: SHA256: b24efc9eb8d321a6f02c1c8f9cfe75c675b2552c3fd40e7aa511aafea62d3acb
+FileChecksum: MD5: 46b31733cc354c6e134cc7177fddeab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/sustainability-grafana-dashboard/grafana-dashboards/sustainability-dashboard.json
+SPDXID: SPDXRef-item3866143
+FileChecksum: SHA1: be015a0e5e89fa1f781cd8e03ab1927980e1dfdb
+FileChecksum: SHA256: 15531c7eb3a0b10448c22c98b7dcf6eb5713a1259d7f0fefb3d2492827bb8653
+FileChecksum: MD5: 69fb70a54f56f64a4029287396fe57a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/cbexplorer/load/Loader.py
+SPDXID: SPDXRef-item3866155
+FileChecksum: SHA1: f39a09ae086a32165ac7b1ccc282da459933add5
+FileChecksum: SHA256: 792d556d41fba58a89a34fe3c36244129f2f59a4ba20bf889d4e21f6d2576678
+FileChecksum: MD5: 3ae79fed36a0d9010db9a02c7c31d397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/resources/CB_Explorer-access.png
+SPDXID: SPDXRef-item3866179
+FileChecksum: SHA1: 9ffe5e38106ca85a0966a8709562752c35dd4623
+FileChecksum: SHA256: b4550517b5b3e0db40ae16687134b40d77d7ab375a4d4b2a7b4d4a1aff2aa979
+FileChecksum: MD5: 6996b4dd4f95dd15e32d28f13fb8bb9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/resources/README.md
+SPDXID: SPDXRef-item3866181
+FileChecksum: SHA1: 4e15e42a6d263fe3e1dabcfe7b09dbdd72662aeb
+FileChecksum: SHA256: 9d6ee74b0f3ccb878513cd14d25d60da2e60a42451865ded4fc1d6be3338f772
+FileChecksum: MD5: 16eeaa8c722147375e5c031d6bc1bb0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/resources/CB_Explorer-build.png
+SPDXID: SPDXRef-item3866182
+FileChecksum: SHA1: 4c6c82542800fe687d269c192c10a9b54453e576
+FileChecksum: SHA256: 96bc6c37cac234c9fffd1dbce2f9217fdb99ce5e9d3370fd7b477052495ac621
+FileChecksum: MD5: aef30d47484d7607a87e24e398f829e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/Pipfile.lock
+SPDXID: SPDXRef-item3866183
+FileChecksum: SHA1: 61531c6de2006c8d23737cc5547d709670604f75
+FileChecksum: SHA256: b388d0644c70c33ec35d6d6618d0f5ff43e2fbfa7293643da69f44878a80de1f
+FileChecksum: MD5: efd4926856cf191116f61df844550316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/.flake8
+SPDXID: SPDXRef-item3866184
+FileChecksum: SHA1: 724ac7c124f15b44d3351ce86288f670df93cb29
+FileChecksum: SHA256: c6e24701446f955dacf5554dc41b2d5565ea5a19d0c91787081f8360a781a755
+FileChecksum: MD5: e99c2cb34c9c777098681ec14998e8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/.gitignore
+SPDXID: SPDXRef-item3866186
+FileChecksum: SHA1: 71d05a878d155668cd33bea6a8e2422907b37c64
+FileChecksum: SHA256: cf40c915732d0c2bb329927976fd020cacb89e5d9710727e4618821c5573e5f0
+FileChecksum: MD5: 66fab615fc5e56a45e878137b9927533
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/requirements.txt
+SPDXID: SPDXRef-item3866187
+FileChecksum: SHA1: ef09c378ab6f004953b17e29709b0a62d283f185
+FileChecksum: SHA256: 734decc215bacb018e1cea139d22efe002fb3abfdbb447cd7453c693156edafe
+FileChecksum: MD5: 0725e37073956d071359b866614891d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/.gitattributes
+SPDXID: SPDXRef-item3866188
+FileChecksum: SHA1: 60a08a587b69e6b5af0b2cecb24ea7278475ae7b
+FileChecksum: SHA256: 96b2b03c16cc5e0b6213d42fdb4abe7d969b11dff1fc509f3e99b1d0e1f66c2c
+FileChecksum: MD5: e0ded509dcef4d4d4417a760cd4581b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/README.md
+SPDXID: SPDXRef-item3866189
+FileChecksum: SHA1: 21049673e40a21afd2ea1551d95c395d2546829b
+FileChecksum: SHA256: c373d3854cb81a355101983d38212fe35231795a668e16db171c0781766f25c6
+FileChecksum: MD5: 73d77547ecd9d79c83a725be7c8fc3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/Pipfile
+SPDXID: SPDXRef-item3866190
+FileChecksum: SHA1: 4049432d1d200666123512352d135d95186d0490
+FileChecksum: SHA256: 26807ca6c14edf3855c41d72e89fcd5c7dfb7fa47c645872360631976dc3fafc
+FileChecksum: MD5: 258c42fa2f05a6118c0ac347af1f5345
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/cbexplorer/COMMITTERS.csv
+SPDXID: SPDXRef-item3866191
+FileChecksum: SHA1: 50c4df1e1b28ac03bbee1672f0edeb684bb8afc1
+FileChecksum: SHA256: 511f77dd5d7a276ce9a0109c12ada2bef4a21c93c587a3cf19be08cc6681465c
+FileChecksum: MD5: f2e12d2dd394263f5c0c314fdea9ad57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item3866193
+FileChecksum: SHA1: 13925994291c187b811a5c13caf961aee3c75659
+FileChecksum: SHA256: d9e9b9e8a8970a1e4d3a3d530a7e1b653b3b8b3ff537d39ad8710254acbc2606
+FileChecksum: MD5: 1a8cf8cd7b7b4d774788b69d079688de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/GOVERNANCE.md
+SPDXID: SPDXRef-item3866194
+FileChecksum: SHA1: bac24cff19b232798a11c94b90054b03237e89c3
+FileChecksum: SHA256: deaf00daf6af10303619a3429597b5ef9d62871142c82e3cd6a5d26f6c099f34
+FileChecksum: MD5: eec2dded1f07dcf4464a0922c8d85244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_11042019.md
+SPDXID: SPDXRef-item3866198
+FileChecksum: SHA1: 2e3ec0c25933b585e4c239f61a6486903e1e7b29
+FileChecksum: SHA256: 77a345b1a3e3f0529ee013ed851a2c50ca66e9fb212d8a9b2ad08945bfe3ef37
+FileChecksum: MD5: 877093c96ebcf436ade67aa9313a74eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0330.md
+SPDXID: SPDXRef-item3866199
+FileChecksum: SHA1: 9f83dbed0fcb654e901c312ad4b22837d5fc2892
+FileChecksum: SHA256: c1028aec11028bd02f212619302fb473b88d2ef255e4d2622a59e799df76cb8a
+FileChecksum: MD5: 0d926b305e5d187fde771010f4319d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_10072019.md
+SPDXID: SPDXRef-item3866200
+FileChecksum: SHA1: d642c2851d2d7328d57c20180fe7318c02a2b6fc
+FileChecksum: SHA256: 17f9e7cdb6dcc52d2215f7481dff6b10a0d77b63802d3fc78bd5dae8f4fa686a
+FileChecksum: MD5: c4f93605afb246ec374e5b8e6f52a352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0427.md
+SPDXID: SPDXRef-item3866201
+FileChecksum: SHA1: a2ac94a23f75075af188b77bbe0846a240af60ee
+FileChecksum: SHA256: 828a1b925a5635ba8da54ae8ad80606a84fda19ca300bd2b0d8a110255d85264
+FileChecksum: MD5: f84c7a1a6dce599794f7d127d1b2f6bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_10212019.md
+SPDXID: SPDXRef-item3866202
+FileChecksum: SHA1: 9cd2863c26269bec35cf7183ea691710bf08731f
+FileChecksum: SHA256: 7316b485a79392884ed290d10b00f9efd06864897b5b8bb1a9004387a9d10c87
+FileChecksum: MD5: c9da6372a038aa48357f7e6a6422343b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0203.md
+SPDXID: SPDXRef-item3866203
+FileChecksum: SHA1: 64e403f0ba917f2ee6feef4932596a7cbef373a7
+FileChecksum: SHA256: 344adc478661fca75d0a4a2aa5f9546600a1e58a4f6565c02046195f60570b9f
+FileChecksum: MD5: 9d8d62f45bb3e1ae373994fd9d4762ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/README.md
+SPDXID: SPDXRef-item3866204
+FileChecksum: SHA1: fc912dab92fed7cbb76c92a11ce5cef1bad945be
+FileChecksum: SHA256: bb838d48166cafa0ba90fd2b1925b0cdb7fd3fad6410f8592aee498f5bd8db72
+FileChecksum: MD5: c67ad2e990d7d6cb6b460f2fec80aa28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0413.md
+SPDXID: SPDXRef-item3866205
+FileChecksum: SHA1: 0e99714a0d14e45794fa6917a2e8cd83a9e38a66
+FileChecksum: SHA256: 2f50a44215b2c24daf2b6de38cdd95e0c8729bc02eab6c17ee1973ebc7f789d8
+FileChecksum: MD5: 3e3cbd26f41824eb86992f7eecc27996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_12062019.md
+SPDXID: SPDXRef-item3866206
+FileChecksum: SHA1: 8ceeba8739e7894a1fe7b5e4d6a010e32ac3651c
+FileChecksum: SHA256: fdc13072cce7c93bf032243960cd3fbd0f59c2a07fa18084fd218db2441112c7
+FileChecksum: MD5: 3ce586670ff55c1bc5e24b0d88e42857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0106.md
+SPDXID: SPDXRef-item3866207
+FileChecksum: SHA1: 530f06030268d4f455932471694a88b546637032
+FileChecksum: SHA256: 0adfbecd794305d1c40312ae40b90f7f23ed9b61340b0d2427c3ac293134ca2d
+FileChecksum: MD5: 7f3c5b48585fc1a3590c0ce8243f3be7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/meetings/minutes_2020_0302.md
+SPDXID: SPDXRef-item3866208
+FileChecksum: SHA1: 2193bf81e10d17f4845992574f65faba8c64f08c
+FileChecksum: SHA256: faa57e7752d94677323f800199d6de8940d88abb8ed2073098db75ec9263932a
+FileChecksum: MD5: 2ef514fb4008186f946c3aa822ea9564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/TSC/README.md
+SPDXID: SPDXRef-item3866209
+FileChecksum: SHA1: 480328239b625507ce657359749ee9dac830e628
+FileChecksum: SHA256: e58238dd2cd600d6e26811a485690e79ee22f464dc86d2936d1849f746176500
+FileChecksum: MD5: d636e1a1cd8ccdd335c320029c183780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/port_proposal.md
+SPDXID: SPDXRef-item3866211
+FileChecksum: SHA1: 9a58fbcfbe5624b53d51cceb6a943830ac9c8d9a
+FileChecksum: SHA256: d0e59134a61ee55ccbe82c04aeef153690c659d18f9c19f3d37c995ed7d08796
+FileChecksum: MD5: 073a79127fea6ecf1f8554770ceab3d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/things_to_know.md
+SPDXID: SPDXRef-item3866212
+FileChecksum: SHA1: 8073ea554096d13894a8c17cee36b6ddf45808ac
+FileChecksum: SHA256: dee0b04d6ce69ee2a1aeb6543da3cc42bc40b792a4383e1e5a4db773d4814332
+FileChecksum: MD5: 96606ebb02d8d796ec158913428fb124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/how_to.md
+SPDXID: SPDXRef-item3866213
+FileChecksum: SHA1: 6e5d4b88520c5227332289314626d7574813f161
+FileChecksum: SHA256: 2d8b59cdb851868b21c80098d39a2e396ade8bad052490bc69ce4e50d4dd2ff1
+FileChecksum: MD5: 2b1cae3ced9a890b6d738e958e04f3e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/COMMITTERS.csv
+SPDXID: SPDXRef-item3866215
+FileChecksum: SHA1: 8271d25c653c8e090563f081736641d39f79e24e
+FileChecksum: SHA256: 7a9619f50738ba643ddeafd71e88f500202c83647edbcc77283fb02c8bb6e8f5
+FileChecksum: MD5: 3c02dfd51891066a49879b8d3b8e2b6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/porting_lifecycle.md
+SPDXID: SPDXRef-item3866216
+FileChecksum: SHA1: bb6f9234a3abd4b1f88284f591d9d60ae57214c8
+FileChecksum: SHA256: 3a4304c0126a34f076876e697c730eb6aa02a46be26b174b53fbaa902de38325
+FileChecksum: MD5: f0eeb64a4faaf212a4cb320666bd2118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/ambitus/ported_projects.md
+SPDXID: SPDXRef-item3866217
+FileChecksum: SHA1: c36b438f2cb659637827a7715a33b9213f5313d5
+FileChecksum: SHA256: c3d6483eec4cb3a378e27556eb8c500a0026a030ca61052c912bd708d1c9da66
+FileChecksum: MD5: 81c4d65a43037ab0f53ae1c89cbd2138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/images/tls-registry.png
+SPDXID: SPDXRef-item3866222
+FileChecksum: SHA1: 5bc41095f748f928e5900781dda6d8b008fb328a
+FileChecksum: SHA256: a1280fb76fa2327cea394ade75ec3757164284d103782ccfe3575b897d4fd65b
+FileChecksum: MD5: 1f3f9be98eabb8f95d7fac0e45fde6bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/images/docker_tag.jpg
+SPDXID: SPDXRef-item3866223
+FileChecksum: SHA1: 4a8735aa5d0c2395247d5f52ba8cbfe2a780146c
+FileChecksum: SHA256: dd4553b7a5770de1cd52c54f86c73b056e87b8c2e825e2204c32b4dc0315ea80
+FileChecksum: MD5: 6dae85a695b82b273028eb24a803cd02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/images/friendlyhello_webpage.jpg
+SPDXID: SPDXRef-item3866224
+FileChecksum: SHA1: e6870fc6098e1cdc4605e0898c9ad11235a079ad
+FileChecksum: SHA256: fe0c5d236e8fa71f7c06d7dd6944ab6968e82b4b54bbb617d352ea979845ddff
+FileChecksum: MD5: edb6e1975cc6c7798fe721b2d8123045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/images/MultiNodeMonitoring.jpg
+SPDXID: SPDXRef-item3866225
+FileChecksum: SHA1: 1c4419eb04caa7e7ccccfbd38aa05736f9f82298
+FileChecksum: SHA256: 8f33b153bb7f7adc3f648513f9841b58099862e09b85f81d7c9d69348ff4d306
+FileChecksum: MD5: 12e45ef8be375b78baa3cfc95e7e50d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/multinode-monitoring.md
+SPDXID: SPDXRef-item3866226
+FileChecksum: SHA1: 35fbb66df535e569ee0d8c4316a0c6a1ea4a9f83
+FileChecksum: SHA256: 200cd4cee50f461ee040ae2ce180aa28571769739b660a8dab9f494875a3cad9
+FileChecksum: MD5: 894bbb03a3c3d2cf342fccbce3da05e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/docker_for_the_systems_crowd.md
+SPDXID: SPDXRef-item3866227
+FileChecksum: SHA1: 6a21d0a7e7aa099c521c0de9283a801fbf4f6bf4
+FileChecksum: SHA256: 94afeafce3ba60aada998df8cd48762df439ea60d08240a95a0bb8742a974e72
+FileChecksum: MD5: 5f5c5707ff7d318609cadfb1495e0297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IBM-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/tags_regs_userid.md
+SPDXID: SPDXRef-item3866228
+FileChecksum: SHA1: 19600e569d60dcde2e000e065c12869df5d9a685
+FileChecksum: SHA256: 3da569dcb984b5ca398df414c9194d0865cdd1354e37ae2caf0e1b7825b1a0c0
+FileChecksum: MD5: c5cdf85e0ef8a53e326676ce76b3f80e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/README.md
+SPDXID: SPDXRef-item3866229
+FileChecksum: SHA1: f021998da8615e34c9e6499051e071e88714c209
+FileChecksum: SHA256: 08e4b2159f6f94af296435ebc202b5e3b9baed6439de0a33fe58bddeae4f7419
+FileChecksum: MD5: 62afe1afda260e20ad38737f9434779b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/howto/setting_up_private_registries.md
+SPDXID: SPDXRef-item3866230
+FileChecksum: SHA1: 2e02497289f28d563ed78fb7a1b6b21a1e8aec71
+FileChecksum: SHA256: 9004367fffd78ca6bf24322dd53e686e5e14d864f8c480043d6be1180bc80ef3
+FileChecksum: MD5: 46960c39d4be2c263c053ea5a46b3d10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/development-image/light-image/Dockerfile
+SPDXID: SPDXRef-item3866234
+FileChecksum: SHA1: 3cc79ebcb39c95f34e9874351f201e6e71188acb
+FileChecksum: SHA256: 27c3e0405c1149ccccad2e1beef510f9813c27ba46576182d57c2eba916a1c98
+FileChecksum: MD5: 72c8072866f7deaea4feae4909660002
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/development-image/light-image/README.md
+SPDXID: SPDXRef-item3866235
+FileChecksum: SHA1: 1ed54fb773d87e7756c942871cce4104c4d502c6
+FileChecksum: SHA256: 208e4d7b84aca0ea4f7508fb0ad0b97f413efd2d862de7cb38ce18e63c6b4eac
+FileChecksum: MD5: 5ddc39f46da2e45dd4db21a52c993d71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/development-image/Dockerfile
+SPDXID: SPDXRef-item3866236
+FileChecksum: SHA1: a078c8fb1eb9927bd62f3f6d86e695964b17f5f7
+FileChecksum: SHA256: f925e49f04168f93420231f454ed936e2bd354725eebc50add04f9d45c63ab44
+FileChecksum: MD5: f070d5dccbf70d2a8398e0259647eb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/development-image/README.md
+SPDXID: SPDXRef-item3866237
+FileChecksum: SHA1: bfae2840d8d6cf25ac2c17cd86a608103e9ac9c8
+FileChecksum: SHA256: d322360894d16e9487381f53e6be1fbaa6976ee7e417e4ddcafe1c83e33e4c50
+FileChecksum: MD5: b2d6d613b3157c91e68cbe3d5b5a4575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/kafka/sonnet-XVIII.txt
+SPDXID: SPDXRef-item3866239
+FileChecksum: SHA1: 14471c448b839c1a8eec19e7ba9eeccc9580913b
+FileChecksum: SHA256: 3a1cc1bb744c71b5797c6131387c63a64dd56c8a1984a226aaaeba9ef668a532
+FileChecksum: MD5: 752b631e56258b7a1e661b2326e9f28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/kafka/README.md
+SPDXID: SPDXRef-item3866240
+FileChecksum: SHA1: 52b4a09f803bad01f2699578e58c98d30098fb6f
+FileChecksum: SHA256: 5d265886ac090c6ce2bba21d3bc540fb0c7b1eda0a4037dad21b0ec15c4b310b
+FileChecksum: MD5: 1c84bb9f8e049d30f545493594630c25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/jupyterhub/Readme.md
+SPDXID: SPDXRef-item3866242
+FileChecksum: SHA1: c90191640c5eafad9b0a3de9ceb37cf544f121cc
+FileChecksum: SHA256: dc9f2487d517c8472243e3556dc98032249ceef4da9168ccd7366600919a3876
+FileChecksum: MD5: 24be65e5b1ffec975a7ba21ab00d317e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/jupyterhub/hub/configAndStart.sh
+SPDXID: SPDXRef-item3866244
+FileChecksum: SHA1: 209ca50b4c8e45b9cb6fa0b1afad59dae568e3ec
+FileChecksum: SHA256: 24d9806d9d4dd84ed31e9e49e507d90bb47049468fbefc8a1c9d2d7f8ce14485
+FileChecksum: MD5: e9c929a64e887122f3c3ae59589f6e6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/jupyterhub/hub/Dockerfile
+SPDXID: SPDXRef-item3866245
+FileChecksum: SHA1: 54fc859f66c3403cc7a822656355170f1e5b7121
+FileChecksum: SHA256: 7957bac9ad9c11f3a030601d66d9809d927813e2961fcfef36c1c30d2c89b5d2
+FileChecksum: MD5: 31db7a68cf09443ebc807b10ff5f7a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/jupyterhub/hub/jupyterhub_config.py
+SPDXID: SPDXRef-item3866246
+FileChecksum: SHA1: d4e80ef374bd423d59b12ed40d81e347e19be700
+FileChecksum: SHA256: e97610f8700005c2bcf8eae36829cd952a432fea1519f928480f9b8f85796fe8
+FileChecksum: MD5: 49372a5ccbbc36047b89bbe9b7db6b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/jupyterhub/notebook/Dockerfile
+SPDXID: SPDXRef-item3866248
+FileChecksum: SHA1: 54215aaa656bcc43e94d4f29bfea4fc49139be53
+FileChecksum: SHA256: e995c754ca542138dbcd59f2614a0aeec154fe080042a1ad2b72537219805b59
+FileChecksum: MD5: 41f340408fe767185945b2b1bc9ffef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/grafana/README.md
+SPDXID: SPDXRef-item3866250
+FileChecksum: SHA1: 24ac5fe6340481d09df0453e546f7eb2d61f6fb6
+FileChecksum: SHA256: c7c2a696200d391160449f4eaad0264772fb4e70814e11a81d3a9d3519504e13
+FileChecksum: MD5: daf66b3ea6ede1ab6323bacff69cba9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/portainer/README.md
+SPDXID: SPDXRef-item3866252
+FileChecksum: SHA1: e968d42cead99176cc4e5f815be0727a99b1f12a
+FileChecksum: SHA256: c09a80fbe77f0d35d635b3956b46143b2891029c48905f3de95aa6eacdb7664b
+FileChecksum: MD5: f9b7c8e1f19771ba1bb05883bdfc0787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Anaconda/Dockerfile
+SPDXID: SPDXRef-item3866254
+FileChecksum: SHA1: b502082748690b443f39de01786bdb75b3c5e106
+FileChecksum: SHA256: 1c33a7ec8fecf2f97e9ac4ef35cad6465a4f6ac953b7db0276ae181514f3894f
+FileChecksum: MD5: 1b80365c827b212217fb9c2b4d86360b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Anaconda/README.md
+SPDXID: SPDXRef-item3866255
+FileChecksum: SHA1: 600434529a29d06b7324238bb0653e10f6101cb3
+FileChecksum: SHA256: 272d5c4cf4eeaa9c5b6e632efc3d72daae092c14792333b8c8d6470b425d33dd
+FileChecksum: MD5: 4e461202d089c31c8ba3462086cf2525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Grafana-Demo-FOREX-master/forexDataSource.PNG
+SPDXID: SPDXRef-item3866257
+FileChecksum: SHA1: c6ab6a58cefa878f7e5071fc39ab76392d714826
+FileChecksum: SHA256: ca09acc60ecf1e8ecad3472f91210d44c537c45d2cd70a5027b137ad87c68a0d
+FileChecksum: MD5: e422126af8707b47bf606267751a1a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Grafana-Demo-FOREX-master/forexImage.PNG
+SPDXID: SPDXRef-item3866258
+FileChecksum: SHA1: 117d4a93d00de68d6d14f6dad72fa2b198b7f245
+FileChecksum: SHA256: cff07d3014ecaef2e4aac30b7ae4a2849885e742c1ccdff3f626ca24629eba58
+FileChecksum: MD5: 7d4c4874859f1eaac3e7ccccacac8308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Grafana-Demo-FOREX-master/dashboard.json
+SPDXID: SPDXRef-item3866260
+FileChecksum: SHA1: ed6a604768bdae699266d1556543b93467d95d88
+FileChecksum: SHA256: afc1d778108288715acbd7a9797d79f7760894779bbeb55d7668e8386ef7479c
+FileChecksum: MD5: 8ff012188ffc03846955e8b07480b44c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/Grafana-Demo-FOREX-master/README.md
+SPDXID: SPDXRef-item3866261
+FileChecksum: SHA1: 522c3b47dbc8efc00cb4b2119c2854faaddb1187
+FileChecksum: SHA256: 561faa44863f05f57db2425de1035cd278c51fe945c7d25bcaeb1e172411cdd9
+FileChecksum: MD5: 68ec1a58e5fb329ae7e5ff2955ed4193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/top-command-CPU-usage-2.png
+SPDXID: SPDXRef-item3866264
+FileChecksum: SHA1: b73f8dd10fa6503c17d2ca8e7cb71b4e4b08589f
+FileChecksum: SHA256: a7784caeeadda6cab173ad084e686f71c0ee9ece6a3837bd64b7622a109ca7e3
+FileChecksum: MD5: 6b064a4a3571a71b55cb85b5821c52fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-test-success.png
+SPDXID: SPDXRef-item3866265
+FileChecksum: SHA1: af6316d8ef3d6f56668a0ebf03ccaad9f5423621
+FileChecksum: SHA256: 9662f39f8c0486132c12c1fe5d9fced184a018850ffda4b8f82f8f4e77b95327
+FileChecksum: MD5: 5560c2dea3889dc48c562b00f0dc0791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-zosconnect-via-express-gateway.png
+SPDXID: SPDXRef-item3866266
+FileChecksum: SHA1: 4cbafe30208a34da2242213ff667ea6e7aff8769
+FileChecksum: SHA256: 0f7a930556b803bbed66542566aefc129ec53de91b53456aefbbb526e00a54c7
+FileChecksum: MD5: 70b969f343c68337e85e741a77281ec1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/top-command-CPU-usage-3.png
+SPDXID: SPDXRef-item3866267
+FileChecksum: SHA1: 90bff794dd443da71be4e796680a972dc1a74663
+FileChecksum: SHA256: 19ffed03f32a5298ea5f2c2a400e94d1b6f64a777470b4eae99a32390f624b31
+FileChecksum: MD5: 21d68f38feb86b750e64d92870629fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-test-in-swagger-io-2.png
+SPDXID: SPDXRef-item3866268
+FileChecksum: SHA1: 1b34cd86996448b4082b1f497193529f2e9fc6ee
+FileChecksum: SHA256: e4b96e56a07bce02033ac9e4392a339ebc8386bc0cf3025bcc9d40e686efb7c6
+FileChecksum: MD5: ac1121a5b4f016ec3cd8cbccb571fbc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/top-command-CPU-usage-1.png
+SPDXID: SPDXRef-item3866269
+FileChecksum: SHA1: d9ec34b0d34811d911264b943f00e0979c91c225
+FileChecksum: SHA256: 2e7f052f185fd9b449f1b015758fabd35bb9cd5eaf71c82669996d6be6b43125
+FileChecksum: MD5: 8ab82bc2540f624633babb5963e0efed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-check-ip-GET-failure.png
+SPDXID: SPDXRef-item3866270
+FileChecksum: SHA1: 8b082d2ba4147ff538efed18ec87ddec6c8e0faa
+FileChecksum: SHA256: f66d9af2d446780fc5be7077cecfcbf7f867cdd70e2dc9d9738b2c9891a361d6
+FileChecksum: MD5: a8bd3a49cb651d5ddf70ee50d1c517e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-test-in-swagger-io.png
+SPDXID: SPDXRef-item3866271
+FileChecksum: SHA1: f24f23488cda1582ad89b527e029bebb55da6929
+FileChecksum: SHA256: 86983666a68fdc74cf39ca34857bc066e8e15ad6ac6289ff196e3c1880d23b38
+FileChecksum: MD5: a2a28322c04f1fe8655a24b6a2cd9ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/express-gateway-on-dockerhub.png
+SPDXID: SPDXRef-item3866272
+FileChecksum: SHA1: 53c65e5e057c089931d7802d05db83749a584fb4
+FileChecksum: SHA256: e317f05442daf89d6af6a87ad933c7d876658214588b75219883583ea94ea64c
+FileChecksum: MD5: 5d92f78932bfcb3d922fe9b051e071f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/architecture_overview.png
+SPDXID: SPDXRef-item3866273
+FileChecksum: SHA1: 23927bb5612fabafd2c6941d0bf814799772454f
+FileChecksum: SHA256: 1e0223eb22b6999e9d1c45837871bbc942d724b545b24741110693a1d299300b
+FileChecksum: MD5: 6855dc2b9aa4e606b8fcc4d963983450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/SDSF-zosconnect-CPU-usage.png
+SPDXID: SPDXRef-item3866274
+FileChecksum: SHA1: 41ba190e003d9829f5923ecb42d87feb31b63c1d
+FileChecksum: SHA256: d087332ae2ef076651c22eb1cd49bf6b4556d417a8ae294759b32cc18306a5b1
+FileChecksum: MD5: 62d4c12009050a497a8aabb456b64224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/images/browser-check-ip.png
+SPDXID: SPDXRef-item3866275
+FileChecksum: SHA1: a52e034d3ee33482f5ad849e5918d13967be8f3b
+FileChecksum: SHA256: 2986457e8d57183295a4efec9a5816c1d3327d16ce1a2ec007e3c08f722ad3e5
+FileChecksum: MD5: 8103419956ad5df6e3855e11bdc2a936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/examples/zosconnect/gateway.config.yml
+SPDXID: SPDXRef-item3866278
+FileChecksum: SHA1: accb39dfbf88fe13e2db56e550435dea82cc1a51
+FileChecksum: SHA256: 55a02fd1268bd3c97b2bbb8611923ab9b6d231874bc5bdebaaed63ed29a307bc
+FileChecksum: MD5: 289a339469974f90d0e532f545857310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/examples/httpbin/gateway.config.yml
+SPDXID: SPDXRef-item3866280
+FileChecksum: SHA1: fad16947ac1735763ecd358cbb92c6bdb343986c
+FileChecksum: SHA256: 06e566f1f736e56374e5f642a1f49f316d85a8bdc9e4d8c1fa960b07ee7a7352
+FileChecksum: MD5: 91c6f062076212121e64c5931501a5d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/express-gateway/README.md
+SPDXID: SPDXRef-item3866281
+FileChecksum: SHA1: 0bde17d982a8c297d89a0bcc789b6c0195bc31ab
+FileChecksum: SHA256: 2e40a7085eb8fc5b07aa9093fd3c9a01842ec34470e77280b697514beca777a2
+FileChecksum: MD5: 09d96130e6f1baca9ed6d2fe1057a4fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/README.md
+SPDXID: SPDXRef-item3866282
+FileChecksum: SHA1: d1681c1aba21986821656e24f76e3895b676b500
+FileChecksum: SHA256: 6eebe36c5b15b9a18bc1681c952e39ef188f001a05200a1421bbc5a1afd77b26
+FileChecksum: MD5: e56443a9891c655408d622109d6fe170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/examples/ELK_stack_demo_twitter/pieChartKibana.PNG
+SPDXID: SPDXRef-item3866284
+FileChecksum: SHA1: a9c968a322a84fd1a15e000c61efe2f5d4cd8d2a
+FileChecksum: SHA256: 198fd7fe653f3f3edca8f0de2a6c9e8ebd064991c48c72bcaefd15e68b8d074b
+FileChecksum: MD5: bafb73c229e41cd4acd639e9b588b3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/.gitignore
+SPDXID: SPDXRef-item3866286
+FileChecksum: SHA1: 7d65523f2a5afb69d76824dd1dfa62a34faa3197
+FileChecksum: SHA256: cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e
+FileChecksum: MD5: 952fd44d14cee87882239b707231609d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/linux-containers/README.md
+SPDXID: SPDXRef-item3866287
+FileChecksum: SHA1: ac350a752adecb499e88ed6c388e5130fa605f70
+FileChecksum: SHA256: 28975e3fad05b29a24ca8c31a61a2ddddfa607d189a53458ad2db310d49a21dc
+FileChecksum: MD5: 1299c09d1410ec55558ac966426dcf72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/.gitattributes
+SPDXID: SPDXRef-item3866290
+FileChecksum: SHA1: eb6bde557c1b015bf9f2bcc5a6f3b43617ce90e7
+FileChecksum: SHA256: 42087564c5cad8b1e047b811ab199023cf8c790fff0c1242410b82a8de6f5bfd
+FileChecksum: MD5: 2f3a96f1d76b51a2d5df2bfc4cbb7fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/runjcl.py
+SPDXID: SPDXRef-item3866292
+FileChecksum: SHA1: 9306f0431055a3c47a804df4270137f3c50d290b
+FileChecksum: SHA256: 4f5cbad7796eb6e62a4e7458fc910c0c9bde255c0292fb668d50e176892a310d
+FileChecksum: MD5: 33a814c505c40e5ac153dc9e0a1f29d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp 2021. Submits a JCL job and returns status output in a Python dictionary </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/submit_and_wait.sh
+SPDXID: SPDXRef-item3866293
+FileChecksum: SHA1: 02977c673e6e174235268ec3ce27ed2e9384b77e
+FileChecksum: SHA256: 5e8951021538e62b0d92ab07765085c420a7a8f998abd95400b5057654bbc7a7
+FileChecksum: MD5: 8077a954c3683c7e25c90dd73ec4c2bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp 2021. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/jobs.py
+SPDXID: SPDXRef-item3866294
+FileChecksum: SHA1: e0ebb097cfb045391ca7181a6b0a268f9c21d180
+FileChecksum: SHA256: 779c1113c6deebbb2e7f3f686835dcab0fe4e29e72c3a56094a0ba78dcf60af2
+FileChecksum: MD5: 141782c79075865727cadb58f2f02c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/mps.sh
+SPDXID: SPDXRef-item3866295
+FileChecksum: SHA1: 833316529d327757729de83d6e8bfe3dc34e20ae
+FileChecksum: SHA256: 71b430b4834193c73c7ed6af56c63593af649f61b39b2c57f7372f2464a35082
+FileChecksum: MD5: 9773eaa32415a578d349104e1fc3185b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/dcat.sh
+SPDXID: SPDXRef-item3866296
+FileChecksum: SHA1: c2ce4da127ce7a561bb313fd6544534a9574d96e
+FileChecksum: SHA256: 5f1383c076bf1644c15573007c516996dfed5247eb82b506a1944289101a3e5b
+FileChecksum: MD5: 769b10b2a8270700843e647a181e036c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/rcvptf.sh
+SPDXID: SPDXRef-item3866297
+FileChecksum: SHA1: 9d84c18012102708aedce3bd8e268eb702abf074
+FileChecksum: SHA256: 9a357d1716ba92cb9c7b44ad0d7552780310db10e2778a3e9a950a306bf01af3
+FileChecksum: MD5: bd5ecb8f1ccfa44d7bbbf3d440c6aabc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/console.sh
+SPDXID: SPDXRef-item3866298
+FileChecksum: SHA1: 139d827a76b4ed3a267c1d186703394301b90dc8
+FileChecksum: SHA256: 34577831ca856ba5bea998420e8a03d9340b750d32343de5f9e2e0171c519004
+FileChecksum: MD5: 5e594a3d7afa2d91051e2873c7315641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/SMPElistDefaults.yaml
+SPDXID: SPDXRef-item3866299
+FileChecksum: SHA1: a6ebda99246f36cdb7832aec718c93457e976776
+FileChecksum: SHA256: dfc7b54f233770b9d280980bb85d1c4e178938664e2cdaa7b156009d816072a4
+FileChecksum: MD5: 0f2e3d90d5f54b827591a8213e9db006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/.gitattributes
+SPDXID: SPDXRef-item3866300
+FileChecksum: SHA1: eb6bde557c1b015bf9f2bcc5a6f3b43617ce90e7
+FileChecksum: SHA256: 42087564c5cad8b1e047b811ab199023cf8c790fff0c1242410b82a8de6f5bfd
+FileChecksum: MD5: 2f3a96f1d76b51a2d5df2bfc4cbb7fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/one-liners.md
+SPDXID: SPDXRef-item3866301
+FileChecksum: SHA1: 6ac4f053bc1c963e342d0fea14b91b574de1eb4d
+FileChecksum: SHA256: 060da5aaf2cd0c24ee75c9e2b917df14b3fb52d5ba7875c896aed65108a3e5ec
+FileChecksum: MD5: 07427ed051dfc8793026d3da3c9b86eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/chkptf.sh
+SPDXID: SPDXRef-item3866302
+FileChecksum: SHA1: eec78c3e648f3bb32945ac0b0dfdda8317ff78ba
+FileChecksum: SHA256: 76f8a821374e0001314940c1ee14a1f3397d7791c53b237d886fc8735f8c0659
+FileChecksum: MD5: 2dffae994d2ed034afb422000a6e930b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/ispfcmd.sh
+SPDXID: SPDXRef-item3866303
+FileChecksum: SHA1: ba3864e38c771658bd36244125250a39ce056cf3
+FileChecksum: SHA256: 1bfdfa8edd5536def09528404b80650c75af980af5fbe38353075809835bac5b
+FileChecksum: MD5: c8b0abb42b80f68c563a3fbde226a628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/README.md
+SPDXID: SPDXRef-item3866304
+FileChecksum: SHA1: 8816b9f1dff2680111397d14232d2f81f5a0fab3
+FileChecksum: SHA256: fa7879720e382439ee17171fd2adfe4fcaa9f9beffe20a704637075386c9290d
+FileChecksum: MD5: 61fdb0c1cd1812bf042484f0ca80a4c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/dump_and_filter_racf.sh
+SPDXID: SPDXRef-item3866305
+FileChecksum: SHA1: 5cfe30a027432ac402bce84fa168fd362fcb8b08
+FileChecksum: SHA256: 0c7204f0f1bfe7238641f21db02f9927c2671d0566e6c4442803bba15b9160e1
+FileChecksum: MD5: 5ec9996c17d27cf9711c1d2077b4475d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/smpe_list.py
+SPDXID: SPDXRef-item3866306
+FileChecksum: SHA1: 25f10e579db628e8f3b18f8233ff9d7392bf6ea3
+FileChecksum: SHA256: 199382a04f9492f94c7d3e4732154634229767ba79642bdd358471b83e3039f9
+FileChecksum: MD5: f48ae2aea5f63b1fe4e16d573c605e30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/samples/zcx_versions.py
+SPDXID: SPDXRef-item3866307
+FileChecksum: SHA1: a03214677fb39230c695df22b576e59654b2b1e9
+FileChecksum: SHA256: 6a3d869286ea43bcde9c394193c27b9dbac8db9f8f20fa3c0f99429dba252ba3
+FileChecksum: MD5: bc93e449aa329bf16b9106e484dffc69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright IBM Corp. 2021 </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zoau-samples/README.md
+SPDXID: SPDXRef-item3866308
+FileChecksum: SHA1: ed15c5d4b404576491ff577f002739f577d3912f
+FileChecksum: SHA256: c63e58b32b3833c78208c906f3b7cbb6eadfa08ed8656a71341501fbb269afb9
+FileChecksum: MD5: 5d83979a540ca7867d0f03d5b0909706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item3866310
+FileChecksum: SHA1: d2e963081255847bdcbcad67634f6040d880fe80
+FileChecksum: SHA256: e68632164d8284f89c98d23413e0105e11233445d462dd24cd01a927393b7a2a
+FileChecksum: MD5: 6764c2714e7238a7db8f6385cc35a5a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/docs/index.md
+SPDXID: SPDXRef-item3866312
+FileChecksum: SHA1: 3847f75c82318517cb99926099c1d118fc23ad45
+FileChecksum: SHA256: 326df2c449ffed955192931fc55fe3b09e6814a8a15ee12f44efc670264bb6d9
+FileChecksum: MD5: 15ebe1ba21ca93a93db394c77c15cbdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/docs/about.md
+SPDXID: SPDXRef-item3866313
+FileChecksum: SHA1: 7baccfb73ac34ede8398675a46e3a235befc44fe
+FileChecksum: SHA256: 4bc0fcfd5a9bdb71b4fe82db69645cc78680a4598dbef6483efd62e971d23074
+FileChecksum: MD5: 4a0e2a93a651c3789571f12726b0f962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/MANIFEST.in
+SPDXID: SPDXRef-item3866315
+FileChecksum: SHA1: 7902e3df521e89a52ed230e4a11f48f6736a1bf6
+FileChecksum: SHA256: 096938a5068a19d3d4b20518bc78af0e8c6f0c889d55b51007ab9aa98d61d8db
+FileChecksum: MD5: 3df63de78fd5c012ac86a395f118fc42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/CONTRIBUTING.md
+SPDXID: SPDXRef-item3866316
+FileChecksum: SHA1: 158a6062d8dc109f1a526af4a681d55f6776f355
+FileChecksum: SHA256: 3a247ac4bf921f68474814811115c8fb937a0e65cbf6c9bd5c3d2725a4147ea1
+FileChecksum: MD5: 9b5d4f2663f4f4b7aa870e9b10567e6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/joblist.py
+SPDXID: SPDXRef-item3866319
+FileChecksum: SHA1: 08f9ced1c1a1057cda66bd0875bbf1d49012ad4d
+FileChecksum: SHA256: 1241125b544969e8d43c2bfb17ecfa40bdcc686ce162385adf2fd16f7b09a11f
+FileChecksum: MD5: 57a5c1102c13c7361a835774d87987dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/zfsadm.py
+SPDXID: SPDXRef-item3866320
+FileChecksum: SHA1: 2b5127a57b75afa96837c8881a5079caf6fcf25c
+FileChecksum: SHA256: e4e8057019e5c35f894af61c53b1147a510834753ce64eb728cfabab79bf93cf
+FileChecksum: MD5: 18e71c7bdd75392b6f1e2de4a291be80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/runrexx.py
+SPDXID: SPDXRef-item3866321
+FileChecksum: SHA1: 2b308c1dd2f8b0d60a20eafc650de50c833ebcfc
+FileChecksum: SHA256: 6889bd49268e63b8ac9491ed0a8fc2674c6c5071e63b52da3a04ed01c064e9e2
+FileChecksum: MD5: bccdd33fb6ae2d7ded3a7c33092be9f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/__init__.py
+SPDXID: SPDXRef-item3866322
+FileChecksum: SHA1: 2d3b652e569226fd430a4844aa0162aa00d610cc
+FileChecksum: SHA256: b63698ac18d3d3154753a2e02d97b4a1691fc84a5336985536270dad22444f2a
+FileChecksum: MD5: ea6bd84015295421b5bcedfcf06c0c35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/fsutils.py
+SPDXID: SPDXRef-item3866323
+FileChecksum: SHA1: 5d6e5044f0412fb85e79d57cd5fa8056cfe03a4d
+FileChecksum: SHA256: 1491efdd0bd5adeae7d665520bcc0cd2f90fcc7c2dbab883d31060c428d4b24a
+FileChecksum: MD5: a80b2ac6dfd0063f7ce7109b937a61eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/ConfigFile.properties
+SPDXID: SPDXRef-item3866324
+FileChecksum: SHA1: 1c18174472a41f3ce97f9aac139d4569382d44d6
+FileChecksum: SHA256: d0e75b4c87f7ce82496a10ffc3fcbecbfbcb5174432d354642167d57c55f426d
+FileChecksum: MD5: 3e68079918d193f26be62415e9a5ce28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zutils/findActiveJobs.py
+SPDXID: SPDXRef-item3866325
+FileChecksum: SHA1: 74c0ee9548147a4aff575e2288c77662142e7d98
+FileChecksum: SHA256: 130477f9321eee4657750082cd8d8f5dfd3a51e5b2c2fa5f9ee80ebb1df4d49c
+FileChecksum: MD5: 6cdfb8f874c4bd47f182ba9a0aecec38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/makefile
+SPDXID: SPDXRef-item3866327
+FileChecksum: SHA1: a4ee3ff4239ee70c5414d203349857a8bad57e07
+FileChecksum: SHA256: c2e5b635c357b74de0bcd581301f6a70f5708886e7e305fda8b65d98dce0ea74
+FileChecksum: MD5: 3b68f93951ba07725dccd5e89e90e1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/images/py_racf_diagrams.pptx
+SPDXID: SPDXRef-item3866329
+FileChecksum: SHA1: 78c8da8be211b363651051a20d481725cae948fa
+FileChecksum: SHA256: a1f83fc7e18a234c05e51fe9b042081dff3f0910992be07b77eb94a1c5798c21
+FileChecksum: MD5: f6fb449cbaac21f49fd5bbca7e006f7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/images/call_from_python_pipeline.jpg
+SPDXID: SPDXRef-item3866330
+FileChecksum: SHA1: ca8adee5c683e21c60030b21d630e08366744ae7
+FileChecksum: SHA256: 3490ecfe9d2ea22471d5caee5a2e37b779f6b4b6cfb1c7cd4aeed6a0a862df5d
+FileChecksum: MD5: 53ae7e99d9af883bb906e0829d31dab8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/makefile
+SPDXID: SPDXRef-item3866338
+FileChecksum: SHA1: 1d4d605884720b474baad8162f6b64507dbd6b70
+FileChecksum: SHA256: 6b23e254957d688334322148160dcefca1ab0f6685e7c0b8eb50a85669a292af
+FileChecksum: MD5: e54229c5c74376275e0abbbf9b59e3bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/C/pxtr/makefile
+SPDXID: SPDXRef-item3866341
+FileChecksum: SHA1: 6fa511fc12b77086dcc39e65b3ae92e5c519ac1b
+FileChecksum: SHA256: d4302a9f287ac0ba7efce3aa7dd9472e0cf5bcf19a4d8224eb608f87ebfccd98
+FileChecksum: MD5: 8ae39d58396f3b0a2fe0d904a359af0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/asm/makefile
+SPDXID: SPDXRef-item3866349
+FileChecksum: SHA1: d1c3892480935ac73573581fae138f1745896f1d
+FileChecksum: SHA256: 44fa0cef7ee414db3eb84d155b7fead73ce817973cca77928c1da0e327b4e025
+FileChecksum: MD5: 04e78a2b067789585ae5401b7588ed1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/asm/REGDEFS
+SPDXID: SPDXRef-item3866350
+FileChecksum: SHA1: 98b88a7b52c77d2a053a9ae517e15e41f23cc2aa
+FileChecksum: SHA256: 61c59ba3b91664dfeca93b4dd533e752efafd6e22afc26a43a0602aef620801b
+FileChecksum: MD5: 92dbfe677e273ce6ee3e0efd0e32de2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/R_admin/asm/callRadmin.s
+SPDXID: SPDXRef-item3866351
+FileChecksum: SHA1: 0b3eac92d682871b4dfb1d8e6b84e1bcf39d883d
+FileChecksum: SHA256: 3374232bbdd3ac53e2c1b6666c1c387b016a2ca0768dd4d162f1f22ee17c8c36
+FileChecksum: MD5: 31ef03d4a09b5f6a71d58450bfa7af23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/makefile
+SPDXID: SPDXRef-item3866357
+FileChecksum: SHA1: 9c3b4806b4e4776d58bc19639b0066aa8f237d7e
+FileChecksum: SHA256: d21e3c5fe09f76b3c3e965f43ef8b508a80f03e27abb7ea3bff65e231f453369
+FileChecksum: MD5: 3a9be084df44a0099bd0b00e33e0d682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/common_types.h
+SPDXID: SPDXRef-item3866366
+FileChecksum: SHA1: 861e44f0f0e0654ac13033fe1d482ac4f58fe10f
+FileChecksum: SHA256: 502e81b9a54404adac70124730ddd18a45c9d111c435b095c0b639fb2bbac1e8
+FileChecksum: MD5: 5a9699c7664b0cf97592709d4e158faa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/common/C/json.h
+SPDXID: SPDXRef-item3866370
+FileChecksum: SHA1: 2cfcb9dd696bc2958042c01cef0fea8766f26444
+FileChecksum: SHA256: 412eabd6399858e4f44bf11796212b0a54e73ab578c7ca2ed92b0f27b22dc666
+FileChecksum: MD5: 77512a912d4547443ae17500ed9046a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/test/mikes_stuff/mikes_radmin_admin_code.c
+SPDXID: SPDXRef-item3866375
+FileChecksum: SHA1: 142ca318f5d7173a1ed310547cc3fc7a14d51ba6
+FileChecksum: SHA256: d812f9e423b46a2a4dec8b8cc4ca3eb0bfe32b7fa6c920b1f2e215903ffc271d
+FileChecksum: MD5: 385ea5b1654325c7af4d8afd4ee428ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/test/mikes_stuff/del_user.xml
+SPDXID: SPDXRef-item3866376
+FileChecksum: SHA1: 7c8d4ac97d0bead08ca8bd3958f90a6691631e65
+FileChecksum: SHA256: 73c7e186e12d7c97b8aa33249a98ce50364a2a25be130ef240b5b4c7d289bee4
+FileChecksum: MD5: 14cfd5461173a6e341017ff1cd931aa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/test/mikes_stuff/add_user.xml
+SPDXID: SPDXRef-item3866377
+FileChecksum: SHA1: 263b94a4c263f4ce5cea33818a30f72ee4f089f6
+FileChecksum: SHA256: 4f8eff9b8681040295eb198ba87820e46c20ab0b7a7770301f20b10596881cfe
+FileChecksum: MD5: 86353174a475923a4ff1a9dd72a97fcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/test/test_py_racf.py
+SPDXID: SPDXRef-item3866378
+FileChecksum: SHA1: 784ae3c1d612bbc7750202d55c19183be6840ae8
+FileChecksum: SHA256: cf2b275f7659f3b3591cd9dae9977b73d7dc7dab8e70cb75c0ac3e8b1d1fd11c
+FileChecksum: MD5: 0198c93cfb84347bb800f0bc7b9de40a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/pyracf/README.md
+SPDXID: SPDXRef-item3866379
+FileChecksum: SHA1: 875e669342a9fd208677ca469c0e2288e2955955
+FileChecksum: SHA256: 9f0b65e44b586f176936b744edb35d6249005f9b2fd95d0e1e822c52fc64787e
+FileChecksum: MD5: eb0fb5f08818be70ad594b5446302d52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (C) interface for each RACF service that works with the unique control blocks of all its member functions. </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/__init__.py
+SPDXID: SPDXRef-item3866381
+FileChecksum: SHA1: ff900caeb2661eac9762f4ad03ad22307b9125fb
+FileChecksum: SHA256: c067d98bae54247fd30a8ceace57ba82c931730905d7ff1491ef0e2e24bb5169
+FileChecksum: MD5: 206a0bb85612d97e141675f9a810f0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zcmds/display_active_jobs.py
+SPDXID: SPDXRef-item3866383
+FileChecksum: SHA1: e07ad67fa05a920c2dffe20c6cef4583205df4d8
+FileChecksum: SHA256: d65422d3a8fe0c39df887baa6812b2137784db1ef6031839eff7a90d301c7abe
+FileChecksum: MD5: 1555eb483a478672325174908bf2da7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zcmds/get_asm.py
+SPDXID: SPDXRef-item3866384
+FileChecksum: SHA1: eec21da5e5715a24f8f946f61af9741f6287a3df
+FileChecksum: SHA256: 8ffda54ca1634f17ce3f028ce119037c5f2f1de449a218525e0ec89563283f9d
+FileChecksum: MD5: 4e12ca52483bbebfe2e4c9a6125883c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zcmds/getParmlib.py
+SPDXID: SPDXRef-item3866385
+FileChecksum: SHA1: 7550b9914d5851a95349b7a3e1324b3cfc87d67c
+FileChecksum: SHA256: f0d9ac664898c867f9ec3f57244bcd7ea07dbd41cc5a0013845c7849c126b94b
+FileChecksum: MD5: b9b2b127dbde2e65e868fe70cf3c2c0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zcmds/iplinfo.py
+SPDXID: SPDXRef-item3866386
+FileChecksum: SHA1: c11b87e80a5f1b0cb664ead8cfc8596eb7b06456
+FileChecksum: SHA256: e664eef3865da89b9a74954e728e7bb115301e67947742a277f96f6699b3f60f
+FileChecksum: MD5: a638d7f3bf4b401e65fb3f8025bd7825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core/zcmds/__init__.py
+SPDXID: SPDXRef-item3866387
+FileChecksum: SHA1: d8354fcc89d43a546f57223995da223a3a235c2b
+FileChecksum: SHA256: 00e25d3b8f4fa4e2d3d6cc27b8529afb7aa38b6451751a79f580f5774ece126e
+FileChecksum: MD5: 0f234838b223b761cc3074e206f65e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/.flake8
+SPDXID: SPDXRef-item3866388
+FileChecksum: SHA1: 7fcc0000ee549f97874abca194f6be202e136206
+FileChecksum: SHA256: 27a201bc209f2357b2ac266a533395a4f710579cae5f8288fbdb1e73c8dc7f43
+FileChecksum: MD5: c5d4dcedfc4721172ce8753fdac2f2a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/setup.py
+SPDXID: SPDXRef-item3866389
+FileChecksum: SHA1: b25fe8b9e083b36eb7eb59f1d85bc9eb941ae4bb
+FileChecksum: SHA256: c1a03b4bb5628d1fe436094b00fb35a049f9579a1e089e7dc4d7788fd2d3190c
+FileChecksum: MD5: 72d8bfae4b024b322a12da2e5cdd5a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/.gitignore
+SPDXID: SPDXRef-item3866390
+FileChecksum: SHA1: 2640c52097078f231a272a3fe102ad14ae07db56
+FileChecksum: SHA256: f5cbc020a3067a122962027c947cf8da8cc802a84359a72455a3425511105d3a
+FileChecksum: MD5: 6e32f5753d543fb48664bad3a151c02f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/joblist.py
+SPDXID: SPDXRef-item3866396
+FileChecksum: SHA1: 08f9ced1c1a1057cda66bd0875bbf1d49012ad4d
+FileChecksum: SHA256: 1241125b544969e8d43c2bfb17ecfa40bdcc686ce162385adf2fd16f7b09a11f
+FileChecksum: MD5: 57a5c1102c13c7361a835774d87987dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/zfsadm.py
+SPDXID: SPDXRef-item3866397
+FileChecksum: SHA1: 2b5127a57b75afa96837c8881a5079caf6fcf25c
+FileChecksum: SHA256: e4e8057019e5c35f894af61c53b1147a510834753ce64eb728cfabab79bf93cf
+FileChecksum: MD5: 18e71c7bdd75392b6f1e2de4a291be80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/__init__.py
+SPDXID: SPDXRef-item3866398
+FileChecksum: SHA1: 86359d23d689d0f68aa5898715e61ab7dac9d159
+FileChecksum: SHA256: 04f641111ae1eb44504dcb66f66db9c135cdefc3ddd85003a779ef9c75d8c233
+FileChecksum: MD5: c6846526a58344642fc0ab436e2a0b16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/fsutils.py
+SPDXID: SPDXRef-item3866399
+FileChecksum: SHA1: 5d6e5044f0412fb85e79d57cd5fa8056cfe03a4d
+FileChecksum: SHA256: 1491efdd0bd5adeae7d665520bcc0cd2f90fcc7c2dbab883d31060c428d4b24a
+FileChecksum: MD5: a80b2ac6dfd0063f7ce7109b937a61eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/ConfigFile.properties
+SPDXID: SPDXRef-item3866400
+FileChecksum: SHA1: 1c18174472a41f3ce97f9aac139d4569382d44d6
+FileChecksum: SHA256: d0e75b4c87f7ce82496a10ffc3fcbecbfbcb5174432d354642167d57c55f426d
+FileChecksum: MD5: 3e68079918d193f26be62415e9a5ce28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zutils/findActiveJobs.py
+SPDXID: SPDXRef-item3866401
+FileChecksum: SHA1: 74c0ee9548147a4aff575e2288c77662142e7d98
+FileChecksum: SHA256: 130477f9321eee4657750082cd8d8f5dfd3a51e5b2c2fa5f9ee80ebb1df4d49c
+FileChecksum: MD5: 6cdfb8f874c4bd47f182ba9a0aecec38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/makefile
+SPDXID: SPDXRef-item3866403
+FileChecksum: SHA1: a4ee3ff4239ee70c5414d203349857a8bad57e07
+FileChecksum: SHA256: c2e5b635c357b74de0bcd581301f6a70f5708886e7e305fda8b65d98dce0ea74
+FileChecksum: MD5: 3b68f93951ba07725dccd5e89e90e1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/makefile
+SPDXID: SPDXRef-item3866411
+FileChecksum: SHA1: 1d4d605884720b474baad8162f6b64507dbd6b70
+FileChecksum: SHA256: 6b23e254957d688334322148160dcefca1ab0f6685e7c0b8eb50a85669a292af
+FileChecksum: MD5: e54229c5c74376275e0abbbf9b59e3bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/json_gen.o
+SPDXID: SPDXRef-item3866412
+FileChecksum: SHA1: 9c93bfda834fb1d53f506fdabd522d80e0221677
+FileChecksum: SHA256: 93ff61df270b76729aee0cdfb9b1fe76a0744e9fa6d79349653d48f9776a6958
+FileChecksum: MD5: 5367ff3072585fd91b10649188e76625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/bytes.o
+SPDXID: SPDXRef-item3866413
+FileChecksum: SHA1: 0ff4e126c3d38313842bcb772a822faaf961ab3a
+FileChecksum: SHA256: b5806342bee99ed4a344cb348190d8694f316754f9211a67ed7dfab1a71ab06d
+FileChecksum: MD5: 36dfc81328307aec94430c835d1d771b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr.o
+SPDXID: SPDXRef-item3866414
+FileChecksum: SHA1: e46078d2d5734d76b7edf2814592f289ddcfb331
+FileChecksum: SHA256: d1f0ebf4e5658bd60bc724d1cd3a862e429ffcafb8a60a3f844d3c345b668915
+FileChecksum: MD5: 494940f20268e7ceee9d17c54a0bc077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/r_admin.o
+SPDXID: SPDXRef-item3866415
+FileChecksum: SHA1: 187dc0121b291fae2be6fca92d49bbc596d1091c
+FileChecksum: SHA256: 8efc449db016a8e7171bde31aa32eae5e757a72b48d7c150752d0be08f9894f9
+FileChecksum: MD5: ae9e771c174bb420299fc9ab47dce0f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr_dump.o
+SPDXID: SPDXRef-item3866416
+FileChecksum: SHA1: bb206d0b721bddfc59a482144032dea0a0b6b733
+FileChecksum: SHA256: dcc0b2700cfac715d31664893826a776e5eb743a10a46b9d6094bbf655bba6f4
+FileChecksum: MD5: 9e697a903f9ab5dd86cf8a86311da6f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/r_admin_c.a
+SPDXID: SPDXRef-item3866417
+FileChecksum: SHA1: 63a2d492b6df6aa7aa083ffe6c09c777c766cc0d
+FileChecksum: SHA256: 917001d93a99304678bedc116932627b5703f8ed43c415d9c330ae8594f43af8
+FileChecksum: MD5: bc5514e08781650a19932841003ad9ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/transcode.o
+SPDXID: SPDXRef-item3866419
+FileChecksum: SHA1: b9c610e2b1e2f8977e0d080433520ca68ef41aa9
+FileChecksum: SHA256: ded42103d43edf726448771b942dd322cfea612c8ad6cc786bc66c887a6478f2
+FileChecksum: MD5: a0f8ac1b4851a53c3cef7c1366b43e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/keyval.o
+SPDXID: SPDXRef-item3866420
+FileChecksum: SHA1: 4ba3ed6a6d56b66946f5acd916676fdc1bcfc1f4
+FileChecksum: SHA256: 5df574f14876b2d94f024075e245e38bed512ce7b1ecba3c7c3ab3aa10156ef0
+FileChecksum: MD5: f1ea8b83ddc4026b1968c9c44b86ba42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/json_prs.o
+SPDXID: SPDXRef-item3866421
+FileChecksum: SHA1: 0e0bebf9dab9a31a528b249d9bc81bf5a777cb48
+FileChecksum: SHA256: ff1b8115eba75d1826425a1aa319add5d2240d3b5efc26f975555d6cdb5f4025
+FileChecksum: MD5: 33253fa822b72c29af8f22eb69dd4c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/makefile
+SPDXID: SPDXRef-item3866423
+FileChecksum: SHA1: 6fa511fc12b77086dcc39e65b3ae92e5c519ac1b
+FileChecksum: SHA256: d4302a9f287ac0ba7efce3aa7dd9472e0cf5bcf19a4d8224eb608f87ebfccd98
+FileChecksum: MD5: 8ae39d58396f3b0a2fe0d904a359af0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr.o
+SPDXID: SPDXRef-item3866424
+FileChecksum: SHA1: e46078d2d5734d76b7edf2814592f289ddcfb331
+FileChecksum: SHA256: d1f0ebf4e5658bd60bc724d1cd3a862e429ffcafb8a60a3f844d3c345b668915
+FileChecksum: MD5: 494940f20268e7ceee9d17c54a0bc077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_dump.o
+SPDXID: SPDXRef-item3866426
+FileChecksum: SHA1: bb206d0b721bddfc59a482144032dea0a0b6b733
+FileChecksum: SHA256: dcc0b2700cfac715d31664893826a776e5eb743a10a46b9d6094bbf655bba6f4
+FileChecksum: MD5: 9e697a903f9ab5dd86cf8a86311da6f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr/pxtr_kv.o
+SPDXID: SPDXRef-item3866430
+FileChecksum: SHA1: 4da71aea2ce2d52f32e3433d89d3454f83471253
+FileChecksum: SHA256: 48030df4da80935a2fa461e0a92a1f93f1ccdf21dd338c2710e4e4aadfa0137d
+FileChecksum: MD5: 87faa8fd3c9890ba6afdc31f2f744474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/dump.o
+SPDXID: SPDXRef-item3866431
+FileChecksum: SHA1: 57b0786965370acacd82b96b41826809f67ded32
+FileChecksum: SHA256: ad3ac4f622b47ceba2025b39a2c1f18fceceb724f711708ac85c30ff856d3c08
+FileChecksum: MD5: 8756f38d949e1d066f51e9a61cfd2daa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/fileio.o
+SPDXID: SPDXRef-item3866432
+FileChecksum: SHA1: 7547038302de6f4f116bc322e2153bfb65e3dd6e
+FileChecksum: SHA256: 03dd95e353e9325ed125ed44fcad487ad63957134cac6d014f31e9e29d438eba
+FileChecksum: MD5: c1eee55cb166092fbb7e8552415f8497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/log.o
+SPDXID: SPDXRef-item3866433
+FileChecksum: SHA1: a05dd5821f2d40e29b9757b1251385f557adffde
+FileChecksum: SHA256: fb1fc0512eda364e79fcf21f238de920f8c1174fa54276a2812c5b8714c2eee3
+FileChecksum: MD5: 5f450fc9b0029b386d9b39fb5830d4d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/C/pxtr_kv.o
+SPDXID: SPDXRef-item3866435
+FileChecksum: SHA1: 4da71aea2ce2d52f32e3433d89d3454f83471253
+FileChecksum: SHA256: 48030df4da80935a2fa461e0a92a1f93f1ccdf21dd338c2710e4e4aadfa0137d
+FileChecksum: MD5: 87faa8fd3c9890ba6afdc31f2f744474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/asm/makefile
+SPDXID: SPDXRef-item3866438
+FileChecksum: SHA1: d1c3892480935ac73573581fae138f1745896f1d
+FileChecksum: SHA256: 44fa0cef7ee414db3eb84d155b7fead73ce817973cca77928c1da0e327b4e025
+FileChecksum: MD5: 04e78a2b067789585ae5401b7588ed1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/asm/REGDEFS
+SPDXID: SPDXRef-item3866439
+FileChecksum: SHA1: 98b88a7b52c77d2a053a9ae517e15e41f23cc2aa
+FileChecksum: SHA256: 61c59ba3b91664dfeca93b4dd533e752efafd6e22afc26a43a0602aef620801b
+FileChecksum: MD5: 92dbfe677e273ce6ee3e0efd0e32de2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/asm/callRadmin.o
+SPDXID: SPDXRef-item3866440
+FileChecksum: SHA1: 531f04f739e7c4fa98464bbb8592bb0b84088298
+FileChecksum: SHA256: 4c1530330564069b7aa95d76aafac4c3d4fe69f167ef66ea8dea7bdd63161720
+FileChecksum: MD5: b2c76eeb78f3775c2d921bbdb2582231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/asm/r_admin_a.a
+SPDXID: SPDXRef-item3866441
+FileChecksum: SHA1: 09fa09002e9e3be0a979e09419a0ac2ebba6f68f
+FileChecksum: SHA256: 1b873670e3df5e9dcb14d0efb775eb473d1f3b03b8092cae65cf789667eed206
+FileChecksum: MD5: 3489efe08a6517a9c740812b9763b2b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/R_admin/asm/callRadmin.s
+SPDXID: SPDXRef-item3866442
+FileChecksum: SHA1: 0b3eac92d682871b4dfb1d8e6b84e1bcf39d883d
+FileChecksum: SHA256: 3374232bbdd3ac53e2c1b6666c1c387b016a2ca0768dd4d162f1f22ee17c8c36
+FileChecksum: MD5: 31ef03d4a09b5f6a71d58450bfa7af23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/makefile
+SPDXID: SPDXRef-item3866448
+FileChecksum: SHA1: 9c3b4806b4e4776d58bc19639b0066aa8f237d7e
+FileChecksum: SHA256: d21e3c5fe09f76b3c3e965f43ef8b508a80f03e27abb7ea3bff65e231f453369
+FileChecksum: MD5: 3a9be084df44a0099bd0b00e33e0d682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/json_gen.o
+SPDXID: SPDXRef-item3866449
+FileChecksum: SHA1: 9c93bfda834fb1d53f506fdabd522d80e0221677
+FileChecksum: SHA256: 93ff61df270b76729aee0cdfb9b1fe76a0744e9fa6d79349653d48f9776a6958
+FileChecksum: MD5: 5367ff3072585fd91b10649188e76625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/bytes.o
+SPDXID: SPDXRef-item3866450
+FileChecksum: SHA1: 0ff4e126c3d38313842bcb772a822faaf961ab3a
+FileChecksum: SHA256: b5806342bee99ed4a344cb348190d8694f316754f9211a67ed7dfab1a71ab06d
+FileChecksum: MD5: 36dfc81328307aec94430c835d1d771b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/transcode.o
+SPDXID: SPDXRef-item3866457
+FileChecksum: SHA1: b9c610e2b1e2f8977e0d080433520ca68ef41aa9
+FileChecksum: SHA256: ded42103d43edf726448771b942dd322cfea612c8ad6cc786bc66c887a6478f2
+FileChecksum: MD5: a0f8ac1b4851a53c3cef7c1366b43e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/common.a
+SPDXID: SPDXRef-item3866459
+FileChecksum: SHA1: 9252f48d4d892c94278fb9cc8a0a94465845d1ba
+FileChecksum: SHA256: f2dd91c6938c1224999e765c072ee9a1d819f06943f2ba07c23b6a9a5e4e9939
+FileChecksum: MD5: ccb061c47233887f4b1fc3664e4353c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/keyval.o
+SPDXID: SPDXRef-item3866460
+FileChecksum: SHA1: 4ba3ed6a6d56b66946f5acd916676fdc1bcfc1f4
+FileChecksum: SHA256: 5df574f14876b2d94f024075e245e38bed512ce7b1ecba3c7c3ab3aa10156ef0
+FileChecksum: MD5: f1ea8b83ddc4026b1968c9c44b86ba42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/json_prs.o
+SPDXID: SPDXRef-item3866462
+FileChecksum: SHA1: 0e0bebf9dab9a31a528b249d9bc81bf5a777cb48
+FileChecksum: SHA256: ff1b8115eba75d1826425a1aa319add5d2240d3b5efc26f975555d6cdb5f4025
+FileChecksum: MD5: 33253fa822b72c29af8f22eb69dd4c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/common_types.h
+SPDXID: SPDXRef-item3866463
+FileChecksum: SHA1: 861e44f0f0e0654ac13033fe1d482ac4f58fe10f
+FileChecksum: SHA256: 502e81b9a54404adac70124730ddd18a45c9d111c435b095c0b639fb2bbac1e8
+FileChecksum: MD5: 5a9699c7664b0cf97592709d4e158faa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/dump.o
+SPDXID: SPDXRef-item3866464
+FileChecksum: SHA1: 57b0786965370acacd82b96b41826809f67ded32
+FileChecksum: SHA256: ad3ac4f622b47ceba2025b39a2c1f18fceceb724f711708ac85c30ff856d3c08
+FileChecksum: MD5: 8756f38d949e1d066f51e9a61cfd2daa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/json.h
+SPDXID: SPDXRef-item3866468
+FileChecksum: SHA1: 2cfcb9dd696bc2958042c01cef0fea8766f26444
+FileChecksum: SHA256: 412eabd6399858e4f44bf11796212b0a54e73ab578c7ca2ed92b0f27b22dc666
+FileChecksum: MD5: 77512a912d4547443ae17500ed9046a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/fileio.o
+SPDXID: SPDXRef-item3866470
+FileChecksum: SHA1: 7547038302de6f4f116bc322e2153bfb65e3dd6e
+FileChecksum: SHA256: 03dd95e353e9325ed125ed44fcad487ad63957134cac6d014f31e9e29d438eba
+FileChecksum: MD5: c1eee55cb166092fbb7e8552415f8497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/common/C/log.o
+SPDXID: SPDXRef-item3866471
+FileChecksum: SHA1: a05dd5821f2d40e29b9757b1251385f557adffde
+FileChecksum: SHA256: fb1fc0512eda364e79fcf21f238de920f8c1174fa54276a2812c5b8714c2eee3
+FileChecksum: MD5: 5f450fc9b0029b386d9b39fb5830d4d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/libracf.so
+SPDXID: SPDXRef-item3866473
+FileChecksum: SHA1: 2cd71976f78a7b16449550c9844cab81615565b8
+FileChecksum: SHA256: 8bb4d8f0def7b4e06f04a16fed29f91068bcde3b3e2cc33420096b13222315c9
+FileChecksum: MD5: 45fc7e67b88f92e743d6de2e1d200f29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/pyracf/libracf.x
+SPDXID: SPDXRef-item3866474
+FileChecksum: SHA1: 13c3d4095f7064eac2f8fec50a98dca775d26288
+FileChecksum: SHA256: d0ed5eead52d2b62a49c97e34ae00dc38e15222d5fca53849ca5d8983e0cfbf1
+FileChecksum: MD5: 8ac21b066064aa79898695f4ab851b47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/__init__.py
+SPDXID: SPDXRef-item3866475
+FileChecksum: SHA1: ff900caeb2661eac9762f4ad03ad22307b9125fb
+FileChecksum: SHA256: c067d98bae54247fd30a8ceace57ba82c931730905d7ff1491ef0e2e24bb5169
+FileChecksum: MD5: 206a0bb85612d97e141675f9a810f0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zcmds/display_active_jobs.py
+SPDXID: SPDXRef-item3866477
+FileChecksum: SHA1: e07ad67fa05a920c2dffe20c6cef4583205df4d8
+FileChecksum: SHA256: d65422d3a8fe0c39df887baa6812b2137784db1ef6031839eff7a90d301c7abe
+FileChecksum: MD5: 1555eb483a478672325174908bf2da7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zcmds/get_asm.py
+SPDXID: SPDXRef-item3866478
+FileChecksum: SHA1: eec21da5e5715a24f8f946f61af9741f6287a3df
+FileChecksum: SHA256: 8ffda54ca1634f17ce3f028ce119037c5f2f1de449a218525e0ec89563283f9d
+FileChecksum: MD5: 4e12ca52483bbebfe2e4c9a6125883c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zcmds/getParmlib.py
+SPDXID: SPDXRef-item3866479
+FileChecksum: SHA1: 7550b9914d5851a95349b7a3e1324b3cfc87d67c
+FileChecksum: SHA256: f0d9ac664898c867f9ec3f57244bcd7ea07dbd41cc5a0013845c7849c126b94b
+FileChecksum: MD5: b9b2b127dbde2e65e868fe70cf3c2c0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zcmds/iplinfo.py
+SPDXID: SPDXRef-item3866480
+FileChecksum: SHA1: 71ccead0e7555ca75d6249c4cf570ad380b0f6c8
+FileChecksum: SHA256: 27bd664263bcfee9a54221fbab215a27414d23429d7270306cbc2508de6b00bd
+FileChecksum: MD5: 70afee8afd5e548bf3b25ee26684315d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core/zcmds/__init__.py
+SPDXID: SPDXRef-item3866481
+FileChecksum: SHA1: d8354fcc89d43a546f57223995da223a3a235c2b
+FileChecksum: SHA256: 00e25d3b8f4fa4e2d3d6cc27b8529afb7aa38b6451751a79f580f5774ece126e
+FileChecksum: MD5: 0f234838b223b761cc3074e206f65e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core-0.1.1.dist-info/WHEEL
+SPDXID: SPDXRef-item3866483
+FileChecksum: SHA1: 0fdc3988857c560e55d6c36dcc56ee21a51c196d
+FileChecksum: SHA256: 1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0
+FileChecksum: MD5: 4d57030133e279ceb6a8236264823dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core-0.1.1.dist-info/RECORD
+SPDXID: SPDXRef-item3866485
+FileChecksum: SHA1: 37180fdeff00aa3e0121366b0840000ef1524532
+FileChecksum: SHA256: 64de78b9b410d023a9afc1a2260a0821ce80893978261a366a7e13dfbb90ff6d
+FileChecksum: MD5: 65330d3268611e8d61b50dbbc8c7b23b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core-0.1.1.dist-info/METADATA
+SPDXID: SPDXRef-item3866486
+FileChecksum: SHA1: 5d38bfe90e53c4a71711ee32179c4af66c159640
+FileChecksum: SHA256: 3f11321820f4f61944b0b55692673ab6c99a2f24e0e59cab11d81a46738d1b50
+FileChecksum: MD5: 776b0a652a20c72fc7443d862db8df9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Apache
+LicenseInfoInFile: LicenseRef-Python
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/pyzkiln_core-0.1.1-py3-none-any.whl/pyzkiln_core-0.1.1.dist-info/top_level.txt
+SPDXID: SPDXRef-item3866487
+FileChecksum: SHA1: 25b8a11f08f7e46f54cf08ebc550ad26e336f784
+FileChecksum: SHA256: 95415408b6788ce4b6f28fb0a98e2e97a55c997a6e9f3487ad2502b9b6a5d5ab
+FileChecksum: MD5: 6153c22cd8dac38fb2e15df03d6579da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/requirements.txt
+SPDXID: SPDXRef-item3866488
+FileChecksum: SHA1: a04dd1ae411f710d8ca3dd667e45fe132e4618cf
+FileChecksum: SHA256: a76080d9e32c179ffebb5e8a69bf818ad46b282af16276758e963cefdd19b0bf
+FileChecksum: MD5: aea1531c19b2af45f51bea860a8fd788
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/.gitattributes
+SPDXID: SPDXRef-item3866489
+FileChecksum: SHA1: f76067e09b04594eb2a3b44c8611f08f9bfc2a80
+FileChecksum: SHA256: a1c38062a9d90525b68556fa42d2087dbbf56619d175fc47daeee6502105173b
+FileChecksum: MD5: a67cf6d4488e4b49bb77a7529a6f3e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/pyzkiln/README.md
+SPDXID: SPDXRef-item3866490
+FileChecksum: SHA1: ba82c55b2f704adaa665b98375b2fae3049b8e73
+FileChecksum: SHA256: 0c54deb303d594a577ec872230f96071ce2d70b7eb3dc3b41a308452f94655eb
+FileChecksum: MD5: 9e29543cb78c4a614ae9158566ec8817
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/profiles/jupyter_notebook_config.py
+SPDXID: SPDXRef-item3866493
+FileChecksum: SHA1: 5987537e786737dcb0cf0538cde344e2429baa94
+FileChecksum: SHA256: 1c10571207863547284f00bf10f85ecf7fc43090d07396117b3a11976f697d58
+FileChecksum: MD5: 1319dbae18ef9462d911e593abfd4c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/profiles/.profile
+SPDXID: SPDXRef-item3866494
+FileChecksum: SHA1: f841e2d7480bfd81f4a931a3c02aed9f9f0dfd0e
+FileChecksum: SHA256: 7c03ef23df68c6e3c1fbcc43406fdc8c9397d9b8da124c17273fd29df668417b
+FileChecksum: MD5: f24a37510efa226fd5fb0647405f892f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/profiles/.bashrc
+SPDXID: SPDXRef-item3866495
+FileChecksum: SHA1: 4e6c14fe4564799f20f46c3b4c41382521ba3a06
+FileChecksum: SHA256: 6c307523b6f5b9126921a4a1a5f9e19ed5673b8f3aecb03de6d8d2b5df536331
+FileChecksum: MD5: b8ed1c8efa2912302d4bc983c2a160c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/notebooks/images/zTron_logo.jpg
+SPDXID: SPDXRef-item3866498
+FileChecksum: SHA1: 1daf3b1bdbc5877c93f688fbfc540808a6820d36
+FileChecksum: SHA256: b841ba179158bc39f0c04cb60ad643ed3260ae1c7c1a5cf53aab219fc56b68e5
+FileChecksum: MD5: 2c54d065e663ebc6364da1c5d412d45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) 1998 Hewlett-Packard Companydesc?sRGB IEC61966-2.1?sRGB IEC61966-2.1XYZ óQ ÌXYZ XYZ o¢8õ?XYZ b·?ÚXYZ $ ?¶Ïdesc?IEC http://www.iec.ch?IEC http://www.iec.chdesc.IEC 61966-2.1 Default RGB colour space - sRGB.IEC 61966-2.1 Default RGB colour space - sRGBdesc,Reference Viewing Condition in IEC61966-2.1,Reference Viewing Condition in IEC61966-2.1view?¤þ?_.?Ï íÌ \?XYZ L	VPW?çmeas ?sig CRT curv </text>
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/notebooks/.gitignore
+SPDXID: SPDXRef-item3866499
+FileChecksum: SHA1: 5f145d268797fa7cbdcf953fa2160eca71737b65
+FileChecksum: SHA256: 8b2e83795fe9c5161a6a4a3aea69c8eac2e089ae2dcea7d7a5f596651483c0dc
+FileChecksum: MD5: d78a30dc7b03cce10184ec342c37d8b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/notebooks/zt_demo.ipynb
+SPDXID: SPDXRef-item3866500
+FileChecksum: SHA1: f2a5b5208ae9e3e54823accbd737c7f032a58625
+FileChecksum: SHA256: 15d4646936f7fff0d92dd5c2be5b231a5b97834be9c3ca6ee823b59e2eb373d3
+FileChecksum: MD5: a8d236306aa06880e1280fcdd1f611ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/jupyter_setup.md
+SPDXID: SPDXRef-item3866502
+FileChecksum: SHA1: 2bbebb7fbb47c8cb6bf381c9dcf13e0f250ef8c8
+FileChecksum: SHA256: 3913f07135783c33bb0210717cb0f29f78399c799dd65e2250534e14d1484d07
+FileChecksum: MD5: 14c51983d11bfa1b83406f86faa56f37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/src/.gitignore
+SPDXID: SPDXRef-item3866507
+FileChecksum: SHA1: b313bf205ba57d08ef5965c62fac7c32969074e4
+FileChecksum: SHA256: ef8a1af1847c80dc4ac41ea50ada2a9a0b41db1a599d6339dfd42c978c08fe58
+FileChecksum: MD5: 15b8e24e3c893c0198bc78414fa9fbca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/images/jupyter_notebook_list.jpg
+SPDXID: SPDXRef-item3866515
+FileChecksum: SHA1: 5ccacc9a64bcd36fde410acb329704e9e546af19
+FileChecksum: SHA256: ff8091cd2d87c348a756c1b567be2c34138a17fd12b92a414e20efae1a0b4780
+FileChecksum: MD5: a5b18ceb160baea60085046f9c5b90d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/common_setup.md
+SPDXID: SPDXRef-item3866516
+FileChecksum: SHA1: 9709f53584ae3a2a6ac807597b615759c889a43d
+FileChecksum: SHA256: ba7c70a97926d36c2233bd34c37a477584b62800f2a16f285337e1a20e8f4870
+FileChecksum: MD5: 6e362dbf2babaa56c6af77dcc3c9d474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/test/pipeline.yaml
+SPDXID: SPDXRef-item3866518
+FileChecksum: SHA1: 656efa5a1e834a043dffb3b8d265b01afb9ff91d
+FileChecksum: SHA256: 8e4fc0dfc85b20a6b6d34fa0555aaeca3be5d5cf9484709322c15d2b11749d8b
+FileChecksum: MD5: b4076f85ca961ec196ef376eff584bb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/test/config.yaml
+SPDXID: SPDXRef-item3866519
+FileChecksum: SHA1: 2dc61cf696c22cba214757000f43536880738629
+FileChecksum: SHA256: 546f502afc957c22a2ad29ae6b3554e58b8c6299fd89819caa214291d49ba50c
+FileChecksum: MD5: 078060dce7b76fb78bfcd75a40c30c5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/README.md
+SPDXID: SPDXRef-item3866520
+FileChecksum: SHA1: a55d4676ee65380c0c684c7815dba72e78eaecb0
+FileChecksum: SHA256: e4ff6ea5b9360ec61617943084b8ec2b5f3804a8b23fcb6d38d1a6d00ce0acfc
+FileChecksum: MD5: da66440b1568740fe2a2a54213a5ceb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zTron/using_jupyter.md
+SPDXID: SPDXRef-item3866521
+FileChecksum: SHA1: 0d3572305ede04d2ad8cf3dcd3c69e59db5b3b16
+FileChecksum: SHA256: 7257cdaef7ecd7159d7af4bcd8cb85963f640c964d40e4ceac7e7939b45e5c28
+FileChecksum: MD5: 59e296672e613b3f77102abf4192df95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/.vscode/settings.json
+SPDXID: SPDXRef-item3866525
+FileChecksum: SHA1: f638d09b84f905e9b3863d91f44976a5c0706c79
+FileChecksum: SHA256: af8978c5894a9b30ce499b8e972e215666aadc1ea880a0664209b5fc4e39df15
+FileChecksum: MD5: 601d2157de687bc4c5010de34b6dc189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/examples/README.md
+SPDXID: SPDXRef-item3866529
+FileChecksum: SHA1: a0bec7aacd1d34fafbe168c111a71ab47a4cdd92
+FileChecksum: SHA256: b813bb99d28d2eaa18070c373c435d21ccffdad993350006842334277ba6896b
+FileChecksum: MD5: 8a0123ebd94092b0d45b5bf7ffadd1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/.gitignore
+SPDXID: SPDXRef-item3866530
+FileChecksum: SHA1: 94b7a0644d4eb35155ae9922561180fac6739853
+FileChecksum: SHA256: e531aad34d593fc4e5c41e73e606c515aab4228fdb3836d7c2122eb75f530e7d
+FileChecksum: MD5: 366751c9fb90019defdde46ed3dcc25c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/V1.0.0/README.md
+SPDXID: SPDXRef-item3866533
+FileChecksum: SHA1: 03d10d2dc3646b5a02409cfde39d02bd5ac15179
+FileChecksum: SHA256: 75939bb3a7f42d56853f0c7cb423663cf5f744e1ba2de8d5627023e8093e951e
+FileChecksum: MD5: 3750e04f0584f69f0875d3b103e887df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/schemas/draft/schema.json
+SPDXID: SPDXRef-item3866541
+FileChecksum: SHA1: b73119fba0ed8d311fdc46ffc80df2d7efcd3dcf
+FileChecksum: SHA256: 88dda986270dae1d341305e6234d2448a694715839ab93037bfde09c13f81849
+FileChecksum: MD5: fe56cab385a3cf73f6037f78254fd28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/ZML-Specification/V1.0.0/README.md
+SPDXID: SPDXRef-item3866544
+FileChecksum: SHA1: 03d10d2dc3646b5a02409cfde39d02bd5ac15179
+FileChecksum: SHA256: 75939bb3a7f42d56853f0c7cb423663cf5f744e1ba2de8d5627023e8093e951e
+FileChecksum: MD5: 3750e04f0584f69f0875d3b103e887df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/ZML-Specification/draft/README.md
+SPDXID: SPDXRef-item3866547
+FileChecksum: SHA1: 4623a95d7a505e2c14023909c9fc890195c9aee5
+FileChecksum: SHA256: 4ebf40ba561a1577bc51417881f4fa4a34a747887ffaad2e22f24961134296a3
+FileChecksum: MD5: bef3f90fd22c1d188988920f8ed84fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/README.md
+SPDXID: SPDXRef-item3866548
+FileChecksum: SHA1: 0bb44011b0a7b09d14b3eea8d123a8faa49ca08f
+FileChecksum: SHA256: 36d4fba7e125e6e094adeb42aeae55df95040b744883c4bed5019542b609995e
+FileChecksum: MD5: ec6eb36e832f7c60f519848d39a001be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zml/COMMITTERS.csv
+SPDXID: SPDXRef-item3866549
+FileChecksum: SHA1: 905f254e85cc5fcd2c5394ea4939c943817c74f2
+FileChecksum: SHA256: 0ee8158fe297cf40b27e2909ab2b304ef1b2d5389017653916338100eeca0764
+FileChecksum: MD5: 734ee62e2f653ade55ec1b989cc4d3df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/build_setup.md
+SPDXID: SPDXRef-item3866553
+FileChecksum: SHA1: 1ee3b697c9658eeb8c91ef5dfa8d4dfb8cb2bdfc
+FileChecksum: SHA256: ed16f2d761eea178deba642902a886390005f4ffa75d72027996d7c5aa20deac
+FileChecksum: MD5: a527ccbd0df2ba279075513bd93cf8e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/user_definition_setup.md
+SPDXID: SPDXRef-item3866554
+FileChecksum: SHA1: 515761f81b711bd7af2e0d009b81cb74aeeb1ecd
+FileChecksum: SHA256: aa8b22cba2b70cbb64eeaaa7cdc41377f7e5899da89d3e30963be8e77e1a0574
+FileChecksum: MD5: 7806755c09f470dff606f69dfd7e975e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/filesystem_setup.md
+SPDXID: SPDXRef-item3866556
+FileChecksum: SHA1: 9850294c93520bda59ea9f58ea71041e0c61dcc4
+FileChecksum: SHA256: 4844586365c69f439dadbdef3042a29489c67cc6e84f173f7f728f33086296d0
+FileChecksum: MD5: 385ea12bd5f052fa97a556bff5272e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/tools/Endian_converter/README.md
+SPDXID: SPDXRef-item3866560
+FileChecksum: SHA1: fe7397fec57db7d131e54a93789af627f3cc03fb
+FileChecksum: SHA256: 21c0645111d8ef8d694a2d6019f6ba42a1e88f26a819f57bfd8fc7f9424d64d4
+FileChecksum: MD5: 7a84e7c7b73e1db309b77cea0fe79b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: ambitus-2023-02-11.zip/zos-native/README.md
+SPDXID: SPDXRef-item3866561
+FileChecksum: SHA1: 035bdc734ef79ab7486a89fdc6a1961861162e9f
+FileChecksum: SHA256: 5b78a451f00aea9714f58b71a179aa1cf1a770a1810d8e2b8c9032812db80987
+FileChecksum: MD5: f35063ecef1450df95fb2b2eb9bf762d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Apache
+LicenseName: Apache
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+

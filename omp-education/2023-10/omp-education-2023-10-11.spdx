@@ -1,0 +1,917 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_omp-education-2023-10-11.zip_1698665998.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-10-30T11:39:58Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: omp-education-2023-10-11.zip
+PackageFileName: omp-education-2023-10-11.zip
+SPDXID: SPDXRef-upload1026
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: ff4d1f8a06c80de2567e76f403c68888d122ff3b
+PackageChecksum: SHA1: 66ded3fbeba81a2e0ed6e0d52d101804bde95241
+PackageChecksum: SHA256: 67974afd2cdd47a58d9a47d657562a117aaa8921ba7a6b06fb5e5b92727a775d
+PackageChecksum: MD5: dc2b8e904f022e690c25ca6b3b8aac35
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1026
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/legal-disclaimer-copyright-and-license.md
+SPDXID: SPDXRef-item5947993
+FileChecksum: SHA1: f51ec3fc55fb12e38514ab21e1775ade89a9d579
+FileChecksum: SHA256: d8218ef8d61e3b035889821be3822b18ad847b917d9fe38a82d751346815a916
+FileChecksum: MD5: 9dc9bf51bec8fe73fc984630a3f6c251
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> Copyright Contributors to Mainframe Open Education Project. </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/LICENSE
+SPDXID: SPDXRef-item5947944
+FileChecksum: SHA1: dae17fdaf0b07242bd19bb4ea685157fe65b8a55
+FileChecksum: SHA256: 8d3fceb4cb62663775f02c1c551cfbf332d1c736667c17817c16c635caba21e0
+FileChecksum: MD5: dd44fc98fc34924a5614ce865a50e4d8
+LicenseConcluded: CC-BY-4.0
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: CC-BY-4.0
+FileCopyrightText: <text> copyright. More considerations for licensors : wiki.creativecommons.org/Considerations_for_licensors
+copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rig
+copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)
+Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world. k. You means the individual or entity exercising the Lice
+copyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable; B. indicate if You modified the Licensed Material and retain an indication of any previou </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item5947942
+FileChecksum: SHA1: d556e39ea5b42467680b66d6b3f08c199338a082
+FileChecksum: SHA256: 918a9e911fc166335eefcf17dd9899e5ea10ab4dd99d0e37012ee2fc1086693d
+FileChecksum: MD5: 2c108cea644a121fabc7fdaf39d1c5ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/GOVERNANCE.md
+SPDXID: SPDXRef-item5947943
+FileChecksum: SHA1: cbcd260e36a36ed857dc453feaa3be4953806c83
+FileChecksum: SHA256: 5f47fd29646f7eb7619e9f576da39dba98f828dc01a9f653a42582a86b2eafbb
+FileChecksum: MD5: a2929e2fa82ab786d036814e6de55af0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/additional-community-resources/courses-tutorials-manuals.md
+SPDXID: SPDXRef-item5947947
+FileChecksum: SHA1: f29ed71e94d3bbf9bda956d8653c8803ae3b3c08
+FileChecksum: SHA256: b0e22b77912a84d8bd8a949be1accdf5744d01b4e46e2a8a3512de004449997e
+FileChecksum: MD5: a69d798f0c0bb3b66e8636cda83fbc04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/additional-community-resources/communities.md
+SPDXID: SPDXRef-item5947948
+FileChecksum: SHA1: bfc9abcf201e1b827ee8f5a351ae26ebabfd4088
+FileChecksum: SHA256: 853575c4780af9ad8fe9dff058d18400ad1e35a7ee18688e0fd6efbd76065699
+FileChecksum: MD5: 7ce848cf480625d05fd89d463ab00a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/additional-community-resources/education-programs.md
+SPDXID: SPDXRef-item5947949
+FileChecksum: SHA1: fb947ad7fbcc7921937f71cb74a4dd9df38557f5
+FileChecksum: SHA256: 0f8a9c61c4289e770f3639f6adcef58b89c692f25f8cfd2cf8ce8bc55467159c
+FileChecksum: MD5: 59cbfa62c4945ded0400aa725b761dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/additional-community-resources/README.md
+SPDXID: SPDXRef-item5947950
+FileChecksum: SHA1: bdd899cb4ea432fecaa54a0a5682b3f490f2d93d
+FileChecksum: SHA256: aa817b53baf2eb647d39e73eece0225b0548911473ec31f196d1456306de8b6d
+FileChecksum: MD5: b141fa66ee8048c6cad154b0c35fb26e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/additional-community-resources/ibm-mainframe-timeshare-services.md
+SPDXID: SPDXRef-item5947951
+FileChecksum: SHA1: 5d12737724616fa1e17b67657ef560db718cdaf4
+FileChecksum: SHA256: 027715a861e41f13384532fa26ef09ac7e03f2f4c5754d0753696cf9e76cf524
+FileChecksum: MD5: be65865296e79145292ca05488e7b6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/mainframe-versus-servers.md
+SPDXID: SPDXRef-item5947953
+FileChecksum: SHA1: 3c3d786c0d6954f38fd81fd03c7da5016301fa89
+FileChecksum: SHA256: 3c5da8b56b75603bc0ade70f362dd30a343df562a217d0504e533dd6043dd3fb
+FileChecksum: MD5: 1bd68526b6e0c242c711f21fe4bf5755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/mainframe-evolution.md
+SPDXID: SPDXRef-item5947954
+FileChecksum: SHA1: a57f3fb39a10124220164f9320cb98cc2dffb33c
+FileChecksum: SHA256: cfaadea7ce1103b1d1899ed3826df8f1691d743c2a53acc0d6acf2ee3a52a9c4
+FileChecksum: MD5: 791dca74a1f0312bd277e60a4477ba70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/how-the-mainframe-works.md
+SPDXID: SPDXRef-item5947955
+FileChecksum: SHA1: 824dab6a04d7a16e75b845d2f0aa0b23c4505edb
+FileChecksum: SHA256: e73e79b30a10259540eb5794994c343681c30afee5114e8339f92dd4447c1038
+FileChecksum: MD5: fb0feb996b0aaba9996626840acf5d68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/video-talk-like-a-mainframer.md
+SPDXID: SPDXRef-item5947956
+FileChecksum: SHA1: c6d68d77eba9197d5f941ae48f747ee9f3b60955
+FileChecksum: SHA256: 0b0564026faa4fa35a741327cf981760f67ea1ab4e02216b866a51d0af32a69e
+FileChecksum: MD5: 81c4d727a3ef48f0a6685674c82a9416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/mainframe-basic-architecture-and-components.md
+SPDXID: SPDXRef-item5947957
+FileChecksum: SHA1: b692d5bef6b4a176f14e3a57fac6feb3c5ce8ab1
+FileChecksum: SHA256: 86963600e6a3e65819ce2cb8d890997b6a74b7e309c2a3dd5fed9ae57096f2df
+FileChecksum: MD5: 6464c9c5c19898b184e185f218e4b86d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/README.md
+SPDXID: SPDXRef-item5947958
+FileChecksum: SHA1: 1dcaf9261ef7f1e612a9891cc5058082b4f4a43c
+FileChecksum: SHA256: 04b8c29b765cca3dd301dbf957a07f1a0cc02c5339d5ceaea28acaffdf617b12
+FileChecksum: MD5: 7ff6297691a45306c62ac189d8e1317f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/video-what-is-the-mainframe.md
+SPDXID: SPDXRef-item5947959
+FileChecksum: SHA1: 76407231330634ec4535dfd9f72e47fc96ced2fe
+FileChecksum: SHA256: 73858d9ac545c8253039892ce6777a28352f8b31235214ce08f280e0dcba6ace
+FileChecksum: MD5: de49f2a909cf6b785d77b19f04f8c4de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/brief-history.md
+SPDXID: SPDXRef-item5947960
+FileChecksum: SHA1: e11b3bf2bfe9380932c368b5d01ee1915e55a730
+FileChecksum: SHA256: a5626e85a46c724242e965594cde7e7faf3274b373b2fa87a549047249d0fa64
+FileChecksum: MD5: 805be28b6b7024863d354978c509547c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/who-uses-the-mainframe-and-why.md
+SPDXID: SPDXRef-item5947961
+FileChecksum: SHA1: 75411cfb16f62216e66fff560e14d6589ecd3667
+FileChecksum: SHA256: b33756ec26bc4983e6cd859cbeb474082d6c8072a0d06afc7cb34b8bcc680540
+FileChecksum: MD5: 71cb200ddd1b7dd4f791527441e9b3a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/video-what-is-the-mainframe-mainframe-security-myths.md
+SPDXID: SPDXRef-item5947962
+FileChecksum: SHA1: 3930a7cc308349ab255ab2fbf0d2e843f88eb669
+FileChecksum: SHA256: bcf4416ccc97f19f72c10c6d8ba1fbe2fbea523cfb55f72b817a8f00e6f6b215
+FileChecksum: MD5: 60b5488df5071af6b9f1d4fd21474fb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/role-of-the-mainframe-today/enterprise-computing.md
+SPDXID: SPDXRef-item5947964
+FileChecksum: SHA1: b7c331af1d6201ced4a819a46b8786ae9ac991ae
+FileChecksum: SHA256: 10fdb31bb10b78f356f2c071b2c7fe015fe6f33a18398a6bfb11918d5c3d7889
+FileChecksum: MD5: 836f44a82bde8057a496c25b0fcc43fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/what-is-a-mainframe/role-of-the-mainframe-today/README.md
+SPDXID: SPDXRef-item5947965
+FileChecksum: SHA1: f3d4c21d67a320554f7cc920af306b1cb33dbf73
+FileChecksum: SHA256: d8db65b817a4012d1b5e373fe1bb1c8ff3d23c2b4498761b1cce3c7b07f472ad
+FileChecksum: MD5: cff50f1cf316b702803e9030837fe116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-business-software-product-application-development-and-support.md
+SPDXID: SPDXRef-item5947967
+FileChecksum: SHA1: a5f4f93a586df37b1ccd26af95a9b8cebba1d0eb
+FileChecksum: SHA256: a8060618b672a25a4549d4cfc49b8a9c4eddb17fef99a3b96e625dec6567844f
+FileChecksum: MD5: 54b0515e634f59b895061085b3b6c833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-software-engineers.md
+SPDXID: SPDXRef-item5947968
+FileChecksum: SHA1: 6632c634bd49819f622fa8a41d44b8c69044c233
+FileChecksum: SHA256: 18bf49c23a7191210578dd3d315721a9615a19a1a1bd0c6718b03dc0f446d49f
+FileChecksum: MD5: 7081254ba696a4390538b32f9bd8a751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-architects.md
+SPDXID: SPDXRef-item5947969
+FileChecksum: SHA1: d3ac7e5d4a3c29daad0996626370888e76cc9202
+FileChecksum: SHA256: b1a987c5899f73a16198860501f24f16caa819f51ccc5b63e2704194bdc366dc
+FileChecksum: MD5: 47a654d78b8a5a3f07548b7ff5c3948a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/deeper-dive-in-role-chosen/README.md
+SPDXID: SPDXRef-item5947970
+FileChecksum: SHA1: 8e34f7391b04fb81b306a0a33215f18dd95cdaee
+FileChecksum: SHA256: e5754d4cec15cdb505a89e380becabe792c211fe149e34ec53058641d5df65cb
+FileChecksum: MD5: f9cc138c63b0c878f96d8b6e180529b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-operations-and-system-support-and-services.md
+SPDXID: SPDXRef-item5947971
+FileChecksum: SHA1: b00e28f3890ebfdb62756dd05455f17d93b34561
+FileChecksum: SHA256: c2786f31d2e21998200bede434470c2fb999b760e8a1995951fa2ae97844eca5
+FileChecksum: MD5: 05fe56ffa94ba9c9ffd1a01d3130a6df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Reviewer QRG.docx
+SPDXID: SPDXRef-item5947974
+FileChecksum: SHA1: 4207e853f36286cb3b96b629d49a5d48bf4bf51e
+FileChecksum: SHA256: 8800333a3af350c0d88fa61d89bb9f28a31a0cfee5aaada26ceeed717999e97f
+FileChecksum: MD5: 737caf025d610fb6738a85d52142f59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Mainframe_1_3D.png
+SPDXID: SPDXRef-item5947975
+FileChecksum: SHA1: cc0cb6f333f74e608ec4a4061a5694df405bf3cd
+FileChecksum: SHA256: ceaa6702c07aa29cbfbb2f39634911fbca815e5033726f2d2f5c81cfb21930c1
+FileChecksum: MD5: 919bfc30d3bdd40866bf858e39ed81ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/MOE Cover page retang.png
+SPDXID: SPDXRef-item5947976
+FileChecksum: SHA1: 5650463effb04710e332c018a251d721e2fcc9bc
+FileChecksum: SHA256: 636fe4c6dfac5c09bf3946d85ad62d4fdb57fad8e716141326abe4e46f1c2586
+FileChecksum: MD5: 18abe72bbd53ddce99b98b26db63a618
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Contributor QRG.docx
+SPDXID: SPDXRef-item5947977
+FileChecksum: SHA1: d6efa72be489457517a8f650d3a03b7b1b209627
+FileChecksum: SHA256: 8b9bbe11b2f8eb6b23e741189680f004b8696aefa36d4ba304888ce743867602
+FileChecksum: MD5: 425283b4c82f69c4519c35db58511104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/MOE Projects.png
+SPDXID: SPDXRef-item5947978
+FileChecksum: SHA1: edb128560701b3c51aeec44a7e52620819355e3e
+FileChecksum: SHA256: 7765bf91be4027facdbbc1a67c1bf52a935b31a71949deb83852b767cc84f5bc
+FileChecksum: MD5: e31acadf8557dbabf90af7bc2d734d34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Mainframe_2_3D.png
+SPDXID: SPDXRef-item5947979
+FileChecksum: SHA1: b7f9265d95c5fe4a69342d412421b24b74f89505
+FileChecksum: SHA256: 7f057a38558bec8a60ca36454adf391116c9637f59dd9aef6cdc19dcde52f142
+FileChecksum: MD5: 43dba910a83f94562efc9d95d47ebf3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Click Edit to Start.png
+SPDXID: SPDXRef-item5947980
+FileChecksum: SHA1: cbd86b1578ec4a08c42da0c3ae8b321c29ae7f5c
+FileChecksum: SHA256: 7dd64e1f7383a94cefa13b88e3b0c0428972e5620b7b918d2807a61780a6b0db
+FileChecksum: MD5: 6eb47c40877685ad7c01674ec715a774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Click Edit to Start (1).png
+SPDXID: SPDXRef-item5947981
+FileChecksum: SHA1: 65ff0db140752c3542ef6d62055bf7aea992a5c4
+FileChecksum: SHA256: 0b8e4afa201e95ef701416ddddf5840440138846c5355dd60a36f2be5652cdf6
+FileChecksum: MD5: 9aaa96d63951f24d51cb7a9d808de919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Enter Subject Here.png
+SPDXID: SPDXRef-item5947982
+FileChecksum: SHA1: 8fe99923e6438041bccbee31f4ea921e9da32387
+FileChecksum: SHA256: d98e103e62d1bc5811cd7156aaa2ea0bfd71d5f2cf1ccf70b73ca5fab38f4ab2
+FileChecksum: MD5: 7d6aff764755f6e8b02cedd3ce80856a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/2022-02-17_10-56-56.jpg
+SPDXID: SPDXRef-item5947983
+FileChecksum: SHA1: 48169449458ec2d6f9bc7a61b23c980a47acbd88
+FileChecksum: SHA256: 85be0ba66f361ddb84d2259afb6e841677698d7830032d8dc40bbc9bfd0e0d94
+FileChecksum: MD5: ebb8041750b450e7caaf18f773d9dc03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Bq?j3N2_4Ú6Ãâ*á1?1T&é×ÃV¥£Qo </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Mainframe_3_3D.png
+SPDXID: SPDXRef-item5947984
+FileChecksum: SHA1: 2d8ee025f03c172684534f0f07127ebad521dc05
+FileChecksum: SHA256: 8052d496df419bbd3dd6c7817f296e4983853dd067f17a0d919341f7f4367a9f
+FileChecksum: MD5: 1babd8c20594a1fe9981e6efefb2c963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © l`nwmumw· 5?ڍµõM.È45ÛíöÕՕìU¹¿x>?¹VʨGVÄG'½Áhw7´%D]_߆ݗÿQó$ð?+T?Á®¬õÒ[e£Zi%ëµ"l<V?üþIy»L¨ÕôÂ?ìõz?¸H­?j>}ùNµnãf)ÙîjÎî×Te( ¼è­)Ï??¶r¼ºzÄeìõ±³6ê֦EҕöQï?{xñÖ45)A³Â?M·îÒÁéuĳkYç?¡)>LÛ߳fM±ۥ?ûý¿¯I?݌ԜÂdNÿÿÒßGԔæ/Y¦ñâæ/ú¤ޑ5S^Jà?ÀûIÿà"Ȍ±&q$4?5ùUQSlÐj¤&Â^¤#?c?!?%ãH ¦?0à </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Reviewer QRG (1).docx
+SPDXID: SPDXRef-item5947985
+FileChecksum: SHA1: 4207e853f36286cb3b96b629d49a5d48bf4bf51e
+FileChecksum: SHA256: 8800333a3af350c0d88fa61d89bb9f28a31a0cfee5aaada26ceeed717999e97f
+FileChecksum: MD5: 737caf025d610fb6738a85d52142f59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/2022-02-17_10-58-53.jpg
+SPDXID: SPDXRef-item5947986
+FileChecksum: SHA1: 854c9ac161ed5697ce071f2a559b4388789c38e0
+FileChecksum: SHA256: 9cec1a87aeb672d3be3761d55be7357eede2e2f001041751ebdf6f56e744ca52
+FileChecksum: MD5: 8cdd4520ef6b2a12c77ef6ace26302c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/.gitbook/assets/Updated Change Request Subject0.png
+SPDXID: SPDXRef-item5947987
+FileChecksum: SHA1: ccb9e68db9c012f3fddfff89a2c40bebc6d58fca
+FileChecksum: SHA256: 9df75b32f349d897e636a01152f89114a2385a89128b2c20907b849e63bef232
+FileChecksum: MD5: abb73f43005f6fca9a0535d7530eb1fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/moe-management-system.md
+SPDXID: SPDXRef-item5947989
+FileChecksum: SHA1: c7b506d8bea5553fe1f863f854a8000f7b68b618
+FileChecksum: SHA256: 3060a5aa24273a43835ac5db819ba1125999540ecbbde9d68c15083c7500999a
+FileChecksum: MD5: abdf2e5ad84fff1ea8def9fe6c65a1f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/moe-events.md
+SPDXID: SPDXRef-item5947990
+FileChecksum: SHA1: 0e73c341382d87a0a104e1e87aa76e6c2fc0f315
+FileChecksum: SHA256: 3885b0d203a39156b4e615a34019515c78e54ee03854bd45fb9e10278912a5d5
+FileChecksum: MD5: aef398f8474b20245db351f9aa57daf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/how-it-works.md
+SPDXID: SPDXRef-item5947991
+FileChecksum: SHA1: 38bb67dc007c8f53e6dd1802e93a9e328c470340
+FileChecksum: SHA256: ad31b4265160f576bfdf1db3b5c177d0b4e601b709390e21ecf087637c5f84f6
+FileChecksum: MD5: 10a228647631e34446443fe2a3f196e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/how-to-earn-a-contributor-badge.md
+SPDXID: SPDXRef-item5947992
+FileChecksum: SHA1: 2a96782c234db2f6f5530c8288aca4e34401d3dd
+FileChecksum: SHA256: 2710a13f2977d588f5f1f3f8c7c1197b8cdbb2ce593db93570c411f16a69d184
+FileChecksum: MD5: 6fa4c044d19a249607d97421d2fa094c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/code-of-conduct.md
+SPDXID: SPDXRef-item5947994
+FileChecksum: SHA1: 772d5765adbcec56866fa2652495b15771aae250
+FileChecksum: SHA256: 5da13c460a200da83b45e5f37eb6ada275308831ba04e769f3c2a479046f8245
+FileChecksum: MD5: c46691cf4d7d34b5f2f761c9199a7d33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/reviewer-list.md
+SPDXID: SPDXRef-item5947995
+FileChecksum: SHA1: 32412a7bed0651b5a9f7996a1294447ccfa6c1c5
+FileChecksum: SHA256: 36893a7e87a3efbcbe3a068484005603f06235f094763699ad0a5921d689d321
+FileChecksum: MD5: 0a620d04d55a2937fbce20d18d3f8014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/project-governance.md
+SPDXID: SPDXRef-item5947996
+FileChecksum: SHA1: f58f53751d55a9021e29c5c793db507eb8f6e271
+FileChecksum: SHA256: bf89d8254995ecba4a76aac517541017a1cea6f281e1980e4fc595ff58f599d3
+FileChecksum: MD5: 361233236038e5d717148ae0ee528f89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/what-personas-can-contribute.md
+SPDXID: SPDXRef-item5947997
+FileChecksum: SHA1: 051232ee3df2c3da897a1ea4f4e354bd778fe5b6
+FileChecksum: SHA256: b3340346c774087d8de3c844d01aa3b656a5291a34a42b8ab15dac5dbacbf3ac
+FileChecksum: MD5: 5eaf11bde03471d0473018686a417003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/how-you-can-contribute.md
+SPDXID: SPDXRef-item5947998
+FileChecksum: SHA1: d51c67f5854e7caa8e453de68429d53e37975de3
+FileChecksum: SHA256: db86736ff34a1f83a0aed0d3a61916c2a15ebc680dd5bac0a0acfe36fe695a1b
+FileChecksum: MD5: 663b87a8c3a01db0f95b63e15b9cca00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrights. We welcome links to articles, infographics, courses, videos, blog posts, podcasts and more. All submissions will be reviewed by the MOE team and upon acceptance, merged into the workspace.&#x20;
+copyright-and-license.md) before contributing your content. endhint %} </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/mainframe-open-education/project-support.md
+SPDXID: SPDXRef-item5947999
+FileChecksum: SHA1: d587c7a49c9b2aa98550483671ab0a40a051b779
+FileChecksum: SHA256: 7ed5974acca8de277c1447ebc7d43ecc12b9dc896f11291d658e1d8b86855e6e
+FileChecksum: MD5: d80bd35d6bf1ce0f79ed9e001072602a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/SUMMARY.md
+SPDXID: SPDXRef-item5948000
+FileChecksum: SHA1: a61d7695e0949b3f0f20eb6823f86705aae2df2d
+FileChecksum: SHA256: bab94ced54ecb4ede6d8f4ec61849ea911545779897245dd1ff453a3ec6e80f3
+FileChecksum: MD5: 0bacd99c4b6222c97e6928a753fdafef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyright-and-license.md) Code of Conduct](mainframe-open-education/code-of-conduct.md) Project Governance](mainframe-open-education/project-governance.md) Reviewer List](mainframe-open-education/reviewer-list.md) What is a Mainframe?](what-is-a-mainframe/README.md) Brief Hist </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/README.md
+SPDXID: SPDXRef-item5948001
+FileChecksum: SHA1: df48bf08d4ec953d23483069b084dfca80d40891
+FileChecksum: SHA256: d8cca7d3163801f3db048777066604af75e378b2389ac9975224ddce6593173e
+FileChecksum: MD5: da4d5a289d716f15fa4b7de8d0e16acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/career-path-opportunities/job-opportunities.md
+SPDXID: SPDXRef-item5948003
+FileChecksum: SHA1: f5d7c898913a5b422f1d69f5198306c809fef82e
+FileChecksum: SHA256: 377764fa779814a4586842320bde8a6091c71664f6a952ca7aa332f92ab57249
+FileChecksum: MD5: 101ea39ee9f96263d13ffe6afd7463f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/career-path-opportunities/README.md
+SPDXID: SPDXRef-item5948004
+FileChecksum: SHA1: 3e21bf4631566e6de82fe5fd2a3eb346377eb478
+FileChecksum: SHA256: 8dffc56f5920ea92f92a13a634068f6ef9e0c5568e23bce33f54b8a56a9d7b97
+FileChecksum: MD5: e40026017b2b53c4f82f7ae60fc5c5c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/career-path-opportunities/career-event-calendar.md
+SPDXID: SPDXRef-item5948005
+FileChecksum: SHA1: 624e21349afbb7705fbc222a648db6106ae4093d
+FileChecksum: SHA256: a1bdeeaea46c3ed8ebc2a095ca4a5e72d8b0ee969fc49aaf7b0d7bad81c9b48f
+FileChecksum: MD5: 72bd5d16883b410c6e8731fb2eda8ebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/career-path-opportunities/open-to-hire.md
+SPDXID: SPDXRef-item5948006
+FileChecksum: SHA1: e8cc322f1c294f75808e09b31672bb2694a7a7f3
+FileChecksum: SHA256: 03b372358bb3dfd80106357659eb92599b48f64b259c56c99375d4920c3b5627
+FileChecksum: MD5: 5889a651df9d20581f6af0bca2a33679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/career-path-opportunities/learning-programs.md
+SPDXID: SPDXRef-item5948007
+FileChecksum: SHA1: ebd11c81f6cbace7bcb1137a2bef1009fa2dd178
+FileChecksum: SHA256: 434aa4ec379d52146936ea091b638a7fad1445032085c7d11a6003041611de2b
+FileChecksum: MD5: 769a8516813968c8bb2acc01aa0ac257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/video-system-overview.md
+SPDXID: SPDXRef-item5948009
+FileChecksum: SHA1: 8cbcbb88d1f50cd97f77d0d9e6544c31d02824b2
+FileChecksum: SHA256: 89ad59f1e779fa544d58f69481198395afd43b680dbc507d91fc9bfc21fd5973
+FileChecksum: MD5: 4a2e7a2d33ab719a66854b4fed6af189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/video-mvs-using-dynamic-allocations.md
+SPDXID: SPDXRef-item5948010
+FileChecksum: SHA1: af134f0d54998cc134b2328d6061fe6f0211e61a
+FileChecksum: SHA256: 35ff7666a401d3de8f9590ac26bbf0ae892b2b485c760e123566e6424c001103
+FileChecksum: MD5: 73ebbb573fd0eb4e2bdbfba1c1b54982
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/article-todays-business-systems-run-on-cobol.md
+SPDXID: SPDXRef-item5948011
+FileChecksum: SHA1: 1ab67cf1bfbd6bcf3106796d34519ac865ec36c5
+FileChecksum: SHA256: b310402bf539d11e0a913c90edb142ca17c17681bd4303e0a23e98ec513d1d01
+FileChecksum: MD5: dfcc810aba9d3caf77e29dfd29522084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/article-red-hat-openshift-4.7-on-ibm-z-is-a-game-changer-for-container-orchestration-and-managemen.md
+SPDXID: SPDXRef-item5948012
+FileChecksum: SHA1: 5a21d0162a286e135f7767a001c59a2f8030653f
+FileChecksum: SHA256: 036719403d599839c61ad14129d86acc791fba558c44f59b1dad484505310aca
+FileChecksum: MD5: ee14e64971c8c8afac26731735264e1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/digital-certificate-badges.md
+SPDXID: SPDXRef-item5948013
+FileChecksum: SHA1: 8cf61ba44b220bfbebf7b6dd37cc2d50cf9be01a
+FileChecksum: SHA256: 590f2546e82ee2dc469865c3114657b946beeeb3567f2f915ddff0f0fd35afc1
+FileChecksum: MD5: 2b3fb784690f583779704f32fe78a8ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/z-os-mainframe-practitioner.md
+SPDXID: SPDXRef-item5948014
+FileChecksum: SHA1: 9be5ec04794a2cc52bf14b046fa04b0449fc2d5b
+FileChecksum: SHA256: 92029979602f65248fa3c131b3a399a4e967473c3ddd816f8955a51e70c1cee2
+FileChecksum: MD5: 584942e6b44869537dc3c2fc8e9e238c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/video-z-os-hardware-overview.md
+SPDXID: SPDXRef-item5948015
+FileChecksum: SHA1: d0068bdc19921b74f0c88b85f7653b1cc0b4bf94
+FileChecksum: SHA256: f6eab48d70a55a56b787a5fa65a04d827edac83fee21ba5c3f6eeea3d5772f74
+FileChecksum: MD5: 515741a9abf9f04ac2db84d199acf928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/README.md
+SPDXID: SPDXRef-item5948016
+FileChecksum: SHA1: 4f3bb4734ebf10c37067512fe5a662b2c4a0cd97
+FileChecksum: SHA256: a465482293572b7da9bbce84d40168317f44f869a61d90134c866a1655c89844
+FileChecksum: MD5: 9a4149318c0e8716479b64b5c94318ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/foundational-technology/video-its-best-kept-secret.md
+SPDXID: SPDXRef-item5948017
+FileChecksum: SHA1: debee4d19df1417d4b0a57e9d799488654c25829
+FileChecksum: SHA256: 1c2e05dfb23362a960728dede20453ae38559fe6a695961f11d7f09de63b3800
+FileChecksum: MD5: e9a18dc4f645671443d462036f716d16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/roles-in-mainframe/README.md
+SPDXID: SPDXRef-item5948019
+FileChecksum: SHA1: c095051b53fbff504aec0bca1838c13693473c70
+FileChecksum: SHA256: 7b6b390bd62103a8fea5c1a0586e86c4317c3a74c8b5cdf94fa10ef55f32ee0c
+FileChecksum: MD5: d1150b56fa50195e1b8cec4fb5f8662c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/roles-in-mainframe/roles-and-categories/category-definitions.md
+SPDXID: SPDXRef-item5948021
+FileChecksum: SHA1: c1e357b098507f2ae7d8e613161a1b2e885b65f9
+FileChecksum: SHA256: 004bfc593bf3db87138e4b27a5a056a941c4fff193efb43e6c2eeb2ad76445d2
+FileChecksum: MD5: c0f73e58cf9238790d954acc600a4ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/gitbook/roles-in-mainframe/roles-and-categories/README.md
+SPDXID: SPDXRef-item5948022
+FileChecksum: SHA1: d6c26335e9196b84fa57ad71384bd10a5b28647f
+FileChecksum: SHA256: 74e3a0ab489f5b801a2985b86c65b23369bbcadb18ac5a98c84adca3c80c7269
+FileChecksum: MD5: 88edb9c4116d7f9d46332dee6a7cb3d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/.gitignore
+SPDXID: SPDXRef-item5948023
+FileChecksum: SHA1: f16d7270f89ade47911546af78b6d369c0cdde1e
+FileChecksum: SHA256: 64bb029a6c5e0a4445f0da5cbade2a6ec3ff1cd6843e50a79b5bb395c627d9f0
+FileChecksum: MD5: 979b6ad08a928f39f684727e1489bf79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/tsc/tsc-meetings/20200527.md
+SPDXID: SPDXRef-item5948026
+FileChecksum: SHA1: efd50645a99afea5f90b54b511a4a25c4a1d4688
+FileChecksum: SHA256: 3b27c25c4b68e8ac78ec5962621468a9e4e717203810c5235000152074c1bad9
+FileChecksum: MD5: c935e0f8edd6a2cddfebdfeff2dc0d55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/tsc/community-meetings/Mainframe Open Education Community Meeting_ 3_19_2021.docx
+SPDXID: SPDXRef-item5948028
+FileChecksum: SHA1: e0cffd1941603756da64e5bc57a64f8f4aa414c1
+FileChecksum: SHA256: 9fc6cd6ed930e7d91184d92973b11fa5131401c1abc63dcaae7e790817b431e4
+FileChecksum: MD5: ac662d06188dcd3c824817d453e8422e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Tim Kleinÿì?Ducky <ÿá?Óhttp://ns.adobe.com/xap/1.0/<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39 "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <r
+(c) Tim Kleinÿì?Ducky <ÿá?Óhttp://ns.adobe.com/xap/1.0/<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39 "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <r </text>
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/tsc/README.md
+SPDXID: SPDXRef-item5948029
+FileChecksum: SHA1: 0b5e978c34bef1fdba675c90e0b4130a42516daa
+FileChecksum: SHA256: c2a0155c5c4e7f15813b8376d2c3c812a8af77da92504251e0b6005ceffc41f5
+FileChecksum: MD5: cfb52bb19c8353c67c9b6c0118b7de4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/README.md
+SPDXID: SPDXRef-item5948030
+FileChecksum: SHA1: e201142a14addc699403b9a11933bfd2a7d5c859
+FileChecksum: SHA256: a5511bf41cda1fdaf1df42c872df7717cfa3bad6b698aecb228d5475faa7056b
+FileChecksum: MD5: f2de1f889ea75b44e93c68df55a5f296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/SECURITY.md
+SPDXID: SPDXRef-item5948031
+FileChecksum: SHA1: beab0676b74656bb251c5cbcd2d9777656b29b18
+FileChecksum: SHA256: eb56ff89e492511c9e2787912eb03dfde9f4051a405424859678cb078b807f03
+FileChecksum: MD5: 74b583251c768162dba307a396e9a908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: omp-education-2023-10-11.zip/omp-education/COMMITTERS.csv
+SPDXID: SPDXRef-item5948032
+FileChecksum: SHA1: e143650c8dd1123251617c3e06175b02a8bc99e0
+FileChecksum: SHA256: 9cd42249cecb69604c9629414fb8775318e411bd3cc37e82d17673a24e31baa2
+FileChecksum: MD5: 8a18670fd311843bf3379cb792f00a1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+

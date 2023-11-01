@@ -1,0 +1,2557 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_tersedecompress-2023-10-11.zip_1698665946.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-10-30T11:39:08Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: tersedecompress-2023-10-11.zip
+PackageFileName: tersedecompress-2023-10-11.zip
+SPDXID: SPDXRef-upload1022
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: a7a0eb571f4dc64c79e714681cfab7787e5a2add
+PackageChecksum: SHA1: 1620dd963bec033a40d32639e61b5cecb7591e40
+PackageChecksum: SHA256: bfc69649b5e03057027ef862e12598c76512986160a545e4186b0072ceafb438
+PackageChecksum: MD5: 8cacc67304a57bb7bbb188e580f1d4da
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1022
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/LICENSE
+SPDXID: SPDXRef-item5945886
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/LICENSE
+SPDXID: SPDXRef-item5945853
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/TerseDecompress.java
+SPDXID: SPDXRef-item5945865
+FileChecksum: SHA1: 11c02d1c622eaedaab0732f831361d4a2ab6931d
+FileChecksum: SHA256: e9cb59fdea71200f91a92dd7be463ce4dd05a3ffa1560978f60d438dbb9b73e5
+FileChecksum: MD5: ef5e7f8f4f73b0a5f6e168607c573ea3
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the TerseDecompress Project. SPDX-License-Identifier: Apache-2.0
+Copyright 2018 IBM Corp. */ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/tests/README.md
+SPDXID: SPDXRef-item5945850
+FileChecksum: SHA1: 0ae4cddfa39ddb7353a80067a56478b39e9eaa20
+FileChecksum: SHA256: 5532c9dfe430508f19ee9d4bb81bcda6dbaed1726fee0926d65267c183894ee3
+FileChecksum: MD5: 704833050f7f1ab7f89554f3762e76ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item5945851
+FileChecksum: SHA1: de53e39e2cbb11b2c04fd98fab80487f7ff3dfbc
+FileChecksum: SHA256: 99a57e1db7f4121a4edafd59db1a49ccc8bd72bc1c5c199fd5c6c4568329a44c
+FileChecksum: MD5: 89ee1544c64c633e6b60b4b62e170302
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/GOVERNANCE.md
+SPDXID: SPDXRef-item5945852
+FileChecksum: SHA1: cd0de58121ed716226d208f89a21aa406a87fc58
+FileChecksum: SHA256: 17351cb3a520609956be602f8bf87149aabe0c679007363f86cd050151b52867
+FileChecksum: MD5: 1add0acdc52e3e41c5a180becea391cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/CONTRIBUTING.md
+SPDXID: SPDXRef-item5945854
+FileChecksum: SHA1: 51b9fe2e9e6001e7dde7005be9ac4e6b76324652
+FileChecksum: SHA256: 88d3040f85219cb78d4fac8da904572fd4a9ac69515550ca6844c80069168ebe
+FileChecksum: MD5: 1b22e48edc9e7c53595821d073fec708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/TreeRecord.java
+SPDXID: SPDXRef-item5945861
+FileChecksum: SHA1: 031249c426afe2296fb8b5fa4101ba6994eb645c
+FileChecksum: SHA256: 4ab7fdf24eb9b6f5b3a9af09e28c0d2f3e8de4c83c671c999cd88a816104eaa7
+FileChecksum: MD5: 7713445290b909f60bc21f6011638abd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/Constants.java
+SPDXID: SPDXRef-item5945862
+FileChecksum: SHA1: 6ee6bce14ebc1ff65f14a650a9334281a76a8724
+FileChecksum: SHA256: f595134ef696c3602a15df5d3711d4c1b9090a0a242241e0215bd26044fefdd0
+FileChecksum: MD5: f08549eae2e159301ba80d9bebf29e50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/TerseHeader.java
+SPDXID: SPDXRef-item5945863
+FileChecksum: SHA1: 88652a600afa0a10b2dc67212db9c23c577a680a
+FileChecksum: SHA256: eca67065a5926ccebbae7dc197289e0643629f0875358be818e04cbd9f07b9ca
+FileChecksum: MD5: 640865ae185f19a530fb0663bd229ed5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/NonSpackDecompresser.java
+SPDXID: SPDXRef-item5945864
+FileChecksum: SHA1: 223a0156dcb771b2a8bddf677a901d86e219501c
+FileChecksum: SHA256: b588587c8c2a1a820bd6ed200fce19bf665a097d97b5c00f23fc8c470b20c1e4
+FileChecksum: MD5: 431970cbd9d1a321e50e1d9c2163f5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/TerseDecompresser.java
+SPDXID: SPDXRef-item5945866
+FileChecksum: SHA1: 818712cba250aaf10cfad1afd1083375cd54fe39
+FileChecksum: SHA256: 8b68e350ec89dda76cab2b3879b085657c0c9e9f54f8d2bde33c3b08a1eef3d9
+FileChecksum: MD5: 1acfa770137decfbae6683eee22a22ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/StackType.java
+SPDXID: SPDXRef-item5945867
+FileChecksum: SHA1: b91805e1a0c236a2c74ff7b53dd6993e18c75237
+FileChecksum: SHA256: 9cc7f36f71b60455db846c63068d8c7b9e0f40d00c3c4dc1932c3c0407816fd5
+FileChecksum: MD5: c590e4e20a8ecc1161022e144e015cdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/SpackDecompresser.java
+SPDXID: SPDXRef-item5945868
+FileChecksum: SHA1: 4d42b478fbedd82601575c2c4901b3305dbf9f46
+FileChecksum: SHA256: 8b75a793bdf798a4bebc1188091c374514c553d687ebc3028969b6810f374937
+FileChecksum: MD5: 6f1e947c4a9cd50c9860848d458e2334
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/main/java/org/openmainframeproject/tersedecompress/TerseBlockReader.java
+SPDXID: SPDXRef-item5945869
+FileChecksum: SHA1: 8c3e939a66fb0fa7e2a99fc6f795c2d73856ee30
+FileChecksum: SHA256: a8bdfb0d7c97833c2df834564ddc4248a431775fee7feee1fd798d26dcaf38ce
+FileChecksum: MD5: d727696d027944ad16617be2822bb375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/src/test/java/org/openmainframeproject/tersedecompress/AppTest.java
+SPDXID: SPDXRef-item5945875
+FileChecksum: SHA1: 760cf6651a74dca9887b28e88a8702d4491fe0bc
+FileChecksum: SHA256: a0867ad509a3377a68cf18c05e1c636a1a0dcd8e40d23457970f0abc2df73924
+FileChecksum: MD5: 5234c442ed700bb842a3bcae66d8d12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/.gitignore
+SPDXID: SPDXRef-item5945876
+FileChecksum: SHA1: 10a6293494ce27a4bf7d1585b2515645d979d194
+FileChecksum: SHA256: 973f78ca7c1e6ecbb2ba2c8ff1ab8e3e079e51d9371725a1fb46e7206ee686ee
+FileChecksum: MD5: c4c16a89496815f44b526e5c8324b2f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/pom.xml
+SPDXID: SPDXRef-item5945877
+FileChecksum: SHA1: dda553617c3a213545268cbc36890c03a840fca6
+FileChecksum: SHA256: 16c4f333836e46b1340cf290d55b12aa41889e19973bd200900cfbf76db15a6c
+FileChecksum: MD5: 08be1a2beacd35e488c44104d04c89fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/README.md
+SPDXID: SPDXRef-item5945878
+FileChecksum: SHA1: 7b82716963467fcbbf4540d63d739d8ef34602ba
+FileChecksum: SHA256: ee3e978f6eace1bfc67972b87d3e40442808081aa9b29af82baf1379a9f89a71
+FileChecksum: MD5: 8be6b7597a0cea8d8a826a03c378dba6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/.gitmodules
+SPDXID: SPDXRef-item5945879
+FileChecksum: SHA1: 38d4d15896acac8ca2b2b3882242c6b1ce51aad0
+FileChecksum: SHA256: 20c592b3891877d1907b3a3fcbbd8b85bce5f0915efc36845e7752fa25b710b2
+FileChecksum: MD5: 7af043489eece5cd0b1dd22464597cb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress/COMMITTERS.md
+SPDXID: SPDXRef-item5945880
+FileChecksum: SHA1: 6ac7d0aa3556962ce7f8420c6c4b3cf17bb1ad8c
+FileChecksum: SHA256: b2123324ff9260c43319f00e9b7c0bfc2b2b6b3be70fc9fc006e9d6b5aecc88d
+FileChecksum: MD5: e55f1c7203e6baa9abebe71ad85f49e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/tests/README.md
+SPDXID: SPDXRef-item5945883
+FileChecksum: SHA1: bb8375efe58e6fc8599e150d7535aa2b32bc9e4e
+FileChecksum: SHA256: 37431abf658ba775ea970fa73267b0873526c0b05b688c459c404c3c2d949ef4
+FileChecksum: MD5: 323c41e211763816f616ae54b2f1304b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item5945884
+FileChecksum: SHA1: 709651fce54ff67311e001119d8fc11e1d9a6e31
+FileChecksum: SHA256: 0381fc15631d204f7abc6e61ff4d1236edc1304e29045e50935a00912768ffe5
+FileChecksum: MD5: 36d24001359635e3a9438b64718e3fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/GOVERNANCE.md
+SPDXID: SPDXRef-item5945885
+FileChecksum: SHA1: af2e916736cbffc914db03e59af796f70ac25d1d
+FileChecksum: SHA256: 99823157011bb1dcfa80fb86ff585aebac16c2249fb7ac73f9ea11df0c2b70db
+FileChecksum: MD5: 5490608c843f339674e3fc016afcac5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/INSTRUCTIONS.md
+SPDXID: SPDXRef-item5945887
+FileChecksum: SHA1: 4bf1691f28610aaa8812f353488869307c931a5a
+FileChecksum: SHA256: daffda47c90670b34a1424c147d4a2cd65eda7aa98174f9bed1ee4fb34dc9721
+FileChecksum: MD5: c4d329b2546ba037e3a7a8bdce7a123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CONTRIBUTING.md
+SPDXID: SPDXRef-item5945888
+FileChecksum: SHA1: ae5f78ef4d3ac40cf32895213d5f4bc10ad14a24
+FileChecksum: SHA256: cbad24e287ca18a0c8c9a311d6fc04deb388d7b41c0cc85b4ad05555c70f7ceb
+FileChecksum: MD5: eda3362bfdbb4209b571893ac1f4d266
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item5945891
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: SHA256: 1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item5945892
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: SHA256: 0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item5945893
+FileChecksum: SHA1: f926bb1b29b57e65db831afca25b5529f81f6e01
+FileChecksum: SHA256: 82c1511e233799e1525e83d404b073ee19c486565e8a2aceec8e340cf8ec5ff6
+FileChecksum: MD5: 4acaf7d540c14f7f894a3b5c3b4255b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item5945895
+FileChecksum: SHA1: a8fdc0f69520a4fe3ed8e605f41e96d2c95359dc
+FileChecksum: SHA256: a54e6fcd9e710621594cff1d90de818c05c7eb6bdefb3db019e9b354a4954ef2
+FileChecksum: MD5: 1ce582a704498623bd09e22533a06a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item5945897
+FileChecksum: SHA1: ec64f3df8bdc12bed8e05cefdd3f03744a110c7b
+FileChecksum: SHA256: ba9feb51e574e4d3c63bbcd0bfd143aef8d0e7212e3818f4fa7af7b02e2b1ab0
+FileChecksum: MD5: fb2572e262d21290374d33c8ccffe9a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.gitignore
+SPDXID: SPDXRef-item5945898
+FileChecksum: SHA1: 48708440bec57b09aa8ed461f7e640460e679ae7
+FileChecksum: SHA256: 7617950025ff49831b24de9ca0cd8591d4f04c2e2024de129262a04221b52f3e
+FileChecksum: MD5: 2351573a646e8ad269ca597b9a47c5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CHANGELOG.md
+SPDXID: SPDXRef-item5945899
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: SHA256: c3b214015411eabab1cebd1ed827ec3699cc7c61bf9ed9e8821708c58bf62253
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/SUPPORT.md
+SPDXID: SPDXRef-item5945900
+FileChecksum: SHA1: 0fefeac692c82a8aae56f28e2619d6d2ee4c361a
+FileChecksum: SHA256: 080d14df3f6a1e03c1d5f893da6fdda8f778776ef3b506b50b76fb4dfc57b3f7
+FileChecksum: MD5: c68235c10c9f7994c22aab0a8298d7d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/.gitattributes
+SPDXID: SPDXRef-item5945901
+FileChecksum: SHA1: 3c8a5bb0c17927f6f94cc5ad77d584c4721dba07
+FileChecksum: SHA256: 93bb02ac78740a3f040a80e70ddd80cfc88683abdb72b30d5a77552ffa07736b
+FileChecksum: MD5: 105308caab62d4897cd0b1a1c126da9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.XARGS
+SPDXID: SPDXRef-item5945903
+FileChecksum: SHA1: 777250a5ccf4fd95b48c1c9248ab82c2e0221913
+FileChecksum: SHA256: c58aeb5d2d1e12751d47e7412b45784405fc30a5671b03d480fa05776e183619
+FileChecksum: MD5: 7bcc27abddbcc8dc56d9b1950ce93a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.FIELDS.C
+SPDXID: SPDXRef-item5945904
+FileChecksum: SHA1: 5e3d44fa3f21e33057c61081bc7a539f1049b0f2
+FileChecksum: SHA256: 06fa4a591bd9585d1afffe2857b59d527ed54c24841b615f52f78a2664f32860
+FileChecksum: MD5: 5a44170e55200d1d492a79010f4733ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.A.TXT
+SPDXID: SPDXRef-item5945905
+FileChecksum: SHA1: 3f786850e387550fdab836ed7e6dc881de23001b
+FileChecksum: SHA256: 87428fc522803d31065e7bce3cf03fe475096631e5e07bbd7a0fde60c4cf25c7
+FileChecksum: MD5: 60b725f10c9c85c70d97880dfe8191b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.PI.TXT
+SPDXID: SPDXRef-item5945906
+FileChecksum: SHA1: 761f80cd47dce7f74e5599c6b632a0dd2f4728de
+FileChecksum: SHA256: 439e04106f16cbdd9e74a03bb175354999e89a06eed88817ef5c2547b885361d
+FileChecksum: MD5: ecbbeb0c3d2f5b999524bac07ab956d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.RANDOM.TXT
+SPDXID: SPDXRef-item5945907
+FileChecksum: SHA1: 4808044ef89a6272fd25c3414e379880bf888561
+FileChecksum: SHA256: cc2007512a4c6d798c05f9675ddc28acdd256627b8d1312b0038766f435102c5
+FileChecksum: MD5: adbea24da6b9241126f040614dddf541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.BIBLE.TXT
+SPDXID: SPDXRef-item5945908
+FileChecksum: SHA1: 5b1762280723076a5749f170889976a458d06965
+FileChecksum: SHA256: d040bb73bd16c79111d84793ad34a7bf3dfb6a816899169b6b8e9ce0a66930eb
+FileChecksum: MD5: ebabf1b21845af5baf9783d282f908bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Not-for-sale
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.A.TXT
+SPDXID: SPDXRef-item5945909
+FileChecksum: SHA1: 3f786850e387550fdab836ed7e6dc881de23001b
+FileChecksum: SHA256: 87428fc522803d31065e7bce3cf03fe475096631e5e07bbd7a0fde60c4cf25c7
+FileChecksum: MD5: 60b725f10c9c85c70d97880dfe8191b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.ALPHABET.TXT
+SPDXID: SPDXRef-item5945910
+FileChecksum: SHA1: 607bf7a658fac0efa7c825f6d9e913bbeba667e6
+FileChecksum: SHA256: 3a1f8881cad744164a0276b56882911de5e7dc66a78b6f5a7472fdc4198a74d4
+FileChecksum: MD5: 3b89e20263ee63e556af5398d8fe8bb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.FIELDS.C
+SPDXID: SPDXRef-item5945911
+FileChecksum: SHA1: f07b297233f6c072196a10c0786ea5f98c76ad6b
+FileChecksum: SHA256: de4e7188d34af485c987fa1397678fc689501ee3dc9246d16f11741830f4cfbd
+FileChecksum: MD5: 6282c236ed74bfbdfcc3061f524df894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.CP.HTML
+SPDXID: SPDXRef-item5945912
+FileChecksum: SHA1: 540a8bf651763373c060e38e1fbdc9ca9dcf3821
+FileChecksum: SHA256: 9dadaf48ea215bc649f2cee766d15598a17e6d51da77b8b4295c009642e67ac5
+FileChecksum: MD5: 20d501e3c189d3910302ea8cbfb83617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.XARGS
+SPDXID: SPDXRef-item5945913
+FileChecksum: SHA1: 35ad73edd572b8457811cd9b18a851fa36d74de1
+FileChecksum: SHA256: f45c626fed0837afcec1b07b6c6e1892d215d16650a4b13c83310bfc6192e0ca
+FileChecksum: MD5: 727ec18a31dd9c1b42b64cd745f432d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.E.COLI
+SPDXID: SPDXRef-item5945914
+FileChecksum: SHA1: 7bdb11570172d9dccd4350f5be48df3f064bd4f5
+FileChecksum: SHA256: fe4fee44615572f52b9b9e87fac6c77de2989140a1ec5f847ef53d9464cdee8e
+FileChecksum: MD5: c2a9a776130878d2e57ab6050cd71415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.BIBLE.TXT
+SPDXID: SPDXRef-item5945915
+FileChecksum: SHA1: dd9d53295779659f7a6c3ae35afe0bd783fc1ba1
+FileChecksum: SHA256: b89226d26c67736a0fb32fe2b46ad8c1ddf4ff314cb65dced2f9ba693ee27fdf
+FileChecksum: MD5: cc9eb21142343c78f97ade62a4ba90ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.GRAMMAR.LSP
+SPDXID: SPDXRef-item5945916
+FileChecksum: SHA1: 31aac2aea264e23601d430552b1934fba6d49397
+FileChecksum: SHA256: 1a273fd048a38435c767b4d0d0b52f793c85c8467240e95300bd8606b1da4201
+FileChecksum: MD5: e8bf7e86c8bfa02665aff868a083c998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.RANDOM.TXT
+SPDXID: SPDXRef-item5945917
+FileChecksum: SHA1: 4808044ef89a6272fd25c3414e379880bf888561
+FileChecksum: SHA256: cc2007512a4c6d798c05f9675ddc28acdd256627b8d1312b0038766f435102c5
+FileChecksum: MD5: adbea24da6b9241126f040614dddf541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.ALPHABET.TXT
+SPDXID: SPDXRef-item5945918
+FileChecksum: SHA1: 607bf7a658fac0efa7c825f6d9e913bbeba667e6
+FileChecksum: SHA256: 3a1f8881cad744164a0276b56882911de5e7dc66a78b6f5a7472fdc4198a74d4
+FileChecksum: MD5: 3b89e20263ee63e556af5398d8fe8bb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.E.COLI
+SPDXID: SPDXRef-item5945919
+FileChecksum: SHA1: 7bdb11570172d9dccd4350f5be48df3f064bd4f5
+FileChecksum: SHA256: fe4fee44615572f52b9b9e87fac6c77de2989140a1ec5f847ef53d9464cdee8e
+FileChecksum: MD5: c2a9a776130878d2e57ab6050cd71415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.PI.TXT
+SPDXID: SPDXRef-item5945920
+FileChecksum: SHA1: 761f80cd47dce7f74e5599c6b632a0dd2f4728de
+FileChecksum: SHA256: 439e04106f16cbdd9e74a03bb175354999e89a06eed88817ef5c2547b885361d
+FileChecksum: MD5: ecbbeb0c3d2f5b999524bac07ab956d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.CP.HTML
+SPDXID: SPDXRef-item5945921
+FileChecksum: SHA1: ee8ee07f491946f54d52e276ac72c44234c3a866
+FileChecksum: SHA256: 1fd9f528819363eec80972e044040c471c3974cf5b0a570637a37679ccb2bbf1
+FileChecksum: MD5: e33c7a4c4609b4f08d9a65f11f2d657b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.LCET10.TXT
+SPDXID: SPDXRef-item5945922
+FileChecksum: SHA1: 5eba7963ccaf5e311a8329772bd494b370f291b4
+FileChecksum: SHA256: f57cfa511791626d38d9080a168086aef5b178b580a36ec306bd3329ec2d58b1
+FileChecksum: MD5: 9a12210501389543924579952036ceb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.GRAMMAR.LSP
+SPDXID: SPDXRef-item5945923
+FileChecksum: SHA1: 3759c8fcbbbb9c9e74d64563afb276568f1bf159
+FileChecksum: SHA256: 77d384e11fefe031ed898df5136e28a1b833158beb8ebfba30465860cf9e4994
+FileChecksum: MD5: 5988d517654ef273d43dec5cc4b61171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.AAA.TXT
+SPDXID: SPDXRef-item5945924
+FileChecksum: SHA1: 7b9ce6b1d0070b795e4b2807b749fe0f02dcfc21
+FileChecksum: SHA256: 7c106aa771596d9eb957101df0d1d9ee023cb2e6b3ffbd030ebb66c950de52a3
+FileChecksum: MD5: 484c67d5c84f5d502bf56e01a51066df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/FB.WORLD192.TXT
+SPDXID: SPDXRef-item5945925
+FileChecksum: SHA1: 91e5fad1c6ef87491fb6985758b3a90de1434999
+FileChecksum: SHA256: b92a64193af96e9f1f548b92ff7383494e5dbd55fa0087367827961fcf45c169
+FileChecksum: MD5: 75453e0a23126ae3ad5ec36e3b7555e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.WORLD192.TXT
+SPDXID: SPDXRef-item5945926
+FileChecksum: SHA1: 751fc8fb285c13557f4f2e2c2ad6111ded78b2b3
+FileChecksum: SHA256: 7fecf038e497e652b6b18e67e430613c5d43f97570b38942fff77b36b565062e
+FileChecksum: MD5: 2c274832e9d103e536efb9aa26674ba7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.AAA.TXT
+SPDXID: SPDXRef-item5945927
+FileChecksum: SHA1: 7b9ce6b1d0070b795e4b2807b749fe0f02dcfc21
+FileChecksum: SHA256: 7c106aa771596d9eb957101df0d1d9ee023cb2e6b3ffbd030ebb66c950de52a3
+FileChecksum: MD5: 484c67d5c84f5d502bf56e01a51066df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSTEXT/VB.LCET10.TXT
+SPDXID: SPDXRef-item5945928
+FileChecksum: SHA1: 6111b17214fbeb4a7fc09038c78fe8da859d0435
+FileChecksum: SHA256: fa4c518759d6620b074fa8775646de4bf70b4d30de5af0ca277b9602e53fd5f2
+FileChecksum: MD5: 40545091254c35d440291731d7b82836
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.XARGS
+SPDXID: SPDXRef-item5945930
+FileChecksum: SHA1: 1cd24abc30a81e5ecc3acfdccb229b0982c8ffa5
+FileChecksum: SHA256: aeb88d422bd45418da0e72a91f8e16dcb6c76477f116b8961538a5f12b70906a
+FileChecksum: MD5: c9f7e6d0d0d02fe413c059e45d70a93e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.ASYOULIK.TXT
+SPDXID: SPDXRef-item5945931
+FileChecksum: SHA1: 430e8f69354c3ec3075c2b4ee3303481ce3c51c6
+FileChecksum: SHA256: a3dac569668288c82e2a806183110d2aaa8d263f1b29d5ba4f8de8291a43fa37
+FileChecksum: MD5: cade6607a5e61f3ed973a6915a4cce83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.PLRABN12.TXT
+SPDXID: SPDXRef-item5945932
+FileChecksum: SHA1: 08a13153b96f56e142718efccefd7e6cca6a8db1
+FileChecksum: SHA256: 9ed5c7ce5a041d8579afc4f51da059d763c2a0ce4d4babc37dba9eb8545861ef
+FileChecksum: MD5: 1d0d127df8d1802863ebfce52c3f13b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.FIELDS.C
+SPDXID: SPDXRef-item5945933
+FileChecksum: SHA1: 2994614a680ac2dc690b525bc595cf93f7059525
+FileChecksum: SHA256: 12893d05a589cd895d5824d06b2ad4010ff2e6a809b35d8af30c3aa5e12217d8
+FileChecksum: MD5: bbeb5eebe47bccb070c0aaea39be2983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.ASYOULIK.TXT
+SPDXID: SPDXRef-item5945934
+FileChecksum: SHA1: 7fb1fd2e5a000308eb4739174d67f1cfa81a19d1
+FileChecksum: SHA256: 2393277bc6c03dfca24ff54cb3ecb3742e7f99f97807113e0d5b49b6f2dcc8c5
+FileChecksum: MD5: d1cdbce674ffe240f434403e41cae7bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.A.TXT
+SPDXID: SPDXRef-item5945935
+FileChecksum: SHA1: a3f294235fe5422005ae9bc3a0d1bffe12cfe353
+FileChecksum: SHA256: 591b7cc95037822dec5a4d593a2e2e8b19c07ddd2570e5699003d17f14c440a6
+FileChecksum: MD5: cd25041f9f36811b04ab3015805fe816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.PI.TXT
+SPDXID: SPDXRef-item5945936
+FileChecksum: SHA1: 00d4bbc5c228b25a82be6fb6e2c6e1a2f93095ce
+FileChecksum: SHA256: f0df9e7fe38bee895c43f3cf0d75ebb1ce1f39e8504a5a87d14cb017ccf76f97
+FileChecksum: MD5: 39c5c49005b6fd7d4d59dad14f87e6d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.KENNEDY.XLS
+SPDXID: SPDXRef-item5945937
+FileChecksum: SHA1: bb3c73adde28228f9a311ddfee8f76aeccf83c4b
+FileChecksum: SHA256: 9af47239ca29dfe20e633f80bbbb9a4cc9783d0803d7b2b5626f42e4c3790420
+FileChecksum: MD5: b408d2207b18aba5a378548698735d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.RANDOM.TXT
+SPDXID: SPDXRef-item5945938
+FileChecksum: SHA1: a11474b5101a5c67313d599d497dc9839ab999d3
+FileChecksum: SHA256: b67ec63f7143de6de76c24e1560473bbabeb0845085959332c2ff8fba1e16984
+FileChecksum: MD5: 5711118ee4cf92fbf4710bea1cb6d2a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.BIBLE.TXT
+SPDXID: SPDXRef-item5945939
+FileChecksum: SHA1: 1013c76335fe9181dc59610730fba61537a17725
+FileChecksum: SHA256: ec7053e50039fb7e5066a53a8a0192d283fdf6eafe8c21be456293d0078191ff
+FileChecksum: MD5: f7fc1395ae065ac37cc9b0b56d34e80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.ALICE29.TXT
+SPDXID: SPDXRef-item5945940
+FileChecksum: SHA1: b8e4c49b286954b1805dee326da2174963fb64a3
+FileChecksum: SHA256: de969632cd006856f356673da4f6d812a31abf619b45ec9f65d64549ca6f6bd2
+FileChecksum: MD5: 94023ac8e4b188a61eaefad668526597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.A.TXT
+SPDXID: SPDXRef-item5945941
+FileChecksum: SHA1: 7ea0cbb2d5b945c338881dbfd11d7a9762fb992f
+FileChecksum: SHA256: cdfa224232bcc3c6bae455849ef7a353327aeff636e4b577ddd39ef141c1a6a6
+FileChecksum: MD5: 701a3ba5594bb42ec7fb1455a5c97bb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.ALPHABET.TXT
+SPDXID: SPDXRef-item5945942
+FileChecksum: SHA1: 645902f2e850bd098df4ad2d724e8d3bc2f6153a
+FileChecksum: SHA256: 08b782f8f0c0f957d53727ae24defe0122f23cae024ecbcc73ec80ab77d3c479
+FileChecksum: MD5: 85e8d40a8a55e9bdbb2591c0da3eb39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.FIELDS.C
+SPDXID: SPDXRef-item5945943
+FileChecksum: SHA1: 70dec62cfcfa02fdde073a5bde74227a7fd59539
+FileChecksum: SHA256: 17d4dbcfb5ae654da90a75177007fb26cbfe374cb4d1104546eea17a15933b84
+FileChecksum: MD5: 8572b0513999458a3f7d7306d5e5379c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.CP.HTML
+SPDXID: SPDXRef-item5945944
+FileChecksum: SHA1: 49765c5fd326f138f6364bbe26967585af334c72
+FileChecksum: SHA256: 362b19fe200528f4aa2e88bad41f4fef2c509104615639b4815ac7d52d910a93
+FileChecksum: MD5: 8da048512a1f027d89bee5060d5ebdd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.XARGS
+SPDXID: SPDXRef-item5945945
+FileChecksum: SHA1: d53998d3ec393ad93e4b997487dfacf7e0ef0195
+FileChecksum: SHA256: 81ce6def1b9d42b502a1b826ca4545f93bca2a6dfa69b4ca9a1c7e8cd2b24986
+FileChecksum: MD5: 08de24463bc66da402bf4a51acdf0891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.ENWIK8.XML
+SPDXID: SPDXRef-item5945946
+FileChecksum: SHA1: 371e4d8e57578ee8cd7d43b302b9fcf13c1b18c8
+FileChecksum: SHA256: 4d62b2e2a7cbb27472df218e4ead7c3ef663d9b8be41385fee022ef3493acc57
+FileChecksum: MD5: aa14508a6a6b58ac86f47042c462a1d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.E.COLI
+SPDXID: SPDXRef-item5945947
+FileChecksum: SHA1: 3e7191f1d9f20fbb99c4cc9089740c4c482f6833
+FileChecksum: SHA256: 339098dda2772aa9d5f864a40dd2886c2f451c03b0b84a96218465e9eabe5510
+FileChecksum: MD5: 1869fee4490d17695d1335b46dace544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.BIBLE.TXT
+SPDXID: SPDXRef-item5945948
+FileChecksum: SHA1: 4987ebf1822bafb441eeb69843e4ca3a377b29e6
+FileChecksum: SHA256: ce5230a2f904cdf6a81d12a3b6640d4ba8105537585ca9e0984ec756ed94afe3
+FileChecksum: MD5: 82bac0d43d537ffaea2773e9a60262e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.GRAMMAR.LSP
+SPDXID: SPDXRef-item5945949
+FileChecksum: SHA1: 60542afb29d10e31aeb9ed8e591d789aa2e36c6d
+FileChecksum: SHA256: 912d4ba793522918c1f79552f77de4f6512e64971bf86a02e4ea887306b28c6c
+FileChecksum: MD5: 5ca136ece8231783834bfcd6475ae1ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.PLRABN12.TXT
+SPDXID: SPDXRef-item5945950
+FileChecksum: SHA1: 1ce5279bcd7885ab4586d3a72743ba5814fcb46e
+FileChecksum: SHA256: 0588b29e47e9b5ff614355cf1ede953f721659c707e28b9cdad9a00ba91293e2
+FileChecksum: MD5: 704549825571b4ef79dfec93621b550a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.RANDOM.TXT
+SPDXID: SPDXRef-item5945951
+FileChecksum: SHA1: 6af1597d02ad1b9f30f0453cb790337302f1acb3
+FileChecksum: SHA256: 4bbd5d17d46f47a172f3df95faa955d10d71bb78c55140d16a8baec5b84a2f33
+FileChecksum: MD5: 7d0bc4db6fa1f003c0be6e4bef4e700b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.ALPHABET.TXT
+SPDXID: SPDXRef-item5945952
+FileChecksum: SHA1: 7ab445179305bb6fc86de93751ca9eaa506f75fe
+FileChecksum: SHA256: a0d1920d93d23bbb2e3107a82119440f7709b62f9c114b823f0302395e3bb608
+FileChecksum: MD5: f777cc9f1232daf48981f6d0102ad8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.E.COLI
+SPDXID: SPDXRef-item5945953
+FileChecksum: SHA1: 7079b829b391614616904f5ba5be261108c3706c
+FileChecksum: SHA256: 9c704d5206de4bac6551a06fa5c9737ee87027a1b6ccebce73a848e26002ac21
+FileChecksum: MD5: 45af7c4375a8ff43c165cfcafece361e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.PI.TXT
+SPDXID: SPDXRef-item5945954
+FileChecksum: SHA1: 40e4c5428ff303e8c675b0da718bbcf9cbe436c2
+FileChecksum: SHA256: f2c78ff511e4a9f85378b01adc1ae3b2b341dc96d7288324fe7761e7e6051e17
+FileChecksum: MD5: 25478be01629ed9ba2ad6236b05afa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.PTT5
+SPDXID: SPDXRef-item5945955
+FileChecksum: SHA1: 96f7ab3d975ea4d823cf30be7dad5827f45858e9
+FileChecksum: SHA256: 0ec3a75089bb52342813496b17e51377bc9eba3cb519a444d67025354841d650
+FileChecksum: MD5: 29eca86237730fce52232612036284b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.CP.HTML
+SPDXID: SPDXRef-item5945956
+FileChecksum: SHA1: f2dac454e21671b3ef3946b4b61cb785cfacfa8d
+FileChecksum: SHA256: 197d15fee0d135eef618558f74e8bacd527fb665d6fba1f50df719551b3233bd
+FileChecksum: MD5: aa963f8daa31e12500d8b3f0b54df0c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.LCET10.TXT
+SPDXID: SPDXRef-item5945957
+FileChecksum: SHA1: 75e82fcd25c8957115f20e7782b151bbd99474b4
+FileChecksum: SHA256: 33aa49c019547c633fea4196f12c7e4144a2ffd1166dde7d5d14bc75256030b9
+FileChecksum: MD5: 7f863556cb45994119f45fc7106d0f2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.GRAMMAR.LSP
+SPDXID: SPDXRef-item5945958
+FileChecksum: SHA1: ed997f22d2de57300836fdc389e7217ec91b1d08
+FileChecksum: SHA256: a293aea5b45d3ce12b594ac78f01be7fa2532806e7ec2c673e06a798b747ee4f
+FileChecksum: MD5: 03303e7f9efa0c40f2d387d422e87a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.ALICE29.TXT
+SPDXID: SPDXRef-item5945959
+FileChecksum: SHA1: 3cc2c1d9cb7de737f33b02e5c5eb0aa854be66b1
+FileChecksum: SHA256: d290feabcc6b882808ef2804c40eb6d79b8a0efabfa86aa39e15f27e4dc686be
+FileChecksum: MD5: 5d6f0bbb04182b575cf15f0239d4274c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.AAA.TXT
+SPDXID: SPDXRef-item5945960
+FileChecksum: SHA1: 44d34e69f307ffd76f2632cda945129acb684921
+FileChecksum: SHA256: b5f989fe09daf7ab2d2f5af458812cd7e417624d40325f6f3d0502c6bb2b6e4d
+FileChecksum: MD5: 604e4b382f038ea8bdaeaef981647082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.WORLD192.TXT
+SPDXID: SPDXRef-item5945961
+FileChecksum: SHA1: 9095420c1cf29a8f950444edc5cb21960ca0d6d7
+FileChecksum: SHA256: c4e3119c6793fbfd3cb41828001d2fac773802416c6ac29ccd94df63c49840e8
+FileChecksum: MD5: 9e7eb8cee8387d7fa0d4c272d63af192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.WORLD192.TXT
+SPDXID: SPDXRef-item5945962
+FileChecksum: SHA1: 2deef0250a9c8d3dd1f10908ff6f9f032e05cd27
+FileChecksum: SHA256: a902b6918f32007c6455959cf329526a11861a447f07ce51e6c95c751cbdc97a
+FileChecksum: MD5: f5d18733d39b9aa37e769d734f2006ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.AAA.TXT
+SPDXID: SPDXRef-item5945963
+FileChecksum: SHA1: 301462646eb0d4e01fb5323fc7c860e62936e46a
+FileChecksum: SHA256: 0893c2458bbe0e668bab67edf61f6d97cf94682cad2ecafa55e2b3109ede1a0f
+FileChecksum: MD5: fe5da4f5f739b268a85e460b17f46b27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/FB.SUM
+SPDXID: SPDXRef-item5945964
+FileChecksum: SHA1: 076fb264487f2d6868e67919e1949dcb4560e423
+FileChecksum: SHA256: ee5733cd76ecc2f9d8ff156adc3c02a7a851051dcf43a2d56ff4ee4ff606bdb3
+FileChecksum: MD5: 0d347e6c137c15616ee2becc0123e0a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/ZOSBINARY/VB.LCET10.TXT
+SPDXID: SPDXRef-item5945965
+FileChecksum: SHA1: 5f41d5e4e165fe3d7da46fb2f5228498d8dc4608
+FileChecksum: SHA256: 18818d27c9b9005a7f2005b523ccbd50d6b14f72ad1487bde19978cbbf80852e
+FileChecksum: MD5: 28844c173fe48407c11750e7ca01f701
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/THIRD_PARTY.md
+SPDXID: SPDXRef-item5945966
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: SHA256: 97be59fd8b10c94f2f4769d124c271a02cc1707348135fd5f2dc6fdf7baecc2b
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PI.TXT.SPACK
+SPDXID: SPDXRef-item5945968
+FileChecksum: SHA1: c978fafe57072b88979728e4b88b847cf187e5c6
+FileChecksum: SHA256: 548f0065b94f968f6e7110aac15fdc083d1be8c4b3620d620937127d00567edb
+FileChecksum: MD5: d27b52f0635146b8540dbd6c9ecc2095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.PLRABN12.TXT.SPACK
+SPDXID: SPDXRef-item5945969
+FileChecksum: SHA1: 63ffa15182584ac857f5070fb9d009402a1ef694
+FileChecksum: SHA256: c26b06eebc628a0e04dc69b68cb938552098179537936ef4d5534450bd2dd068
+FileChecksum: MD5: b2f0fa290feb64cbadf3bfe80b418461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	U­üCc5ö°häðèÔÙÙu¸F<¬b?ßz=Ĥ?;2H ;âT0?Á]ò´?)è«H°?fÁ?һ%qÅù	ËQiÔ?`© ø °K<?Õ&ê?b3?¡EaqÌ?¯	/#8?©ô ]øx ¹Ì0ÌÃöè¹,òã+?8ÓoÎ?UÓ?uq?fµ1CĔø z' ñ ¯?­§?& =" á'#:sʫ§Q,và%AÀa?vjƵ䅻§ÓG??çÿJº'I!qööţ£.ÙÐ?RÆ)!÷J÷¯0W pMA/~[µ?ZªsòD qBtC!õ3¡¸6ÿ1?½PÃ?dëà5Eô?4,?~µp)È}XÒ~?B </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ALPHABET.TXT.SPACK
+SPDXID: SPDXRef-item5945970
+FileChecksum: SHA1: 427e4696a0f4089ef3cc11355603c113d1579401
+FileChecksum: SHA256: 6a23faa821dcd7a11f1ee107f38b77f242272bf8cd601c611225bf20a0d2f73d
+FileChecksum: MD5: d0d9e577ad1252ab4783de0cba6fdd60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.CP.HTML.PACK
+SPDXID: SPDXRef-item5945971
+FileChecksum: SHA1: e2261e2589c7f4af5f63ed9e520418a028c8a87e
+FileChecksum: SHA256: 4689fb05f39d1deba717f95757f2280ea6418d888c7a5bcc59f3627b8d8756e8
+FileChecksum: MD5: af7da9786151dd06ead1241e3ed16352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.A.TXT.PACK
+SPDXID: SPDXRef-item5945972
+FileChecksum: SHA1: a64ae107c00986149e96ce7579c4dd2ca06ad5b4
+FileChecksum: SHA256: 94e23696e890750f9cef2603e0bfe1f2297abb21f81429ab164a19c79f055bfb
+FileChecksum: MD5: 578e9110ec3f70bb779425ee419f5a84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.XARGS.SPACK
+SPDXID: SPDXRef-item5945973
+FileChecksum: SHA1: e052f4899a184c33ab4b247373b03ea9bbbf2756
+FileChecksum: SHA256: a476baef57b6279b56312859df3ee7630d38fe469c97d81ea96f2259237b4820
+FileChecksum: MD5: f70f00f55e7682d7099ee2cc7a9818fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.CP.HTML.SPACK
+SPDXID: SPDXRef-item5945974
+FileChecksum: SHA1: 9dfcce03ae33c752497eee54b7e8c7da7e5f5da9
+FileChecksum: SHA256: 26b2471ba0086dd0517e3039a7289dbff7266406012386452e7051a751a5071f
+FileChecksum: MD5: eaf7f625562416145821b2f90ed06476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ASYOULIK.TXT.SPACK
+SPDXID: SPDXRef-item5945975
+FileChecksum: SHA1: 1679963bec7a9cbf977230d558f54647b61b5bd4
+FileChecksum: SHA256: 8118c572a5431bd9266a75de4baa1f7d7eb7eab6fca4b6047945e9c581dd7085
+FileChecksum: MD5: 5276b7d11201780653358c716e3dbb40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	GX}eWUq?BYD© o˟ӄî^£q71D8?Ì??Á±ÛÄE?ñc?![:Ùへ?[4è¯ÑÔ?"»8¤ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.PI.TXT.SPACK
+SPDXID: SPDXRef-item5945976
+FileChecksum: SHA1: 299e76cf27be77408e32dba1cf93305d52370f49
+FileChecksum: SHA256: 2c8638c2621602df535feac37fd4daa224915f33fedb4da84c55dc8ceac67edf
+FileChecksum: MD5: f14ae9c6961bf2bf4882ec6d5fd2311c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.CP.HTML.PACK
+SPDXID: SPDXRef-item5945977
+FileChecksum: SHA1: 838c7a472710421cd7a46cca34a41834f684d9d8
+FileChecksum: SHA256: c4d11cffd1f12c1e1ac09e92ac07245f1e0180d7165946da5540bec8343ca52f
+FileChecksum: MD5: fcebac25c389cb5330a6be4b0efd5d1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.A.TXT.SPACK
+SPDXID: SPDXRef-item5945978
+FileChecksum: SHA1: cbb70b2d3d488b3bcb80fb5c73bcdda7f4569576
+FileChecksum: SHA256: 55440ddc58f6624b7c786ade2809e85357fe857e32523b4c6b0d4b61f4f997a0
+FileChecksum: MD5: bb4eb50e31f3c83316515256cb213220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.WORLD192.TXT.PACK
+SPDXID: SPDXRef-item5945979
+FileChecksum: SHA1: 2618e4c4c428abe41c28c3a5a9ee4c7d56d8dd1c
+FileChecksum: SHA256: ee7827f2cd6b69379f8927d70ed655c3979f308bcb5603a0326be310124c4bbe
+FileChecksum: MD5: c1bf7b7e1484c21614e027692024568a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	Oûkàäj7I£ôð3äQ?âðæn÷þÔy?}?v?P*¿ÈØ?òܩ?Y	<;ìÛ¢«´i췹_	mÙ~'d-<¼ξԅùiðøh«?qêÿ5¶?ã¶bµW.B¯äo²ó¯?ǩÈ$И5ã \"iðùä+2E²Âò î ¿Am.sû ֲ^k#?ðÔ?g-^ÝË̩o]û.Eï??èhXä_T!0\Xȿ?[nï?I?­sÿÿúY¬¯sèufRË?ôþõL\e޼ô÷}¨ÿoëÍɔ>¿z\'ôÏò?Y·ɒ3Õ҄ôÁ¢®?Iȭ¿?M=Ç?Nï7cÍᠣëKnåK«ñUÿ$ÁD=H}1ϓð=6?ÙY£u
+©	paÎ?J4]u	ekgl??r]ú7\?¦Õ?íeêc-ø.;à×4	ö{­s r¬¨χªL´g ª¼÷÷?Ãß{º?P^?O½á¼w³î?ÛdëÿPų¬?Â#?dU² </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ALICE29.TXT.SPACK
+SPDXID: SPDXRef-item5945980
+FileChecksum: SHA1: 88959c5a4e34b1786b40802b0786228d6fc27f8f
+FileChecksum: SHA256: ab54822688bd1f291139ef787eac9545c3ec64f0d70e7c33723a12be13a29579
+FileChecksum: MD5: ca1a9ec9b93c46543ed7f2d03638e059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.BIBLE.TXT.PACK
+SPDXID: SPDXRef-item5945981
+FileChecksum: SHA1: dff2b1b0c69d6a22732da1efa74db5509af031ef
+FileChecksum: SHA256: e0a946a0fe1b9dde5bb1d9376da7756565c576a8509cb3fdc374f93dff2ebe34
+FileChecksum: MD5: d2e8ddce468a73f3b9d60c227b503c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	ZGªTWüoÒü¿Í<?\?1mý¦U~?$ß?>Vßÿü¾­?Å.bMúòëߎÿ`?<îB;?ۛͼ?)^ÁwÚuä(tÈ~˴Ę״1¸DQZݮÀȡ?/°ó<³ÜOý?T·>v?Y?SqkÚAC?ÎÍýÿB@ôhë#ÉÏÿþ?Qeü«:äÃ?ë@úòNþÂþ¨äûëTл!~\¡?§Ql#Å9´?h?¥VώµcO?Ñ ¬Ad:"úSÍèB}äÉ,:èÖ@E1¨Åà?c å ±÷?û£&1?鰷n1!F4?RÃ å?}fD?-ÿóúñ?Î6È?µÛ?xf¨&t{mMÿ֫ð?[ ®l/½å
+©	p¨e=O2P0¤v¥úÿæ!Z?Ó2ÜÁÛ?@?û = 0?àÄ`C'gK²p|[ír~Á`'?©ãÈ?¦?ûa+?{ÿ.?Ôÿê
+©	jùáf¿4xk¸O?¦¹å?dfÜÎZ L?Ä޿þØÃÿ?µ	ìþíI¶|û+?ÿ«7ÕFE"eQߢ¾ÿÙ?4v\b0)lþ~}¦?ô³<È?ÿ꺵g7_ºÒÕϱû|uË&Ò2ù:$җTÿ¥7÷¬ÊØCo³å×Ǵá ϫ¨Qò?ÄIµ?åÁ/bÂUw>P~û-­üBáèòú?í@®Ý/¼:îÕsèe»ÿçþð!?Ç
+©	dw	pyXøÅ?¤QD´tn²øá'ûӉrËn?l >QúR=<éi%^½0È Ajï¥٧´çýýi?ñÓS¶tÉ/¯*L?/	LÔ34e?®=*?D«àêâã\Y«쑶 Øâ¥õ9?½?lաP¡Â+þ?(?ñM/?!?$ÿS4õ?ރh?gWYtoÒÊ`«L½d|³%&@×>ÍãÀ³J4"ÿ«í߲Ȃ?El?ðël?n¹ïjX³1M¬øYF¾þyá¯ê¯:?T%ë \Þ6N?©õnقgQà~Â\?Ôëw/¡¹å?1Ö1.7äù s?§?¿?®?Er?¶?$?Q¾.í·FĺN?WyMϒ?â?) </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.RANDOM.TXT.SPACK
+SPDXID: SPDXRef-item5945982
+FileChecksum: SHA1: f0a044790132d188ab1f182f3a4a7fdb25167827
+FileChecksum: SHA256: 9c05bb38ca7dd31f97e9d8d774931f963671ab222a23a67d3f3bb64c771b9e43
+FileChecksum: MD5: ab57586456991f0838f29fc92ded6447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	0ö~ ò?V°i~© 	pÃ` ç Ԡ?f¿#ÏëÇ ?`Õ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.E.COLI.SPACK
+SPDXID: SPDXRef-item5945983
+FileChecksum: SHA1: fecf197c495d1292b7b30be0d32bdfccba027ecf
+FileChecksum: SHA256: 7a5e7602c1f975616ec6a5cdd7e4b6a3af1068b23e33f5a67c3fefa5d2873431
+FileChecksum: MD5: b346d59713e6c06a9c961451638bc073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 8o?a¢¼1?ÁQ?T?%Á3ñPaM?Q(17?ÕBur$ qÄXæ?¡21¤µ?!?4e]íá@?£ Áì?Íúz1!R.?aÔ Ù?z©|:?"äp S.U¥3üBÖû¯=¯Þ D8Bø®k{IÁ ?VaÜ-ÈÒøjÌÄöYÁĶgR!cÚ?g?¡  ç â54Q2?ç\d¹ =%V 1ÖÏôI±üs³ð?uÒ?>PkT?]7q1 AÙv#1%ÁN(ºD¾b r ?AMÈ!Qn¨¶ö?¦pR¨Ð| QD§ʋ?î(?RàyÑ?®Lä?,Ƿ!ø!V3 JEYÃ]4a?VzèYQ,¡?ò.?!rv!?.ñ
+©	2á9?b?gR?̆±֨-që¢ Dï#`¬1¢ï?Ó)?ܴËq@=¨Ê?eµ2zH%1?o?ßVw¢Ï?r?íÎÖ?ÔO] o9?ßN?Q¼ËL???!1\|5 </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ASYOULIK.TXT.SPACK
+SPDXID: SPDXRef-item5945984
+FileChecksum: SHA1: dda6119109f199d9264b69db67453b77864f53d0
+FileChecksum: SHA256: 03468a28da26b78ad80a765235a528c4a74d78ac4f2db6c5be032afee5536421
+FileChecksum: MD5: 76252bceb2985f0e596a71b901fa62bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.XARGS.SPACK
+SPDXID: SPDXRef-item5945985
+FileChecksum: SHA1: a70b21af8b198e4c448fda3715d1aabe352958d7
+FileChecksum: SHA256: 1a0a8a7c0efd7092dff1b3c1990b71f436e2039cfa84cbd528e15156007ad6ca
+FileChecksum: MD5: 7e50cf7ad6bc445aa4b5d61f1032b34f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.BIBLE.TXT.SPACK
+SPDXID: SPDXRef-item5945986
+FileChecksum: SHA1: ba8cce856a43d21041c484a7facb74e0c71c2435
+FileChecksum: SHA256: 0671a7f975ead8d77ca81588dce949864667643be045b1a2516a2dcdb9c9c996
+FileChecksum: MD5: 5e046c5c863b60e3fb183ea5887438c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	A̟9?r.æo§§yú¢?VgÑ?ÕòNÈa?Å?ļ6QB£6bSäK?ß׺üO9áIQ35L?u àÝ,ٰÁ7È:»¨òa?iiç.B¡B?XԚ?8(?Î~ÉL 1O­?½@ûü |½bó? flñÞ?φ܁¼?À4{<ϼ?²?³?ê ûBÄýf?®GD^þØÆVømOhT?K 㠸¯ãÕõÂó¶:±ܿ5?KùlùT¶0
+©	q!7åeäG»X ¨¾Ê,½I¥6?nÔX\?Ex­æùã«s	ǆӃ?!Z<ìDw?ì?=hw?L ÷í@?®-9«F^?±T|ÖF±$?[ÃÏ^=³æv´Àx	yë¯cäÚÚee"¾?Gíi/.&`õmÚñb?][ƛ ¥0-ýõé?Ù,?¡sgձ)ͫ%?Åtjނå?ôÅG?Jv?® he?V?P"¾øY?¬?ÁBt¤<?óq¤Z ¨Ô?çD?Ââq¼á?·!?@ª?P[æ«?ãµÈ]k?êD?qYɆ8Ç4èäà×?s«?¼ +{^N¾Ûu?0?x?kPÖÏ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ENWIK8.XML.PACK
+SPDXID: SPDXRef-item5945987
+FileChecksum: SHA1: b381543cd149d88356e2e5d4bf395655b5587c3d
+FileChecksum: SHA256: d65b1b25be35ce86692b834a0fd591f7cfebd80f7467ba8ed1a43bb5d9a71555
+FileChecksum: MD5: a571ee96d410f23bed8e23fe6cc4703d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.PLRABN12.TXT.PACK
+SPDXID: SPDXRef-item5945988
+FileChecksum: SHA1: 3b1e0ccce1c527c3847149f8313d75451e6da8e4
+FileChecksum: SHA256: 2fa0f67c825eda6c278da81a2d144f288c1d14c1b61c518a085c94bbf4f9e840
+FileChecksum: MD5: 8a7bf96451bde363cb8b4cf9560ec4f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PLRABN12.TXT.PACK
+SPDXID: SPDXRef-item5945989
+FileChecksum: SHA1: 2134b0d272e76962d71640f7ef0aede75c32616a
+FileChecksum: SHA256: 400e93cffc241b38398354bab522f55e8d899e268a6aaa46b666a5b264b5e6b2
+FileChecksum: MD5: 566fa4ffc4d66d44a12d2c6650d2b399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	By	n÷8m,À?v`©Vÿ"?f ½È.ï,ý¶þªlâN¾°ڿÓoQn?5?¢ÿ_K}Њã £%öh[óïIÑ lmm9¨¥¥%§G]sÚWޞìr?f¡âÿì/?+ÞYJúð¿ ÇÁ)kÖÛ=務 Võ8­ëÈQÓñ*\ç*ußaÃZzz¢ßÓ÷¼r=ñ& ßè¬LèKêVmíòð_Ýü{÷aWq d4í?£ۈ?èÖü?ó×?¾r½À&Á"v?Æ)ocV±È.?üâjõ¡*¦ÒP?öþ¥çàìªmr¢þ?ͬµ?9Á$ÏzЌh]^Aþ¿>?ÓH7ªJ?cØÿß y¼ób`ґ|q¹êØzɚ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.FIELDS.C.PACK
+SPDXID: SPDXRef-item5945990
+FileChecksum: SHA1: 4a37248fbeffec369b55e88c7f5109200d033e4f
+FileChecksum: SHA256: 48644c7d46122acac7225ea55bba555d7c9bd7fbd549300110562017ed6e9db8
+FileChecksum: MD5: 7cdb1a148a8de34746185700a9d01f5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ALPHABET.TXT.PACK
+SPDXID: SPDXRef-item5945991
+FileChecksum: SHA1: ec0ab5fd85560b31e5dc093726533b03f78ed140
+FileChecksum: SHA256: ae141092d2c41330da22c1eadcb1f66e04ab053b581a0c5a80df9457fdeab66c
+FileChecksum: MD5: 57422587878c3e98f25c49a381bb86c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.AAA.TXT.PACK
+SPDXID: SPDXRef-item5945992
+FileChecksum: SHA1: 2b980cfeda4be8316a0b7fb25f2d6fb348086ec2
+FileChecksum: SHA256: 3b67452f2e4254b3c3876c7ca255aab133be217fc02028656a17b973342ad5cf
+FileChecksum: MD5: d492ae4a017614d41fc3c44820867275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.E.COLI.PACK
+SPDXID: SPDXRef-item5945993
+FileChecksum: SHA1: 8d967b56cb33a41fd99596fe0596ffe899921177
+FileChecksum: SHA256: c31fc4892dda33468b8239f7904686d7340e70e98f0836374512a4d5aa1279c5
+FileChecksum: MD5: 83abbdbff7c12db69b97c3753d5c42e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © tõTH.O#?o].r?¬2 ÕuY?zÌGª?¹?wÎzp)«Oâ:qٯº(UÊop?%®MåîQ?lq§ûÕcÑòCӣªã(­+¯A¶ô3wRÈqecñ?æ#×a?*¹h? </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.LCET10.TXT.PACK
+SPDXID: SPDXRef-item5945994
+FileChecksum: SHA1: 1e3bea02553a6ccc877b76914ce34a268dcc410d
+FileChecksum: SHA256: 52d6462512a16f39409aed491b60f628712f461de57d4e9b5ea1cbbfea08bc82
+FileChecksum: MD5: 177f39ed04b96d6f6953469e4f406c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.A.TXT.PACK
+SPDXID: SPDXRef-item5945995
+FileChecksum: SHA1: 4d8c660f650d1bec0687acee827d2002a6d1e17f
+FileChecksum: SHA256: 1d36477a5a6b0259c3adf6d56db8b5f7369e4eba61d5645524a0489fea2ca922
+FileChecksum: MD5: b9a2b7ad8bc920071e994534a32bf631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.AAA.TXT.SPACK
+SPDXID: SPDXRef-item5945996
+FileChecksum: SHA1: 3916957ab71eac1b29fb5d4ab13c425877709eb5
+FileChecksum: SHA256: d2a2aceac02d80bc69848fd685ea8aa6bf487281f3c6c2c57326230f3158bdd0
+FileChecksum: MD5: 4f2b20c9ab3fc44ebb30d0abf504b075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.GRAMMAR.LSP.PACK
+SPDXID: SPDXRef-item5945997
+FileChecksum: SHA1: 05a35b4e163c2e44c05b5cf5182f6dcb811c65b2
+FileChecksum: SHA256: fa1abfab1a2a1200152da3b70971e6779fa1b22fc2b9d47d69c81985cab7cd16
+FileChecksum: MD5: 35e9473463016bab64dbd7f5beaba712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ENWIK8.XML.SPACK
+SPDXID: SPDXRef-item5945998
+FileChecksum: SHA1: 106928e9f4bab081ae19b80e46ce6c17fb882611
+FileChecksum: SHA256: 792c7d5c8484e66ec63596e8c0da6ce6184728d076239bd8bd0b3656acb7d084
+FileChecksum: MD5: 07cb828b3111d1b94b34efa661394491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	g|X
+©	Xko¸mEИ~k?1BÛZ?PÅ!?LYBw?ͻêÒmçD·õ?,±[ç«iÐ)e?*£?ãr¡ÐF	۰©=ú?YD^,bá+?N·VE}è òބØ|]ðbX#?#¬°¥?È:?ÄG`¢?ÈA?ï3$éûT8ȫ¯§µ?ÓÛ\Ö5?X?Y/U@?À?#bP©?Ø#`óçãQó0㲣?ȦÓP?î|Áj8¤\1KãÌbHn?ÃZ?}r=۵óy¥?T#?Pô ó !ËWyZ'æ?Ôî\Ê?ºüÖÐaªXû؋ýµ؉ìl$>5?IúLÖuæîå3àÃ?re?=Íñ?®ºNi Zè¿`ÃÄ4]?+$IUa?>?Çj
+©	hìdB?"q?q¸hka lÿ¤?0©a ÿ´8°}üÁ	¢?Z?Ķ'?e¡]H?#?YÚ äï8òvaèÉސAaëaÞæ?Z?5?3fT,&?˅Dª¹îsâÂÝø 6??»j)ò ?§XFQÛaàPGÍð0°÷ }?ò»Bt6J°_?'PGÀ?Ç?µc?-e	9e¶?³8ìZAÆ?Áö¤aÕó;E-}NñáÁ~`ëq ÓÈõ ¶ ÈÍ ¬?0ôÑ0p]î?F6\|%ê«  Ap£ɰ	a*.+AEF@Þ8ì½åÇ	¨ 窫.:?Ã?ê[®«?-ù1?"î?ÀL?@	BÔ 3?§GßßsôQ
+© 1v jÁ_sc_5ɳ?üלZ%¤Ù(98{óbcßfÑӌ, EÕø5jy9?+n	s?wÒIZ?£T<£±þ?U?>RÙÐ?Æ?C8?vé?¶?(õ®>Z#?۬®âd ´i??A[ÖĎ?AõÃòºöbo4téŠj<"D?)?ä]?F?âò|î!^7Vò'#?#1u®A?ۉ¨?[a÷ȣ§I̧Ê1©¤¶ ܳƌt·?B?7?óF&^å?QF&µ!®r÷à¦=à Éa?ÂtZ?3¸ú/²Â÷?í]xWИýv=bV#¡{ j8ð?½/¼æ?y{?£R?ÐAK@îA?nKéN£a][j?p?ÛcÖ0
+©	O2qw?5?gAw?L je?qƚ?Ëé/¸j32ð E?#¯Cp´S?P^ٝ¢PN¿Ue¿KÛR: ?ﱙ?lPñ?é¨ҖÈk@Ø۵xb;Öw؇t¹Ñ?©a	Õ?1Îð@mk?ò3Ô êq;Ûv7?ðÑ=ùT¸z ,½ñ?Tø¶8?PL?7 ¢ÄZ᫈v?Ëhì3qÙ?yNJ· ü5AöÈ?§DAp£	0@\Ó3?æ?
+©	FT`vTàrH<¼¸ì?µÃß?ª$¦	ªÐaaU Qü?5a¤³´ë`ñâú?^­Gx#²Ú?UZ?2][>.?²ÞÇ½?v?aQ¢ _WÛ?Q¯Gë?s¶á.	{` NBÒ õ ÒfЩZã8Ía?÷þì³?´kB`Âx1\?c+û@Âð×Û?çÌBÆ鑩EÏ07þL cïÙU 7$?êr?MCÐér,%íáL%?_§Y¤XðÃ?ðZï¯w+Fï]p(ð ijшmF?â1í#a± Ù`wM۴Û`s?´ç¤ç <ú~úlçæîõ,±[ç¦  Kæ`¦¾n9?ß,âó!t_§ß?a×æK
+©	PßEX,LCnÒ? ¨? ù% U?RͮPp~P|9?5 äLÁ,6þ\?=ü?HOÁìä0G+X·M¨?ÕÂìiÌ?u?gÆT	OÁÕ?_ÕÖØ?b#?Ý4Ø?ÕÔÀ?Ô?k?"8?jà÷ ± ñ äz{{zêü?êúújüÁP	o?c2ó^? @óü?Wë°bín»pA  ¹C?ð¾ ?üVzªêCdtC5Á瀱8§ÕðCs},&$ ؿ"wbl¢ÉÒ?#°`Ã?d¹P?k?Ób?ýØXÑ8Z?m§
+©	fi?ÉJð³O-àa㕣?M»U^?ÖåÈÈ?/¥p?°S%?9±[#´ñ B?4Q á âÏå?VZ?҄ó³?èê?®xàb&4Ì?ãR?9üfm¨ AYÈ  Öhm?¯Fñ]ÐL	`MG?Läb?@ m-b¸@§Ípb#0§ûÀ0p?ç?èhԭÄ0Êr?ÿ{Í9,*ê?QrùӉ Ï ä ã?ÊP?Ûo§?pò «XÐ?Ùàõ '???AT¡^ôPm?ñgûê0?Y=Í<i?AÀÄîN»òjÒq°?#?Ù?`Ù?Ø?`Ø Î #?lý&#ÎìwФ Ä
+©	XGmAxnǱD ¶¤ n~E¡¾6x¦b=?Aç«é?Aÿlì̠?ðõ A Ê	P?³<̠Ö?8ï3ÅÇ9HqÛ@9F?Pù/Æ?p?fû XT0n1?P.uKõðne'?ý 0À=ñ3q=ðUïÀßÂ?︮p?LKژ`?õ)?°&,!8jë f2e®_Fi݈£1 ÿM)^ Õ?½ÉÂG?`PT·þܑÁN?5¡>ê5?m?¨	KQ@
+©	E¡%EuHuKC.}°?:ê	jZú§`㘓]?®´ú²¥ÍûÙÝCy3y [ Äôûvø[?£\d·¯®|TÑ`rA ?±|2z.bhK?]
+© qVrI?XÙ.tqÇ=?ê J?Wc@³d6Mú
+© 4rP%?PcÞ éG$]?)zZîµç?Ñ?I@?{/©;ÆQOË,èBhýVY ÊPHìr¢Â ®7yß?8$?¶b¢háèûw¨]¿?d?ª8ñ¨V&ÈðäI( ùOJ(c ÍÝt?êf? ù?y?¥]Rg? bTwªRO·IZ?Ð?³rãp©?µ-Õ!Ո|ÙÁó|ËF?Õ	yvϪ?óZ& #e5X
+© 2J¬1ý3Ùv{XÒûZ?N}& 5ÁLB/·»#¨ºå 6 Ñÿ~`¥iõC7eá b?ûö?o$£8<â?î»?-xmý¨WÞàv4¹êøeP'	eUgÍÛÎøk8Êîw#Þë¸S"åÿ1j[?¸Äï=ôéZã Å,ND'?ªÓ8'c?ü?RÞsðP3Ñ]G;8ú!ê¬t6?sõ® 8grkF%CgôÌs´}Dñ?PD}1§¢í0­Â`?Y¥ÊÕ@éÊ`É?Ø]Îþãba?AamCe¡nxm4\Aµ?®ï §}Fi?m ö|ØÅHl̒ÈRua?U?±T1ý`¢ ü/}£ z?¡?æ£,
+© 2˞UKQ®?c@÷!Ö4\;?ÅÐùݪ?Ó÷9%¨z?ïoÎQð0ö äZPúoÏkÇա£æ	=øÝ[¥÷oîz ä?c§?mÛ$§râW£ú'ìª\疩Õ?½ û?{´¡ÏkÒUî?^?Wp?PPOÁ?S5؀AFé?õ®åÁ»ƂÉ S0Å
+©	NÆ?gCjáÝoS¼k¡±pø?)´ұÐee}éK×}`&4?eA¥b˕¡]¦ߩ
+©	pTF3ô
+©	eWÒþyPÎ2Â?ü%A ò½(pAà']?c?Ôß&Кnʔ;¡[r L^àbÑbTµ?(ý[Àb?Áji)I^a|â?ß?J³¢8PÎ`?võɔ?́P^@?íoÏü?y?Y`bù`Hæ%©öP°ÂÃ6çzÐgî?>̮Å?«íD8	~Ü_Űë#LþQÚÌPl?î?jÄ@?ß)æ%	@a?؇ Ûõ?Üá?`n{1^sÎúċå?l}Z­¶¶ûÆÉ?âlëy$ÐÇ?%ؠæqeeÑ?yíY<A¢Pհ½"µ'õq]?Եf?ÁôF ô?P?:3ÐQçÐ_­@Q?¤?ôOôv{8??»ÿA÷¢»°ةþ
+© 7Ý2^qWS÷·PA?aï°f§Â?=P"û³«¯úÓÆj ðE¡v/þWИ'uU@QQ(%µ?!,m9?ØI06·-¸#dVúø ©?0Õ £Z WPãõñ?À?A ©ðEø?¶,À¾À³ÊLzGѩKelôCåːÆ9ÁXÈì/ բ}²½qïGF	hvÞ ôqjWôoR?U\筻
+©	S=ppAoæ~C?Gí?âu?è/?9rõ*ÚØûr1?CZ ÊS
+©	QUVi?P©?Gª¶p<Ð{z~ ~©±Ö?*ê?aãrԂ;HUü¾¸M83Ö"?àF4ÃÛ(ʮW6cü¿{§û(-Õæѿ?õ ÀÁ«?Qi?¡+ [u«?Å}P!òN+Íëº2 äþºM6RdR²¿fzE½?!Ö}?ӀAp²]ѺHyÀgNu?¤?@pÓôpaÕÁ :boº{?­ÜuQÇ?üo §Z??¼ßò?fÓ}ýZISô)çúÑi)ïahü???=?̅bÖûtu?eU/¥Ub?Õbdb½ǡ¾¶Â ¡¬x?UõĠíL[Å?UÑ?§ø#o¼ªp×?pN
+© 9ïs A	h1õ´¹'q\?Å96?K?b?0ó?R¬ ¶¬(?wÅ\qi[Å,J°P?Pó?@öO±l?[Ìmâ?ª â?vâ|UÁû<?$ï¾?y»sûãHV¿?Nô8E?x$ Å?L?¶?âø?p]«fú®¦rߜJ?Ð~0{ú?ryn/©s~f&§fâm8¿\?<3ÖÃCaÿ7 ·ù÷yEßoTÄ|¹ÓHî PP?oã}P&u2k¯@U!?h²`â?wùY?TæLj¾CoSµ0P"U;UCñï?¥Çõ ¶ûKîh¿&רÑ 5?¹¿P`~9?¶ӑQ$ÝrBtKڸk?u¬`SdàBp
+©	zô?vqkAa7?ͩQO${?úZ?iÆ%9¨w[£Ä?«<K?°9ÆNÇâc ¼&æ½v&=õ¼m2 P¤gä,¨?)= àru\¬×rÌ?üñg 3	wCM?µ?Uò+
+©	cÑZ?l´u9?·?©	Q´¨Z?ù?1·?ڃ?AþN÷?Õ>?٠¤*ÍgÈƒmB`C}?mO?}?·w͜´l?gR@²6 1 ^öO] çÕ?A?[ï?°Pú @¸®?tgSm6	#iòö¹Ë?ÞvL`£3ĺLTU`Ä ¤?9Ã/¯K´C?=îE0ÚÁ?ØÞñ?ê ?Q ɳ	F_;`÷ðíÛa?Â3Çdî㎰§ÙS¶?7ßk ø?l[ðôûóØß?.=?ðǫ¤׼ ]ÂÌzB?XE=ç	«?Q?§¡K?~ú0j3ï£n95¼ ߱?¨óèªbR`3hìk ô?#ôk ÷?&ÓbTp ?½3L?
+©	E¡fz³{5¡UNãt˒(~ø`é?VÊm;3Å"±Uä0?­ú"Àó[èâ?Q ?£ôUèȪ»?#=Ä? _°?Ö&ªæUoÚEj2êþɤnÂ5¼??=§a9ç?nNõ bĹÛ@§Ű?£8?Gr8êÏ?#= f	VF¡?¥",±^9?;èâFÜm"Àô°N?|~¡jù»¯; . 
+©	vP>3'uUçÑ¼¨ÊU[ðXÆ?e-?"Ö% m:/1?¯NWÙù	¢É8ÛÌ?¥hý?54 Ȧ?fö%áÈì°?Yö?ò¶ ËÁm ÆbWXÈìA13?n¥ë¥}ǻ?ÔU$Íi. bg­"¿~a ëºóxæ?BEYP؍#ðÏBk<?¹¹ðƳo¹Qp/h?å¡?7DZøC¤?ÄZ ?ò	£?°L?@¥ bó?b-0øPÖ Â?97YvÐøBA`äC~b
+©	y[aïTðU\åP?ç?®h"¬©IÁ 6Ób?6¾ÇrT6`mFû?Ō0ÎÃ8?-¹ôe?¸]¾ÀÊ ʺðǀ 8kÊP÷?K?s¸J۳ÀÉp©?X#ã3¸bíÛbét?tïT 4 Æ-å)$ Ó	xÈ`°ó÷âÔ3K?`9?U¸Çum0Ø?ÿE=?ïÎÿ?0?úe@?lx`	?£Ñ 6é?ðÉòȭúõÿ{ÁÈH?Tt?î)?o槏?àvÚÞ?S¯RðAR¸f&'úbÍú_0ÜÓJºôU	¬ǆ±;?p­øq°Ò
+©	y?9Õf6	E%Ã??,?ï¥8?2??èìL7f?5£\{hðÆ9Éïbj6Ö jøpæ?Z???¢f6#7s?#M÷?zH·pëì¼Ôé¨"èß×æ?pS	ÕìLãõ _`[úit G©b§æbafJNãZ A|4?ýAÍzG?q(Á?R|?x#(Wæ£'p?Ji?À=?þt6?A"?þ â?º*iÒJ{O3ùü:FrBaÎ~Wܗ"¶¹-ö?G¹Z?}gʻORã6&?bw?Âià?Tg/¼	U¡õ»Z-¤¬©U¿ôיzfÑk` 諈?pçå¡Í8ìR!lȢÈþήï ðUQ'0¦	p
+©	Xª?c81h?í	Mú?Ú6bɂ81¨¸rTÿ9Êò Z?52¥C lȥ}ãÊo?A?È;?K_{°Q'_?°a å?.?Vw?؁?Z??c?90ä0Ô?ݴÀÅ] Àվ·²C?knÆ&â9YÀRËg 4]$¹Ë:£&Ig-&V;	kç¥äv®Ø b?ó	 aUrx±¶  a :?û+	Lõ| ɰÍì0¥NÑ\Ĉ:ù®å?YIä×9Æ&¼¬NëQs?¢H7>!ª潊¥À3Ó?%¸JÁ²?0òù£÷A93Ò
+© 3=n»½9.+r·PUs°?¸·¢¶?^ë? ãÆ ۟â?î?~u`ì?×O3µ¢À½Æþ?%\so&	b¦,bj?Æï?Çv£Õ,gØv"+pâÉ"5¡GþQ«©èüunkÞԭþö??#K«¦¾8ñVÞON¨S.»?ÌM?æÛ?ÐAH<\,&Ï>0beÀú?'?À¨dí¤Î?Hô 0^(u?dÐEïØruÌ?ë¾r?É?Pa
+©	0bI n?Ý?µÏ<ó3X
+©	l?F7;ZC§ðo­@ú;N?X}VÓ:H ÷ é?@ñ?)  {?0öe9é.f?ëe V?ðÈáV?j¨Eþ¸Ùô ø?¨}iºpt`oÎñ?,ÿÎwb¬nûL?¿$¨"v?²?Æê¨?Û=È ¡Þ;ÝĨ?ç?ÀÚ`Å¬Ó@äE_ôíSæ?	N¹S}¬ =ó-¶7?Pø0<ô?0ø?@ù:Ë}ñ?D?4<?{?@ò?±äá?5m,Û?ðÒ	¢?i?mÞ?»k C?ì§BbbI M?b?×_ ]?)Æ*X 2dn|oë+ë 91 !É?f?i?r?ñð×Õ?>j? 3'wæÙ6?Äd¹?ámbæ
+©	fÓANu±lG?à¨Wߘ¯òJS?êÈý?hZ?êP 0>uEÖéÿæ PÈ㊢É?ë×ͩd§EYC~$Z?å?ïS`[{»tí?ÇЇYûíb¦bN ì?î%A¨È{(áN!̣óvS?|ö;ìT?DUP%XütQBm[0Aë¸ìê.uá?ü òª¯CiÕ`@A´ ½;ÅuWr?æ&w°\?À凰AódñµT?Gdtö%Z?õ'¢å¡˹D EUA=qãAǮ¬¸!?ÅQ?\rl­ù¸Å+}ÙçU¡ÜùÕTrâ3[ó{HÎÆÀ?u?1çõoÊym¦?Ü^?u¡¹ UV Kî8^?ú²ђm1SXÂìm4ÞA?äMâÉw*
+©	VÒH?kÛnÎ8#±]?oº PaL	­բ®Þm¢Ä]i?Nhk0=ý?bΧÿgzæ	ÄpA8Aï7õtê?Ʋ?ñÉ|?½?NüÆ?&CÉ?a¬=Ù>%%?j7òkÐØXЄÚ?2\`ædà§ôc8F7Dl°PРÈl±nñGNûÎ<äºwnP?æCM÷ ø? ù ^µ?8ïFA?ö?:?'Ä?Pù?¥"ö 4òlàä]q<?ÁÆRQbgх,¥L*ÿ´Ê6³Úe°F@ó= ?2¢ ¥+ÎüþAï ¤ ²ÇX
+©	jé¹v?693«Bж¿´¡/<Á'¦bU}E]uCq³G6d[¼e?èZEϰþ2m`Ò?ç?¦Àb¹0Ò?Ü=pZ3Tð®8 ¥Ò cjýçh[
+© 4L$¶qxgmê乹?8%Al}5?ï=}w¾u¢oC ÷í õ?¬¬ å?8?ÂÂ?U¯+H2Xªt`ã8g¤hóÕtûoJÇT9­	Wrcn8g F?&?á]ÿFFe¡Ê	hØT²ɌCñІÅÀ&Ʃ)UPÆî1-Á؊¯?°¿?_î ÷¨Q?iÝ7æÞr±Æ?q´\ éhÎM¿?]Nkt¹?âÉ=üÇ?ŕ¨kGé)?&=Wé?$H?LôÃ`÷+NúÅ}Ègçj1v`ãp??I§ á­9÷n?ö?7»\,(pâ%$`?Ñ?6?4G i î]?}tUPÔ?%«?Ái+0øï鶮sߎÀÓJ 
+© 5î2OQ¿üq ?!]W¥??ÆÓ3b¡ï? ªzBrZ3 ²Híû)å?bai?Û2zMû"·©SE ?8ª,ßK~ñbp?U¼m2i?@Lè٬9Á^Râ?U¼߸;¾Ôb"°¤?ôr?8׷~q<?L6jÙô{OãÄëÜHæ«?À£?·&eãÞïV RCï?ªwÑÛGGC`{? ù'?7?ǉ?Ïxñx[x~xmx#⧉?׉?'í¥\g?@z? ?!?g  ڻ? À¢û¤?ãFg$?ôùÅÉѰô1 ò? ue?¯1 0ñ?°òY?ô? ?ð÷?Ì?¬?sz?ùª
+©	KÕ	p¦BUt9OÖlPC.ßa?èËz:I,?9ÄÓßkÝáwXJÁÒò´7NðEÿgàù®N?(?íaރ`D z w?¯[È?!´gãx?® ¡\ÿÝé©7õëÐÐ:Z!Ӊ?ª~wróBJUÑ?ÀMÅÆѓà*CjJÆ_Ì §Dx?\pæÅú?8zFq»Ñí?ô?  A8C,x±ÛC?Â?±]HÄ?ô^ ¯îM¡ÐÑ[،	s¡ RËÖøì6#Dçç?ó?¿?úS*{u<h®êtÝÕJæCºò°¥ðpä`k?ñ%<*N~ƪ~ö¨5 =ldbHáI"ò?'?ü?ñZ|÷
+©	CL3§5w?Bø4µ¼Z *(ãÍÒm	C?%:2?@(Â?þ^?"°$ӻ§XÎL?]?°RwÆ%¡³SÎЊÎ?ǶîñI#a馕?½|ÌÈ?0hõXÃ?± тூP?Öhòm?g5P?6BF?â,pڐ'p
+© 5¥tOUJ?tVõ߻æÓ?"êm0°e?͉l?¤ñÄá?FhÓ?'ä[ ?ùC?v?GÙ6 2bc*?Í1Æpô?G^[?qÀŔ£g٬?щ,ä?Ä ÜÊ1ßãĠÊ`~G*?ÿöq@̂: \åÀ¥	½?~8?®.?0°ó.b´EЗì£?òÉé؇ô?o%ΰ?b÷µ?w?ööSZ?Øÿl³±
+©	r9?uX
+©	vg9ªfY¯@¤&1?~I?sê8úw1±².һP$ bïQ?»UIïPò»ý{ =?±Äç¤ô?8j?ü®«?³&^&Ó?Wô?²º ??QÈõß"_%ÇÈtL9Íwtي^èæ =ý?8k6?æÓ,m. ú?FÀí Ó. yRû?µÑFo^æÛ?ÅÓCÜ a<\.Ð6&ÈðÆ9?30Ɇ°ųЂ ǵ¶Ã A?7?ºðÂd?r×?48`k?p^¹®g?.k٬FV ­?°ÉXÄ6ù·&?BÉa®¹?È?aԥå	âóÊÑ?O ú?n àÔÙêò?,?ã+?O /Ý⋍.Ú6,%ô?Âa¡¦q?úLÈô
+©	O!½8õy\Z?bn­¸?¼í?`Yv,Nò«ç?±ðáÛü¥°0ª®Z?CÞΥdï?èÝã?ö-â?E?{P?Á ©Á¤KK.Ýwê9¡TB~Yñ?Ä:?8ö3??뗱u?\ë¯"¬Ág?ÅY #ÿaz%îãÑGJ¡ýé,ÿ̽?ãî 9yèïUчÙYl?4¤ËS£ `?d?ÿÊT"?Ë	Z*Zö ûã?Ú?WóTî= ÁöÓG?E«?K âóÆ?¨fRó?øT9õ??*ß?GòÐf éÖ5:ÙThòú þ?FÓP4?XÚîUR?w?Ӑ½,®塉ÿÙb?`¹?úd aS¯µ?ÃUV	´΍ÑþÁ¡
+©	yyY©P?Z?Bý ޵³	Hkép	`P?àò?ï.ä~U©[ȀE?»Ö)??6qY§?`<ä"û?Ú?­-V?ÅúòÉüðY/è¤ðA»4]~`¥zC3Û??ç$Xܔl1^9%X	FÃm?"¢RË?±-UU?½zî?lVB	9%a?ê?ÐPA?pôüÁ Sh?0úáÛM?6 èÊQ¤¿ ¦LÝ`+?EХ?Ûü¯Bݼ ÔC 3þ؀a3͈<<?oÇ? LOËíÍBMNóBiz²؀V ^µÇö¸ºó8ëتw½Ûñ
+© 5Î3ÐaT0©ZZ?ó`!Z/QڣÏXkSí¿?ëÎ?ñÓ3ô0úJ74s+>ãӚ}Ïßb¬©"¨#¦Ã {¹T?[?0[ÁRs)ð?F&Á¼Xٛý#
+©	XDRºkrÿÇ`'íGfuãÞ?Јü¦ D`æ	´_£&&6eHb§?úLÚ?"û4v DwXÅ??AÇ?j¼;?/´AÀ¼¤o?|¤>ñP?ú#[*=÷%Û3°qJ&9£}Z ?óô>v|rB_QÞõøLK¯FJl²zfb kCþµ?ÖùS	 a? aN?ê"¥ï?°-P
+©	q!l2 EáA$ÆWØ@·ۑ?b?ºWӯ[ÌÝ$	"?µgó?49{Ô?íl:?CeáþÇåÐå¿+dÆ!Ç?ðÀ䦔´¼«짱vL#WØìK p å&Óo ÓúWr?ºU°A¹kÀX¿?j`|?VjLIb?oË?¹P?aDЅP@?F |ý!J#8,»fdúë Ô §=Üəß)u¡	+I ·I\pãá I'Ë &¸á\U_sÐa8m8ÿ#üÀ#ðLm0U[tÇWV 
+© 2u_cF?Â3#S,볺?3M®»?ñ8ã µ2>®,²m4s;3ú9/?US¨Ö$é(˟?ì*̏åø?U¼³ܞ¬åýeÚokC?íÿÇP?8,s?O/WÖf°ÿMª8\s:?`sGt?ôvëQ##Ðu?höq,±^|	á®bN%?ª?îÃ8®ýï?j~a¿K?ٺ$?]P-åÇ ð"°)åÇ<á!?øð>?V]3?DÒ.?Br¬?ÇçVq\k¬bï¨Á±òÏ D?Ã?U¼Ó:®a)c¢@Éñ`ÉÎ1%
+©	A c=RÃx×B[a¥,2¬¯HVûDü?£Ë;V?À z?8åþU f·ÙàNù°Ø!£æ*WYs­?P©°é{,>' È p~?C	pb^í?VÃ Vßà%µðlzpP ¡«	p~ ~`ö I_þÝùöÑ0,Hݭ_?Ț¨?Ø?  ÀÄÆ?DȾÅÐ,ÿo?úú`î[µtQM ø½«ÈÜ?0É éx@L?ÒÃv Psʍ?Hå Wª׀~S×Z U\+~ ÚÊØ D=à%ËL}ih՘?R8Ҹ?^á?°wHw=À^òÉI¼î^µ?`?V?ºø?ëÄ÷h C
+© 6ü2cÎ	fh?,Æ 6I A _ jûx | P?yeqnö a8æ?GaÇfóӠ_:qm
+©	pP?8RCªEô]?(hÄaWB[$Ûæãôæ&BïT?ÑÇ?)`¦BóëâõX¤z)Ó?çñ?¬U.s´?ô.ï?®²ä¹ÁòYÍE6ôwµæ&nÕ?ÎXì?WôÈú?nڻÕDÛXúæëSÔ]?F¦֡??ó?ùâ?á83ÞhÆ;ìnܖb?ê/º¥B?¨Tv èH?u¡"ϛrICó*@¡?~êú?8Aò	¢?Z?ÅXÑ?cÒ먧rõ)¦Õ?P?ËÞÃ
+©	paÓÔUZo?ːbC!õ¼?ü¬Pßö¨§y@¸!ªiÿ¤`êâmdȯu X#A¸¦Q±@?!3*@Éñ?%9¢É?ZN½F½õ|ù?çì å?$EÖ G¦?ZÃ?-<Quîµ9º2ܥU ïÎb?Æ'pzw§;Þ51[H¸sóÐv|§\RÐñBÍ?L?FóJÈ÷;H/­¤é;&	"?R±n?·[2¦?$¯ÞNkxýµ?gÁ%m5&@ð?´[ϗ̥ )2UR.± ÊDn æ͂7撑iBOÛØÕVPCêí¾$w§o_blü ê?õ¡õ?K~?qÿ ·?ãô8à ·Z#¨HìÆ?kGJÏF	Fì
+©	cJðb+o?Pô?`ak ]©"ï?FáHè+ 48¼P£	`?@L	YȭÂ ú? ò?pö?0ù?'>?0Ö0Äx%æ$8 8+9#?¹»A?f??0L
+©	q!p1V
+© 2Ë*UXa?Ub øգô?T^?VÓyÐÃ沞m1ðb¡ pl¦RðyÖßï?[HÊ?æ?EÑ[UP®È÷ `¾?ÁK2¿Gg¥ꠤ(ÈBXÍf L1ÅMZ?جҞþi/G?ý)ØãñÇ1ã8?@Eçú¢<?|0´Cp·â>u?ˀ¦ĀF)ð)µ?¹$=}@n7"<?Bû	w¥öG¡dÝ?ð,bS§N𤆰ÔÌÂJ/ñ¨¬̤p{q?Z?TKd?am=F?x?kj#Á?þúV؈®ãôbWnÎ?K @ñ ?ØøÁm ìDE{4"Í×?LV%a?$Ü4çø¤ðú?òcì¨bnÐWBV
+©	EîaÇUku?î?U¶`© QVp_?0  l5N??8 £ö?°ÕÔP¦=P <îÔWI½PCp?¸ì؀¤MW¦ å æ?ôPä x?¯MPÊF?§­?Ú~G?÷M񓅺|ÊLbIrËQ?¢@!ը¶·؀ 4ó æ|?\¤þv5?éç£P?®(οdx#?áÜ U¼%VU§ÿ6Ìe?,Ç9!E?*µ ÛýìãTv2
+©	RôPF"&Oi?ø?Ö,mUɽù¨ªJ?mâëjÌbw?¢já?88È
+©	HkôPó?Põ?PaÐ;[8F
+©	0£0L=ßmN?!Í?³?ź?r³ =±SüȖ×6Û38?Ø ÇÍ ÝüÆÃ0@M× ¾Æ	ÁóV?z?cè?Ãë xïr?æAÌPîuÏw¾CbÉbl?Ã1ÄÊm¹?Þ%o¼?Þ.#?°6û9§æUUÇ?èF®oÖê??Kì×Dd?9`wæEӏÔ?ç¿Rd?ÈUfAÛü¡c ü?Ӌz9?¦âPä\<þPå¢ A%¡À®¥(Á´?8#ó(_®|¡Ù'
+©	3e1áxo»c×hòÆhPx?I¦y?ª¬ ëì:~"_3،¡<Pèª8ã?r³û?þ=õXt[äbÎÁ çã?¿ô`?Cúñ?2-ä5Õt?ÿÅ 0©..ÿEχ9À©Þû³ÞG)?I]åi.V?¹ûg?þ2û)ºút·ÅÛù3v=Áú{^àb bEæ?[X}¯à0n, ? ÁCe ái
+©	Gb§?WRÂ?VÙðь?7LDKÕpÔ	??üãé-QP?NÓê)ðã?6?bZvU?Kû<	F	@ªhä Ø?ö?z!ÖÜ^àBÛKðÖÖ&q	¬óhãOñâÛ?æûoÒ?'µ¡/<l³ºo`õ'/¤8ûW^¦è°, c%?ªÇ[øTQIì5¢g?*Nù? Nl>¶:Ö"
+©	hHYy	a&fSØ|J4	«_ʲ¯	 Ñٹ´§òÿÏ?ª`^??¬´oPF%	fy«¼Õ?	9¥8	;Ï8?°`pN#Õ?ìæ@ç?°õ A$&z?ùǠç?ð?J??ó¼w͠¯¶?.½¦û&¶òc2o¿
+©	hkrêH`a'>?óa^38ÆòlbÃ!ðWÂSæSM Æ̥Ù`aáE?·14ƈ'5ö&ò©?ðU½ §
+©	tZ>Vq!åCh¦&©A»dáe?Ts:ë$tìô?§DéP?å­fů(#I?yx<wèñÿû&7¿JªÏý54?ǿr¶Åñ	ҐØ?ótU 3ºþïm3Ð`iP?°¢åV?d¹gc¾6 @¬lx?eÐÿӰ >x?a/·̇Ý?m8ÂÌaÆ`­ I6Ö?nCyW"^³½3×w(ÊÎ
+©	F?trpv<NýY.1@ÆÞ?ÇÞ?Í\ÑÇJÃ??wLCô(?ε0|?ÁS?Póì{RÚL?°9Ágv¯ þÙ䬂p?Rk õh¾'æ$8dÏñ7ð8k2ldô_ÇE ?dâì?8N{?ñ¼éĠÐÒr%Uøà¾o³8g?{Mã= 8]?{bXng?Ú3ë?»é	6 P |{`{?o?~? b?/?g {:墆K?ëü?@{?p p p ç?Àç?àç?{ @^ ð[ò¿À {?@ B¿@0ñ+ð>+"¿?|{	`~{
+©	4JYJìèPeƳ7÷zɘø9?V³ºÑ0+Oÿ? A ø{ޅºp{? \?ɷ?ù·?©·?y·?=èP£	¢UVC;®­»î 
+© 9¯mþ.0¡jWç* è´ãðÌ âÒwbb·«?¹Ũª|W"®y?^x[?֫??°ÒÙ?{Èòm8ÊUZèÕ1?ËecTm~?±?±«B¢l£p?5O?⹃?P¶A xÝÒ/bûr^gñÛ?o? çBõ5XvЅbæÓÝñǂ;-FL? æ?'ëmªÂÈWðC°<bTóô·SrEa:q¸­?~[?j£}3"§>Ðý`¸5¢(IîpPQÿ?A%£µî"¡©«?7WìºT:Ӡ?]?¹çæz¥Á*obWrj;À?Սc`»`?þb`NÓ<â½[?9óëýgæ+xöa×Pª/rù?±f_?Z?V?f?®ÌFÓ?ݔ0¥
+©	pLUL	!g
+© 6ÿ?6£lհ0§?DÊTZ?# ?CߋXì?³n]?ÓWR>?ìÞ)³c?ÿg±3*ú7t¡?Ô÷`V 1?7xSâ'÷þ÷ñ\tæ?æ³b՜	]mø%/k?¹?d8A?û?Àaþä<?jÏÓV:°ã?f?ûÛ?*)?AZ$Ä Ñř?ލ^ä?Ø 0aL²yQ?öztAá ?$â+Ï Ì?V¥UPI¶yZ¶(?ûe5÷ F ¡Ç åX?g?Y¶÷O4=ú´S*?`?÷ÔA믃°äâ&	߷råùî)?5dñAgpó?°/Ø|AªöF?ÜZ?K9]#yìÆþëêÿ?Kk+Àã?'
+© 4?CvLþ§Dq6 háՒH?¿?X7ݚ1 ?=?p#?RT Ô>ªM?}})ûö¸r7aâÕÀ꼍¼/jhá*ãõCoRk?«ì8ûù8õ8éw]?|Ӄہ?A±Ëd³?aë Bª?ËZ ¦@ 3iº¥?T?§r3×4,?[ø·Ζ¹IN )w!qM`am?Éc3 GÀä?õ?eò݆°Â?ïºøL®?îåö Wy?¥Üø³¬¸¼D?%?"ËÃ?Óc·ċrÉ
+©	hUk5N?EÖ.»~#w%ÃÐEÄ?µûg Éeõ·rþ?@ø½s?3â6¯¢þUr?ú?°÷¥?Ñ"§c~XTèOÐ.?¯¬oÍk`yå@{ª½´è;ºÜ `®À?ÓW`AW ?ÞàäUÇVþyuy¹ 'þlû?p ´bk+?%y¶Ö&?òç?§̹¼Ø?ßð£Kk?"k? ù» @ª V?a««MϪ÷K<AÏ\>ÁÐÈ`(Á<¥`?àæXÑlȬVVþ$ÞïO?à£l]YÐÆûÑm Ò?8C*?ӸàúÆ*"/0ã?VÓ{Æ?91?1\fè#׻²¡Ã5_9Á
+© 5îrPgÊqxܩ?z?¿RØ$	çp98¢ PNyËðÂ闕/¶X Á ɪĹ?`	6òlÀÑ ó5?A±iT4¹VÜ;!5³ûÆÕI! 3Þ?7ô»dî:{O1î³6ì¿GêE |PÄÅëÿ4?5t'£õë§8?ùðVúuî? ó ó?äs{ {s5s´á[Gµpo0E`	0ø?#²38cw?ãèZ* o$Qy?pØ?°ÄpŊ®hp"¡?o1âäòûå÷ug CÏ* ÷ýÕU,0PtBá°񊬊K?Öâqi?}8ÂÒ:?.ú?pÃ?èºl/?nÊ>YÅt×?]?½P?¶þëV}?!
+©	hìª0r#x ï?ç	uÑÏ Ò?Æ&rEf?dùÞûǾ
+©	qðjðægz ÷?ÇÕ?þøõmFO<´	º¦ ¸ì Ȋ§1¸ò?|}£%¡b?³¥¡Û&	õúzb¦&4Àúç¾vUUîâ7$xِFù]Áp¦?åæh,?µHª?{má?]/½U?tVÆ jw¤"×ðöU`	 Öäq?'?yN'1`t/28?tïX-?çám?à9Æi¢Rµ@PµN µÕ+«Ԣ?rA ?²J²ëmM?߾Ë2â ã/õj ú?¬Rh.örÍß?{eM àè~Ñùÿ1²-ÆÃ/ó=FÄ?H?:Vfµ@b?Ma?oFCÊ ÂÂa¾	`«®b°ÂM
+©	PL?¶q Qpp_?(x?ðö#üw?V?¹?å9øט8??±«B¬ ՌZp [
+©	FÓbWüOw^×ëeC6 ê?ba;\	¯È#Cõ`?ÓT2ûû¯Ρò	\~0©ÝU$ÎÿP Å?´âúßú±bX#/J?ýô-ëm9Æy1iÀÍc0?¡Æ%?5Æ	e*«?70~?©MrǢbÜàZ?G?&
+© 9¤9bV?²5?i¯¥s?¢©MxbUõ?¼?Ýx?æÓyXь¥æs ¤UÁ")mO:b¡;(ɧT0ø XÈì	,`v	#åÁ¤?5¬lÛeRWÙÕ;y²¡¯ÇP¤BË`׌§¸:DÜ `i¾·?ªÖ?¢µõۢÞ Ç?`¥f?Ë9ayç{?Ú?îêcZ?È Þñ ¥?²J?= Du3ؖ¶×bl0?5õ"uä?ë8Ä\q?C3y-.yу/XÈÊ"wYZÓ8Ú7:?çîÖ ¤"?êڶ?ïCk¯VCªz?[Y1±S@ Ymz±,EXÇ?`¶Ñ}$?wµ°¢ô]?·h*?81[N
+© 2ËSdv1ï¶Þè,&+ÿü¡ª=ñZñbÚ?709ā?ê#?àPlv|s?ت_H* v?²Ó8?A ؇$@A?g¹B4?Ð?9lme9R<Ͱåõ?ÑT÷. °ÏWðp.ÅF~¶Xk*Êç6?ghÀP?$?¦ÓÁå?H0#´{© 8,·mv'0?Ó׋?D??y^?Hàl׈?	Rèâ÷[?#¦?pÄʤ§ð«Í)=ᒛ`	¡T,Ä8 j;]?b,?ÁjA*s?QS	?ÄÂ𾆳0WØÿ£ñ8ÀàØ?Lw,T?6é?b^ä	5+w]ö 5¤àÆb§ðt[Ù?T(yíu¦A>u¿ÝUÍ0 ï´Äè¹PÄyT
+©	tHçuÏO?bWrVIÿ¦A?ùkÏÐ?@( p¿N°qUSöbÜõ?dHÂ?pø?9`x xQj?Üs¨mõ}¤
+© AȡqÃ0A%Æ ª?oÇßN)0ڌM{àV?Nñ?.¿*%ưÎ ÛÞ?þ?æy b+§>URºâ>
+©	FÒÃjNtQa#ë~{{ÛU~9Uǎkö6á/áTÄÄnÔpÑH?ðDá?¡%?ð]3C?¥¡6,¤xÇ< "j [0¨8²?Ý0ºΟ¤wÊXÑ#??w rQ¢"wU_Â?âÇýt~F%a?ðN×gx3ÚÔ2®9îw¨ªø܊A³yé?¦	®.?wfC?P ?"?ýÃ?væXڙ`< 0aó?³`ªûÚIrGWò­è­Âxs[?
+© 2ËcRW?Úbl?çÀÑ+9 `./w"®»¦Ԑlt?QSA%Âü/®uç׹U]T8ã&4ã!?«¹ã/:ÀÖîæÓ?VLEє¶X÷õæȯ:«?ÙaǕí=¬#%å¹V&@V`Àbª??ñ;á??ìoÞZђ?4ÇrLAj9Æ&ÃâûÕ_Á?d8l=õ?-`Ä?2ÿבZ 6ç3ÁTÓ`¦?3=ñÇ
+©	PPQ~?1_0Âoqµ¡©ÐãؠT#8@ò?.Åý?yiPãYA_pÉ U@óéJ ]C DW?æC X;â?°0Å(ª3ڼÈ6WE Â ¬`A[`Îå	^Ôë	çF  菲@ P\wceֹ¢?¨Ӏ?eç?8?{óÜÐA@©	`¨>/»?Ģ? È?$2Ù?ŕù ç+?x  áSpÐə>¥&ïÓ ó2۾? }íÝÍ?$´ KVÉóEX?p¤|Fi?Õ	0AÇ$ yhÀæC§~è?BÂî1g?=ÇéõÇ? çêǳ8K+?y§8ö TÌÖé é?[ô¹¥¨?ðá
+©	DåU^#Wèp·WP.?ëÓác¤UPT??{?s/´J?wÄ?×]?æ)Υ}¹R,Fɔ(qòÉ?ØÂd8 ?$Up8:@?¿4P?qLJ÷$?HLLö;?KS9§?S?	hk?!iÀÆa?pAÃáX0¥Ub½M>û,ñ¦PcSÓ{ý?°UO|¹YEЗ¹?Câå?,A÷˂U½?ów¶	ýQG)Èì!nä`çÛe¨ÎZ?A?¬ç-,?QAï˃WÚ7Uïb²ø¤êö	Ψk`ñÞAjPOh?¢ú­= `áá?ÅU}Rå^î#£}QōWA%bd2??¯«tJ»³7*ñZ ??
+©	m§m?rÜ?AÓokaÆð^þ"À÷Zê?.] íö±ý´ýÜ??{À3SmNPB?2óÔÿNUýjïýað»}×\	´üÓo?ôÀàÔ?%§®?év0m0Öì0A?%	?kOðã?%Ñ?å?0ÂFPõÀáXÌ?83¶?êñm¢ã?0ÚNP¡Ɯ aucyP
+© 2ÜcÈZBªq} £ÈìÈóh?%`·Ãæ®áFUp(öÓû¯9úǧØF³§^`r-/½Uû§iõV	w¯ÀàÉPã ^ÐP¢}­ôc{鐯g¼&M ?HqÐ_ qm?Á@÷·Õ2?m7VÏã@ ¬$?QÔ?Z ûöîÆ÷?Ö&¶ßÉ0 ;k:
+©	dm?eYn¦ É?ÈÄ3٣äÕ?#8\?Kl"ÉN¤÷pÚ ©Õ?#%?övÀ?ð Å Xa%?tÒJß9ÀAûÎX Ã	Ç
+© 4oEaiC=Cèn?U3?Qq¿dÞøaÎÛWÒLÄMÿ?`ÄÑ <?éM²ú)ûÕ^¶$wLLp¡J?ԀºÔ !B@`þ?K/5$]½Î$Eוr(#<7½Фsæ?ф6¤þ·kǷæ¾P?q?Ë!b?uÈV?û09À«YU\À¯m9`ÑPOsìF	ó«쎃Û?ÓÛälf=³ëA])î1Û{V×=òàù?±#8V!b?얭±öTê^?u:T0© 5¸?Ӓ <?B?­A=w	qj.>ý®° ñ ?$s u?ÿc?¾?DB e¸?u:)pØÈW"iÔ5¡-ü?*ë+@ã?VÓþ?.Ò'0[ éÆ`
+© 4oEaiC>%Ê ˅?Z?ì{{¿?!Ò?é+¦	B¤]V?ðÇ?ÅHpAïqàÇWЖ)åH?è#ǹuaÈ]òæ*÷Å?³,³Û-vq??¹h$¯\/¡ ªn].?)ð2á«~m%ÐþÞOº½Ës[_?Z!T1[pº÷c&f?$¦r¥-·@TácGÙZ?«!%Z?öâ"??8hPmß{ÚWWä?èQ??c=¶%?Øìb?yÚ8Z?â)æ9.¼?p?}9ƘÃ?UÆcÛJgí^bɻxìçÁÍï?Ǯ?a!%?ôЇr.Ö º¨7?èZÎ3ÆDÃ÷PBÞû?xVGºóG#×?͈rHVQ¿ hµ{v?T¬?
+©	hìuX
+©	L\0Â Fé9$8ØA^?ÉÕ)ÚçQl¯?ÊjsHàPe?T8ª4âBCx¬~!PA?Ó%0¤1ÀA?DûÙðøql$ ó?Ï?WJîmTûjðæ}NdȪíT*?à@ùµ¿QG$ õ?£@ø?8?sTlú?.»?u?,¾ñN-°Ø
+©	FM B0 ¤n2@כ?e®u?ÅVPNu?TԶ Õ7ÓpÕ öm>§
+©	D~m2Læ]lãØY?CeUp{sWEÑdÕh,?§?&Ѓ?v*?¿÷WÈs9ö&S?záÐ~"?Aÿ?Ù?ÿ{1¯jZDî5ÇN?$é?.Wׁ÷E?'?JbÆ&m¼,þV?)m?ø?*7?÷ÜlX¤A<_¼¿@ë??'Ə?öRoâw?¡/CFq?À؂Jn%	J?¬1^ÅØ#Q(k`WèÖû¯mcXÚÆ\V.9/ m4 0 m;?øµÇZ?Ç?Q1ðXZ?{	ANè?ªúA
+© 2?ChL M¨î;À?ñZâ6±EХ	²±¶ÐÝý(Ç+Í'øº	2â&;{X¶?ë,¬ÏܷID?ñ?p ?¤	&3?R­U	j¢?-l¶?IUT<­(ä!âgI¢Y?.1w?ÌD?èkÚg?Ý â$Ô{v?Zöô-¹Z nQ@;띂0Æg? êÏ"ª/	 a5 pþ Æ?ZÅñ0ɝ¢?Úiòxk>MA?9/r6Õ}"?
+© 5î	UH?{2²Îu êxìwV³x$?O:äP?Çòv¾*þê}ÐÇÄ?6ð÷©ý«?Ӝ®ÎZ?	§r (`èPõÂã(!1A ZöA *CÅg?O6%^í)!Î?µXì¦>§	ivO6qv8ÁBøV#jm[ü¤gð/å FÓÐzîbcº?:V?³?³6A?ô?­ö]Çd]yP§1³*¸,8ùjYåؗ$R! =?¾XR¾¸6%ҝ« A ë+Â?â? ÷¯)?æ2é#?Ù,?JÂ?q%\ÀçTKp¸îÔr¯?<5boþ?¨ªüD]gŉÊ$¦Ð	°?@AUÑbÂۢªöt&&¥¡D)?UV%+?Ä7(Â 3r
+© 2P1?U'U?0(Þ^Z?ÉaÄ7]?Àv".Zú(ÖñE(ÈV|?Ì?æَÉP?Ç+åò[¤ UU4aç@ÂË?ÅARÞ? 7ùoÿò?Vq$¨ÔYL ;UF¡SJf3bc8Ð?o²¹?@Í
+© 5î	UH!$9Gî?´=?c?ÌðZ?m/#ão?S%?Ü+?¼C?ÇËa&5îh?·?6&喩?%ó?|ҘÔj?©¼MÇ?Hk/uvü±w,rÊõZ尣?`_)á[Ãîҁ Ypðº§XÁ^9¦'	¡S]?PñÝ{4°Råъ«Ä]'c?âb þÅC©f?\?Ü͈¥?gÄ?éàç~fÒ]?ÐzîbfúT=Ý
+©	AÚm1VUÕ×ÅdXÑ\?ï¢i?ݬÁÚzðîgèÖ ÐkíÉ?îg?¾?þûÓ?ùæP?ªHAÚ`?¦aØFrۼe?Él 	Pñ? ô?7« bù/²ËQH?ò
+©	0©ÕxEɁk«v&å¥ WI^ü±Ûì«?ÑMa }JÌ?îT?mWµ?ºÀ?APMWZP{õ è?àè?àé?ðA?ô?8?]
+©	cYg?êb`Nÿ	`ª?d1"?l	p
+©	kƴPaJ@aåk?WKˌórÕ?ÅßN%~óÌ?F?»Ägñ\
+©	c6Uazm?
+©	c6AZø¼o
+© 58hl?w ?5Y	<÷?b4´ e¥	K	^ñ)PApÂ¾ôPA|sߖiº Â?ðnc?"[øM1 ÈPK ?Àó?0b y?ö??^
+©	XkaU	ec÷ºÁÇ )¨??×J{P?ɜØì[?PµP	%F$å:>øȯ®¯&?²r·Åbøm0PXÄï¬(s©,0Y©
+©	aKZ"S"5 ï¡A´?±m2 ,N«U?uZÎ"­9k5Z?ëç@ôÆ?t?`öõ§ҋ§Øðõ m7??åÇ<ë?ÂÜgȕÁ£ßÊÕ3Ã C zNPA?jîoЂ
+© 6\bZð7LHW4bmz×e?&úb	¯?¹ír7ì/¤G¢É:ÁmZ?h\;+rÄaê1+??p儣$ Ny@AÎÔ6AvuhÊ_	5U$0Âx(Ô%H?o¸?Y
+©	peõs±HÓñK?äOüúa؁0e,ªɌXìó?ö 4ÒUsT1­´2èђb\ñNâ&¶ÀÈ-ûlb/?ªy?qÌÈör$æCٝ<(s,±?°׍?υå?Ëà× ^¥?ås.ot4Wqû9GV?­w?Z+?`ù?Ä?q?{?p{ óà?o?0õ?ÄÀ?Ì3?@LA`ôMDXâw.u?,&Û" Û- tnÀ*yÂð·å@a¡lg?U¶òåWc?àÖ;xBæ?þ/øleUÔÖé۳?wVû»y£CCWå[ºë û	Nÿ@ÿ)8õbãLQF&rª}.Uÿ?bç"ԁ?@öû?ñ
+©	UHl X±~LðÃ ©=¾S5ª!m
+© Ce?8Èi.3¶¡GÔGP£ê<ú?F?ò©^ÞHɍ?PA#<úÂô¤p©û| H»hæE?uÏ?P }³±ºc87©T:Ûà?i1?d]¼T±N :öÑ?(í$:8õp¥m=d?<à/A­bÁ}m=Ê ëD\àþ?uæFÓ?d Tµ/°,%pJEC~/ óUhkæÓ/'0/7?B'z·Ê҉OE#ËÇÀædí?ñ\ 6Hè|-?Z?#҅^xÑrkè®Rv2?D?_x{%V?e¡ìX®?'1m?Ï5w>?0f?ҍ¡ä_YõX|A?>bk̏
+©	lÆKcK5ÿ­7f??Z?r{lü?8?sá7"?D@©±1mm0ò?RkmQäÀ?Pô¹ྡྷ§?s¾¶]J0Npká?ã9wÛk¾ñre?磐÷?ä2-Èñ:Pù?ùÈÀÇ@¥K46?¢£?ÉÑQ¬h«»ì?X+?Té\òøT;˙'?±tõ ?nr^ÒÉ=¿ 2§?ì??WҽÎ?Ç{ù? õ©þæwñöWä^Brd pjàA0?v?Ì7æJ7s(B¯?~hÛg?L?,äژìôæ&Zc?a?ÀÁ?é²ü?(äZóPõÿڧÆáHìMRÉ?é¬ΙG¶¾Qþ§?¢VÌ?¡¬_?;¢ÒvC;³_¯É
+© 0©ÈWfÐEXØ÷­2bâw(?J w« è"¿ý?Äz;=ñ÷ÑoÉöӔü®üòô9biJ£¼Hü*?ðµ@?? ᧥rWÓßT?ºó?OyÙåéyZ]?M?<ourfZ å¡;Î!´JèÃå?z*²$Q8³?ækèDÚ?bÖÓ?ðoJ ²Y§ä?&-i<?WêÔa?Ê;&Qï	1ï	r·ÁGP?ß ;ÌñA 4tÀÊákªBøê+U@ÝNz:dC3?"ûCôÿ¸ %/ã§ C³8?ݶÇmÀÙx oO8°búò1m níBc·Å?Í ê?#Dr¼?Yk û?6Ӧék9 agÍÚzì
+©	WYòbÉ?0bRJñ¯ƦWÒ?åÉ ªeòé&ò\·Pan-¹?eѧê̂Ã xìP?ß 0?|`ûoîÏî?ß-uºê:ǟÝâaÈìâ Õrü`p?=?T?¬.f?á۪G¿åñ۶?£ÃPåðüJǝ?aªrÞ%´ Û?\a}ôe<¿?G`ºtO?pÃ]?ªA?/_ö@Èvo?~£	E??î)K B?t± ?×`aùa(\t	¡?âA\?]?M×u°@ttû¨*v÷M cI
+©	Ta9PN?^8¾ÐÕ}5«²±HðbJ¿à Ã?}¶ ©Èå«	T£S{?î°pÈÈ?xÇö{5ùe}?Á®~¢Hèk¾Úç?Ñ\?°L?))?÷G?eüåbÂ÷@¥?¹XsL ÑÑ=%Û ?6HÄÉ8öT8Ü¥=ÿÁ?ST?a±¯?<H~h܌vòÛ?Æ)à§?³l méîV?Ѥ®Y´Lâ;"ö¬=Џ[	^¦?[¥џñV±1ÑÐʶ¶ÁV;A²SwÜ|?5 t£Å?¸Æä Aj?$ Syc?´ 8L YC/Of¶UÔg?8L?öeZ8BUÎ?ô?fV&°klô Å?ã?]¸åyöa=¸%y2y?ðo
+© 8LK:ï2øìT=©	/	d7a?[JÊÝ µÃ}aČXGÀ9?ce¡?èÆT5Ñãq?Á )ë!ìçU?I¤PC Qϳ?p"±,w?e?M?)¶e?ODŌùæ&Md-?säÿb¡aKçDè²Ça AÍ?b+LbW¼ҏíP|Áo_ìP?á6ð~oxT??®??B yÝìhá>J±K?+۝(B?2¾Ê?ݤ ?¡·ç?Hì"y~+,§þE?óâ?§ËaÌîZ?_3/ÜÊkÞ?´ÀÚè9ҁ[®ï]?¼'xÍ?áÛî?@PE5'rü£ÁJ9øbé^Ås?/Ìõö+1Æ6?õ?ñSæ¡ëîîz?õb2E0xџÌ?
+©	cN?e8àa¥·҉¥¤ã`¥?1Çb©åAÅìºbòÝÇ_ ç~gدj?A%ù`~é?	p©5?,Ã?/?ȧ¾ߛ	;(9^\åº ø<І³?£Qi(åØ?ìÓ/°dÁiNÂ?kj&?%´Aþ?#8ðb
+©	7b?ÅUÙFD?äÿ ùNbev2˗áÇ	¤~åüu҂`{ÿl?{(8y¤ÙLɊbg ÒÀ^T?bGY|¹f&P?dC8 æÀ誷ÈÅ	fÓb+$Tò_5Çä<?ÿ-(àñé@?¾Nl®XÀ÷?w AB?ßYòî?Êo'éF´9?èZk´ºA?IxÇ?óv(= $M¼K9Æ !Ó~1^¢W®À=NV®é~h?(B?D¨x×Øt?ï!àA"?q?âó«!Æb`Ħ+¤?'?%¥ AÈ	@
+©	0P4þ?dP҂ ·÷Ú ª?'?÷IÏ?¾ãøíÎ6#8`Ò3=
+©	Hªø6»5Hs8,¡?þ<$×ùÐÂč(«ª¡! Äs¾ÌC|§Àª-( ©bj£ìSä?H²°ǌPAfɢ|?ÉZc?ҍ?h»?C}ï	tí?$¾NÑq ¸lðÁ Z\ü<þڂ WNÃÀôYò¿Õycó#n?s]BÅ?þÞXÕ9 ä?hÕü«qXÕùá^I²Ý?¾Tô P V?xÃÀ|¼+¸ °AW?r  ©3Æ	h´?=Ù*%)6ò
+©	XCÂUÖ!E¦üa?a?}	CòZ?Ãw1^gVT|ñÉ?Î?g½wÛ.Ï ¶÷bhî:®^2az[Ùb?¼u$?Ôîð"«/®íw& ý²°?¡)ê¡??Zö`p?K&?^åÅÝFgÀ؁?üÐA3úJ?¸H$Kbm(îl]¼iµ3ƺrg õªÓ&q¡FÔc8ez?4¦dAww[?êú
+© 6?d@UVKs?ê¶2@Ã0Ä;Ã/±k%µ}¦?ýJÊkP@£´דÀDM _û1a 2¬?1o?[Jú0?kba<(ä?WæÍQ·Åd6,?ø͕ÊP؀H±ǚÈéfð?+íá7ê?nÄ߃Ѻ搛îl1Rû?L39ãï?ð¯Y?äH7é~+3cêµ3Æ?,ai*=ÜP?q?q´?¢Ç\O?`¥ fTh!Û`u?Ì`?ëQh%ڻÌX	n?Ãȡ¶Î ãÈM^,?gr?Ä?$£ó?gæ¶ÀÕC~ ÓbͿ¥-BeúÕ?CeU?EÄ?b¹?(j,Ì?OÝAFÏ-(꘯	¡­	@#Xì?5ä>¸#Äw
+© 6?dJKNl?mÏç?wŐP?QV¯©?_|ô µ8?c	Oƕ&?aÙXiH}(Ðø쒿Æ?޽Ífq?qn?҅X5¡&PÕCTàÃU"×S8k	¤- I°È?­?r ¨)°ÒXÀ bu@ÔÀІ?0¦,Ԑ9Íò=ââÅ?;"â?i+	QVÒÝ??38¥@^_q¸ªxì?ü¥Jcbc8x?HßlP¾?1Vۑ«)ëW颤I	,?Wv?[®?ülï f¯V®ànÂ=óöx?&slΒ*P´³$Nî?×fÔálü³& ÓHã¹a%O a?wì#8(?MkÅ?
+©	Hkìbl%Ca
+©	eÉ#B߃Z?ØWæi¡?¿%#|ÍM=ûP¼§@!òZ?JÏ?ɬØ#®?¹Q?rß?Ã8°ú?wbw* ¤ ?s¹Ï?SXЂ¶À׃V&-yþ ¤ ÑUÃé?¸à~H0Ayéµ?EH/¡8â x?H>Ní(pRô2ö´?ig?ÚDñ"°]t³8?`N=óqä<§îP¤t ~àm¬ҁ´?<£Í/¶ iè·"SX]PUPçXÏ?­?Ñ|?l齣á¦Ï?Ñ[	{v3ËÖ3ß??ÚÔá\?PPP׊§À?ùRgPGä|Ç?-Ùb2X¬?KÊp©xà¤t· ï$ñkRá?Jÿ ¨þ?8@ÄTñj?ã¹P?A\u
+© 6?dF?hª¯3äLàQHú| ¨h¯áÏ 9/'È½³8?bÂ×ÐAªq?H>ÞM L0A ?ða&å<wôáZ?NUñURɂ¯?5?bàççg*-WabnÎ ɩß'*õ 1^؀£*ú¯â ííùì֟ö qºÇÿ\Ñw%|xØ$ ½dì"Û?6-9r)~=óî3À?ÇPæǕ?bQiCìv Ab?ny?`
+©	XCä0¼1©8Hq\ñâàN2ñAÍ]{"aա`ËÌ03ø® K>ÀÖxC	BßP?^ 8êáâ`»ð;bt ì¿>Ãö?&wFùã¶?XÅ?¼´*ðØB&%??òàÙ?"?"?$Æòshv#*?ñÒd±N?º)ÁSh)?gL?Æ{֢"`TÏô\¡?ýÌÉ?h|?jAÁSM?«Hw·ú(ÂvQ?Æv&ý¸;$§Ë ô£ÿ·ó·­Nhª?v0ą8ÀyÒ?7V,CZ?eW1?IAGЗÀtÖ¥kÓ=?ÚÏ?C,¿RP??HçZ?¯]?i"­>
+©	A­
+©	cÑH0^m>w&R?;ð?ï 2ú? §·Ã?÷âúO«?V? ¨òvD?AxGa?¤W±?ÊCL?ä#ï6?oåÌísm҃3m;e|©dÇ]nn ?¨?n?²²ÐÅõ:WÞÿ ¯?eç?Scræ?2連¢??7ß3:`w-ýÂ*Öi,Wåk)g±\FӃÒ,[q´¬Xì5ý-`x~rɲûl/ Fò&?OH?±Êa\$åú^	?P÷þ_ʃh]$¨7pMԠæi?äs<f?m<~=?'3í?£fp¯w¬HUðN?°?°¤Þ?£ÒßêG,HàP9êS¦ÓÆrýä)¢A}Ïg¶鴑i?xm?f&RÉ g¡	£
+©	C eU?sôK7`v?!(ÅÚ ù	@¥Ê×b҂fÙ"?*k(³X1¾"1<?OõOyPä A(s;3³;9Ú#ì#ßԤN?Bÿ³?äø&1ÅÖXð_Ý;wR3Y¡µV#82ê dÍ?m¥{?uÚVïb/Æ4q !Î䲸F	Y°d?j cÆØE?ÄB ®^>ÓO ]ù+M FS¤B¼Ùj?'M
+© 6?d@UVZ?3yx´ù'Ï?ý:Uí7?K9¢Ù1«]Æ?bÄdbh~ÉéñE? ´%ò,GíUSqãßT7P?®µ}4 çµ  1SFÉ~T3HU¡¦ºWن}У?ý?u«8ÕӅh#ç%h¶\&?5ɂ4·XÚî$?S®à,m?úÖ ??dÆq?BÕ×Բ͓¯¾	qr\*/ҁV	!%ÔÚúîÜ? ®yZ­{IVòVék(Âdg ¢µU¬6
+© 6?dB[¯Z¯3ԃ4³?sX,L)
+©	or5Ä BÈì1·U?µô8?R?m<ñ¡Ð÷åh¸?NVPD1?ô¿È?¡K+â>ãÒÝx9?Ca«pFx¢?/!ì 5?µìe+z|rû²Ýâ I+uqïRm 76?ît͊¼ñͳì?Y öJ?Î0O?Ê1m
+©	F?Z¯HrA*SQÇõh S|p T¿>G?þú?Ô4ÉaE?x#q*|ßÀúU?+ ºے pÂµê?éfò>¢ú?Æq ÷WµáÅñg?Óg¹åùéºD+>?¼¸?îYÝ> Q¸µÉ1¥¼örTeÂwµeÈ0ö{?Þgºõ?m¢@¢õùäy	]֠æ/Û6}eїC8À{X¤õâ1S?(Äý?+?,a?O5mV§dq!PùÏÐú?°õ ?y?^@Î?£
+©	w)ùhôK¡bQ(?+®²±?wCaOôàú?fQVv?|¡,)A??×3Õ?)	èPN n Þgl¨»¡C=Y­ãP?®m2êÙ?¼?ÄȁV0QkAB,³fdÃӸGNÞ#µ??[qzÝ5fK?Eï4ÊçëìðNC"Cj¯wĶÂê2­݊¦Xú¤P ÷«_û͈6xìI*ҋ®ûµC¶xҍðé3ßMõÁ§?Æÿj>4ýs䴅¨Ý7ɵxÍV|?V!Ç	åèʟFX¶!^«®°冢?vÓà?T9}(ÈE¦©­«kÄ	¨¤¹yfâ؃ä¾Áo.·¥m-ݾbn?+ýÐb+«²=§Àoҁ?"
+© AT~8lO2n+Y-pAÛS\LLXÆqxWãóG\¯­O8	Í /"ãsp¤óCÙզ?0ªñÈm0疳70Æ?¶é	`ª?'#ó??¯¥G?6ûC×Çõs9ú¹	UH?n8\C#Í6ÐaàŊ¥{F9|çyâ©?³F?)?'wDÂ"Uàþ<D©´·DàÂ?7¼ô?eH?SJ~lé8ª)ædq ×?0äîlÀ?b§Yôq1ò/uUSë%»j'g*úAqGà񠬼؂<ñ¡J³?(jâP/¿RØÞJ÷?Vð)?îeöò?sák]?Ï?2I1âdÁ«?|¡ɸKaSG)ᩒx Ê?§P?Õ?Gæ?%X؊0¡?m38
+©	n?boÖerH6¼w¥'?Kõ=«¦&?PÄ?á¡'F{XÔLx3Ó?E¡ôþI¼èx?OWÓn?kâë6?á±[}?I^УJNs ¦£?Þ=Á?,?¼Qâû{?à_ ÷àú?ã?@ù?Â7*Ã ¹ É ý46ó%@#HìT¤Ví.¯§Xd?¢DH ?JFÓ+~ç?´9m0Ô?ÜG	fÓ L?î8?2áAµ*Îèòȫ?AÆ%iHìÏ?é?a?:î?WÆþGgÎy½|°åÌ;?
+©	a<gbÉfæz¨86éy?%pÀÒФm1[
+© 7pçU@*3J½hªëë?aQ%Dj¯?à9?p~r 6%奌	:¿öx3?¶&?XÅ?½¬[»?҈Ã蕾ä(¶kýv"]%\u¢x=,K3ý¤øČW¸X9®ï?T)O?8aU?Ì6&|?@$¤$o¶Ón#úú?Ëû#L §ò}(T?I?3ÇÔ=U1¢?]ߢ
+©	pT2ýOG?°¤ú?ñ¨a?,«ö WûÕSó??úÿ&ÓKGyv"ÉÄþ-?qvX 4hU¹?<k¨v-(ªªý³ÎEP?CM?菲yҏ"¯cčða:?UªÎÃU¿éññÛ	§A53=?È?kî5?çiT4$Z²þê 7ÝÈ#¡Ì zï?Á© 7ZªõX?Tý+õCØÿ2.S?õ Ø÷¥î àUQÁR®²¢?}˼pÆ?ÖHk*eÂxeô×hÌ üæDAx«Ȥ³íÕ} '6'æ ñÄ?Oߩr¼¡Hao͊@¨½Û6Ø.?jì46µ¬A|?´uþûr?5?`@¤?Mñ?+u¾¹U¿?9-bdAPe
+©	O¾vT6?D­(JA|T¤q¿ûT4bõUbW?( ÿEX¤SJKf؀¨
+©	nÁbZD¤C­(̡[ ºèw·à©?f 44UY¢҇{I(?¨ògh£?(k xw¯£
+©	Q?úPÜVaH3*«C?Àã]à	" æ!±«Ñ.8éÞï~Ú߹
+©	bkS5E?F¸¯¥X?i¢Ò?C&QLÃÎ? ÃU0[´WÕq?¹Û3»FF	T)á? ²`aR·ªþ(jÜDË"T^<ñoWüÂɣ\[zî 5q텓ooST?UX?b~UU?³¶MùäeUØ\²ÏIàoZ°ÂÉðա,¾º¤?=òûb$醳 ²¾Ø_x9%¡_+?v
+© 8àOo?ðP^áR3ڴ?}-¿/5Qý ,áa¹'ó­­ü}øUÙÑÀÇXÅ?]?züH?8)k	`Ã?H?üA?4§Ag?ýç ÍJþ?C?~ ú­$ p:ßF¿ g¹?bm.B Hu?HP¤ _.¨k?PãÓXAÄx¿ÊP??XÎÒ9(E?æ¸?y?+WE?ÒÄ8r&?Åó?z?s8?ô6·å9ÅUÐ|ÄçÆU`¥®æ s?..ïP?cׂ[òxb2?¯?b?å:?V?bÉQ`çC?zÒ"É?íz:q½XÐA)ê?OÛ嫄Ì?j?»}É?ðîpü¯_Ã}½Hz}Z??lA?< ¦§	ÔvΚ.á̊xÑ?BÃ/¥*3
+©	O/?iDÊÕUÂ0=¼G-e(¤Øk±oô¨µÃbQ?òpN)q ê"5¿ ?}Ü?_é×Æe?gºҀud8ò?xÐ{ ú6 ©Öhþy`p_§çƅ(?Cìþ Ni 7	[Ñ?z¯Hß'?,1_¤tUúm0Ã$¦,?³_ Ã\J~êA?`{+h.ÞÓ?I?`L?ÀLÐÊ?àÞC+ðL_¤ã÷dŅУE?õòxäeЧªôtû.¤?/©­Gt?¡?f?Eö ??@?6Ó|}`{?m7y«« ¥?·òÝ(£ÍÿNÓ×ÅUNýû¯©ÚÜ?M-1<1> ?'Âì(UU¦µ»?ú0{¤vk?Õ?(¢?QǢ|?i
+©	Kèm:g²à9.x?©ödù?~\?V ^y¨÷ (ìQï  ì1P¨üÎ Ã?ōhpÉ?¹ð±r¼¡|cDKÖu:¡T§?GS?¶L&Mx N¥ÈDWðÄ?§Æw pS(Ò[¯_q`x`Õ Qò	QV:ã?¨y?±´?³?a	øzÖ4?PùÙßDÙúzÐÂ1 ÿ ×`֎?·Æ7A«?UäLړaAT!¦Ó3?ÎNqՋÄ̢?[ԿíÄ?تnm5_jý7¼×À̠¦PB E  _?¶W Xßgx¡¦%äA?ß?¶v³Z?ÎxýܓÔ^F¾b`åÀ s@XÑkT?°²I ùâ°Æ
+© 2YEQV?°{?j݌@n?L ?PCe?0PúðP?@ñ  P3Ԛ3Õ? ?*î Ô?#ß9%à}¡\?R(§Î??Pñ÷?(?ޝÅ'\vvprË	­W3ÞXÕ?ÁNÌ ?vïÊO»?a=õH?±«ß?ťUkä·?EV	rëµ֒Z?Oæ֊2|f¤üanâË؈á8ñ PϗÈ/#»Ã?ç?bnÿT3õr¸T7¶|ód@Ú
+©	mxh.rqWƙl˸?A\m5 ؃äCċ|®"­ëÎdQ?Þ?Ô6úE?:¯ õ}ܾ+ó١?aª?C~eÄ:<¦¸4@/½Ûëp@¢˅ÙÏÐ×>A?`ø Ã-¦΅?ªõa P?úHKĨùq ï `s8Ì48ÙتiL­\uX1/?T`ú?^Ã0á
+© 9uåbû¡FÓX?%Ę'$ɏÎ?àػIûãð¥>? ?MÖ"ó¤ ¸ÇCÎûn¤??M§îsç?0ϙ¿O±^	¢\«?ïRU"Ê׷ÙÂÂ?R?òîA´øìz'G酖 Wk4&xMbrf?\ùËTèg?r?CÝÎörÓ?-?1ó2\ü?1ò
+© Rz©fì?E?3òvDðÚCè?aV?¨£&&Q?®U?¦Q?ÃÊu>/áØÎ?aBÎëÖÖ(?x[?ü?ÖÆôw?ÆMØ:#?Æ?Ùlhì°síé ¡È	MQù?DXµ
+© 4?kGf¦ q&æH̎àÂȣµw ·?8¹Ò*ò?þUQû^ØDdÙ/XG?ywi~ æ (ìñõU?Î#nJnAU¾Ø#א Qm·èÕmS&?ºØ#¤̊w)Ѣ(@ö>$?Ýßl9g?ù҅|/À&]~e¡I²Ƅ7P?Ê%?Ó~ogÌØ?»+=͉Áìë3?àP1«ߢ?æ^?Íc¯ª?°Õ5&?WÇ?,&Å0 ?p ¡Ý #Ò!Vªî ÿí0L	Ig?!&PL?` 9?þH n a͡?à?ô?àö?ë~êKឺ}ÙîÞ?m0WÎV?Fg? ¦ª{=LU]ß3¿ bW¬Çk/c?Gæ?'Çîg4
+© 2ËG\®N=Q`XôfØn?ã¤ö>£8`äXªԙP?8Iå?Ô8À٘XÑï 9~P:×Â٘ÚøÜ_ðXcÞHÄx¹ W!>Dυël$Iavq	t`?Pㄗ'Ö0A nýÚL !<g?îTsßT #SUvpõÍÈ#¨ó8½<̊¡Ç/²ÊéV-klô0 Vq?$¶¹.Þ?¼ÇGý¦X-Ì,??Ҋ}?c&\pE?Iù8bXÅÀZ¯ҁõåwr?"f?ɔèÇ]?ÂR}(%ÇW=¤îµð8¼áW<,çÊíÀÒÔm18ã?| ¦VRuÇ	xÁ?âý?7 Ê?'?2*|ú ¤ÏZ?ú?=%ÂÔ}Æ&}&?»?
+©	Q.l¤\YèZ"jöÊ.gXO¼Ë؆mX¾[EÄ?Æ;5?U¡åuVÞ?Å?OÚHࣣ/½æ?ô Ñ÷ boђJ¨Þ9ójd W$ äT	MÍ?qòZ?ßI A 7nÃ?UîPNyWÚ?èQô?j?y0UÕê&á ÿ?ìR}(߯=É=ãµ	Söé«&#t;Úh¿¢?¹b¹Öu\Ã&	­$¦@?+	zT`ÌÂññ!?-(?ӜaK?ªþD¾ÒËa®1VÒ×?ô#8@?b`؀á©3Þý?Ú	F.:D?V>3y3ƃ·ÊýV,$0¸¡L?2Î?qº,*¼I+!áڼH¡?,±Á©Ø Bû`a¦®m2
+© 2ËGU[xU )kÀÖÙ?qï`pÅQME<÷´öo3ª?¯¶P±7¯2Ý8?BKím?#=̲ØtPN³ ~o'$+?o'·?ZE?ÂWU¡l?µ|r?m:?ÔK?²?ÝÝ?u: Øu?ð`©ÇòvÓ8j×Âuõç¬̽[?éÍÚ"ªÃÞúÏ?®å\?ç<÷Æ	¥?$£ß,º¼3ÞYÂ|KXªز?çAçg³'?À?±P?Ú9ÅnÏÀUÁoҏ^ Ãø´?åáãbq2ÁS?Áۂ1on@A3ô`?W0z6?(ªµD`xs$¯`?´ÞÐó,nÿ?Gx±SRt6PIô|j'¨
+© 0{~aïC_KRöèC?$}·¾ ³;
+©	A4¢JP3°©?ì?8o%©|?b%¡A?Êâm?ç?çk¯Ì-àü°AçgÈDY±'.ÿ¢°?8RÓ8=¾Ñ[	b?UQ?TQ9?Ô?¾aÆ?hÃЗÙh?rqÇ`x?3 C?¨ÜU´ÿ3µHz'Ï "숪?!ß?@ñُdµf ?¡0ÍÈP?3ññÇ .)\¹þÃ?ÿaoaזҁâ zm*Cbû?PL?µÌ.V?µ-b±?jîäÎ6 iã'"`ycÌ&Èÿ¡[?»g£?À+?A´?Z	]B?%U?rû|÷êð
+© 6Ó?2?e?8åH`pã?.sïJ?â7r?µ½P$c?åÎ<­[?òz^{@J?Ç?^s ӹ?ÒW°¼mãéÕÄ}[7z?¥  m0ã|h±ô
+©	tõqBppÂ	i3twnØQï 22¯?ÄðNOR?jҥ Öfæӣñ\Ýð?Tbê ) SWÃ*?H塣ñGê?ì?;ݧµ?g?JrPÇ[?p|an,6Hì&x vA?u¡º£HÄ?gs²j3§%?@ç?bkú ã?5gíjõÑ`?ªҎ@OU \?Õø"?ìvÊö	¤õV&!v>:ðÐúZbao/A§ Q\`r/PÁyÃ Ç/± ÿÞ	Ã"Í5¡d@×jÓZ؎dOVÂø²J%?Nûpt?l` çÃt_¯ sÑñPAø¦sÃ֘èôEÆÁmu¶ú Â\Ka	dõ~{;棵Ã(? aò?@OP
+© wE¨k4Y?÷A WùZ?Â	 ¡mV[ÝìbÊ?ªý(r?½wÆ? ¦ÿø+d@NPô'«?£ÙQV`	'^Øiz%?`¦WãѢ?k`qVV?&#
+©	U¡ faÃUW.R`Ê?Hªo 8ô8Z?qc3 p] |.dï6?}tÀôªo×f Ì〆"??öÓW}µX?P£	I?hã?Qõ&Ú}ÀôO? õÇ?â?`tIK3ïºÎ÷¡?°~ÊqP UÁ¦w~üUÛÀÆ&Ô7 cæíÕño?Ö?XkóCaàC£w?B?ÌlQGpf^êëÃÑ%½ÕXCYcâËɂYª&&1Ý𳙢3tñ0?0×=Ébl·P?ó²Hü$¡2É9%¡xìà Ä ªrpØpØ? ^ÜýEõX¸ìë~ì:D?ãÄqS®âC Þ?¥¡2xèK3?ªõ?8ðk]P,¼-/±?wL*&ÓQÀÂ	¡
+© z?Z?O3ý; ³$᭱>A?`ò?àö?7l?p0Å}?ڎٹȣÛ? ­>o´L>СNsP;Xա?áï?Úý?î»ÿ¦?Ï?¸/Ü	
+©	c=üS8?Fo|`#?¯ £?JDbs8,¶#`®ZÏ!?É0m?8?#6ð#8 §	>Ě-X3ár?Y
+© b0ðaâ<j0²MÆ??2ZáÀçh?lXMdÓ6@ åZ?ػy¢_þ®à®ð¾©ÕÔr4øҊÉJw' nт3ë Âl¯uËîºñÞ?ã HÂ?ìCø?àA VPa(p?ù£QáËm?8#é?Äçæ\M^¦]?ý?!«g?¨0¸V Ê+WÈ?£@à¤?Çr?0L,°u%¹ b?@? a\rL ÅÊ?/Ô?Ƙ? pÀ ó ñ? T8CÙf?¯ Êg?ƁÐ{w]ÝQámfqJ?d 3?,-Ȧ#	d^öÃKZ?È?&q] a?ÄÚD?ýÐíøÄ?Y&ÿí%?¯Ti\qVZ?ç޺¯¶á´
+© 3h¡d9ʵX®íuw?ma6ôgk*?Ë9V?ñd¹_éǠ?tuWÜÈ?Ò7aJ_òÕ31\'½[$?Ïÿ?Ã	<éK¢?['?&0%Kúa`åÈáá4Î?+vAàóܝSAm?åCPC=;³®é9ü!ѩr
+©	Vx¥+HB?VIg­Ã,|?¶Ä ¯eCfï@aäx#Üãb?N0á?çťé랰aÑSm=?r% ?²¶3Þ4ç?­_ óÜn¡O'ߧ Ü<&	Ô?Õ/îd?ïëo¬?éìé ÖÐÃ r?É&	@b?~~3ŀ&¼æ?3ԏ?SÞbVé?êU?àU/+ ?]½å?üU?LÜ9»?¡P¥é?L?¥^:?N1%IÔtÜsQ ó¹àÄ'CùyG	a?Ñmo [á Pþ?4Qաo 8ñâð?ªa?¤ oå¾?Ç ׾?È ó K?ø¾?Ê Æ)Ê;Ӝ¯åfÙYN:ÍE?é¢l,
+©	Q4?hªWä&F#çã¬KRµ¡85?ò{?&KQLæтê,	~70æl|ö,¿/\)·ÜHÒçyþTÂZÜé8 7ñ~2É?á?d²úXÀ¤R»Ä3XXrº_ª?8ÚÕV¯?¢Ì2É1}ûñøªªWӗ¢ú?[ ú¦r-?ã	V?N`Ä?M_¦þs?}Ϡ?¥òs?ÀÒQ?÷äñVU\ñcZÈê?T	B*L"Yߢ?¶X}Ã fÓá?^|íÕùáù1<ÖL³Á?µ?3_UUÇ`?É?ÿ1X±|+Þà¨Lz?ɃNl`xÑÓ;êª÷Ü?pa?Ö,/X=?]ÁO'Iڊ?pò«I-УkîE³¹ äֲ_òz?"mü?.=?,9n
+© 3hå1iC׆¶¹¯ÀÜæò õ&i´¢	`©=ü?FÓ_M8ÍÇß|?wZ?¹ÃÅ H#ª«iN\NUÀçó&8;¹£U2?fqG¥ö|D¶®ÍÂ?¦7é_?2 Xw`?x?#Iö??°aˡïbeôGÀZ?DVfo%=â6xؑ=ô?$¨I«chq=XWßÂ?\?¸%CKÙÍV׋ń VAǀ$K
+© Pc,n¨øHT2)»îT[ ¹º#m?ów&?+¹V,F,Ê5̔ë?_»?ú#uo» Ðé?I6ѪЂ¢;' ²ØFwr?XnÅæãé|¢?4?NU#XZm?4¢4{ ¦*°~̲~ÎUy?]µã?ïVÑj	zÿËý1§Dþf~8ícþ(êjÀ_?GD¶4S;b cJ¡é\*)j´ó Ã\pa²]llÊ&٧1TSÁ¼þò?Ð,ɮ7]É 3ÅH¸xDìzSÚoÿIûˎÂùioï?Æq7êA¶6eïQ V?§®Aw'?ÿôÇñÉd?\?3?Üú»pTí+?²¦8NÖ.m?Y
+©	pP8 7&|PNÅÐ0?`ò?à^cÇQ8#Ç*2lQ<?ÏlX!ƷÙҁT÷BÏ?CeÞ8kew&Å?u¡dÂÂÐJÕrd?¤e؅¾xėn~ºÎ?A?¼ñ¼!©¶q?ºî,NñÏ ìåÄbcބ A]£8ä¡%L~´.ÙE_?ˣ'3ºëG*×ü©4`u?ڠArcøWÒh»aò­Ûçï?d9¶á@?¹<ñåÍþ/¿8O·*ny¦Z?'±½?oǸ1²?qM?%!ò0T1 ?Â?)ak2Þ?P?8µ7®;Ñú?kúcÙ@á`v9TÜa9òvá¸%Çäaòt?]Vá"@ēWSÙC뾅Yê&úw#äX]
+©	J¥§8tl¤9%	|`? ;4¨^?¥?$/?ËîĨDìÁïRÑ9OÞft79Ó?%Â=}O,xe¦R՚«ÂÉ{?Î h¨uÄO0þ¶X÷9.æý7¨ÿ!¤éÈ)y¥mæRå?î`¤ÈÉ,djé1ï?¹øHèÄWfÞ9g´!ï¦+ 0Ϧ%?¸?§RØn08¨?J!õfg#?mäéfr8xø*ìÒÒɮàôfj¦!V:r?Q`B5.¨Ħ!´?
+©	Q?6©UE=sa{Õ?ÂU½îù¡ÄñÊÀ?¯uâòmq«?A©Êáµa ¯-øw®]ߓWba?
+©	JúeiyÆ4#ðõH0õ?_ 0÷~ù?ú¯zÀa?I_LÐæ a?Yû?ªyÀ&Ó?۽Óô,³ëáï8çÆ	@PA©G)?YÏ
+© 2˘9PrQõA ˍJËè?̘q[]P:á?̊¾}»ß(_<®=æ&DÂ `©¥?w4wJ- øüût¯å"O.àù?(ª¤ÀÃHª3X?WY?Ì/ÿ²¹e7á÷ iUoa&hn´[2Aì¶×lØ|º"àðÄælVÍòbÕlPÒ!x?ldõÊÆ/ªîI@©  WÓ2UøÅö#?À?þ^Cf¤õÅj× Ù 6UѦ ¾ 3_j?oNþҹ3Ù~?ñêP½òÜVӋƈ¹0äô?r â?P×sJ­sjÕ?9}å-Ūö߂¹O]Ô?ÿ?I}½ôÜS?Õ! cÁ3ojÏ"?÷!?¦?\[Ô U½?	!¬Ï5
+©	PP5mS8,ÃJ{ý£ß?EX?I.ôÍ5'Þý?g?W?^u á?vûÌ?"?¹Û$¯0rtv?KÐëM?\!±&¿h%¬`©à Ä?E	Q_Ü?ªõ??Ótîô_?µ#3>©ª]?pa½U@ÿj_ ©'0¨O.82Ѱ¦×@éQE"ҍº h»ËÃC§ ÛoÑö vØ¬G`ÔÀ?ZüҠ,C%¼ǟM?҄?\ʯ҂?+¸Mò҆L½Þ ¨õá_?k Å?Qp9?@÷?ttb?ʵљ@ÆpÎ8×	º?;?ï?àa {×KÁÊ$ÛA ³F 2?QN UQã8åÂ:òJø²
+©	Hª\w?W?ÀHdªõ?LìØT§Wִ?·?CzÆÁé?2ÞíÒ"·¸ÃΙR?PA?¢]sº¯Ҋ·Æ&,÷Z?N?J­7â4?@A?¡áÃp`?R$?(Î9³T/?qï	6K\*2xPM=C£Oÿ ?N»²ý¼è&°	t¬íòynHÅU2ÓÑøeq%?}qÛØp~G'ÆD?ÁÆ ?g¥Ñ?|ñ2У?G"ô£bf <í<¡Ñ??q߯,Ä?êqj0~à~?®lSå?[|®ß|µP ëI?õ?ڋ¬?Ï OAwFÍUUV«4}Ýóg?òq«ΪñÞ÷càN?v&ni?Ø?8~ Զ?*$îÛm0ú?zÉeðó1
+©	0W;Wbv-޹ '±?ÁF ä?-ң¸ø¿àû ÿCk4?º¢x	iy?öâ7èÜù?"ª<ñÆ?&RÂ>àÂ?¶/?EU?¹ק?qðggu"ÊbP¤پ??w-Ò ÖÖA ºAòËa?Oªþ)×öÖ"ü?ú?9'öÛÜ,?=ÁvK?FKGÆӵªÛ]?§ ûü°Ftqt?^Äñ÷Ö/¶ÆӘ?ĸmÊL&úBª?iÉÕ?À
+©	U¡Z?VHìïT6LÙ](؇­?²vÅe×?,Á͗tËGºkI?öò µn>fxØUɃ8?9VD¾x?v¼â¸#
+© 0?·0\qj?¹s?óY?T6?°ò?@ñ._ â&9a ;ò?½?.?sì2ú=ï?9£w®ë¾pa
+©	Aµ3ÉW»ÉX5<Eá8Ä	;ÉÎ%<f£?çCIkØÎÁÃÞ yήër.f/Ü ç⺇C ¦ IÀÛ?yª¯9ì?j¨jÙ7ã%.0?~?ɒJWú,?ÞÌ{cîP?ákà×+³?y~þ?¨ì ýA²ÆlYPLc Ä?qTÛtAûÃ~]աEÉ	:RɩæüÆ%ì!ÉC?m&~»ÓûŌ|?à Ó?µ ªϿ£íµq?´?3Öï3Ìæþ `Ҍ3Æ=AÁ[	M·7àãÓ
+© A7Eu]&q] Ì%f¬Òýð{?U¡yaV 1QÂ?Ìèûs­@/±k9¡£·>rý	<yd³ì/2b?õ?¼þ s1© QÊè2¬fë7(?¾Öëôi?҃	¯2½Ôéd¸?eZ?¼?w¤h?ßƗm|B[k{Á®+8?f3?3ŅÓ?öo ~Ð?Z?¤]?;Éyxhcç	sHä `L?°LȠb Uq
+© 8kAËOÕX	M5?Ñ6d¿  "??÷¯4÷T"r?-d²> ¶??[a[?ǖYNÙ?tc
+©	Qöw&*bfqó?­oÅW? ôڵG}"Ëp^UӪ%Ù6Jm5³ëèEr3p?*ëHÝ?ÿה.í¬¦Ï?oëí?öCeeÔxû­yΪ?ªm6ÈXËfp?ïySTµ?4pÉîc? N@Åe/ýÏ g?ÉÿÜ4Å-Þ%Î1P?Ó@)ÆÜIˁ?å?C'FÜa\ðnEDÈoZ?Æÿü®?`la<ó­$¦±Ï??eøm¯aýÂCi¥?À?9HXk3×ùPAaơHìÙ çP×`ã´ҋ8¼ÂÀ¢@À®#?Tl ÌáVSb,é?± Q"?Pʥ?Iï8õ?(5|Ý ¥NAVñ"è Ï?å¼Кë¨N?P???Qö
+© 1iy38?6glPÃÉy~?Pè?`Ê Ê(>El[Ðññk?xÍq?'P?Æ%v&²?½(ý?p?ä?l®[%J÷?ÁÀآa.?°aí%Õ?Æ r%ÅÁ˾9Â?ØCv ¡ݜbùh#¢T{?\½	*RY?§?S¼ÖÙcC¿,¨·Æ5/QÞ?Q#?[Z 0«Խa%i½ff?v&Æw`~`Ê?0Ã`Aí:?0ú͍þ´߼½ÓÇjíÆCvþm®áÔWÑö\GDiµÔÚÇ4Xͬp Lku/~d¥?Ȫa??÷?ËÖے°ª??8%?Â?¼Üb/ڒ¾Ú?_pÄ9Ál?Ák]?K?ß/ÌÕ8÷Sü?µC?k+P?Ç=üó?ØI[
+©	Ti?v&n0&7:?݀YÆþG OÀ#çûP ҥbÖÓ÷ê)O×:aÌN^3Ú)?Ä* Å	¨k¢+ä`¥¢tÅL±õº°Fpµù?Ȩª?.ô?°ôBh]?²Da«m9Ìì?ô®?)È?" Z !?Ô]¹=èªIÂJJð
+© 0|j(Ë6/Fjc8? a?( úPpîðÄ?ËÐP?î9Æ? ú?©ÆWúrO/	PP?PÓFÆPónïJaú?ã%üO(fӜl¶ ޠ5?ze?(ÞÔêXÓªùÆÌõÛҁ9=-¢" 0~ \³GrâÁ汫?":ñQj?U¡þ+O?__y{½҅i 0ڳöªõÇ?9ªõÁª eB1ѝId¿D:?=@N 1åË׽ Ӆ¬m3ö ëm1SPGûâÍ?³{?²ÆGzÛְ?A ]WУíWøÁ~¥ºw®!?m?óG¦&7²ÉÊ?¥/ÞÕ7Þ?vÇ?Ö](³RBKíú?c	ªÆæ?Cê
+© 0?yb qj?µ[?÷? AXEN;?|XЩAïðu9?P så SXу\^péˠPQmC`?k¦s?ŀ`??öKòèR /?Í(¶îÝ/jµ"JÝ?8.ÈZ/º)8ݡ^¿ǛӐø?H?Z?ÉÃtm=9?¾ 6Î R	£=É ÐÈý9 £¸C8p÷ ª 2}¢É?¯ Ã?#Y?Ôi㪋Ó5râ*æ;{ 8ª?ô8à¤<imq<??[PÆ9Èì=(ETt?fÓ|Ã=]g?[ý0 a_ É Ê?n´uXèPîÍRøªmpPJáòs84¡À1º½·?)S?Eú?;? t¬?À
+© 0?yb qj?µ[?÷X@a Tæºg0Ä?øÝ9?P Âså?e©у\?ã?%pPr{æ?P©`??·é Òôg?/?~?`únåÈҋR$­ѵÂɅ«ÀS:?è?üy½9?vەáV?´m=9?¾ 6Î RGîcK 3»#?> m}(n¯+?]mӒi?8?K?F!ïá«Ñ?ʲª܏·ög9×6<Gë&¥4?]^	iZ?_\yy5µßò¦ÏCã?F6?Àóõ wÉy?Q'S?$[B¤ç]?bÜaò.1çãøÍWÆ?P£	PP]Gܶ?s?9êҴ2Ë!ï?³߿ȁt¤7qPÚ PKÐJ½Ö
+© 10NTU?aS%$]KCEXÏ?Ä9?M%Wgv]wE^;o5ðA?%?Ð?ÑԼö7zZÜ-o]?ß?ÉXÆ?±ý¦»?ÔH°| Ø}+¿õg[ã?6ñýµ³aHà^×u´¯T°zÂ?CôΗà· ñ¢'D¶­?îó¾}Z?ÿý§?H\QGV_üØç.d²#ñ	UU÷Om>,?K>?´°?Õ °¤På{ªÁ2)¨Î?+ùàðälðä]vï4 d O¸?aæÝÁæ úû4 ?ë4?¶ó?Ì6?Ë~?>óS|akþéG¼?ë4ì-wï0çóI¯?Þ ÝW{¡ìA©I]»?)ätlà^¾?
+©	EOXi?AƕÝ%?àäKhsQasQö®sWÏ?Ҹ?øs_ OÔ/ӫsVÇ?D9?üø ?# Ôrz(PÛø]øP A?hPA sT « çxPQ)§?Y ªÙgJX?gr&¦t³Ô?gCBgE;zòwÿ;Ôg@£Sª 6t5éóU äìÄé|®?± ð]|?
+©	i]3Ý>3?CiÿGG#ç?n9ҵ΁2ûl·o¹Xvq Ç"¥ç\ètºÑ?3Y9ÑÉW?°a¡kPEÕ8ñmJÀDx) ¡%ÙFw?>Í8õÎv?%i?E?pò³?¿?
+©	Fö<xoZZ?m?F7µÄÜ#%z?¦?ÆÓZ¥ìáÀ֡¤©àÂ'çëXÉiÏ?8:-Ò#?\JPs:³6vÅFی?·cÇ%U Ç?l?,Ür ¤¨ì3Ä?ËÐÒÁ?`w*	i'uyg(FMG"?úIÿm¾*8s0ñÆ6vËÑ[Ï?WvJË?`©?
+© 1?EX?ak
+© 12eãí2~rú?vÆ}È?٠\/¶J­"FôÏ ÒfÓb[ÆMQè: Åß𕊣YaÆ?/x¥jÿ)«Ci£9ùñ?d Og/ºI뮗?á«?ã
+© 0Å5Pk¨	Z¦@ò LѠPsä¥?ô?@ñÃ?A[?YS°_,¢護?áÇ?`ßÿR?¯?| P!\´m?¶¼䩥v?tXÁ©9ZՂ¹Ï
+©	O-èus3J&ªS!ڟÌìÕëAû ó1pôޖQðõôFÕO÷ÞðP`Ç~V?Pùë:[Ô-/o`^?» qj?6ôTÚã ø¸ÿ_Yné?`_Ç ïÞ%¡?Bû\p5,É=,­+"bj=	k
+© 1ÐUÏ;GÓ2O`Õ
+©	Dca?A@åJVw>n¸²0?>´qM·îÇW?Æ&»Çr¡Aïm;²*?'?+Ý*©!êUó8?Ç?À¥X6K3 ãIÕ" +ÕÇ*?B?é§#c8$¡"?<LNϽo㛼30aßèYËÔ~`¥?úá&ûÏÅ{}6?m?â37/  ,?0~?:F?SU	[º?13Õ?±¹	R?^°ÇÒf½Ö(8ñVwY/½¬`QÊ òM§¸?¥GD0ö~6?5Àú?G?_ö?`ú_`Å 	h9?`ôÒð÷?*öÀüþ$®»½½ö¹¬!Rc»?p PªV Oí½»±QDôp?=ÿG/¯öw?àÔ[Úgv
+©	R«	vxF8iÏÈi?@{?p p>?p yT?*Ó?pN>xÒXi,(iõP{?@ Âë?îÁ?ÞÁ?þÁ?>Á?Öxn§ò«ªÖx$?iN¥X 	H?Àöx)èi	`ˆ?u>T«eÇI?°gúeÎÜ9A?°8R¹¦¯¿ɷC?¦?÷?;ú?ð=ÐòÃ0ñ?© eÖJææ a ÷?L}?°ö?7i?b/Ô?!/ïé¡?öÝi÷Zl<ÀJ3ÚZA¤ߏ??^nU 4?Nù?Ïô?æ!ù|?pÅ¡·@äO8`?ûwq<?
+©	S?eíPHbûñp¤?g`pØXÑ?#cy õ?¥Ê.e6`»C}\{®M¦	kðQä#ì7W  Zâ$?áÕU£Óm=?i§	a´¯  ü߸#a%ðոÑÀ¥>Cbh¤ôñD-v[ ÷â(ª!á?â¼荢?JÀ¥bfM3ÔÛÔ?=;´VSòÀ;£i ô?¬®֨ãˣ<¦wU?JÂÉ?+â½áÐÓheê(ª[Q z©¬ãÃuwrÌåC Ò-í9§ðÑ?p¥r¼a?Imö¯ö?|4 Ï?l rS¡ß A7۴w°AT+ÜüRd?Cm3æ?P@\	 ª ½ÑS¼ßÐWx#?ö?1Æ]Ëw2 :
+© 1k?@A?Ju?^?4W.L|ÏÀb©¾¬ã¤?h?½ã8óÑÆ/¯b.L3îM*	p aT7³ëjˎE?µǟ±#3qä[RÍæÎ/?¤nËçQï? ª ¾?p£ gH.O*P¡½U˒Õ?¶?Pó ñ?`ó? ú\fаô?LN?°ô?P{?`ñw?¤@o1\)îøHóbõ?Q?ãsaG ýøñø E¡?J"¢Æ	L¾?Ý?xß>¸ö?Ã:?PL>Pò?ɿÌ?æRû?éjçEÀNæ?Êo!ï	9JH(ïìÀް3Øpõæé9R!@ä?`çJ8ê×/îMmßñÇ îN?¼S ,¶ëøäøó?±?ⴝÓ8#á^¦
+©	T°	NÎ01÷céPÂø?G?Q?¢ÄÀ,iC?5MÜd|a?wu}/gV~.´05¡zì%w§)ï»RsW?×?zë5ôgvîA ¾UXõ=bØ󎲮Àñ?¶À7Ý?çü=?ãX?m«ãZk2ŒÏ-kOz¦§¨?(Z)î#¸ót'1`iïH	E¡ú?UZGµ}xZm+`{UßâBRܝb\·sËZ zû/)á?V9b 8N´YÒõí/2ÎHxñTU[?xì3­÷?ª҈k½H"?»ëìÚ3Vþ. õ?uxV¨êñu M½ 7Yv)ÕE¡T£Ák±mõäö?vé`s°×)>£Y9`twײÂm7p\E¦E
+©	B1?yw8<W>¢x¤öífM3HÑޢ4é
+© 3B¾o44'fNlCP
+©	ZeU\PaGF-¶?zæ¤g?á?¡EUϚÚ=`©٩ XNÒB??÷WaõUưö?9?¥?ÆM?Å?\z#؀§O&Y>¸?Ô4s¢øf§~h?+s¸S%=÷®,ÆMXfe =  \±?T?D?À=Ä1/õüC6è+.x$?d֚/΀Ã!?o,ê_cxÜ2gpåí?Á[òɭ#åbHùÀUE/³Wð??֜ôtÙê?f?î HÊqVUTòRS¹z¯¸[yn²?¡ÂeË<?¾W6A?5C,Á«Ø?#?z)?S1µ¡[wȠäõboL=òÉÁv1%¡+!\iɥ { `z{?ϝ?oìQÒI§Óßü?v î?
+©	XceÅH8ï?¨º V_ޤCÜy¨ôÄög?<=i>OWrbUXQ Tª²òÌÚ,½ëæDÔXµS²?5C/¿,Z T;zá#2{)yù7Nm6½ÔXbo^GI§±Ä?3'?'Û A؈Z?¸L¡s QOaǠ@aApa颥?e?m1Vë,®hy	Fɨa×Âú?]É?¹" m<4T®#=?^?»Ï^?W?±eÜ?A.%Õߣ^NŚÖȥ¡ô \Cbdõ±?½(?õÅÙg?·SC4^¼1áíÖwµt8n?¡] ­¸? ÇҶ&8áï±mx§Wb¥jÓM[¦½ÅI+ ÇPI¨d֏Ea0É-%®õy
+©	g?Z?*B skØWƣÃ8#=?ç
+© 0?2Q¯	qj?½ÆI¢¥ {  Áw,ÚGNOÕøÿ a`	?p{qQÇÈAm
+© 7 4?\Hgb\³:Oõ
+© 3B҅X?[BDÁ?áª狅7æ-+SӘÈøä= Ôì ð	¯,`|8S±%`z?ï?Ç TL7+Т,Ú?Ë×S±o	J U?!\Ø̊h{Ø¥?è~2?¦?´má%@=öqåXÒn&?&t4g®]£?Z? +Bfd8`ÜßwàÔl%?OBHÜÍ! ¸ÊçæDÎO?ã8mnT°NuL?àPÎz?»ÖÓC_?O`)êÂ?ëFP?r&\ A4m6f´k1[?ô,Ç?`.nìÓûښàöÞYÆ!	ow Ù/g¾;?ØRæoOaÎ?è¼ Zñ'?Cv?È0ôñ¢ª" US ¢É ÷aÖú¾`Õȭ-áA úuïOIJØ
+© 3B¾dLv§?ø¸§àIP«e?V¡^º?Pà<?©¯^Ocß#¨ìãÁ ZôÂÉ,±ͯû$??:?vëÑVªÍUY?ÚºsB?ßØÂgyðqÜbðÔ?ÔmCñT$1?Q܎lÎê&?3Ù÷sµEeùb3߆4ðc8;';'ä6w?!~Ã8ß3BÊᒚx¸ȷÒ× ÉÒ`?ÿ½å?¿Ö&?Ã1˦&08ñÜm;?¨Tï퐈?»0ͧ6éA%½׳ÊëÝòÀ£Üݶ/¾4ã8Py·"w M"ÀrT?A ]=x۽gzx	 Â? ÓÂn	U<)CjD9Nÿ^uwyÏ|y¶uºÑÆ?Ïmï,yw"?Ó
+©	PP5q´Ixª Ýø@ò òҀñæڜæÖÓ8í	]?ÝN?Ah3ÆJ°Å ÄDlߴoY~?v?â?Àö朄?'îȄGi?=N?8äPԦP訃=aܩEë¾Òòu _?Ƃ?úq4´î¸ÃKæ·?g?4±ܞ Aø=(¸?ÐöÄGO¶?M;?\Hí½§̄3:ë~k9˽m5{?ì?wÄym?n4ò¨äc®?´éÛÕ\ àÇ\q%{qܫUXâK?QÜm5´ÿÎãy¾?,Z?}üè5ú¦08öú?ÌÈ?ÛËô}½Ñ5?M`òo vÔy*±ÔQCñû?GuJ4(µg?@ݖMOdL)ðN_-Ͼ`Ä?.. ò È?$
+© UR@ùN^m1SҷÄõæ(é?WUûv6陣*<_¿ M´
+©	xªXC8Ìåsë?«?Æqé|?b?£8,²Ë å?Ȭ:?Ã.Þéÿ?`?baÌL÷b'8?gr S??´­P© ¬XћÐ Qòî?XB'WsSDO¯6Ó?l?g??Zé?W»° ]A·(??dҡ?xäuzP?ȄZ?u?·¨ÉìD?Ö&$FNȳ8 CY	c=piAu?ÞӆÓÌâè¾cv?=Z?ý}?*?8 "Ì?®yö-3­bG
+©	w5¡AæhÅýZLpçP܏4S¬©jDÆDÖ?çä?LØ'ʩÏ?v\?XLÛÒ@/2¸Ç6Wv?ºDH|ª ؍\þ´ϰA 60ð ò,#RDÀ<Þ:T5X[°aO 5/Ú?QMáÚ??ÎŌBaAÛ «
+©	PPX`èJPÊ«´JPÉa?PèÂOwyXÕԍ&%|B ½ÄÂ6ôޛä'<¼Úe\?x­?zîË4FÓèbýøMÀ6ã8÷?&?ACë?W(ÁªÐíÏw$×?ÁÆUPÁÎ ÔQJ Àæº?wzçWg r.2¡ï¸ÁO?A%Onµ,MpÉìÀÆ9!P5?bnmôÃ8?V¤9 ¥¦Xð ¿0XÁâ=£/tÇ+Å*~¶ ÄÝÛlüTÇMkÓ@ÅMÇ u4}¶3~bĎ #£o¾?s>Nk?D?¯rxý?`}ZãI~XAS?Áۺqs QL`i?XÆ?%նxÛ ç?³v qÐê?yÑPaÖüÚ`Ņ_ÅZ
+©	gûZ?×q%´bfMÔ?H·?vB+!ö¶ #v?Ý?Ä?òú Pr?v?@??@÷«ӜfÏà£J?ÊQ×~m%_4þ3ÏYµÀĂô8OLP,±^t?XÛ?CGa {=Qi?%J?ò?2Ö?ÎF/²Ê?#eÿ?è"Ж؀bY@Ø5Æ?*Y	@¾îýuÛ,Ú0º?n3X¿3<E?.ÖÎ?¿3û¨uѤËóy%¨óD²?¸ïćeüª?ÄÖÎøg?{\l3Ñ?´\Ówy?F&æ?y°{)+XÎFh§`1T?°çð p>?p?ð p p p[?p?°ç?àç?6 `Ö ?°0ó?@ ó
+©	N4Ev×m<?¿&w¾¥_3;ê øKn?Ëx84p?Am?°Øô?¬D?ö°?p Ü?ðó?@ô?PAۃ Õ4'崻B ¿`<Æ\þáÖMQá%¥÷?à¾ý?1ØnêÏ?Xâ?ÖÛÊM ]zÓ3Í ¤47?¡SÎ ÈÀJAlâ¨Ò&?r03ö6 v??¡ÜâT)åÇåâ?C.FѫK¹X _¯u@ÓHêç?ÆÊ&Î ç?¼Úq?/ý?¡O?䀖fî?ÿo¾$8Ő]?¥íñ??À
+© 6Ó~m¾	d¹åqi?¹[<ÚCl½¥zëÔÍW{ ³þa¢x'Æ{?É&W6OoàI|}4übÉ?¨If!Mi~døÒB T6©ø&YÚòÌÚ÷ã8#êCÎ	ªЩµPÀÚ8ÿ?m38^6XÑ^\q´!hQUi^1=?*??+bù½A*?`XIÚ2¬3?ì4?4?w¦MO`ãCp rɍ×?0Ònnü¹Æóøcq8ì	i?
+© 3dscGZ ­vQ¥¡?&w  [֤éZ?H?rÉQê±ÒÉ?0T/w?f&[à?¸G?w1@ÒÝP¦gp¥gpêg{àhXa?] Ê¯ÊÎP£à%/2v÷£?Z?à,?Øtgpó'õs]Õ÷?Ê?f â1\ȧL?æ ¼*W®?­+2í+gpõ-ÎÃ?gO÷?ţøk Ñ~#b`æ?&é}2ç?Apú? ó/k?pö?ÑOXBO?GàBBø¨k?1¶§\ppõ? a?¬ÿ¾èð?u?1G´ë°ö?tãUr?7Á?m?o¡Jþ?ñ \P
+©	UX?cqiã82ÉA?Ð ±A?/?î±
+©	m'}pbXÑS­KáýÀO`upäÐ?UX ?²ÈénBtà$Õ6N,¸Lûuô¹~$Ôäg",ªøäD|»³Ytå?٢ ²M?jøSb?»°L?P?#Î?0n¾î>ɀö B  Pay°*Ì?`LôÊøTÚÝ1D³Åä?è\%ÞϠØ,ã?PWÒ* ßÓÓ ¦&?k|B.?«Ó?xÑÀ¿3¤?3H¼OmëKÒqù²ì ?¬Y?$À?٧`ñ§f¡¹Ðö?°ö {Ê Sً?ðÄ?Ú1Êà/²ʚ²ÚÈIsâ1È bê+93?Sa̇K | ÆPÊÔ?Ä?LrҲ*æMúÛÄU?5wQ?pn´?ce?@§q
+©	0}hBXqZw§Ö}䒡>ÝöÙÛ}jÇ 4@	§Ö 0/]ÛÝsB?öË 0¦q6?°z? 8? ù?á ?1!?Á?Oo×ÖòXqV}bú?±_Y}&2çÖ
+© 2Ë?zztÎJ¬Â^ý£4Á̫üÁ[9,eÒ?ÞãÜþTÂOm&iøìÏÝêJ¶PHÌ?ìگ*?@ ¦?Ï?wà£??! ?"ý̸Í	@a ZÊå@xì	Hßlü°͠Ø/°¨?äó#?J:^ōfǙE+öWÐSHì?¹øQmq>¯`{äu}|)
+©	Då?m>WaôëL¨0 § 
+©	1mNPÖLTå²ûR[5NPãix??¾Ð?0?u±¹Òû?ԓ÷«´&?fàä?´å*júҵQóèg?¦%ùÆÉDÜяòOù T!?,°XÀ¨cY3zl£Ñ?C#ÿ?¾Fã\´Kq³¥ëNFðA,?ÍCèO`?ã-qlð@NUp?ø`?sàOBһt
+©	Ka?ÆpVÁÍi@ã P?Ñms-K-2¥±îÏý(=òËéÁ0ÍVt3æ?é? AD·8(Ñ!?D6½LÚÚ5¦?M%g$ÐF>bh­{?BË?ífۗY®	Jû&>u?RӘÂ?ãqO«W°¦MäÆMFó8w,Î7²)Ë?^ ðÉÓ8=û»?Qۊ£8Ëc?Á^©]½O Q«g?*N¾¹â íQ ?<xq«?ÅW?ôôæAÇW^æéSßNÓ?kԦGû·Ò?Gùb ïm4Q±ÒлGq?J?fi	¢íg*Ñw?qɠ¤"\®V@PÀÅî??P~ u \ L?8=4v?xÙAÇL8°ÎE?±î(m%å˺<·ú?5pÄ?Ì
+©	b>?Tôg?éQN??@ú?w-bQi?8tCkÔͣYÉfM=~2~ÃôÂ?/¡m¿ýedÒhT´6?zé1Õ?õçÆû UQSøcvUëҀØ]yk,îÌpôe°õJ'?Z?¬,×ÉAmã8䳏sk¡ò͢?̼õÖƆYÄÄ7?eÞ5´ <u¼qSuÞíâ?+O^áA	4ÿñ  `ñ?Ö0ã" òÌuIԜS¼?ÑÇëM	__?.?*uuwÄ֭ÇA?Àêä?f?GE
+©	MI-z¦«V?uvÀõÖã}δZꀓ·$ëFÂÉô3ÚÖyÇáØ6@bj¶çNüË?jd ÓÌáj9Ì?óö§IC×(<ÿ@Sg©pëåu§ç}õ ã	rËÍPAلXb±k,°£	^ ?»|Rg]#?ïÿyZß?\ȡ<?&ÓÓZ£/ީñK?궹ìè޶xÐ~OÞ?,?O?/½þ2N;ñ?û øZzWÒÈsmj?A9, ÐÚÛDöôÄ6ȢNͤ õ¡Äò?0Ήô[O~aÝ@܈?w eUt¤øa?9ÿ0®<QÇ OÿÊ_ÿ?p¦_ÿºÖ,Csm09Çû5Óéí+m=öZ?Õ?IA?ðÄ9ΔX>D8?d
+© gamqðP?N<?ãG»°c°ó?»?À¥XÖ0PÍÊ:FÙz¦é?﷾7?P9Ü~m¥?æqf;ìÔ$ÔèJ09Ôý׌þ_?i÷:nFz¬Z
+©	XÄÇX3sØ6àq?g?'Qs¸CÂ?Oã%·?@{?p àç?àç?æz?ä¦ ç?0ç?¥+?p?ø?¥?^ø?-?°0ùՠ~ՠM·2 ûs?íZ?Ûs?ÝZMZ??쵷>·
+©	Hýñ1[ød×4wäU?UìȾlk?'@A8ÀʋԎ$'Á Â
+© 0b\s¡Aæ¯dª?8B bÉ\Î>A W?aµ?¯ºd¬ð?¶ ëº?w#dñÈq¡?Â*ù*?óÌè?Ð?ÊìÕ)?5uvl	WXup 0rÜ? 9-÷?K*ئ	L;µ?±©£äE9ü?'"*ùIÝF
+©	u?}kÖwÇD
+© ZìTî D¶Òri:Å!sc??L	#?Ï?UQòN8d×7§y"q<9sû?b\?g?§1¤õíó U¤F!1¶ ¨^Çwu`Ù 5â~AÈ݃?$!£ÔbF^u?^V?;½3Mi.ü÷ôé¯ˌÿn<ÔdÔ? ^m;?5ûOØÑSú7°¦Îî­+·ÃÉÌ?hÖxX?jƾ?P(X¦j M?FÁ²àRá\?»?lÎw[?NÆ?KK@¿Ѥ×ïª03طP£?åKo¯ P{bà?)Ñ?ÖiVàGM&æX?n|0¥?¿ÿj0üMdÒ*æU¦ska m3ßdS
+©	IÆÏwÇ?x>?B@FÙÆÞÐN_ XiÆ?1SFՁÍ9?iÆgpÅD?WsÔúu­ÐñBRom;/ÙË߇IÆ3@^_?ºäýuX­P ünx3Õ.?å?©ϰª'Ô?¶ÀÅÑS]?ag?anaj°¼è?§ÎsbT1%??hs?èfÊ`tÑ?R˔찝¸ӈCÜ?Ȼùv§ëöE-Ú?®nñf¶·²ûf·¿¢²ù=ïURúûr*ÎWXÔ
+©	VàG%b T?P?öÀ	vÓOlζ?#NXÖrhË`Xb$e@	qX2É@ñ}Bɬø?ëގ4y$X6¤3çn\Öé¶?ǡÅW
+©	OÙèqï?ADc8e? æ!Û
+©	E¡?LÅm=AUs?¾û?Á^ÇåD¢î<mô?ÖÓ>àw?å¡?&.äÞ?À0øbü:?(>?ùZ?µm? É#}êæ/?ôL?C?g?]1õÇ SB0ö?Àó`©?~ ÃÑñÛ NR,³õÑFÆý?0L?¢¥n¹Hvâ@rwæ?¢o׳?~DxÖӎ¶?±[äÎ?0?Á?bNpé¶b òû^XÑ?>CszÐjå浱0!&?åA?Àú?Be]ÔlÇ?¨ X?F,IÑÆ?tºu??8Àb`Ç&>?gGWa¤2ðÂã=?c¨?ß?t¶VSR?êûW ûUUµÐÃbÄy3,?ÓF:ÿXªçWUc8P3..
+© 69d?LU ŽT2û®tÓX%'õïâ?8ä?0ÅYÀÂ?2¬°F×r?¶scEёCXgªn^ͧɮèbfM$?Ë	wææËPüT?(]?쟺#u~Ém:?ý´?7­v?9mÈ?5 É?ĉ?ñÌÝñ[á?z¹?҇r@}ñ?/Ùøg´½Üð?´5L·~?`؁0ê+ ?)¿?8K?aSpJñ&Ⱦ)ê Ů?å?Ïw6=Õ?z©w?#=×Ó8Õe|| Aý¾f@ªcdFiMsË?)Duxg/òíݏa¦çÅUÂÔ?B?6?Pô	ÆiB?ÛZup~Úñ´çy?ä9­ñ 5; Ù~8·?Ð~sôÁª5
+© 0bb?Pbÿû Õ`È?`Å ú>\°Å?@Ô:ð_o²*?ñT]`¾%Eçû[ÉIà
+©	R~w ªE7í?ßð|?¸êÞ_PÆèûö 5XN=,_T?5}»¼R?üj	£ %?°L® ?+bòðn  6 Pù­??n?&sãÐ?A?W:ß?üãpA?4?7ª!V؀§
+© 3iBäßC.ÇIÇ|LÀ҂ӈìéPÑ?Ë?7Ä( A¬(¤'ûʽ=?Iz¥"ɧ͢~Cel&hÙ÷޽ôÃ0OÕ mOІwyg?A«ВlÚ;mV£ä5-?ÉƎûª?XºüîÇDg?ª$h?ͯՎÀÓ?'?αi1ÿb?ìhï å?6?)E¨0Æ-[2?ÔöO?f }¬a³§mjÁ³Êâ?Ӡg{ ?hѐÓ#Nº ö/ÓWb?×;;T¡Ã?Þ3?c?dF?Ѡbb Ò2âà|mâSHÉ	uy?҇«
+©	U¡g&GMcCïm0 0¨Þ|÷ôŌ$î=ñ p©C*ZüÿËÝ!pMM(fDî֥Ù A
+©	Z0¨w`	YµTmæQ ðÇ?>nPÀøoTvåI¨LÃý*øi~#ï&z?»PAS)?L¥à#"Bº±%`wWh~´b¥,«8ö&P?%{*½%U?ЕZ?é¡MW?±' ?ªdöÖð¦&ÍÞ̾÷ 9%¡،Ä>Mug?Î×~#y¬® P?¶ÀÍÜ?w Ã8FQwW8õ8?ÃÓs`?¡<TÃëAl1Μ=rÉpq37²T¼ðÉÎìä,R͗æy.% È, ?Lî?t?Içt@P?)ç c?آSn	Hª?no×X¼ZÖ% B7ùW?LGa34?Kõëû 1V#BwôÂ钸5?%U:â 3?rgq3Êâ
+© 2ÚdòW)Tb¡לּST31½k¤{g?ÊO=)?r5?>W?£ çàÂ	¢å?dú<n?½fÓWW«¼ÆÓS¸]ý¯ җáð"­·ò?4ö?q~­9ÀAU:ËdҀCa%?ÝWRÄ뤌ٕX?p?ú?ÌwPì´?ôÁ?˦ÓY×?^vªfMÆã¸`?Lîi9´~jÛìÅ?"Ð
+©	JTW?L?5ñë_ ?ɔ0.×ntB[\ÚôÄ6¹?Féã¶{š9eߠø?Á:íNýyW| RiEÝ&ëEµ?Pa4juEÌüA?Pú?TՀ»WÚGWÑ
+©	HªJauu÷ZÖM÷îTkæXg?jG?Õ/åTXÁ?XòÉ
+©	7yÊOÐuxÞëÑø?úBqÔ1ìó¿ГCÞÁÅãFÀ¢©É??I?¾Gù?EC w­·«ýÎ{ ¦ Q Ü Wԉåõz¶¼@Â?߇Pʊ®}Y1±¼ç)S¿çUVM ÷ÑCk¨Ñ
+©	LÆr7«tÊ,bæýË?,þ? I;-?"é?e?+{?K?W @A?pmB?¥s; [?õ?O¦?u?eP]W?62éSº" Ã+¥ôû?}#+?ÒÌï=?¿í¾ÛTW?ë݇Òûw? ú2°÷UùRºk]?B"3hݕ%<ÉFü|âÆæ?F(hÕÓ%?Ó41V Õ \ â?8?hÐùB- ªTzÁïN??ç@ú°ò%ù?,¿é\¤ϓºk°ñûe:]9ÍH¥'àÊÍênJ?&_Ø@?¤Ϟ¡úaw?÷%?Ìù ¥ÂJ廿5 YQ )Yæ?põ%?¤?éV?Ñ?é?ÍÜr
+©	5CUÅ9¹ux?SBXE?°ÍàöÍ{%ÿ§쭣?¯ÿM%£C°A?sb÷Ñ?À7ÛRÀÕì	Q&üv?#?C?³ÒZ?äý?`øm8Q Ӓ*ͨ2Näö?Hð¯wut¥?»¾*R ،fZ×ÄõQìc&&¤ 9+:u}Äó6?¤6m9ÔĞ>?L؀Åqä9½2×iÃT	B M¸\}sNîüÁå?Nᨐ Bà\?CÆ J63ÈаÄXÚ UàEI~?9M v%	¯òeٜqÚG?BûF9Ö?xõíHÊ?ùµ(ÅÎբ¤ÃbUÑҦ&?'W aÍڥîã*QÆ??QULõåі?5üæ¶B}	eU?sÜ?Ô=âf?
+© m8}i?LdÐġ[yØLY^D Ô{¨~úõâýDÂ?»Èt¯­òóÎ#÷ Qi¢'9ò?öÉÍī¥BÀN?KGjÓu{&?©?M'À¤H°Ø?ªN?Ý=ã8?I§	¥X?Dm¶@¥?hZX}v[¦½?ú,upÂOrHæ²?8|w, ãZÒÇcàA%ðÇÄ<ÚLë V&?PF7@?âí?äH³Öqw~÷z0Ú?çԶ^?ǂohZ?"&Kç?Ôö±Ô?lxÖw&?èy5»±½?#¶,P¶CÞI?^§_b`vM|¡Ûa?\§ÿ\{iMr|	_ú?tý'š?ëÈ? õ?Lz?x?ç)!Q?δ
+© 0aTPt?µ8؀?#!À¨°KþZøVt03:?M_ªñV	-´Ô?ÇZ?BsYð?\¥Va ?^m0É8ö&{³ P$c?誟ÑM`r´3ÃPMÀ¢$é[h#m0Ô
+© 2ËeáÔUVd?ÃôÆM5?Ü¤öÆZàò?ͧ¸{Á<?ûF1ihâ æ?uÛâ??@êX?Àã$m?P£ß,¶&Ǡ㗟 û;Á©;°©?Ã=öÆwf??t9#ô®ò4XÑÿ?qN{?oYÑè?S?däݱ@%Ü"upÃ?ÄX dw'¸3£ÇR] òôÀĦ슌Z?[ö˟?Oa?ÚÛO{ãà?¡?eڲjsne ×yãʡ©FU­3:?J¥dõHl/~`ÿøéÔ×O??SBÌ?qj?3ªly?Ø#?ÇæõyoO©P¶²É@)o­ªáÈ̊¤ó?î­Éyϻ<c:X`}ÑE¡±<¨!¡n3T0¥4Ä[»¨ìÎï
+©	n[Ol¯	Xû°B&Û µÂȨ?m?pa?x"?&q%?ì¤!o5g NÓ
+©	E}7C|?q ZÐÞ$Ñ@bý}(ödýEÂùøo(ÊG{ùhp³؛¤¥gNäcì1ë(|'±ôǙ4!Çb­E¿È43Ê?Aw?9¦ºì8öþZ?ü?3½8Â?ý¡?< v9zu[aÙbm-µ&OW?(ýpbÑGCMta;×2F32?ýu«ôvɔìÃBýyÿ'Èíõʈå Ê`iÛD[)?yæª×ÂLÀ/,éOÙÅZ???WW?pý¬E­õí7膦$¦Ãu \|îSF?±J1G±}û±g fåRt¦ٱã
+© A?PL?pL?ý<àä|aVZ?ÉhÀÛÒDÜT?Z?ÆgpÔ?e *M$O¬ÚFwñT;¨Gr?~,?1©?¹©?B®±e6^²ü¸ÁãEüÚÐfwPÊ?JÊu(PX pawm? .JYQpz-#?@ó? ô?PGÑ Ô?J ?Àô?§¹ª@A?ó?N´®àAVpL {¬?,Ç9!Zd×^ö·XoÐÖÄ4ò?ñ<ˌYõ}ÃÈÿ¹?&?ã {QÄç¦q?F&²aaþË?°ãÖ Ñ?\Ék?°ÆÍp¥Ä?ög?ÙÜ6 0¦­ÃS@°¤	RnñÆO~?%?r?Op÷?`ø?<Åó?Þ?J? @ú O
+©	XJu	@a=y?5*?­,NË/Ô׫ =vÓw?ýqÿkÖq,²³¢6 õ&Në?ñU¡?^¬#ÎÁ¯ I?u¤*V`?¡Ñúº`? ÆÅ?Aÿ^bX?/¯䘺gÒ'¯(w»!_<Køì?©¢û3Úsjg?OäNçWËóäÃ
+© 2Ëp}2î#GB}ãD?æfäîÌK À1 @a?·`(9be?â?ù öo½ÙHS|üJtÓp,©ò;×iM÷¦ӘRQ&&ÎäÁëLÄ\¦}0 ?\®¨¢Ývx6?ԛ¬?ÁkV²Äþ6KBKÌFT)½]`ybZ?Ã ?Ad«~ª¤öàÿ?µâm<æ?U^qÃwª?{K¹ôXìKùºkïO`㾥\ـô	H?IÞgOßzû·?CnЃՈ?m::3-g@õ?JD?g"4b v?>4?ӜÂ1ÛI1k?«Ð~i§j?Ȥ(Z
+©	r?3ÉRÂVqó0ûô7ôÎ?À³(CéÅ Ԃ²ø0©ʼUZ?%#æ&?º&ðwæÛ;a	VÅ<ïTñù¼ÃÕÿ/ۜ?ΧÝRVvo<á  ª??ï3ù?Lî?E?VzO@S8?yï@P?E?Dì3tGÆ/¼?3zâ6 æ8÷æHèÅÀ/ JR?ã¥s??$s?lQìkþ?ҫ#8ºa I?B £?Á»/ÚxS§?V?ú?ÃßråiIѭ?Q)?À¨q°ý¤Åm±ð[ÏC" Î9Á«'ÞI ˓ý¤ø?`¨ï3?¡HŽHÉÿ?g ×3aOÔ'Õð
+© 4
+© 3rwr?Q !ÂÞÁì!òÂ |?lvÇ?`a?Ða?®Ö?=ìç?.«ãq?l?ãa srç²Di1­9 a?ÎÛ7 ú?`m?óy P ¨«;¢ 8ór­!Ñ;)ë í?» Dø?À??<JÏ@	5ôNr?À<É?~ª Q°äkEO`ÖhÑmIØ?°A`°a`¿)Ho6{ `?e­áýÉÑnY¨p°`°AªS?È+¾0ºó­Møf?O?ñÈ!V 54?¸Ô?a?Pú7.?æ³?ú?M:|öêó Ç~e°Åçæy>b?Îâ?$?r?Tå?|Q?Èñ& NÇE"Á"ýݬ|Ǔ0² Dۦ 8 2Ằlo«
+© u°U]?P9§3©m5µ{ff?MQś߆bkjnH?iT@¨õU\M¡z3ÕC?w
+©	q¸rɭR3ÈUéa0Ä?íý]?ø?	$/±[?¶Ó*?LÙí-í ù®]?
+©	gûÖcº	Oýã b¦´{½z?lmÏZ?կ?Ç#?ü
+© 4v?Z?d 8QI? ä2åÑèÁ¦¾ÈI¢:5pðð	P{ ÎÜSg3ó?Pab»Ð\uP¤LZrÄà :5Â?V¥9Ϧ0?± ³tѳGú½¦Ñ0*ÕA.򭵽?·´3+©Hm½ôÃfQÓl6g?,õílãÈjâ0L5}`wWoó­0LST?±^¼ÿÿ-ÇóÙ Ë\WÖuA§A·¿òÁFË?½gM>M?Z?ÇQ^1䝹¾´H?Ms8 9Z? l¹á?:Ooנõ}?Wա*ӿPø?³SÞMêõ?SÊò /Ñ^	[eÏ^8ù$þK{|s?ÿë?·±ҭ.û`ôÃ-*ßїꄳá?.
+© 6&jXÀGõîpª[ Ý|ڟÓÏÊ?
+© 1V?CÎôEq=&?´íN(?ºM?L¡,/é1]Å}ªc?·T?û£ù	«Ý˰?ØPI¹ðªe NµÊTMT?_ð?a. ö?ú?ò?@õ?È Y~]Ǫz+ `lðø?ÏT?P¾Ïôö??dQB:nI?!%m0ã?ü·Éõ T
+©	IsUqk¼?Ãëܾ9$R±BÎ-é°là?k??þÆÍg?áz#ÎKté~É?ÀP@§·<»¸ªW Ôچ§¤?P ð??Ç BÒÑïw=<î(%}ág?Ïw-îdÝÂ?M®Îî?§D#)V_âI ÜEqñ[	aþ ׽eWIÒ 1ìBýë¼Sq¡*fî?qP¥?§wMÂiv	h¤Mr³ó¤èð÷åòF?õ?9, õ Ø ú?³?°õ?uÈA$ ű¹~E?¡É@õ?E?l0]< ´Éóã¯	¡?VÂRÝÑ?ã?æv򙾏?Ҥ÷ h`iç+?@ò?P{]à{á ðóáLæ*e]àLà
+© 2}Eddmóñe
+©	Ee?46zµe^0ù Ðcú¬?+!pه®?ZPà»(RµCPC¥?LýÍAm0ó?®?捖:£(f~??çiVUeŕ!'R?؎Nú}AX¼LJ3iýÆódÔ?eR·I?ï>&üC`©؅eýÀúJ}~ كâ,°´`Ä?ðÄp¤0ó>tþVPú¨+ýÄ?¯?öm1É{ÆÕ?9WVRVjUe?ú,Õo±#ñã?g`C8ß1 ?c=
+©	M -I½XãOi â'ÂôÂÉ?åMx<u{ñðVßɞîÇAAbb"U\ؒ³?®åiççÒ[?a¸ç|M?ÿ±o^?Ðã&´Væ Ç?»??hªï×?éZ?)v´I'?>`y¾P¢à©?B°u|?ð1ÆCM(g?ÊD×NA"??HɺY ©_¯?ηU?üRÆ?ô?ßq8Ѳò»9Y}m?/¢?ã¶ߎ>Ǌ/ò/í?þ{ç>>îµWUÍÔÍJ»¡BlRJ{M	kÝ\rµ¦$8«³?x=ÎY¶&y?»?EUýÛxÃHÂҰ%ÚÇpÄá?ǼÛù?`ùpY]óBâ%Uá?¡?a©¤ò¼ ê5+¾Q^?m; pø±{
+©	s gråÌ5¢(dY ð_)?¸̴c?¡ÛÖÓ!r )sâ¹sXÑk?z?. ѣôÂû?t['qmf ü ?Ôà?°ä	?¨? ? Å<?!Îð¥ óYlC	ö«¼üçæ`s6fÀ¶Wm`rüÝ £ªe?&Ó0Ђ nq%ú²ñiÌ7?¹lçè|, Agó(û7M=)?§ÅÙ?V?Z?¦«?W?d6gÐ÷Coó9Æ?2Ë\?jgæ?ì:ø?_m.åÙp: ÊR|
+©	P¾qT21V?»ÖpÓe­O?À	èCm 0P/¸ڥÀ
+© 5Z~iµur,J³æ2ÛGeyþ݉Ý#Ýàɻ ŒbhßêA?ôÀ9ÆÖZ?þWÇÀÃxãë]QíòéB?B;¾Eё?¼G n n¦¯?Ðn?9r?¾ ÁY?r/ëP}9"xiRҨ?A ß}·èL¯Ån ¹`ç'Å?k3{_¦l´ÈÁañfdÚT3$a	s¹ys_)s32yPC$³m?(Î?;?3=?Q?s©$dÒh3E?2ip è§ÀNöÁ´?´ /lm0?`>µ?ÿ?ä?Lù´-f?¡+.?Ó?e¾x?Ä[?æÇ?æwÉjN ,»÷yÛè]	UK¦Ó~½ۑgh._¾c<Ê?-¤ ?ðÐ6}?t </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.A.TXT.SPACK
+SPDXID: SPDXRef-item5945999
+FileChecksum: SHA1: f7cad21833fc0592d35969ceb05512ee8ee1303f
+FileChecksum: SHA256: 42031857133e4ad9cd98ebb0baf33da37eb2bc2eb3b473dbd0f589bf1d4682c1
+FileChecksum: MD5: 36cb742fba49f3b678644c260faf6d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.GRAMMAR.LSP.SPACK
+SPDXID: SPDXRef-item5946000
+FileChecksum: SHA1: bab25608599245bf4e3f35fba05d4fb1adf33571
+FileChecksum: SHA256: 7fe0ac596ee7a767dc46696c238be70d80fed7f7f193745b86f0d7c42672c6ec
+FileChecksum: MD5: b9526e18f7a7ea52a8ae389501d4e7e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.XARGS.PACK
+SPDXID: SPDXRef-item5946001
+FileChecksum: SHA1: 19ae834f27738c8adfd87d1c35d0b7b1bf6d60a5
+FileChecksum: SHA256: 2225e6b73286a5e8db7afbf24640455153db96c4f2f959537da5b5d62d13dfa8
+FileChecksum: MD5: 944babb63441e23febfceb7fea62e62b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ALPHABET.TXT.SPACK
+SPDXID: SPDXRef-item5946002
+FileChecksum: SHA1: dc5d1787476c634d75cd7bc7da01ba10bb85e9b6
+FileChecksum: SHA256: f865ce34b9a1a87a0b4e1ab3dea9bb1261ed51e5497cda971af95baca95f095a
+FileChecksum: MD5: 4fe572284b1affa4d4ff0c891ed3ebaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.CP.HTML.SPACK
+SPDXID: SPDXRef-item5946003
+FileChecksum: SHA1: b7a7bdee6827ee5b81ce155f59e7799b7cc03bcc
+FileChecksum: SHA256: e3cb5115cc6d6ba8f5414fee6116f14416e8b73c77321c43f46476fa90ad1a79
+FileChecksum: MD5: f271681b5e0afba1eee6049ea0afed15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.E.COLI.SPACK
+SPDXID: SPDXRef-item5946004
+FileChecksum: SHA1: 6516f42ca83f1bc9baf2003b3f6c37b4f69ad453
+FileChecksum: SHA256: 410ff381f517ca350087cf3b097c3f5ca01f9553e34e9d63be6f4f0421030653
+FileChecksum: MD5: c58acf44e2745ae2f4cfcc064a710cda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 1?s a 1 ¨&7¡2?ftbѺ!ºÚQ8?Î?Á?G+&á"?a?-G$¹±?}V?±V?ÒÇ??!Qo?ÁV.òn5±?bB=¥'?a?(±"©???¡?(?²?Vq¯&ÒYxº7¥Õ-ru )%?ÒÑo?´É)eË À?Ò?)aV|±zÍ!5±?Á?0§$ÙO?Û  ?©½?E»0¡qJ?zXÉ á^H?¡5QÀ&ùFoWק'ZC·S?רoVz1?á?¦.lÑ2 ^s\?'Ø?q<?ÃyO"mK \Á?Û?ñ?PÔ7ó?~Ñrm?2o??S[T3ó *F?ñ Uê·á?4 XÆÿ? </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.BIBLE.TXT.PACK
+SPDXID: SPDXRef-item5946005
+FileChecksum: SHA1: 7e6411fe2d71a132e773d955d882700a6bd59fe1
+FileChecksum: SHA256: 399c989c25a7dfee84d65f22215e4fb43a0197e18ca5983fb1f309aafd670bfb
+FileChecksum: MD5: 83b7799e0606f342399ce13f84523b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	O§JuÝdûN=/ûç?läx]'/Å{¾r®Xlô·9û	Lbº?8RÓ?¤$î7?Xy³m%½.|^ôlÃâru ¬t¡T*ÎVoÏ?7$zt8 </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.WORLD192.TXT.SPACK
+SPDXID: SPDXRef-item5946006
+FileChecksum: SHA1: 116518488ee5fa0d2320fb296580278d4d0c9027
+FileChecksum: SHA256: 78c83e23219e1be9e944e9826594186203e031f81e8ff83a6283875772fc2bfa
+FileChecksum: MD5: 07bbb0625ad25129b849cb52254fb2fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	aST¢q&Äm$sh v7zC±Ã?`_?1Z?æ?Ñ çª=Z"VMiÏw?b?àTá?y±ʠc8?M"Ì?#År?ÿ!µÿ!?SÙyXµ*×6âóêfq?
+©	DXr?KPFX?:´íp£Ü?ò=\?1;AjfJI`@a?À?+ñ?vª(=_ʬ?$Еébn£Ù=Ñ 9lZ^'?f§3 xÂïC???êj²ͮÝ!G ê ¨:5Þ* ]$@ÑùBá_Na¸\¯ÅËå´7>¦ÒT¤±8<Úw'Éø¨G ݵ7Ñ?@L? LümØ)c1i0íÅÌ?ïð(7ó@[y½ã*x¿%ññï¾ßdï?Ì?g]nêq©?ú?­`Æ'A?م?zÌgS:à ôpZ$¬Å~GK?qý;iñ©sÙ?Ãs??èëquÞ?!?s½Q?#¡ª?Ü(ã?¾Hâ?!óø÷5
+©	KE	c1-R6	pÈÑI?èëfÃ1wÂVÏr6U£-ªÝ?¼
+© r´e¶háós3??ô?ú%jW£æ?³?ÀA </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PLRABN12.TXT.SPACK
+SPDXID: SPDXRef-item5946007
+FileChecksum: SHA1: bfcd84c600fef06253f751165b59d496f6596c6c
+FileChecksum: SHA256: 689bd4c65e1dc92fd88b9af62c0caf2de2b79b257c5fb53a0fe292b6b4f2fe66
+FileChecksum: MD5: e743c1510a96012483c580155066992c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	a?F!2ÉBx(%?+KáN?­ri?í ésÃ~L¢j+^Y?÷?&WÊ+2&ak?¶LG?è?ĺ,?¢G?eãû£T·¦² ɟYÂÖ?Á? ¨ټ ɂªÇ ¾ë?Ö~d®|?:1̬ÒgK?ºt?ÊO<LöÒòÁ?iQ¬X </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ALPHABET.TXT.PACK
+SPDXID: SPDXRef-item5946008
+FileChecksum: SHA1: c9aabf917274f625f5e8769df8052d24f620a98c
+FileChecksum: SHA256: 8ee1a90ad04b2b04bf1db01086c03b112c70a08333d4ce4d2cfc7f8f33daf448
+FileChecksum: MD5: d52fcc4a5a44d33944aa58042e2c1d44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.LCET10.TXT.SPACK
+SPDXID: SPDXRef-item5946009
+FileChecksum: SHA1: 9450672b1c30595819b2d166e82a5c1523ee7c28
+FileChecksum: SHA256: 639090c668052a15b440f5e6fc2340453931a41327661672e733aa8f99ce02e0
+FileChecksum: MD5: ab8f05d31f294e2890876fae907e627a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.SUM.PACK
+SPDXID: SPDXRef-item5946010
+FileChecksum: SHA1: 6e6a685f0c6ff67bfec2ff0f4d04a4d7f65a4b66
+FileChecksum: SHA256: 728d330d14be53739ed19300520f657f5c8699fbf90149582d2ac5715d5b9a2a
+FileChecksum: MD5: 1f97cde87ea0ae9eaab04ce3a1c4bf64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.AAA.TXT.SPACK
+SPDXID: SPDXRef-item5946011
+FileChecksum: SHA1: 50f55e4104058ea9168d39897e037a7f8b939f2f
+FileChecksum: SHA256: 8d59ce21686634bd42ee91124ac92de393a2ffe16540d25acb0dd4475301163a
+FileChecksum: MD5: c7268d681edede24282d9406e74a73e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ASYOULIK.TXT.PACK
+SPDXID: SPDXRef-item5946012
+FileChecksum: SHA1: 06923b08bb1ee588ea824d8cf6cfe019c8727056
+FileChecksum: SHA256: 48d269561e29b5bf981a98beba918513a14cad948856f211293254f5a50cef1e
+FileChecksum: MD5: 0e9d296e655754acb1426f412f6fed5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.FIELDS.C.SPACK
+SPDXID: SPDXRef-item5946013
+FileChecksum: SHA1: 987260d62ef34396526a4af207ca36a1472711ba
+FileChecksum: SHA256: f09ccdce457f946965b0056bc849e3bde55db0fb190be14761d63ea73d8bfecb
+FileChecksum: MD5: 5dafc403cd4670351c5a33b3a0e9082e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.FIELDS.C.PACK
+SPDXID: SPDXRef-item5946014
+FileChecksum: SHA1: 88487fda602b9d1663639484922e5dc8d9c97d33
+FileChecksum: SHA256: b02a06ed2b13b10fd870a75945d6ba4a6bdc80a54a056f25b5476b6a9691a697
+FileChecksum: MD5: f0679c34fbaf44c2b5061c2f0a0d7cb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.XARGS.PACK
+SPDXID: SPDXRef-item5946015
+FileChecksum: SHA1: c04ce95976b8b4b4057798cd237218853bb602dd
+FileChecksum: SHA256: 9d62c3e7f40673c5bf847522ea2691430083bcc7f172e528c958a5c1fbaabb85
+FileChecksum: MD5: c61b0eb8c24af7a6eae818062ff7c9fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.AAA.TXT.PACK
+SPDXID: SPDXRef-item5946016
+FileChecksum: SHA1: 8650bfe0607d9a16af8b073faa702ab9bd73aae9
+FileChecksum: SHA256: 899ca9a580992087b62b861f5e2015dd19047c70a7d847605294a9ada08ce9e5
+FileChecksum: MD5: 3877fd2b12316e4e4c25fb8dc0e65fa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ALICE29.TXT.SPACK
+SPDXID: SPDXRef-item5946017
+FileChecksum: SHA1: c0ce85dad63ff3695d1e73d802e4c3aaec8478b7
+FileChecksum: SHA256: 8f530c6330108b786fb215ebe1bd48c8e3f19c50fc80d467b139987d5ec0fa15
+FileChecksum: MD5: c05035bc633845c8d58744e4fb21551e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.SUM.SPACK
+SPDXID: SPDXRef-item5946018
+FileChecksum: SHA1: 587a3889d499da498a2833c88a9d4898bce1563a
+FileChecksum: SHA256: f5fc5d1530b492553f74c1fa857fca10f4bc9692f9e9e3ad121bd59f91827127
+FileChecksum: MD5: e7589d52fccc6eac52b1604c3a28b17a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.KENNEDY.XLS.PACK
+SPDXID: SPDXRef-item5946019
+FileChecksum: SHA1: 69a6cf1742cd152f996dc6cf24e803ae77f09de9
+FileChecksum: SHA256: 2f63aa98a4c93f1c8f9a498888f9e36613449385d82018c881d1b2e5a27f298e
+FileChecksum: MD5: 9af22fb8ef6cad2893eedbcaf48d976c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	E"éE?éE?ùE?EêéEê©E?9EûêiE?!S½^ٔ^å^Z0׫?h̢?ãSÁ@Ât¼?ô	@çL?PÆ?¹@?ßÿ?õBP?Ý?Ç?@ìé@+I@Éy@^?o?H?÷ù:î?ù=?NãÉ@ùÝÃþ7 )@9Å??Uy©@äøÄ?¹	:Ú~)!	@âm§?©@ð?Ý8?»?!?#?JÝÓy:ð?¤§ùÚEߔ?ݔ?2?^ ?Á@?@ÝI@Ý	@߽ÝX~8ß}Ý5Î8ãY@?y4Ö! ¯«©?Д¡ ôÖÚuj?â×ÝÓ<ã_
+©	2"é2?é2?ù2?2êé2ê©2?92ûÝíêi2/í?îÅm~ٓ.å.!Áþױ¦Ê ?ì'4|?ìÈÅ?PîtÏüº³'éñÿâ8KÉ.(.êö®p µèÃX)엒è¬?ú`?).:í±NÄ/r1?]?/# »?óãy.E:E>?]ù.[.r¹.)V?ùÚê}b?.á).¢i.?.R9.¨I.Âù.?.G.ýÙ.#).åé.°).\?.©.ÝI.Ý	.ÜÙ.!i.§É.½.ãY.£.~).Q.Úù.ڹ.ڙ.-	.Ú?.Ùù.±.ß).V©.?).¼É. Ù.åù.¢©.¹.Ú).'.¿.]Y. </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PTT5.PACK
+SPDXID: SPDXRef-item5946020
+FileChecksum: SHA1: 9c5e629e786cddb73cc0a93c5cf651e1d2bac94e
+FileChecksum: SHA256: d8a10c47edc159561a4bab6870d982306fc9e1ff0af8f360c1f7bc1598ec0720
+FileChecksum: MD5: 450d4a2cda46a7e4049da182001ccc1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ALICE29.TXT.PACK
+SPDXID: SPDXRef-item5946021
+FileChecksum: SHA1: 8ad531e3b27f03cebf8af0a9791b01ebc7c2437f
+FileChecksum: SHA256: fad2521b6fe85494ed05a386a65e3954b69161f0be97298a315d9dcf216f2edb
+FileChecksum: MD5: 3c27a0893bf8880889bba3cfd245db23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.RANDOM.TXT.SPACK
+SPDXID: SPDXRef-item5946022
+FileChecksum: SHA1: 79e9ab44570e91a28c2e236dfc02466bc54acca1
+FileChecksum: SHA256: 061c9d048292fcb87e4ba6a6dafe2c4da38141fd7214f70f90aa53b17ac40c3f
+FileChecksum: MD5: 234a5ddd32e7168156db3d57d1e0f60d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.BIBLE.TXT.SPACK
+SPDXID: SPDXRef-item5946023
+FileChecksum: SHA1: 2c6670e8cf30a9467dd42c8473bf22afdfff6213
+FileChecksum: SHA256: cb81cc1a93c4851534342f4f1d736c02fa9e7d5a0a92faf6747f5829262315cb
+FileChecksum: MD5: f1716dd7a0b63d26e2c831034eecec41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	X1	GãZñFR0b"b¿hD ё= çHΎe.?o/ã×ê/ð?З </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.WORLD192.TXT.SPACK
+SPDXID: SPDXRef-item5946024
+FileChecksum: SHA1: 182e50451d062a5327e95cd3f8639057a1fa53dc
+FileChecksum: SHA256: fbd7619e3a5d8abddd31318b966a38b7222be6846b2b938d615c7ede0ce10600
+FileChecksum: MD5: 3871d8b8e2b082ab2d83082f85d88108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> © 8HÌ0Y3"GR?Qÿ$Óá,±Í?8éPAeãÅ?Q??Ûÿ"iÁ»è'UÜ ·\ZrT/Ò{͛ò??6óÑdqV.ØÉg ùs.OdH p?é?j?«Ԭ!@ú?s=^' ƃq\b°ØÏtÑ?úCùè"¡±8?@) %QU?â/²Ù ¾î,üB"?Ã@Øôò 1?l?_[?xt(¡ y 7¡ó6s$?àÓ Â*{þîÀç"UQ_G: å?y>~Jç /?IC¸F+«Õ{`&òK֋b#?âòA9.ìÐN?0å(?äÁ J?%ÿ2E´?ͥÁCá?¢ø
+© NpéÙA}r@\0x?r/%A!?éL Y!´ÊMú??÷Ç?¡M?fp»l´DڹשO_c·%F@MË(ÂS¡?ç 	è ϲDý?BªóþIÛÇ]î7Ò/g?ýF$یC?У?S iÔbH¹
+© 9»wbDKÉÑDP(8tñhÃà ÉMPÓ`ÔM©?á¬?V[NÐƣ0£PÊ⨑¥" ?á ·$ pa4?· =ªÓ;?áÓ+Á?9?ËöR# Øuøñ? øÎXQi D¶?áO?àñ«Ðò??@ò2ç ?btbÞìro^?A@é
+© 21?5?÷7Ñþ1ýÊs#ÚЧ|Bö?ö´[ "r·;,Ö˩?l#=^#¡
+© NpéH \V¾] Ó.ÙòÒ?é$P(, ^v?eö;rTd?ìf??Àô?ׁ?B­!½pz;{*!n¿?l?Ú?±æ?ÑbF/ui?´ÄFïPÄ?Ì}ä?ع}OOъág?ìBJF#Ò'<?­?Ñ$q´îágøeÏfÊÑVçäÉ?ljûð?K{?û°¢?å~M¯úIs0ø0O¹aK¤^8ß?K®é<£ò·\ÏN?ö?Ý	·ã?4S?­¢¤ [%AX?A
+© drC z A?_	1AC} ¶?^¥ࡶHmÊñ?8?MãDP&?+0´nµ/ßô?õâà¥Ýd u}°Ռ(0©«ÔÄ?ò?oh}?Ȃwòû	s.gë!¹JA´TPrgT0æ"ôn?HB?ÁÛ3Úb³E§ÂU	m踗É?1MjãÚr/šJ Øuø`A ú?pò?MÍ ì ?â àö?j½?< u@óq*È?£± ù?>¹_|I?aÝö2î:?A)À¾F*BX`ù?Pa /c~Ô?b?}@ f×Ԋ?"?þ¨·?o?âC	½Bj?¢¬?yk^!Y7f@ b¹¯?@?¥Á*ÿ	q±?Y ^(m?tÌå[£Á
+© N.S¹?M'?hì=lU?ã Yübß7?»ËoTõ aBEÂj¡ý?ñ´F*r]´ 8x9ôb?0\«Ð?2&xòؾÌ?$üc«ү͙×W?õePú»SWÉÍ>OPø)+µµwäOPù»ð?³¯èá EG°ú~H15õG°ùù¯Ý [õ?%ºê?t±ޡ´îä> ×&ïÆ1Á?¢^З??(ôõ4a?²TÜ*¼?Ô ºà`öÑd(i" Q¿ ZN AkQ?ÄU´æ?P÷H>ü+á"?«֒jàù\ðöSÓÄâ È ä?(z?Ér\ø@­@ç?H ý½t ¤?pa% vÀò&
+© 9»wc J1_g"ó=&Mk VpwòéßüP$eþ??B? ÆMPÚ`Ů2äk¥?Ï?¸ãÿ 6! ¯SÖë ¿?x!uw	_à¸õ?p¾F ù«Òs?@a?mÁ .?0èthtðz½?p÷ a(ÒKpAYìU?yk"^Ã??&?¦X¹Û?2LWim?ט. 2åÕ?q?RQDA?Ìoj1šJû@a¡\WaQ"!°¹q?Äoº ÀŅsoÍa N¥ߴ?º>@BvÙwùqwZaÐ¹rå"W¶*ñ Y¯B1»_so?*03¤ w Pç?O?¬ã!lݙ ¨u?· aH?dq?S}?D r¢²q?Iàp
+© Npé÷p÷~Måa#?2ëpįçz1@·¿w?§ä?ª×ÐÄõ\uD 6!h?ê?26,@)×.^G3Á ?R?Ivÿ0rì¬?åÄ?bî¬Û67±up?s3Odb]ö?c? ä?SŒöýã¥?&äûpö¼qL \"{?øu@ùZt ¿ÚÒ%%ºê?!¢ K®A?P&ïÆv`AqMЗ c I
+© NpéùM?1qú N1`aP(Ü{pÅ%÷p×qª?ѶyQ§ ÖËùOáÿó {ñAO_c·%F@q»(?ú6A¡ã?2íɘ?k{ùMÕ4QOÒ	U?ðÄ-{ÇPªó?N7#;qhIçyX{7?àêöP4ӥ2>vNÊÇõ 8?¯?9Hɪe=(۵ôA´îã¶É?îßÛ(÷ä?JS=é×zK?ÊO݈k äªg î@øýuC©?@Ç?%ºê?RXßùP©U{?MÞüjÅ¢^В* ö?Àó?n]Ç(Z??L ÷?a?²T $; àù­(#rf?Ém);¿?ò?)Ò4³éG­¾ͻSòGç? </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PI.TXT.PACK
+SPDXID: SPDXRef-item5946025
+FileChecksum: SHA1: 39dbbda66d2033b12cf7ec300bd85cd134a9c7ea
+FileChecksum: SHA256: c3fc9563e8f43d0c827932af2fddac19fa085972c3283f2e43f1fb1fe2acac5a
+FileChecksum: MD5: c24bbae596d69dc364429bcbb688b7ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.RANDOM.TXT.PACK
+SPDXID: SPDXRef-item5946026
+FileChecksum: SHA1: 71dfdc3d61d78777f2e42065638bd52aa02062a3
+FileChecksum: SHA256: 02a63080668005f7b608e4ba21967f57db16c7992d5ad21748afbe0b5c3c2429
+FileChecksum: MD5: b7705345dfdb2549d6c6404b08be561c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.KENNEDY.XLS.SPACK
+SPDXID: SPDXRef-item5946027
+FileChecksum: SHA1: 4edf5c116384fe95f0da0e91b73f33ce8ecdebc0
+FileChecksum: SHA256: 494ce0c0d1097144d2ba8bac2280dc1ee955d4461bc1af263f1ed7b75cb74135
+FileChecksum: MD5: f98f298cdcee62e8f7d255651fe92549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.GRAMMAR.LSP.PACK
+SPDXID: SPDXRef-item5946028
+FileChecksum: SHA1: 0e2a044ec755a134a5874760ad6cea31f07ccd2e
+FileChecksum: SHA256: b9a5d1004bbb7dd5e658645f768de6a36db7dc43c935261296e6f16565f609d2
+FileChecksum: MD5: 5a44773e77631a28cbfc15b44d8ddacf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.GRAMMAR.LSP.SPACK
+SPDXID: SPDXRef-item5946029
+FileChecksum: SHA1: a1c18dbdff72d8185451a3d362a46efa3a57de00
+FileChecksum: SHA256: 998040a2b8b28327fc90a78ff8bfd9b279213ab8149b59c33290bd022414d7fc
+FileChecksum: MD5: ab139885fcdcf7dbc4e8e25e2851c2d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.PTT5.SPACK
+SPDXID: SPDXRef-item5946030
+FileChecksum: SHA1: e28dc91ac4e749c4ed9eb0554d5092bde9fdfbd0
+FileChecksum: SHA256: 3097a42461341e117918970695b447dd0c8588bda5c5030b6f719d04f528d936
+FileChecksum: MD5: f0309cf7ec140b9859e121d071262e37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.FIELDS.C.SPACK
+SPDXID: SPDXRef-item5946031
+FileChecksum: SHA1: 511e24278d7fd268d77b437834fc78afa74f06c3
+FileChecksum: SHA256: f07ce40c8aa5354b4ddcff14bfa18737aac05e974f03029bf71c2077735527d0
+FileChecksum: MD5: 31159dce90aca5352b86e3f4af702239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.RANDOM.TXT.PACK
+SPDXID: SPDXRef-item5946032
+FileChecksum: SHA1: 2ffb7c6d82cb891fa8d2e05866936b449bbd30c7
+FileChecksum: SHA256: 9ea34d7bbe95723b5d55eb22c4641b9786797ac7d8cc19969a7ef2289dfb113e
+FileChecksum: MD5: 1b38c42264184e57b452178b72a6221f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.LCET10.TXT.PACK
+SPDXID: SPDXRef-item5946033
+FileChecksum: SHA1: cdb42d58129319b843edc646301dd6e433099652
+FileChecksum: SHA256: 9901bf0ecc5cc1b55645efca5495c573da6a27f36cf2fe3027a35ef5d62d3656
+FileChecksum: MD5: 10c2b645be6a11f88ef0e44d0afa540c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.LCET10.TXT.SPACK
+SPDXID: SPDXRef-item5946034
+FileChecksum: SHA1: e80e7cc959b680719fe885e1e7859828561de0cd
+FileChecksum: SHA256: 0a6d8e45bb0d0de5544e3ecc82b32e5ef0cce538e1df789e1c4f2349d5296b69
+FileChecksum: MD5: 96e9161a67986d618c84ae7aa2e6522a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.E.COLI.PACK
+SPDXID: SPDXRef-item5946035
+FileChecksum: SHA1: 88661b7952cf751ae3d25b6ed9b7298453668b69
+FileChecksum: SHA256: 799f3bc75376364650996b2fc24254df1bfa3f2f45047823b0c811b8c04b5607
+FileChecksum: MD5: 3b13e8dec904b3e8202f5b52ca9b1255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.ASYOULIK.TXT.PACK
+SPDXID: SPDXRef-item5946036
+FileChecksum: SHA1: 748266b0d55b9562a791571cadb90e990cbbe0a3
+FileChecksum: SHA256: e53abaf6bc89b2899f03dfc4b246ca5cff7be9a5110847d1686c765c0c921f8f
+FileChecksum: MD5: c7ade2d7f3c8bfa6b9960f1af2723fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/FB.ALICE29.TXT.PACK
+SPDXID: SPDXRef-item5946037
+FileChecksum: SHA1: 6da7dd8800dd22991a9b35e4ee079a4ba392158a
+FileChecksum: SHA256: 6529ae48544063e618b5b2f5d5b3914968c948cfb8d9273706e669bb2c349c3a
+FileChecksum: MD5: b10f0c5ca72c64daefcacacb619e7a1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.WORLD192.TXT.PACK
+SPDXID: SPDXRef-item5946038
+FileChecksum: SHA1: adf76e5c27aab40ac69c6729bc854b682937b330
+FileChecksum: SHA256: aad8a6539ee4d35cbf3830fcb2197cf6f342a62f6fcc886c73dec38a211c0445
+FileChecksum: MD5: c1346bd46cccca1a20910208667bf430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> ©	VSpi3?îLҔg 2Ïú ÃØø&ñ?Kà°A?ßï?u?ñ?ümñ/úUQ?½Êc?»[#±²sTMðY®	w?$ncã`ÉïT£¥gRC=¸BmIb?0ڨų̈́L¦5Õ÷¬9F#^þ?Å	0A­5çªÏK?¯?õg?C#µà?>pfÂã<;T@Ê@׶`òÚdڨRu'RÏÆLO}?îû&³ÐîæÓÔe OOÍßê u?UOßD¡ÀM÷¯ÝMïO=N¤¯ÒúrÚø?? UZ?FEmr`ñ:ü®ñø?Á0ôü?´Jù[?¶?áû¬9ÛivA`Éþ¯O½7j÷[m?iôÿ?6FìÒþ?3mí;¿0	0±ۿ </text>
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/TERSED/VB.PI.TXT.PACK
+SPDXID: SPDXRef-item5946039
+FileChecksum: SHA1: 2552cde7b786420ac63dd929408b6e053d637572
+FileChecksum: SHA256: bae1b41808fb866a6e112876439535d9b208e2281619815f6481c115bc98d5a6
+FileChecksum: MD5: 2e4ae61a28b35a0e5fc7447168684d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/tsc/meetings/README.md
+SPDXID: SPDXRef-item5946042
+FileChecksum: SHA1: aae3a8cefa8f9b2d3a124a1070fe0b2c1fe3cf6b
+FileChecksum: SHA256: 57809f6644f246ddc9052ca1dbabb4e9c34d528276c7e6dd3bcd3b76c36dd167
+FileChecksum: MD5: ae7321cd8c3c7562e9d85e8bb9744b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/tsc/README.md
+SPDXID: SPDXRef-item5946043
+FileChecksum: SHA1: 1a1a32c8f7d580b68cd8bdfe44c92c2db396c7c1
+FileChecksum: SHA256: 3b2ae5ab3cee88d2b3c41f84de1f80f47e105cdd09b2ff19f8dba5cbfcf39bd2
+FileChecksum: MD5: 2950ad5aa387e161959c3ae1ff1261bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/README.md
+SPDXID: SPDXRef-item5946044
+FileChecksum: SHA1: c5e18768b9628a31c80556f0a0b5ffc31f93f0e7
+FileChecksum: SHA256: 94845a33138f8d1f7856511cb1724d37487dd0a68370144497312dd1cbf5c159
+FileChecksum: MD5: ee5814fa3f97c77591aaff834847b013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Readme.md
+SPDXID: SPDXRef-item5946046
+FileChecksum: SHA1: a3bb48e576650a9ff83417d1c905727180aacb5e
+FileChecksum: SHA256: 92421376faacf1cfabc0d91dfe77000aaf463068e376c017af7dfc14898d0f02
+FileChecksum: MD5: 3ce6671214d8528ecf1b03256d01689a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/grammar.lsp
+SPDXID: SPDXRef-item5946048
+FileChecksum: SHA1: 12bf64bf1d4c1f1119bea24e7bebd3167389220d
+FileChecksum: SHA256: 1b0805dfc0ae706b35aac2bb4e15f02485efd24dda5dbd29de7b2f84d1a88c15
+FileChecksum: MD5: ad6ff075a8058262564493050f67f702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/ptt5
+SPDXID: SPDXRef-item5946049
+FileChecksum: SHA1: 96f7ab3d975ea4d823cf30be7dad5827f45858e9
+FileChecksum: SHA256: 0ec3a75089bb52342813496b17e51377bc9eba3cb519a444d67025354841d650
+FileChecksum: MD5: 29eca86237730fce52232612036284b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/xargs.1
+SPDXID: SPDXRef-item5946050
+FileChecksum: SHA1: 777250a5ccf4fd95b48c1c9248ab82c2e0221913
+FileChecksum: SHA256: c58aeb5d2d1e12751d47e7412b45784405fc30a5671b03d480fa05776e183619
+FileChecksum: MD5: 7bcc27abddbcc8dc56d9b1950ce93a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/kennedy.xls
+SPDXID: SPDXRef-item5946051
+FileChecksum: SHA1: bb3c73adde28228f9a311ddfee8f76aeccf83c4b
+FileChecksum: SHA256: 9af47239ca29dfe20e633f80bbbb9a4cc9783d0803d7b2b5626f42e4c3790420
+FileChecksum: MD5: b408d2207b18aba5a378548698735d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/asyoulik.txt
+SPDXID: SPDXRef-item5946052
+FileChecksum: SHA1: fb7db2d0c1ba0a1be26fe1892a7f83bf01153770
+FileChecksum: SHA256: eaa3526fe53859f34ecdf255712f9ecf0b2c903451d4755b2edaa2e2599cb0fc
+FileChecksum: MD5: 2183e4e23c67c1dcc6cb84e13d8863bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/fields.c
+SPDXID: SPDXRef-item5946053
+FileChecksum: SHA1: 31999f829d313a6c10314deba2854b23481ab346
+FileChecksum: SHA256: 85d73e354cc50cec76cb5a50537cf8dc035f8cbb8480f9e1cbe2f7d6c23393c7
+FileChecksum: MD5: 82640457a3569c49615974b5053a73df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/cp.html
+SPDXID: SPDXRef-item5946054
+FileChecksum: SHA1: fc4c10407efe47f40eee55eba9bddffbe5948cf4
+FileChecksum: SHA256: e0cd21cef5b6c4069461e949be100080c3ce887de6f1dd8626c480528efaaf61
+FileChecksum: MD5: d4b4e81b46ae7a3cbc2b733bbd6d8cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/alice29.txt
+SPDXID: SPDXRef-item5946055
+FileChecksum: SHA1: 2feccb13986475534e047996f8f23d44010b7997
+FileChecksum: SHA256: 4cbce86540bcef439f901c89de486d295aa3848e8c4cbc911561054479e73960
+FileChecksum: MD5: b41da93aee51bb493f42d8995e1e13ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/sum
+SPDXID: SPDXRef-item5946056
+FileChecksum: SHA1: 076fb264487f2d6868e67919e1949dcb4560e423
+FileChecksum: SHA256: ee5733cd76ecc2f9d8ff156adc3c02a7a851051dcf43a2d56ff4ee4ff606bdb3
+FileChecksum: MD5: 0d347e6c137c15616ee2becc0123e0a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/plrabn12.txt
+SPDXID: SPDXRef-item5946057
+FileChecksum: SHA1: 811363aa0b98f52243090dbc42373237c2b338a3
+FileChecksum: SHA256: 7f498b78f161d81bf4e121e80fa052b491babb64de44b6364304a117db5fbbb3
+FileChecksum: MD5: 2584bf5ebacdad34814a2a382da557ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Canterbury/lcet10.txt
+SPDXID: SPDXRef-item5946058
+FileChecksum: SHA1: 445d62b312e28161ffb8dd40a607d542067e5adf
+FileChecksum: SHA256: 938e69e61b3411d8a9e2e630f4265000d810f3dbf66bac58cac19493753526ec
+FileChecksum: MD5: 0fd1dfaae0930d05cdad2b278e63d84f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Artificial/random.txt
+SPDXID: SPDXRef-item5946060
+FileChecksum: SHA1: 231f68a1c6d7cee7f1dbb1a5b66b67aa0be0f225
+FileChecksum: SHA256: f939ba0ca704df5e4665fca1d934411c856cf4409898c276ed26a3e591729201
+FileChecksum: MD5: 0e9cb1628d455e9d7723bcb3a6c5da18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Artificial/a.txt
+SPDXID: SPDXRef-item5946061
+FileChecksum: SHA1: 86f7e437faa5a7fce15d1ddcb9eaeaea377667b8
+FileChecksum: SHA256: ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb
+FileChecksum: MD5: 0cc175b9c0f1b6a831c399e269772661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Artificial/alphabet.txt
+SPDXID: SPDXRef-item5946062
+FileChecksum: SHA1: 807fab54d72457cf4bf06cbd68d831f2a87fb08c
+FileChecksum: SHA256: bc634ceb27746878af610424e3afd5024f31e06f1f3479deda6cb33a21258bf7
+FileChecksum: MD5: eeb430124056cecabbfbc7e88a1a8b46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Artificial/aaa.txt
+SPDXID: SPDXRef-item5946063
+FileChecksum: SHA1: c4d4b30851182fc4eb8675494d42fd7f17e29c93
+FileChecksum: SHA256: 6d1cf22d7cc09b085dfc25ee1a1f3ae0265804c607bc2074ad253bcc82fd81ee
+FileChecksum: MD5: 1af6d6f2f682f76f80e606aeaaee1680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/enwik8.xml
+SPDXID: SPDXRef-item5946064
+FileChecksum: SHA1: 57b8363b814821dc9d47aa4d41f58733519076b2
+FileChecksum: SHA256: 2b49720ec4d78c3c9fabaee6e4179a5e997302b3a70029f30f2d582218c024a8
+FileChecksum: MD5: a1fa5ffddb56f4953e226637dabbb36a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+LicenseInfoInFile: LicenseRef-fossology-WebM
+LicenseInfoInFile: LicenseRef-fossology-MPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Large/E.coli
+SPDXID: SPDXRef-item5946066
+FileChecksum: SHA1: bea54298e17d5ef86ddb75ac71b5b74fadf2cb7d
+FileChecksum: SHA256: 9125dfd87315961ef4286f3856098069e050cc3a2abe65735fe43e69d1996f40
+FileChecksum: MD5: e847a1b370f150bb96904a463cef9c8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Large/bible.txt
+SPDXID: SPDXRef-item5946067
+FileChecksum: SHA1: e8302ab252ebf3d391d7072cf8957a6cd77667d9
+FileChecksum: SHA256: 4e0a7e8dff7d9c82dbded57305c0ca3cdd3c4ca014db27121782fe9710f4723f
+FileChecksum: MD5: 93fb92788b569c0387a50f4c99720ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Not-for-sale
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Large/world192.txt
+SPDXID: SPDXRef-item5946068
+FileChecksum: SHA1: 718c432f2892bce3e7386a39dd9b80f55011a2de
+FileChecksum: SHA256: d4302d4443b4afc6b75a700b832d2485850f37b1710e9cc73f175c09ed26efd3
+FileChecksum: MD5: 3a7b394e4cc3c7d2ad1f0f27a701ca31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Public-domain
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/CanterburyCorpus/Miscellaneous/pi.txt
+SPDXID: SPDXRef-item5946070
+FileChecksum: SHA1: e995509affabd68e36d0f8f4436cbc2b7541dee5
+FileChecksum: SHA256: 387877db67fdddbde761c053c4376e0b411b10fd2b126fd8b1249963cb628877
+FileChecksum: MD5: 99e38ddabac48d5b156ae7c154055367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/SECURITY.md
+SPDXID: SPDXRef-item5946071
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: SHA256: ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: tersedecompress-2023-10-11.zip/tersedecompress-testdata/COMMITTERS.csv
+SPDXID: SPDXRef-item5946072
+FileChecksum: SHA1: 5531b7714595cf5b6e9b3c9720b5566947fe1a55
+FileChecksum: SHA256: a859dc230a32ef5893652598a30d6d83d3af9351690a1ac198bf5f777206c098
+FileChecksum: MD5: 6b4688d45532c371b6bc06f86574345a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-Not-for-sale
+LicenseName: Not-for-sale
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-fossology-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-fossology-MPL
+LicenseName: MPL
+ExtractedText: <text> License by Nomos. </text>
+

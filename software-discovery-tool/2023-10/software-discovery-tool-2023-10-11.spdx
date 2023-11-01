@@ -1,0 +1,1092 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_software-discovery-tool-2023-10-11.zip_1698666024.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2023-10-30T11:40:24Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: software-discovery-tool-2023-10-11.zip
+PackageFileName: software-discovery-tool-2023-10-11.zip
+SPDXID: SPDXRef-upload1028
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 95c7db4ab3dfa29cd3291c309a4783356fb2fc16
+PackageChecksum: SHA1: 3b3d60ed0382a824db23283f759d9956b9d4b48c
+PackageChecksum: SHA256: 3d8945bad4995aafd846aa8bd4902afb8a2c8437add42a4b2e68f93419e415e3
+PackageChecksum: MD5: 097aad0c44e0b5e6d8b643f27d1da66f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1028
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/angular-animate.min.js
+SPDXID: SPDXRef-item5948113
+FileChecksum: SHA1: dfba909727f999851f4f3e9b5f8ee56e0de5b324
+FileChecksum: SHA256: 944d97642ede32b747f8a45a2973d683562ab007037619aa1403db3c6e5ffd4f
+FileChecksum: MD5: e9f13e431eb5c9455a8dc99f107d5493
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/angular-route.js
+SPDXID: SPDXRef-item5948111
+FileChecksum: SHA1: 8338ae8bed3a2122b38aae69a9db222f088069be
+FileChecksum: SHA256: ac11a5bef648d222782ac6a34c496ccf57ddb99d21f0ea8fd7639d794b72337c
+FileChecksum: MD5: 915537e6f12fb8309087deace85c1756
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/angular-route.min.js
+SPDXID: SPDXRef-item5948112
+FileChecksum: SHA1: 769407a2492a7c7939e5a5d506a6a61b80061917
+FileChecksum: SHA256: 8306ea51725eae34648e15fefa92116afad6fbf64203947a8d94b6efe875d759
+FileChecksum: MD5: 3239462a70a6adf52bd3ef6b98d44f44
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/angular-touch.min.js
+SPDXID: SPDXRef-item5948110
+FileChecksum: SHA1: dca95f0fe71f5ce5405f3e61a98df12e53e82fbd
+FileChecksum: SHA256: ff2c5da8e984b875067f585634a105bb448aab52b40c3521eda5c6e0b8e0d9fb
+FileChecksum: MD5: 3c52ae69cbc4d5c3370840324b636d3d
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/angular.min.js
+SPDXID: SPDXRef-item5948109
+FileChecksum: SHA1: 9c923313eabc56d715a7c07bf855feb26a72f671
+FileChecksum: SHA256: 8c50aa8567731858e81bcfd2027718d9a7c8fd7bf54cf496499adbf5da5741b9
+FileChecksum: MD5: be6af23e2a716c006da75d0291784254
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/jquery.min.js
+SPDXID: SPDXRef-item5948108
+FileChecksum: SHA1: 1055018c28ab41087ef9ccefe411606893dabea2
+FileChecksum: SHA256: 87083882cc6015984eb0411a99d3981817f5dc5c90ba24f0940420c5548d82de
+FileChecksum: MD5: c9f5aeeca3ad37bf2aa006139b935f0a
+LicenseConcluded: MIT
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: <text> (c) JS Foundation and other contributors | jquery.org/license */ </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-1.3.3.min.js
+SPDXID: SPDXRef-item5948106
+FileChecksum: SHA1: 49c6ddb66f150329d30d09173902b268913428ee
+FileChecksum: SHA256: 72e836c79a8f2fa3544f04b9c2cd72932a2a7a05c9574198463f60dbfcc285fb
+FileChecksum: MD5: 32cc8232205155f5825ae4e829c9d77c
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-2.5.0.min.js
+SPDXID: SPDXRef-item5948107
+FileChecksum: SHA1: f692082f69c296cc7635b01e1fef8173c27dac54
+FileChecksum: SHA256: b727d65b62ed250348fa5dc5d21eb10d5fe28fa31f9fc97048a1d63ac9848173
+FileChecksum: MD5: c572f42d057f681abb138e2c2c966157
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/LICENSE.txt
+SPDXID: SPDXRef-item5948138
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/THIRDPARTY.txt
+SPDXID: SPDXRef-item5948152
+FileChecksum: SHA1: 84ceb3743370a08afe2d61ac509e956b050b73d1
+FileChecksum: SHA256: 0345e1872e877631ff2a15a32a20ac66f53198a0de08a2b9c34e533cf5befe7b
+FileChecksum: MD5: 81d425a59492f25f8dd97ed07828cbb9
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright 2010-2017 Google, Inc.)
+Copyright 2012-2017 the AngularUI Team)
+Copyright JS Foundation and other contributors) </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/LICENSE
+SPDXID: SPDXRef-item5948158
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-deploy/LICENSE
+SPDXID: SPDXRef-item5948070
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+FileAttributionText: <text> 307 </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-deploy/.github/workflows/cicd.yml
+SPDXID: SPDXRef-item5948073
+FileChecksum: SHA1: f2dbeef538eff7e97bc59fcaf0db3e74262bade9
+FileChecksum: SHA256: 6f4217ec803364b3fa8a5bb522d80276fb54d039818d5b303bf6ba4ecf9d2ae1
+FileChecksum: MD5: 1457c8f1a918abe7339d1e1041efec55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-deploy/.gitmodules
+SPDXID: SPDXRef-item5948074
+FileChecksum: SHA1: b601a0ecefc11063233b75ce8c7225aa87bad242
+FileChecksum: SHA256: bcb1450e4cebdf6dee6f96a5bde4376aba03374dd82488077bac6a0a16b6b585
+FileChecksum: MD5: 74d98860f9fc96a874478704e76379e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/bin/package_build.py
+SPDXID: SPDXRef-item5948077
+FileChecksum: SHA1: 575c7b4f24da93c6f16ef1d53c7cf92d3d460021
+FileChecksum: SHA256: 1b8ba2f0cb85febe3ab409c639ae08479646f0ca0e09691d369ccf5a76ea03fa
+FileChecksum: MD5: d747ddf12f0b9c3c994878bd8ccd532e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/bin/database_build.py
+SPDXID: SPDXRef-item5948078
+FileChecksum: SHA1: 4543da171a64983e1076080b753981be9e5711b9
+FileChecksum: SHA256: 0313981a1445a7a5845644f6108af817d51c2df75a7330fe6ef9ca7c6dc96fed
+FileChecksum: MD5: 34dbece9d7c98a3bca69154377f2df38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/bin/config_build.py
+SPDXID: SPDXRef-item5948079
+FileChecksum: SHA1: ae25de2c9f21b7974de982c513b0fada797cfbbb
+FileChecksum: SHA256: 28035201c215dd3721fa6754bc1661db0f3178a46b5ee38b077fcccc19a10ef8
+FileChecksum: MD5: 324a515f6037d9f286709a1a7a597e7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/docs/Contribute.md
+SPDXID: SPDXRef-item5948081
+FileChecksum: SHA1: c84d7e805449d0489ae83b5fc1e40aa2631af5dc
+FileChecksum: SHA256: 37395cb06ab4cd2c7d553234407c199f6e1fc3b19d4cad83faf206bdc1649a68
+FileChecksum: MD5: 468527267a8f0b0e52a2d58275abb215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/docs/Installation.md
+SPDXID: SPDXRef-item5948082
+FileChecksum: SHA1: ec09b2b653e9ac45575fab1e0ab8f511a81f8381
+FileChecksum: SHA256: b2dd8f8201d00a0359b595edb8e75441e858710f1d15c24345f0fdc171c64e52
+FileChecksum: MD5: ae8db458e587cee66767e6f8e5ce3ebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/docs/Adding_new_distros.md
+SPDXID: SPDXRef-item5948083
+FileChecksum: SHA1: f5402bc730782cbfc5f61361ca42158213ee3bb3
+FileChecksum: SHA256: 8eb1b44d55a54a854e895070f47458d735d0929b868864b8fd802430f4bcbfc9
+FileChecksum: MD5: 936b6af835d71e6d629d09f492577714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/tests/test_json.py
+SPDXID: SPDXRef-item5948086
+FileChecksum: SHA1: d8870204c7e7ef84fc7fb490bcf719872f139c9a
+FileChecksum: SHA256: 2d1480015b07671febe300294431def11ed574add5986f2c11a7722887bf3540
+FileChecksum: MD5: b53111fb2c6547af1d08d3cdb1972cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/tests/test_render.py
+SPDXID: SPDXRef-item5948087
+FileChecksum: SHA1: e18908650d00e9597363290a2213760f6f13aa68
+FileChecksum: SHA256: 4ffe68d7889ef7e64a8f37fa31403a4999f2d3b47cab009def58a01605db6c39
+FileChecksum: MD5: 7eb8829f90f63c711f3df76f96fd8767
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/main.py
+SPDXID: SPDXRef-item5948088
+FileChecksum: SHA1: 52e47243e3120b2527e05bb46b12642c3f2c0b9d
+FileChecksum: SHA256: a4829dfc60834598f41962d6dd1cc896d516e89d4286a72bbbf587797809d515
+FileChecksum: MD5: 15ecfa050ba4ee33868334fa1ad8790f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/scripts/distro_scripts/getPackageInfoUsingLaunchpad.py
+SPDXID: SPDXRef-item5948091
+FileChecksum: SHA1: 198a440c89cdaa36596b5466b5c9f9b84ecfa146
+FileChecksum: SHA256: 3be4630685a7ad3d391f026f68e51310e2be5f4e6b4cdb35a816529a14c39052
+FileChecksum: MD5: 9ff53f4374fd37ebef21dc15d9d09bbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/classes/package_search.py
+SPDXID: SPDXRef-item5948093
+FileChecksum: SHA1: 912649e5be25668b1c93065fe5bd0da984b7176f
+FileChecksum: SHA256: e8caa4b2ec5b162f2ec7416e49e9fd573a6095348b17356db2ab5d372e22d8b6
+FileChecksum: MD5: c6538d4d52bae9a4c4f1b949c52e37dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/classes/__init__.py
+SPDXID: SPDXRef-item5948094
+FileChecksum: SHA1: 73ece4649b4fdf6d8c19d3b05cd3a107032c99a0
+FileChecksum: SHA256: bb9b99f840b79c8515288f95514b212e65a1ae383b8f37d06e59ec8b1aecbba8
+FileChecksum: MD5: 4f53209d642075e70b13971c9e7d39de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/css/images/ui-icons_444444_256x240.png
+SPDXID: SPDXRef-item5948098
+FileChecksum: SHA1: a3beaacd2b07d6bd28b051746cfba5163e9a2ded
+FileChecksum: SHA256: 722e910aaaaaaf15e1bf0d4d0832e6aa87bd1a01e47c57868c00c63185385035
+FileChecksum: MD5: 68e2fd63df542df065fad6c8054a80c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/css/faq.css
+SPDXID: SPDXRef-item5948099
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/css/app.css
+SPDXID: SPDXRef-item5948100
+FileChecksum: SHA1: 7362e63571e25db9cd5c52a742b2ee4d085ba071
+FileChecksum: SHA256: f8b98c29d305a4ff71f24f96629ad94871a61fe72fc8f56725d1d13dd273c753
+FileChecksum: MD5: f1aaf070875dd1de7a1f9d31ec60bd63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/images/ajax-loader.gif
+SPDXID: SPDXRef-item5948102
+FileChecksum: SHA1: ee93ebddb752c7b8a0426c41757ffc3d49c0568c
+FileChecksum: SHA256: 906e05f1134a9e70cbdb379233928f3cfca66e44830e39b098c341ef3de3af01
+FileChecksum: MD5: 2167e055e7de9a38da1acf8c9c15a1e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/images/logo.svg
+SPDXID: SPDXRef-item5948103
+FileChecksum: SHA1: 882ce5e8ff2ae98cc3dd5f9fc4b309261f3bda8a
+FileChecksum: SHA256: 4be6de6e86e02dba2fd8b8e9110eafacfdc61b1222ec084253c5f7730485ef49
+FileChecksum: MD5: 5ff48b3e72ce05e4283523040f7c5be8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/controller/FAQController.js
+SPDXID: SPDXRef-item5948115
+FileChecksum: SHA1: 604f037cc48bb8b58fed9f587c93b232f8591cc9
+FileChecksum: SHA256: 91838f2536256e1fe2e38ea4c721843ebe5bdb312dccac016441b8f5d6daed85
+FileChecksum: MD5: 9b653b932d3970fbad48db74451427dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/controller/HomeController.js
+SPDXID: SPDXRef-item5948116
+FileChecksum: SHA1: 2c8162f2e6e67cb9496b0c2e2c8f5e684221053e
+FileChecksum: SHA256: a05ace5c346fa99d46d5f853f95b1f453c900dad2021b763ce00882af8962ee3
+FileChecksum: MD5: a76c4b3b7e124bc93e274def5145a25f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/app.js
+SPDXID: SPDXRef-item5948117
+FileChecksum: SHA1: 0dc7308c4903661daca85000156d4f4cbefb5e61
+FileChecksum: SHA256: f12f6c3913414ddcbb39727ad72aa1bbe52ade1a74a7907150f439f71239ab76
+FileChecksum: MD5: b50e7227e114d10436af81a377fdee9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/views/faq.html
+SPDXID: SPDXRef-item5948119
+FileChecksum: SHA1: 2946cb6ea0fa40ef5e2151b0bfe193e2323aef46
+FileChecksum: SHA256: b93e15619bd1b9c1a6011a909dfa729ee3af234fd5e3322f9ee2e723771bd990
+FileChecksum: MD5: f01659123722022099fbcb71714c86dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/static/js/views/home.html
+SPDXID: SPDXRef-item5948120
+FileChecksum: SHA1: 6fb6441bae045fa569f60f611306f0bd80dbd3bd
+FileChecksum: SHA256: 798afffe87e84fc85c051052138f31b3f6b7d5b79e68f091556d47f1996edc02
+FileChecksum: MD5: f85d5a7571fa85d1cd4e26ab9345d147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/config/config.py
+SPDXID: SPDXRef-item5948122
+FileChecksum: SHA1: 5505167c1f9cce0a4f25a879509853813907afb0
+FileChecksum: SHA256: c7233be87fcc34cec4a89210ffc290d10b3ae1bfaa900f1c8a1435ba8cce6e6c
+FileChecksum: MD5: 2f180760a295641e22b529900d2d02c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/config/__init__.py
+SPDXID: SPDXRef-item5948123
+FileChecksum: SHA1: 9039ef23ae3e21c57f2714038bb80bf31e6789de
+FileChecksum: SHA256: 6a83725a98861f86211a9e19dda257f2e868b8a42a5ecd4a3ccf3568e28929f1
+FileChecksum: MD5: 445bb770bc0f35d48189bc4ba14cc9fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/config/sdt.conf
+SPDXID: SPDXRef-item5948124
+FileChecksum: SHA1: 5e36029e75fe35d6dde555bae5cfb4e342c4b670
+FileChecksum: SHA256: 0de2ccfd7c1766d8c0d91f2c185777b81080e35169e610eca4ac3a7c2d48abd2
+FileChecksum: MD5: 72132b1c45e3ef1b94b66aa58d819003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/config/supported_distros.py
+SPDXID: SPDXRef-item5948125
+FileChecksum: SHA1: ba41c88e72e54cc426164111313315b310109181
+FileChecksum: SHA256: a310a74dcac8984e9fe88c17f08ec741f27bfe50f2cd7152a6658274d77189f8
+FileChecksum: MD5: c5c6d0ab7e08bfbf437fe502230f6d9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/templates/index.html
+SPDXID: SPDXRef-item5948127
+FileChecksum: SHA1: ec273125e700d75e8dc05cc919aa22d52b828c23
+FileChecksum: SHA256: dd9257d4eff17bc829bb8c0228d1f2737aef1715f1a33881f4ecae2e834f50a2
+FileChecksum: MD5: 17cd932dc68963eb99b00119f3b6e5df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/SDT.wsgi
+SPDXID: SPDXRef-item5948128
+FileChecksum: SHA1: ec095b10a5761ed74c9d9bb2f67693e45e03d2ce
+FileChecksum: SHA256: f2f9b165ec76f58ca3110d82632f7c5ac1a1dc6f51b44dc7273887b8b2ba8e23
+FileChecksum: MD5: 73e34b1eb2f79fcb297f7ae1aa45edd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/src/setup/Dockerfile
+SPDXID: SPDXRef-item5948130
+FileChecksum: SHA1: c27987a2beb9858b606d2760b0f4216cf4b24d2d
+FileChecksum: SHA256: 87ddd48804259d26241ef80f522a1cfbc6ae5c0bc106aa97fccbce5532892e5c
+FileChecksum: MD5: 16f60f80dbbead21ee67ad2d2c8b9449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item5948133
+FileChecksum: SHA1: 3bdfcf02baf53e004346af25edbfedfb6bf853d4
+FileChecksum: SHA256: 4a17eb4921eeb56bb15a9c13953ade5ab771657b3117155fe6de3498aea7be4c
+FileChecksum: MD5: ec2137a7b4143158cb1e05132c976964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item5948135
+FileChecksum: SHA1: bf84eb18e9a999a6c7825c2cf5a46caf4b5b8abf
+FileChecksum: SHA256: 63ee0478607c3cf2fd39884fac1b1aaf3f9ec088d43015978f304790eee8e91d
+FileChecksum: MD5: 3a6c06494d649718196de3da1c1a0852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item5948136
+FileChecksum: SHA1: f7cb73430140e6e12d1dd08783d4831220a6d264
+FileChecksum: SHA256: 110a4770b4700f3f627575ea9fe8a0c79177455233ff16ca2c913555b7458699
+FileChecksum: MD5: 4ef020d29b801253ada9f71dc26d125c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/.gitignore
+SPDXID: SPDXRef-item5948137
+FileChecksum: SHA1: b0acf915c54d2c6ef53be580ed2045225a3b02d8
+FileChecksum: SHA256: 094c25031dcfe5c288666671bc2012866293b3797ea53c796af798bda4c32f01
+FileChecksum: MD5: 140a5c671ee97b3723686f6412818f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2022-06-30.md
+SPDXID: SPDXRef-item5948140
+FileChecksum: SHA1: 70ed1c36ded80662e25659043261ea92378562e9
+FileChecksum: SHA256: ba2a7b90b2e8ec5ddc92adbcc584984a6018df496b17ee323596f1b17dfdd217
+FileChecksum: MD5: 64140588c0a3732aa331db68eab485d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2022-02-09.md
+SPDXID: SPDXRef-item5948141
+FileChecksum: SHA1: 3d630235190525b26b8738b0c03d309c78abc433
+FileChecksum: SHA256: cd57a457bcc5767a6a298edb7d4a51406b29601249d767b40df52f27deb673c5
+FileChecksum: MD5: 6ee193403e8aa8524bc69a000f1109d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-IBM-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2021-06-14.md
+SPDXID: SPDXRef-item5948142
+FileChecksum: SHA1: efcff2a167142d13bbad9ee36b62f520e68fab92
+FileChecksum: SHA256: 04f2e345de307bc0b823c88e54038c4fa962275284f0f7aa5849068885a829a1
+FileChecksum: MD5: 1b4698ed114919a370936e6a0066391d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2023-08-03.md
+SPDXID: SPDXRef-item5948143
+FileChecksum: SHA1: 7d7a292273e001cc193148a7e9827189f061a7ca
+FileChecksum: SHA256: 779496996e0c2b5a70fc6a3ab69c04ab98a19a612344400a0b6dd56493f2ef09
+FileChecksum: MD5: c43af37295878a260d9ac8bb32ddfd99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2022-08-16.md
+SPDXID: SPDXRef-item5948144
+FileChecksum: SHA1: d43a34fe1b7704c06fcc4a7154c1c6f9d3190888
+FileChecksum: SHA256: 4e97a46fb5182f2653e56ac970d1581bf3461cecb2d4f5cdc17e82cccab3ec0c
+FileChecksum: MD5: ea67d818afdefd697ce9105211cdd839
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2021-04-22.md
+SPDXID: SPDXRef-item5948145
+FileChecksum: SHA1: 4f077ae98a20962ebb4d9cc846c902e600e8561c
+FileChecksum: SHA256: 0ebe10b141068d91972affd56c5b11cd63053a8c3c4a30a928409bf77765dd20
+FileChecksum: MD5: 3a39511abdb366ea595fc34ba00f8915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2023-05-23.md
+SPDXID: SPDXRef-item5948146
+FileChecksum: SHA1: dab39b750a859d3d00667a212830e492a60797cb
+FileChecksum: SHA256: 5959f9de4ea4369f5dd67294fbb5617aa725fb4d2ae516b137c787d762b0871f
+FileChecksum: MD5: 287fd3e80ecd6868c4f1db5482b55e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2021-07-19.md
+SPDXID: SPDXRef-item5948147
+FileChecksum: SHA1: cd831542d8ae96986e82a11119d5e903dd8aa135
+FileChecksum: SHA256: 1bd94396bf115b03795f57fd82c455efac26ce5b91be79d7de072b4443baf6b6
+FileChecksum: MD5: 19544164fbf495a807f05d49b7504032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2021-11-17.md
+SPDXID: SPDXRef-item5948148
+FileChecksum: SHA1: f1afc6d98408923524a19c792965f7be898ab277
+FileChecksum: SHA256: c04cee455b10fefcf5b161277c9d9fc0aecd863ad00d47b5907a3b248f8a694d
+FileChecksum: MD5: 37dd512265fda724d9d4bf0e48648825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2020-11-09.md
+SPDXID: SPDXRef-item5948149
+FileChecksum: SHA1: 3459cb901c6d1ea7e80137c5ee06a4f2b5b581e1
+FileChecksum: SHA256: 68c92892a999e4222a0c617cefd830768e12d0771f30a040f0155bcb01779e51
+FileChecksum: MD5: 3d088a80b8d7b4099beda13fc9531198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2020-10-14.md
+SPDXID: SPDXRef-item5948150
+FileChecksum: SHA1: 8945b2ff95781c9cca010719316f1d0bcbd57f2a
+FileChecksum: SHA256: 7c42058824f177ece3f26192955281fc5714b687729c9c82c0f898661ed37260
+FileChecksum: MD5: aa6495aea59dcd1751a0304ed0c6e919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/meetings/2022-05-04.md
+SPDXID: SPDXRef-item5948151
+FileChecksum: SHA1: c26acdad60fd6b1a85bb861d10548f15c0226370
+FileChecksum: SHA256: 3cb33641d365a7cbec1338720f32ac6c2fb3c2c14e58e456fbd0bfd3b8b76058
+FileChecksum: MD5: 16cac3f593752101b9e62af31c4b7e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/README.md
+SPDXID: SPDXRef-item5948153
+FileChecksum: SHA1: a96fa32cc459aef843f957bc08b18b9592e46df8
+FileChecksum: SHA256: 47680dc8e871f6dc323b46a00bfda4f2ac763931d97d1ea4ad20ba38b823383e
+FileChecksum: MD5: 7f067c4ab3eeacee4cb0500f0c0a9745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/.gitmodules
+SPDXID: SPDXRef-item5948154
+FileChecksum: SHA1: 2c877b82220cfca57af7ace8154bbd4af9f5c0d1
+FileChecksum: SHA256: 41e9b655a0cada7731e21e6a544151c29695133d2eaa78c5b2928516d5d0ec73
+FileChecksum: MD5: d085651521c5c63a1f3148af4ed6204c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool/log/sdt.log
+SPDXID: SPDXRef-item5948156
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_SLES_12.json
+SPDXID: SPDXRef-item5948160
+FileChecksum: SHA1: 4260336d12fca39d082e9a342c62bcf62c3bb614
+FileChecksum: SHA256: ad6b41f9398096f1a139071b6e07693f0e9bb1964e63ddd06c0b872606043e3f
+FileChecksum: MD5: 0308489b9ab0faa75787983269580275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Fedora_34_List.json
+SPDXID: SPDXRef-item5948161
+FileChecksum: SHA1: 19a7dc2faafc3cebc72f90935b1a39e828f0a3b7
+FileChecksum: SHA256: 27d7f61330ecfd2eeaae4215936b3a4ab5854d2bd67843229dfc960d4d06fc06
+FileChecksum: MD5: 183d32e7d6cfccdf997815b8b7ba6d73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright","version": "0.009-14"}, packageName": "perl-Module-Install-DOAP","version": "0.006-14"}, packageName": "perl-Module-Install-DOAPChangeSets","version": "0.206-14"}, packageName": "perl-Module-Install-ExtraTests","version": "0.008-24"}, packageName": "perl-Module-Install-GithubMeta"
+Copyright","version": "0.003006-8"}, packageName": "perl-String-Diff","version": "0.07-17"}, packageName": "perl-String-Dirify","version": "1.03-16"}, packageName": "perl-String-Errf","version": "0.008-14"}, packageName": "perl-String-Escape","version": "2010.002-33"}, packageName": "perl- </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Debian_Bookworm_List.json
+SPDXID: SPDXRef-item5948162
+FileChecksum: SHA1: dd3dd9ce5a3fec432ec213271f989e6c50eaf951
+FileChecksum: SHA256: e7d82ce6b8de489c51c093fc3434eaf87466741e8aa7d1fa13a22e45ba0c51a8
+FileChecksum: MD5: 2804665adc28cb01dab9ce27423c9639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-LGPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Fedora_35_List.json
+SPDXID: SPDXRef-item5948163
+FileChecksum: SHA1: b73ce521f71c0b2625f5f0ba521e56609a637f6d
+FileChecksum: SHA256: 45de2fa202cdb1ef82eaae80338daa7e1ba112553efc7608b6e57455e92cb388
+FileChecksum: MD5: 5fa84aaaef3d4255c884ddef2afbcbcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright","version": "0.009-16"}, packageName": "perl-Module-Install-DOAP","version": "0.006-16"}, packageName": "perl-Module-Install-DOAPChangeSets","version": "0.206-16"}, packageName": "perl-Module-Install-ExtraTests","version": "0.008-26"}, packageName": "perl-Module-Install-GithubMeta"
+Copyright","version": "0.003008-1"}, packageName": "perl-String-Diff","version": "0.07-19"}, packageName": "perl-String-Dirify","version": "1.03-18"}, packageName": "perl-String-Errf","version": "0.008-16"}, packageName": "perl-String-Escape","version": "2010.002-35"}, packageName": "perl- </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Debian_Bullseye_List.json
+SPDXID: SPDXRef-item5948164
+FileChecksum: SHA1: 92be1957742bd399e326fdc12239edb8b56afd1e
+FileChecksum: SHA256: e59a021ab761835399d99bb9b1e70c78815d8604da2ad4592a30868d2a057afa
+FileChecksum: MD5: 504e13d56c33bf6f58574780c8421b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-LGPL
+FileCopyrightText: <text> Copyright does not exist, book about hacker culture"
+Copyright finns inte, book about hacker culture"
+copyright-update", version": "2016.1018-4",
+copyright information in files"
+copyright Generator"
+copyright, licensing and changelogs of firebird3.0"
+copyright-perl", version": "0.2-4",
+copyright files"
+(C) services to Linux - development"
+(C) services to Linux - runtime"
+copyright-perl", version": "0.009-1.1",
+COPYRIGHT file with a distribution"
+copyright-perl", version": "0.003006-1",
+copyright statements" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Fedora_36_List.json
+SPDXID: SPDXRef-item5948165
+FileChecksum: SHA1: f975e664997168076f7f0e7ab1391759c0ae677a
+FileChecksum: SHA256: c62a8c65956b5b7c500e8c9387c58e954e8c64adadaba5e6706120cbe494a0c7
+FileChecksum: MD5: d711a969eb7bbda3704c6e827c9ecb41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright","version": "0.009-17"}, packageName": "perl-Module-Install-DOAP","version": "0.006-17"}, packageName": "perl-Module-Install-DOAPChangeSets","version": "0.206-17"}, packageName": "perl-Module-Install-ExtraTests","version": "0.008-27"}, packageName": "perl-Module-Install-GithubMeta"
+Copyright","version": "0.003013-2"}, packageName": "perl-String-Diff","version": "0.07-20"}, packageName": "perl-String-Dirify","version": "1.03-19"}, packageName": "perl-String-Errf","version": "0.008-17"}, packageName": "perl-String-Escape","version": "2010.002-36"}, packageName": "perl- </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBMZ_container_registry.json
+SPDXID: SPDXRef-item5948166
+FileChecksum: SHA1: 9a6a57356f79140c14296520980ca8ae83b02a43
+FileChecksum: SHA256: 9e9226b99dd0e77baf9bbb85e68be7925d6dfd60fac97b57dd3abb70a37e169c
+FileChecksum: MD5: 5919d9a35c33f89d9eb31bf5958b7a99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-GPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Debian_Buster_List.json
+SPDXID: SPDXRef-item5948167
+FileChecksum: SHA1: d8014ab8a62a98cef045b40aade023bab7dc7efc
+FileChecksum: SHA256: 05a49d967ed50dba15082bce1bba45c8aaba22f1b72918d9b0f6cdbf677a2b1c
+FileChecksum: MD5: 9bde173d38bcd9bca64c209b2a65d4cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-LGPL
+FileCopyrightText: <text> Copyright does not exist, book about hacker culture"
+Copyright finns inte, book about hacker culture"
+copyright-update", version": "2016.1018-2",
+copyright information in files"
+copyright Generator"
+copyright, licensing and changelogs of firebird3.0"
+copyright-perl", version": "0.2-4",
+copyright files"
+(C) services to Linux - development"
+(C) services to Linux - runtime"
+copyright-perl", version": "0.009-1",
+COPYRIGHT file with a distribution"
+copyright-perl", version": "0.003006-1",
+copyright statements"
+copyright file and source" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/OpenSUSE_Leap_15_4.json
+SPDXID: SPDXRef-item5948168
+FileChecksum: SHA1: 65fa448e8ea08ade8a42e1d87ad87df8424f454a
+FileChecksum: SHA256: fb3056a4bbc888f85e5fb6d21be0c2051d6eeec4147669102373f0779c3a7787
+FileChecksum: MD5: 598d6cb76926026df77ca88eee5e2003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrightbox", description": "", version": "2021.189.0.0.1svn24829"
+copyrightbox-doc", description": "", version": "2021.189.0.0.1svn24829" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Fedora_37_List.json
+SPDXID: SPDXRef-item5948169
+FileChecksum: SHA1: 49815ce9e506a31ab58d0dc9536df263c8b00f04
+FileChecksum: SHA256: 774ddced9253a167ef57a52f353b04f8789c1efbdf00b50cc37fbabe28135d9f
+FileChecksum: MD5: e3d05f1eb81d6e95424acb275fc6dabe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright","version": "0.009-19"}, packageName": "perl-Module-Install-DOAP","version": "0.006-19"}, packageName": "perl-Module-Install-DOAPChangeSets","version": "0.206-19"}, packageName": "perl-Module-Install-ExtraTests","version": "0.008-29"}, packageName": "perl-Module-Install-GithubMeta"
+Copyright","version": "0.003013-4"}, packageName": "perl-String-Diff","version": "0.07-22"}, packageName": "perl-String-Dirify","version": "1.03-21"}, packageName": "perl-String-Errf","version": "0.008-19"}, packageName": "perl-String-Escape","version": "2010.002-38"}, packageName": "perl- </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/ZOS_Software_List.json
+SPDXID: SPDXRef-item5948170
+FileChecksum: SHA1: 98eecb828d8d9fb3e55325b12805587f9cb56568
+FileChecksum: SHA256: e3e462b294019d3047c5534e6d2b5745865301f14072b07197dbd9ea47c6931c
+FileChecksum: MD5: e4d22b695af0e647f8b6b9630dd52bbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-Apache-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_RHEL_9.json
+SPDXID: SPDXRef-item5948171
+FileChecksum: SHA1: 48e6375a9f48bca96d65f06191384cbba6558283
+FileChecksum: SHA256: aaca924ab433c9a437ec8f7009c0c9ed60a7213b8ff92448908341d6ed49c471
+FileChecksum: MD5: f13ce4734ab168c24f9eba49b8d98ed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/ClefOS_7_List.json
+SPDXID: SPDXRef-item5948172
+FileChecksum: SHA1: 3e0454f5347eb316d7dd12a074040e09abc4961e
+FileChecksum: SHA256: a8f51282f08ec066a36b33aad9f07ae660d4357781b7a05ed4a503f3ddff7f86
+FileChecksum: MD5: 523bf95f3ca92b4f892a4e2a50e7674c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-X11-possibility
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/OpenSUSE_Leap_15_3.json
+SPDXID: SPDXRef-item5948173
+FileChecksum: SHA1: ca56d3c8c250ffc672c9e975e9d23b446b7a3df1
+FileChecksum: SHA256: 5e7888b68815ac9ddc08ddb27c891bd99f74a7dad4df8583b86f487cc9fae0ac
+FileChecksum: MD5: 23ca6308bda798e2d6de8cb2455c7213
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrightbox", description": "", version": "2017.133.0.0.1svn24829"
+copyrightbox-doc", description": "", version": "2017.133.0.0.1svn24829" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/OpenSUSE_Tumbleweed.json
+SPDXID: SPDXRef-item5948174
+FileChecksum: SHA1: bbb1013a04f70fce50e60f95998b91d9c67444ee
+FileChecksum: SHA256: ab4d4b186dc7f4986e172805cdce34dc7d5c3e9ae4f6f0add1667196db26ccaa
+FileChecksum: MD5: 1e22705bc1b6980021f43b10b6950642
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrightbox", description": "", version": "2023.209.0.0.1svn24829"
+copyrightbox-doc", description": "", version": "2023.209.0.0.1svn24829" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_Ubuntu_2004.json
+SPDXID: SPDXRef-item5948175
+FileChecksum: SHA1: 3901e3f1452536f0cb8d499b10ff68f15807fb27
+FileChecksum: SHA256: e71185d79c0b0f59b15e07d2dc5044dcf818ab9a646a807790235ea3a0032224
+FileChecksum: MD5: a82e9bc88367eccc41f5e3fb78f51f5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/RockyLinux_9_List.json
+SPDXID: SPDXRef-item5948176
+FileChecksum: SHA1: 3b869cfd6d42911cee581526ee31474a02ea2ca7
+FileChecksum: SHA256: 1e86f09d73a9183a1b7636440409e92da641800feeada23257bf8fd5caea22f7
+FileChecksum: MD5: 67e1c5f573565cf128257042596d8ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_SLES_15.json
+SPDXID: SPDXRef-item5948177
+FileChecksum: SHA1: 0dee1224cd93dcca9e292ac818a2fb5e3d0676f8
+FileChecksum: SHA256: 619a6aaf4e119d4d069d7a48d779ad3c566c0fc47dc29b92f1d53217faaef5f8
+FileChecksum: MD5: c691486803876d3a2ee6d30ea56e694f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_Ubuntu_2204.json
+SPDXID: SPDXRef-item5948178
+FileChecksum: SHA1: 78f67768f9e24525fee1bd4c1a06fc7b71de0ff2
+FileChecksum: SHA256: c3cb371bd396a08ab837f7585e2e0175b3a0340d7bac2ac97c90e144958fb027
+FileChecksum: MD5: 878cefe80fcc63400cfa29d874194074
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/AlmaLinux_9_List.json
+SPDXID: SPDXRef-item5948179
+FileChecksum: SHA1: cab3f0bd8f700c62810d07d8dde343fa7fc92df5
+FileChecksum: SHA256: 1edaec28b68a03bf48c29dbadc7e06a9b12f0a6bd31d1442eb6e76598d265c9e
+FileChecksum: MD5: a9066675d2fe413720e9834ca9706a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_RHEL_8.json
+SPDXID: SPDXRef-item5948180
+FileChecksum: SHA1: 38a6132f134fbdff44dc159ecccfe2b876d2a61e
+FileChecksum: SHA256: 5d0066c5b872ba9ed203b88953502d4a46c8053880842c6d5910215cb1d3a56e
+FileChecksum: MD5: 6469d3a1973834e75cb534c60bd6e678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/OpenSUSE_Leap_15_5.json
+SPDXID: SPDXRef-item5948181
+FileChecksum: SHA1: 8c84cd58776115448bbe10fe457d6a74a35a504e
+FileChecksum: SHA256: 579fb017fe182319524b4cba1823c8f67c171e82846ee2ae2a8ed14871922f81
+FileChecksum: MD5: 2db547d943fe8475822fd1da9c64474b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> copyrightbox", description": "", version": "2021.189.0.0.1svn24829"
+copyrightbox-doc", description": "", version": "2021.189.0.0.1svn24829" </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/data_files/Fedora_38_List.json
+SPDXID: SPDXRef-item5948182
+FileChecksum: SHA1: a1acef60d6530d8d85b4b318584d1ddd2e30d70b
+FileChecksum: SHA256: 7cbb928eac847d4050eb3dd05c0a1b3fcfbe2e981701e53ba03c429feab45ad3
+FileChecksum: MD5: 3f7d6e752c9c968d7fac7ab1318edb89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright","version": "0.009-20"}, packageName": "perl-Module-Install-DOAP","version": "0.006-20"}, packageName": "perl-Module-Install-DOAPChangeSets","version": "0.206-20"}, packageName": "perl-Module-Install-ExtraTests","version": "0.008-30"}, packageName": "perl-Module-Install-GithubMeta"
+Copyright","version": "0.003014-2"}, packageName": "perl-String-Diff","version": "0.07-23"}, packageName": "perl-String-Dirify","version": "1.03-22"}, packageName": "perl-String-Errf","version": "0.009-2"}, packageName": "perl-String-Errf-tests","version": "0.009-2"}, packageName": "perl-S </text>
+
+##File
+
+FileName: software-discovery-tool-2023-10-11.zip/software-discovery-tool-data/README.md
+SPDXID: SPDXRef-item5948183
+FileChecksum: SHA1: 1ba0f10f24bf1d0964ccd4b4c244da31f760a79c
+FileChecksum: SHA256: fd00ee1de908d41df8766bca41bf4a271b8f527c4c6a5b73aa3107d84d627dd5
+FileChecksum: MD5: ac09ce98b2daed681ad3597962db4de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-IBM-possibility
+LicenseName: IBM-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-fossology-Apache-possibility
+LicenseName: Apache-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-fossology-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-fossology-X11-possibility
+LicenseName: X11-possibility
+ExtractedText: <text> License by Nomos. </text>
+

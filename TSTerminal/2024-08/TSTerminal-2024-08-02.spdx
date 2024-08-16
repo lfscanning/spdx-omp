@@ -1,0 +1,1216 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_TSTerminal-2024-08-02.zip_1723154896.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-08-08T22:08:16Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: TSTerminal-2024-08-02.zip
+PackageFileName: TSTerminal-2024-08-02.zip
+SPDXID: SPDXRef-upload1428
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: eceab5b169eea1f97d2571ab922db5db11278a0e
+PackageChecksum: SHA1: 704be10b1b853276306a980af24ff7a51ca572e7
+PackageChecksum: SHA256: 3c492de9e9890cd717491650cc1fb96cd2ceb84eec1057ad1733193e056fad53
+PackageChecksum: MD5: 48b8c81fcda3afdcc42a3f2647bf2416
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1428
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/historical/tn3270-with-whitespace.js
+SPDXID: SPDXRef-item9484044
+FileChecksum: SHA1: 33f0a862c7d748c6e032b8370116aac33199da7e
+FileChecksum: SHA256: fd7339a61c9b6552b5ce69e49b985f387c3eb04cf505e49ee6804a723f7507ad
+FileChecksum: MD5: 95bcb215c72b797bcf71b08c9aa75585
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+(c) return r; </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/main.js
+SPDXID: SPDXRef-item9484054
+FileChecksum: SHA1: c54f856b0561d35c2190734b7e8fdb26a4085527
+FileChecksum: SHA256: 6902e733f660a784132a7e2f88d34ffec8e4a78dd45deab1bfd77dacb39117ab
+FileChecksum: MD5: 52b0b81c4d65133ff5cc870edc5c9f35
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/package-lock.json
+SPDXID: SPDXRef-item9484055
+FileChecksum: SHA1: f1bd470a08390f7dd596b54572cdc87a573ade31
+FileChecksum: SHA256: 0d40731ed8a51c1ec222dac4600c69d9d9f98c8ea42634926c328fc7af74967b
+FileChecksum: MD5: b99fa15258565ba99e234f22f4251745
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/package.json
+SPDXID: SPDXRef-item9484058
+FileChecksum: SHA1: 7862708f95f6edc680b1a953d8dda30d9ffebb76
+FileChecksum: SHA256: 69227fd41fd05434c28259868f1f42b5d83a7e255efecb4d522a0ba0c0669a07
+FileChecksum: MD5: cba1213c6d33336bd672f8ade566c09e
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/ssh.js
+SPDXID: SPDXRef-item9484056
+FileChecksum: SHA1: f083d23b587f52aebc54327a26758a4e1e3d0a04
+FileChecksum: SHA256: 01ef28ffbc25fa7bfce3efd52e25f050117b712998666edd87bec9a621eb256b
+FileChecksum: MD5: f65491482dbcfa68570bec797406c2cf
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/termproxy.js
+SPDXID: SPDXRef-item9484057
+FileChecksum: SHA1: 787fe68855e5c3fe3d0ef54e5ea5fd7a658df6c3
+FileChecksum: SHA256: 470cdfc2ba3ee09e5b52ccd4674cfb043ccab23fbe804b5d9c88fb64639d6f20
+FileChecksum: MD5: 96946a357e12d70629d2372d396c73c4
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/Extended930.ts
+SPDXID: SPDXRef-item9484036
+FileChecksum: SHA1: b9c24f045655b4638be60d0b46acf437f0bbb461
+FileChecksum: SHA256: db353891c04e31d29981fe0128135581475f427ee9b292099c196ef45321eb41
+FileChecksum: MD5: f5d5f775c9f90cf4d456dabbf8aeb21a
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/Extended933.ts
+SPDXID: SPDXRef-item9484039
+FileChecksum: SHA1: 527046b3189e3ae09d0d5e5afdd7abb5982366e6
+FileChecksum: SHA256: 142a19ada7a05744f2877c2188356e7ce3163591345c07082bb61cf6b93d94df
+FileChecksum: MD5: 80c28dd88fa386a1cd2f4c8dfe286bb1
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/Extended935.ts
+SPDXID: SPDXRef-item9484030
+FileChecksum: SHA1: e91e30c383a51e6297a827e13fa902eb8718745b
+FileChecksum: SHA256: 3b9460bef92534b02f28432b141e3832fb4ff292178e05e1c78c9094be93b3fa
+FileChecksum: MD5: d459b4629e69a4095c74263babea2ca6
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/Extended937.ts
+SPDXID: SPDXRef-item9484029
+FileChecksum: SHA1: c82d0502ecad50566fd9623e53c6525e9ee0c4c7
+FileChecksum: SHA256: f7f4dd9a009e350f9de5be3e45ad44e1d94944fec797c513cd735c092efeebab
+FileChecksum: MD5: bfe5db3f5ef56e776f9100f79186aa52
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U00.ts
+SPDXID: SPDXRef-item9484028
+FileChecksum: SHA1: 339341684aa098e1b872fc11935a0ad8f5a5c663
+FileChecksum: SHA256: 55929f7c8d7af8f121910219c374c0cf69405a81da2ab0f835fa4a5bc444d144
+FileChecksum: MD5: 08a8a94eed0f77b0a8227bc6eb748681
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U02.ts
+SPDXID: SPDXRef-item9484033
+FileChecksum: SHA1: b27331310a1f4341271951e85fc0ea877aae0065
+FileChecksum: SHA256: 752f3765b9ef3f9b50610d0d3a411eff92fee6c46cc0643b4716515b5adc65e0
+FileChecksum: MD5: b6d60c8bb6f332350a4e354438a0acb7
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U04.ts
+SPDXID: SPDXRef-item9484031
+FileChecksum: SHA1: d1cb2ababa4634dc479b8e1a6c333aebe0fb66f5
+FileChecksum: SHA256: 6e61ed3d54902bf31bf934c6f6ac28b1327f034bd5d2b9d9e458ea357d53cc61
+FileChecksum: MD5: fee572bc1201e7c5c726287cf493bea1
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U05.ts
+SPDXID: SPDXRef-item9484042
+FileChecksum: SHA1: 55577e07abe0417277dfb967b9807f987a0db3ce
+FileChecksum: SHA256: 9e235a6e9ba8ca0ab82044b79319d39e985464f894c269f5de5186871dd192fa
+FileChecksum: MD5: f8f85471198314f3df7dc769ca5dbd03
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U08.ts
+SPDXID: SPDXRef-item9484041
+FileChecksum: SHA1: db547caf402761544d303872ceaa4a99e30dab29
+FileChecksum: SHA256: 6c49d1862e519ff2d4724012c42f4bffbe6cdc8594249b45a6af888947b23e91
+FileChecksum: MD5: 15a0d8e8c01e8cf7d49d948bdcef33cf
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U09.ts
+SPDXID: SPDXRef-item9484037
+FileChecksum: SHA1: 3e4244cb7bc9c5590f34d7cdd036cab827fd9f2c
+FileChecksum: SHA256: bc4397bfd1e6098571e8c97c56e93fecf3ec0f3200114f8fec3393328e945064
+FileChecksum: MD5: f4d0cc068f4ecf2e32c5c5abd4910836
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U10.ts
+SPDXID: SPDXRef-item9484040
+FileChecksum: SHA1: 56c253a9a6016013a525547ccb0f66a22fa01492
+FileChecksum: SHA256: 6dfd5b238ecb075e48e8c7a11095359a13709991037fb585382ecba19b60acb1
+FileChecksum: MD5: cb27b160f27a7030e484a2eeef55bf75
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U11.ts
+SPDXID: SPDXRef-item9484038
+FileChecksum: SHA1: 2fa3037807dc8e1171f4a8524041acd803523549
+FileChecksum: SHA256: 94620623047c3e6198cfa0fd85f0053701d3e227b711e8fbfc30090a3ff129de
+FileChecksum: MD5: e002d82c04eaaf154f0391aa6be34f75
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/U13.ts
+SPDXID: SPDXRef-item9484035
+FileChecksum: SHA1: 580132d24d4d1505282c135e901ba43017feb7aa
+FileChecksum: SHA256: 408a30f3c0e91dbb368098350e4c0b3e0b474a3d7197525abbba2750ff201607
+FileChecksum: MD5: b69a0aace3fab5086d3ad37f569b3378
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/Unmapped.ts
+SPDXID: SPDXRef-item9484032
+FileChecksum: SHA1: 0ad4af65e569b94781bd1eb40d680bd614bb46bc
+FileChecksum: SHA256: 091bc1e3dbbf38b467570871a773bf963393563b66a25b826a4c4cdac85cad96
+FileChecksum: MD5: 94e4a953cbaf583fb4a2a91df6ee9b8a
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/tables/base64.ts
+SPDXID: SPDXRef-item9484034
+FileChecksum: SHA1: e0c87ded8f93ad0145fa5d08b63f5bd4c9ebc09c
+FileChecksum: SHA256: b3a37e2718469dbe2ea83c4c6404ea49845adcad934b24c2f6ffb67cd89bac5b
+FileChecksum: MD5: d1edcc3c223ee569e3666908d3b29249
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Generic.ts
+SPDXID: SPDXRef-item9484022
+FileChecksum: SHA1: 77e03fe72dca5be3ce2e1631e6b8246837d92f72
+FileChecksum: SHA256: 2d7e4a62c8ee8c3fbd608422b2e2a67e1f76f2ec1ae92eb041dda0dafd85e8f9
+FileChecksum: MD5: b1edad48febbc480d30da727ac8116c3
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Graphics.ts
+SPDXID: SPDXRef-item9484021
+FileChecksum: SHA1: b2c6c3083ac6d0264013d34c24499d4a114c4b81
+FileChecksum: SHA256: fe31b34b851c653c1e5ff6ce3c48be0e05c56682143162cbe9c5f52421bac79e
+FileChecksum: MD5: 10789108f8f1a662f536928e8411d274
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Launcher.ts
+SPDXID: SPDXRef-item9484023
+FileChecksum: SHA1: ec0dc27cb6d0c3a005434d4e31323947dc6832cf
+FileChecksum: SHA256: 43bbc36e6c96d5fff7591ca94a5e64ea1b5bc5636503cdbc053e94b08c58ab0d
+FileChecksum: MD5: 9b46be7ec498e7caa6b2964ef2b48f56
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Model3270.ts
+SPDXID: SPDXRef-item9484020
+FileChecksum: SHA1: 5a508e37ae2a3eb0f20048f362f56a3ea36200b8
+FileChecksum: SHA256: 12bd0e117b29392be0261d8dbd1d2b0ffe343d6b480cb60b96dc6afab1e24650
+FileChecksum: MD5: 6acdf1bd457c70ad4bc57c801d5515d4
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Paged.ts
+SPDXID: SPDXRef-item9484024
+FileChecksum: SHA1: 867ce405c94e58a3644a50cfdd1cab75877c9bf2
+FileChecksum: SHA256: 42b0e0ea8a7e7597b5d9c449a5e74031fd7fa4f0f31368cd9921748a71713dd2
+FileChecksum: MD5: d204f9b7480cf2bafbc9f58ca139dc5e
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/Utils.ts
+SPDXID: SPDXRef-item9484026
+FileChecksum: SHA1: cff453a3da49d3bdcb36f6096843f25ade104576
+FileChecksum: SHA256: 1a3bc70c1489f103c6cb4fa858e7081ea6a631d6af4571adeb6195f9318ff435
+FileChecksum: MD5: 245e3d0f037e3e7cfc407dc5b10a7c62
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/src/publicApi.ts
+SPDXID: SPDXRef-item9484025
+FileChecksum: SHA1: e28926cbd4eb67d70e80d09d2d9d2d2cbe046fd7
+FileChecksum: SHA256: f0efa2335612fe35b506fd7aa2a2747e7cb8e361f4ba1ad9badbde7c313b76cd
+FileChecksum: MD5: 9978fdcc50356c6fb5dff0a6925b9b6f
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project
+Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Open Mainframe Project's TSTerm Project </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/LICENSE
+SPDXID: SPDXRef-item9484016
+FileChecksum: SHA1: cc1b9f6357720c4005d01f48196e732e6f2415ad
+FileChecksum: SHA256: 8c349f80764d0648e645f41ef23772a70c995a0924b5235f735f4a3d09df127c
+FileChecksum: MD5: 2dd765ca47a05140be15ebafddbeadfe
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
+copyright rights in its Contribution, if any, to grant
+copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, provided that Contributors may add their own appropriate notices.
+copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the init
+copyright ownership. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/package-lock.json
+SPDXID: SPDXRef-item9484017
+FileChecksum: SHA1: b04d59fe1b952a58260cb820d2d2e5b6320bf996
+FileChecksum: SHA256: a74e037aebf4f50186cf635ef49429df9393322a3cb336c8ac11e894124d28da
+FileChecksum: MD5: 1f5df7953fabb1efdb241964d27c50e1
+LicenseConcluded: ISC
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/package.json
+SPDXID: SPDXRef-item9484065
+FileChecksum: SHA1: 5a2676d06d3fe69671c02a8ad992e69d094c4204
+FileChecksum: SHA256: c7e5ddf8e157be93d9d76b7b916ad42eac63a9394711d58755ae125b99d2aca8
+FileChecksum: MD5: 4841bfba4b3b452981f01a2dbcb8d773
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/rollup.config.iife.js
+SPDXID: SPDXRef-item9484015
+FileChecksum: SHA1: af3d7c1aa703ab6c94fc9d8afbe552f7158d0085
+FileChecksum: SHA256: 86897c521a902eb98913798f039061462fb8f665a7b601973a8f12450f3dc1b9
+FileChecksum: MD5: 353157e7b4e5e92b1d873f065001b364
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.\n' + tCopyright Contributors to the Open Mainframe Project\'s TSTerm Project\n' + </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/app.component.css
+SPDXID: SPDXRef-item9484094
+FileChecksum: SHA1: caba9440dba3a9c6a5177945be9dc7effd431898
+FileChecksum: SHA256: 8d1801e1ba3baaab65317eb163bb7a2b57eb7b57c2dfbce8292887ab5303c1cf
+FileChecksum: MD5: 8708dc9e8fdb861f6a359de7dc08f4e4
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/app.component.html
+SPDXID: SPDXRef-item9484091
+FileChecksum: SHA1: 852a868b7384241ad8b2a299cb08927576d493bb
+FileChecksum: SHA256: 8387b298641f9ba9cfe9175a3ccbe52f03f7d91ee8a39557c3886a75bf5b8562
+FileChecksum: MD5: 498a9fd912c3e72fbdfd5c0ab8a779af
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/app.component.ts
+SPDXID: SPDXRef-item9484095
+FileChecksum: SHA1: 5ae6f630ef4e1815af4be007f1a3bf4a42a574f6
+FileChecksum: SHA256: 84699af2b6f4a47cc6a183f3430fa88a7580df0211a7d78bd864fc837e257eb0
+FileChecksum: MD5: acc48a598f6a773ddf63dcdc27509e42
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/app.module.ts
+SPDXID: SPDXRef-item9484093
+FileChecksum: SHA1: 2430661b45cd187daffc187affe4a79b33b4dd23
+FileChecksum: SHA256: ce7877afc550c4b39260775c0eafc1b92dac505824b1d010f8589c322523e8a1
+FileChecksum: MD5: 633a550c9bf1deb215696cafb4450af5
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/terminal.config.ts
+SPDXID: SPDXRef-item9484092
+FileChecksum: SHA1: 7f030c6196d2141f1f4648d9515c571e7fa2679e
+FileChecksum: SHA256: 5ec333cdde3aa5595104090cb3a2e759edb9cda7b7cc3d342c5f46cf475c0f6c
+FileChecksum: MD5: d84c5861106f0a245a4a6f89f06e71f3
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/app/terminal.ts
+SPDXID: SPDXRef-item9484090
+FileChecksum: SHA1: ad3240f69dd03735410d2e04d147819a4caaa304
+FileChecksum: SHA256: a609ca368c1ec48f7d7d2aacf329c84b8232aeb33e7185216b252dd5f6b87699
+FileChecksum: MD5: ea0b0fd51411388d86eccd43b7784d81
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/environments/environment.prod.ts
+SPDXID: SPDXRef-item9484077
+FileChecksum: SHA1: 709d24e05528f5548a78eb9d2df6497dc796f29f
+FileChecksum: SHA256: 71378d4579d69196baf33a4f2c1581b3fdb67dd6c077c6ccec85619e9ba16699
+FileChecksum: MD5: c4b651032dc6ef41ba8cfb36bb628a7d
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/environments/environment.ts
+SPDXID: SPDXRef-item9484078
+FileChecksum: SHA1: 4201784fc905b1365425db7302ed47ef37824c72
+FileChecksum: SHA256: d2a9304616c7c1b31a9a1b4d3aaff5b1104ff9fad30d14a139cb4d0bfc141ece
+FileChecksum: MD5: 70a251268e3d4abf31a356bf13879ef3
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/index.html
+SPDXID: SPDXRef-item9484097
+FileChecksum: SHA1: 98d00089f99098147249c7fd8baae2197106b86d
+FileChecksum: SHA256: ef64f3c4d299fe23353361ec8616056a50936128c98a464de2a8e58a90b9ec2c
+FileChecksum: MD5: d9a34c2017ce9e67ddbd49485f1b3835
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/main.ts
+SPDXID: SPDXRef-item9484079
+FileChecksum: SHA1: 23bd341b84ae0454901166af7102730d2cf68466
+FileChecksum: SHA256: e888f075db68d22af072c9e7002cb70e91d75a8e3b60b7220c5043bbcc48df29
+FileChecksum: MD5: 5ddc2a4b37ed5c22a2f98ae6375dd452
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/plugin.ts
+SPDXID: SPDXRef-item9484082
+FileChecksum: SHA1: df84e69fbc7fd61cc0b92be29546da92c272c186
+FileChecksum: SHA256: 1b1c671437d16d476f164b32bd117cc39bf76aaa244cbc8bb8148e18566e5722
+FileChecksum: MD5: b2eaca660afb0cd90cb859257f8bf79c
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/polyfills.ts
+SPDXID: SPDXRef-item9484080
+FileChecksum: SHA1: c4441f64431620f05ad73e32487ee4a929fdbc7a
+FileChecksum: SHA256: 71d97bd00af43b5a0399a52b5570bedb670dc9c1e68fa5e4ca9250c930f58d6b
+FileChecksum: MD5: 481dc4dfeadfb7a40ec000d62d81c737
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/styles.css
+SPDXID: SPDXRef-item9484083
+FileChecksum: SHA1: b9d3357d98cb52acaaf5847015dc3af846519ac7
+FileChecksum: SHA256: 1ad0b0ca5c2a6f4a160fe5859291e2025d373e158a08d22755f347d4f07b1441
+FileChecksum: MD5: f94b81a32f8d246714586819725ab0af
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/typings.d.ts
+SPDXID: SPDXRef-item9484096
+FileChecksum: SHA1: 65f72dfa5f9b74a87f80838df9397062ec92fea5
+FileChecksum: SHA256: 64589cd8c32e07c08255259550a4882302f2934addfa811b48ad0bd181c6ad06
+FileChecksum: MD5: c39267fbf930235f256774111dfbb08a
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/package.json
+SPDXID: SPDXRef-item9484099
+FileChecksum: SHA1: 1f35b58c741a7294eb79d1f3f1019a8366548527
+FileChecksum: SHA256: 1f6e273acb9286430954e5549310edd90af18f686e5dc364af89a1c124f3185a
+FileChecksum: MD5: 51b3ea215da9b30cafd9c7f2024b4248
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/webpack.config.js
+SPDXID: SPDXRef-item9484100
+FileChecksum: SHA1: b3dc56377f0f65189c09152018691670eff1ec71
+FileChecksum: SHA256: c6e85af388bcd1c5d2d80f4f4ebc6bcb3d4c9dacb7e0339060a248a1181af1f5
+FileChecksum: MD5: 7e6d0077a9fb2d34fe72af3911eef55f
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> Copyright Contributors to the Zowe Project.
+Copyright Contributors to the Zowe Project. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/LICENSE
+SPDXID: SPDXRef-item9484071
+FileChecksum: SHA1: 57ace3462a030487c8a2e7313577e33c367de9de
+FileChecksum: SHA256: 721c2da257578bace3332b14d8ea06643d7d26753e7ef25a837b4e904edc0bf5
+FileChecksum: MD5: c7cc8aa73fb5717f8291fcec5ce9ed6c
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
+copyright rights in its Contribution, if any, to grant
+copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, provided that Contributors may add their own appropriate notices.
+copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the init
+copyright ownership. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/pluginDefinition.json
+SPDXID: SPDXRef-item9484072
+FileChecksum: SHA1: 230674c414cb48dc8374a73dae254dd1c350fa8e
+FileChecksum: SHA256: 1fa49a603269f1b42d4801666da38abf5db0747dccd29f49290aebb4353636c9
+FileChecksum: MD5: 21a9c7ff2a2d9850b5acd54ee11dac73
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/LICENSE
+SPDXID: SPDXRef-item9484124
+FileChecksum: SHA1: cc1b9f6357720c4005d01f48196e732e6f2415ad
+FileChecksum: SHA256: 8c349f80764d0648e645f41ef23772a70c995a0924b5235f735f4a3d09df127c
+FileChecksum: MD5: 2dd765ca47a05140be15ebafddbeadfe
+LicenseConcluded: EPL-2.0
+LicenseInfoInFile: EPL-2.0
+FileCopyrightText: <text> copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
+copyright rights in its Contribution, if any, to grant
+copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, provided that Contributors may add their own appropriate notices.
+copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the init
+copyright ownership. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/JavaScriptLexer.g4
+SPDXID: SPDXRef-item9484114
+FileChecksum: SHA1: 33d7d2d4f59a1031befb75a5a23e01c44a3e5e76
+FileChecksum: SHA256: 4adbb9bef6032ce6fc5afd7e5a0d337ff8f57a9f99711ce96f13ee758d7a9203
+FileChecksum: MD5: 6255c1e0f2ff1cd1ed110efb2bccf8e2
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2014 by Bart Kiers (original author) and Alexandre Vitorelli (contributor -> ported to CSharp)
+Copyright (c) 2017-2020 by Ivan Kochurkin (Positive Technologies): added ECMAScript 6 support, cleared and transformed to the universal grammar.
+Copyright (c) 2018 by Juan Alvarez (contributor -> ported to Go)
+Copyright (c) 2019 by Student Main (contributor -> ES2020)
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/LICENSE
+SPDXID: SPDXRef-item9484107
+FileChecksum: SHA1: 0397497991a2ef84ba814d6167b421d33b3260a0
+FileChecksum: SHA256: 0a99aa1d6189ba3f68692f9e6072c960babc213eaa72c8de2e68b1960d338e81
+FileChecksum: MD5: a184647fdc0505b3d04e4e5e85a563e8
+LicenseConcluded: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text> Copyright (c) 2022, JoeNemo All rights reserved. </text>
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item9484014
+FileChecksum: SHA1: ac043e01a9dea20064f748767bef1751e22e00d3
+FileChecksum: SHA256: d1312e6765c07869cae6734608132b85add4031f92e79cf0be4e25fead6f5440
+FileChecksum: MD5: 246202e79bacb5ee0826728ff3ad299e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/tsconfig.json
+SPDXID: SPDXRef-item9484018
+FileChecksum: SHA1: 06bb5aa9e5bb6259f4778571dbf6165ad01e1c95
+FileChecksum: SHA256: 99c3aaf0bbd3d714eaa1c7e7b026613ef33022e4cee66eaaf22cdfb128cea59d
+FileChecksum: MD5: 8c811872c58702272f39b3aea7e465c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/.github/workflows/release.yml
+SPDXID: SPDXRef-item9484047
+FileChecksum: SHA1: aa858401676342aa4eef1e142204b4febc2d6a98
+FileChecksum: SHA256: 04311f2e171a7a78ec23255cc35692aafaf6ae5fdeb0782ba37732def92c8606
+FileChecksum: MD5: 7f7752ca8658ec71dfe93168af9808b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/.github/workflows/npm-publish.yml
+SPDXID: SPDXRef-item9484048
+FileChecksum: SHA1: 4fe5294703c44f3c777a3d85e1deba898f8ef6cf
+FileChecksum: SHA256: b2b4523818340543896c753fdafbe121affe22864461af03175b8ad7d6cd0303
+FileChecksum: MD5: 8f28a216c58891d1c9b3c6ea8ffca610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/.github/workflows/build.yml
+SPDXID: SPDXRef-item9484049
+FileChecksum: SHA1: 07826ec5d4a44d7ab292a4438557892f379ad3a1
+FileChecksum: SHA256: 86842174ceab75ea3fbc7d0709c178b5f7357dc6976f74dca5e3f961e930e1a2
+FileChecksum: MD5: f16f5dab98eb2dd14fa2354e23ff8cd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/Contributing.md
+SPDXID: SPDXRef-item9484050
+FileChecksum: SHA1: e6c7788ab044461aa010b2131971e36404594836
+FileChecksum: SHA256: 74a34f770142d823be3371739318feef6ab30ddf446339095ac838e6258c77c0
+FileChecksum: MD5: 8d64816db81431a8c706a90ec98319f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/.gitignore
+SPDXID: SPDXRef-item9484051
+FileChecksum: SHA1: 0dfb2f595cb06543cb9dcb4489140217e374b458
+FileChecksum: SHA256: d49b9273618b933a245c45dbd3d825b9faa523ca36467ce1fdec9397623448fa
+FileChecksum: MD5: 093096e71fbde7203ad316128e849732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/Building.md
+SPDXID: SPDXRef-item9484052
+FileChecksum: SHA1: 428d6a8aa3f50427d1354878d8c597500330a323
+FileChecksum: SHA256: 6f706abcdcdf2808d10e0495063e7c027b84316d986b3b4a723aecf5dcabed18
+FileChecksum: MD5: d1c45a5be979f9bd0f30e79beac7ff9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/simpleproxy/html/homepage.html
+SPDXID: SPDXRef-item9484060
+FileChecksum: SHA1: 8f23ddc9d65a115e458a9f97518837c8a90a6fd7
+FileChecksum: SHA256: be30325020646b3b3ff5cb267a8a3331d38c4681debe3f595f0e60687aad3796
+FileChecksum: MD5: d5ee7d41f9598545d7c6aebb3bb161f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/CHANGELOG.md
+SPDXID: SPDXRef-item9484061
+FileChecksum: SHA1: 1db3ceb4ef45f59a96f81688a98580fdacba7a78
+FileChecksum: SHA256: f2a0c07a2d33e23c08e83167c7e3e26e777ee8e95a819266a9265325ff406d6f
+FileChecksum: MD5: c26254225c2b3e0ab996d4f2db25d233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/SUPPORT.md
+SPDXID: SPDXRef-item9484062
+FileChecksum: SHA1: 9ab7cde4655fb387393af728203e88706cb6c2c8
+FileChecksum: SHA256: 39b29286ace28371f607d35f1193b521580ea27b5375d79231f43ad5c744c7e6
+FileChecksum: MD5: 7d11c0ec21488a45836cc4da6f66a7b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/Release.md
+SPDXID: SPDXRef-item9484063
+FileChecksum: SHA1: 5e9113562faf4f420f022120469774c94f60aad2
+FileChecksum: SHA256: 32beb112ebeb3f4ab670dad317bdbd99b4106495144214054cc1f65daf3559b2
+FileChecksum: MD5: 1ddc0959a204f11dd2f177b18373fe7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/README.md
+SPDXID: SPDXRef-item9484064
+FileChecksum: SHA1: 8bf6bfdf0cb4848f2c13ad79a06b6fc1dadd0d8c
+FileChecksum: SHA256: 7c0b8eb461cfdd8f85005548eabd85d3200f1140c0a263a5acec6e09ac455b32
+FileChecksum: MD5: a0355bb6fe4dd3d0b51f1be074547334
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/Fall2022Update.md
+SPDXID: SPDXRef-item9484066
+FileChecksum: SHA1: 7cd3201000d231c9980ddb6862eb9e5b42da5d9e
+FileChecksum: SHA256: c7dc2f2f9372ff0af170f04074ed47250d3598b15ee17d065c365d791cbea365
+FileChecksum: MD5: e7641336e38bf50cb4a8e5c7a3d01149
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/app/termtest.html
+SPDXID: SPDXRef-item9484068
+FileChecksum: SHA1: fd337feaa1f69ffce003dac906d9c08e4b405253
+FileChecksum: SHA256: f347f733682b2e02b21a73d1b16dd4951bea22c2c7fa6ddef7395df8786692bd
+FileChecksum: MD5: 0e277ba51922a9af9d8164da6d07074f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm/rollup.config.js
+SPDXID: SPDXRef-item9484069
+FileChecksum: SHA1: a7628cba1379a9aa8dc8ba333c9f1d35e5f8f1c1
+FileChecksum: SHA256: 36f479cd28e3eba0e60eaca524f13bea09928d1831b89561b1b139058efd0ec9
+FileChecksum: MD5: f0923d301e14cf26592e399cf4564f23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/tsconfig.json
+SPDXID: SPDXRef-item9484074
+FileChecksum: SHA1: 1015d4eebea4403d99451bb45dabac7aa013ec39
+FileChecksum: SHA256: 527ec33b44af0f8b59393806abdc39cebbe23faafec8175e47b7f46da807a3d0
+FileChecksum: MD5: f7c26cf9d683203491e7cf4e7188e068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/tsconfig.app.json
+SPDXID: SPDXRef-item9484081
+FileChecksum: SHA1: 6cc639e1d6740ee85a050da661b034312807a908
+FileChecksum: SHA256: 4d8d8a4e67af3c444db2b9c1ee2686c054d76b186488ad51f70e125a2570de84
+FileChecksum: MD5: d889b560471944dceda124a52a60ba21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/assets/contract.png
+SPDXID: SPDXRef-item9484085
+FileChecksum: SHA1: 45bd54e0cacb811daa55f0d32c8dce914a634d0e
+FileChecksum: SHA256: e52483fc0ea10cfa7c29417aaffefd5e8c7c3dac0f201c84b9f63da33a48dcb6
+FileChecksum: MD5: 08ec1ca222ac05d26d84491d0a1338cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/assets/power.png
+SPDXID: SPDXRef-item9484086
+FileChecksum: SHA1: 0ed502bf0cb4bb60a699d8a2153957e701228824
+FileChecksum: SHA256: 9cd1e311f0e775ed77f84ac36086bcaabb3ab8da375e63886cf9e856701e3112
+FileChecksum: MD5: 8457805017d73dd4c6b318ea0ef24da3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/assets/icon.png
+SPDXID: SPDXRef-item9484087
+FileChecksum: SHA1: 17f786088fa82a78f1e39ff6283a2b3dc9eb33c5
+FileChecksum: SHA256: 7c2843a1c29e884d3503811e33bf8c3b99133680ec5b39793dcf0ac4d764d83e
+FileChecksum: MD5: e13cbae553d71a2b19fbff6f05989dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/src/assets/expand.png
+SPDXID: SPDXRef-item9484088
+FileChecksum: SHA1: ef822e9ba33720ba6403542aa095624bd4f288d2
+FileChecksum: SHA256: e5d02117b058e6b3ef74c203b201229f2e38051845413470e687b0ffc80664b8
+FileChecksum: MD5: a9a340567411865739a3eca44936dea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/webClient/tslint.json
+SPDXID: SPDXRef-item9484098
+FileChecksum: SHA1: ce91696f1eef6eb3ba6c4f288a6fcda1913a9adb
+FileChecksum: SHA256: b74401a3425e09af17d8ea45836f8fe777ebfa4101a9ceee25dae64c4d899761
+FileChecksum: MD5: bc95932c7112f8935487c04cf42be35e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/README.md
+SPDXID: SPDXRef-item9484101
+FileChecksum: SHA1: 609934254ea8bc8ea8692e9aa3f3fde1b6f9040c
+FileChecksum: SHA256: 41d68c35c481ef9c3d39c45a503dc0a629053dd3ff0303407f2e3e262ff1371a
+FileChecksum: MD5: fd97539dfd592a9e239b902fe500d74a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/TSTerm4Zowe/config/storageDefaults/sessions/_defaultTN3270.json
+SPDXID: SPDXRef-item9484105
+FileChecksum: SHA1: 65767e3ee5106fd8d3a91a5bbfa073ada16ab7b1
+FileChecksum: SHA256: 224fe0ae1622e4f4572190c86f9b4fbf4d242d3ae4d0b68fcebb7076b4fc58ef
+FileChecksum: MD5: 6971d95fce7aa49ae31d31ffff251122
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/grammar/JavaScriptLexer.java
+SPDXID: SPDXRef-item9484112
+FileChecksum: SHA1: e5e804b066ba70366bafa404818430a14f8e4cad
+FileChecksum: SHA256: 2adc2cffe31da9413ef09342c1bcfbee7803f2a95701992573312d0d452bcc29
+FileChecksum: MD5: cbabbe1831ec9d057ab67e19b39b3e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/grammar/JavaScriptLexerBase.java
+SPDXID: SPDXRef-item9484113
+FileChecksum: SHA1: e4f78324833526b390a403bae79a01d294ddc2f5
+FileChecksum: SHA256: 7379214e1a05c9c3416fc115eff6027292b7543738461414d7a312b02cc8a17e
+FileChecksum: MD5: 38191a465ac98aa32b173d520579cf9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/build_notes.txt
+SPDXID: SPDXRef-item9484115
+FileChecksum: SHA1: e37a80ab3d5e103902bb4444d35f699c9e4586d1
+FileChecksum: SHA256: 7ee8ba8bd947be4834b4a46c15749b4e41e5de6e6dad4a56a066ec6a71cf7af5
+FileChecksum: MD5: f6f38dac921162e4c2edac3bd643d159
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/Test1.java
+SPDXID: SPDXRef-item9484116
+FileChecksum: SHA1: c1693c35a284eeeb2e3d136583fc9600b61eb53c
+FileChecksum: SHA256: 48d509b6109ab8939db3234d011f6acf8b4026e186c8a67735afcb13554cd67b
+FileChecksum: MD5: 5df06dfbcd6d0493f74fce53ea1f6ce4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/TerminalPackager.java
+SPDXID: SPDXRef-item9484117
+FileChecksum: SHA1: 5c54da62466b74ad7b3065c66d886ed7acedfeaa
+FileChecksum: SHA256: 23adaf841f54246dd304fe562adaab5cead4653bcf0d0ca43cb7cd03ddfb8b26
+FileChecksum: MD5: d9a395bdbff22a41b5b471537ebfc29d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/GrafanaPackager.java
+SPDXID: SPDXRef-item9484118
+FileChecksum: SHA1: cf70df612309d33f2573c7e4c935220ada8f2f11
+FileChecksum: SHA256: e1e116d347b3d0aa00f67506b5d041a5bee24dcf7467fbcf5e73db0c25a2363e
+FileChecksum: MD5: 468a4501af26cbd211ebac917f105958
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/com/zossteam/tspackager/PackagerBase.java
+SPDXID: SPDXRef-item9484119
+FileChecksum: SHA1: 85fb2323f31ff85d78de51bf1ac5ded855b6419e
+FileChecksum: SHA256: 8767c3075c593548c230b22aff5d79d14625e67d89cb987175f501e3a2195a9f
+FileChecksum: MD5: 63ad345e6c9981847437205dbfa31048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/tspackager/README.md
+SPDXID: SPDXRef-item9484120
+FileChecksum: SHA1: 7143c16d7309a1754fbf5e17827e44d28220537a
+FileChecksum: SHA256: d4ed29e17a97ec7ed8d215c0354fec160302efbcffcef2b92653e14ae6c243a1
+FileChecksum: MD5: 06cc9f02259ca0b5b8e72c4b5e7044f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/main.js
+SPDXID: SPDXRef-item9484122
+FileChecksum: SHA1: 7f8115235c2a84092d61c7cbfd370905b817b3e8
+FileChecksum: SHA256: 626cfa85ca9dd90ea34c843bf1044a1de611d29037597fb34a8c85e32d464a53
+FileChecksum: MD5: f8b88616e185bafd7dfbe362f0f68ad1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/sessionEdit.html
+SPDXID: SPDXRef-item9484123
+FileChecksum: SHA1: 2852f9f65edc044f5808ddf416df4b7e283df42e
+FileChecksum: SHA256: c7cbc7db9460b295cb372d709aab5e3e71298cd92ec61d993890a5ab59115643
+FileChecksum: MD5: 7732e20876bb8f3f6b05a5115125f602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/preload.js
+SPDXID: SPDXRef-item9484125
+FileChecksum: SHA1: 3260b638970260677f2160eea12b8dee1c22a8d7
+FileChecksum: SHA256: e4600c4ef535f7c9019e0181557874fae670f72167fecc5548ebcbb9abbc6bd3
+FileChecksum: MD5: 4e80991b2923e8cd6a0a022f3b4e6a27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/modal.html
+SPDXID: SPDXRef-item9484126
+FileChecksum: SHA1: fee5e6d23efad36e0d95a60de932d19cb0fb5550
+FileChecksum: SHA256: 4a16cf4932f59b954188d253c05b7cfac4d9a36fb93f2d58662f8a9f44cf951d
+FileChecksum: MD5: d778e15de8444342a75a78149247877d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/modal.js
+SPDXID: SPDXRef-item9484127
+FileChecksum: SHA1: 55760522e3f6b94d2a733a04f36d698d7eb75882
+FileChecksum: SHA256: e325df2a48fe30938231d672bb8f4d0ae5147a81b5873524bbc41ee06f6061e9
+FileChecksum: MD5: e02b3478467a87e2ad3615511016f434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/index.css
+SPDXID: SPDXRef-item9484128
+FileChecksum: SHA1: 1a2056fa12394dfcc1d2ee1b6dfacbf791011701
+FileChecksum: SHA256: 172f69a5380c019a31a799caabe205c240173bacbdaef25228b310d5f285658b
+FileChecksum: MD5: 698f2e92f41b64ded49bc7c42b2705c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/renderer.js
+SPDXID: SPDXRef-item9484129
+FileChecksum: SHA1: c3e9cfd4f9f500085479d5edcd94e4a8a70c2619
+FileChecksum: SHA256: df81249f477bd75ebba8bdd4f0a251083dbb5ae5e89003ca633e6f0d66d47f02
+FileChecksum: MD5: b42daeaaafe14586179b9d0e39e9309a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/README.md
+SPDXID: SPDXRef-item9484130
+FileChecksum: SHA1: c5686b5853026174e62afffb698e8c83ad5170fa
+FileChecksum: SHA256: 941dcfec969a7a1f2d28eb77e331ab6b07ffcb39491dec940fc6586fbf98b9fc
+FileChecksum: MD5: dbd8dd88529324f1ebca476121316aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/forge.config.js
+SPDXID: SPDXRef-item9484131
+FileChecksum: SHA1: 48649f792b8e530db146f9da7ff3ff361fb4d7d1
+FileChecksum: SHA256: 0f38c22abafb9bc10dbfdd56d90bf3329c5190bfb94574576a45fb948da13fae
+FileChecksum: MD5: d8bac455a3f52c196a354273df88b166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/package.json
+SPDXID: SPDXRef-item9484132
+FileChecksum: SHA1: 25893a4e47050ef8dd07f51826eac2832ae50da9
+FileChecksum: SHA256: 01c289f20de67e283647142a68af228a33daacac199041d4f40e43038c9a31a1
+FileChecksum: MD5: 4ebc7cf020ea3c2317599703df4f37ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: TSTerminal-2024-08-02.zip/Term4Z/index.html
+SPDXID: SPDXRef-item9484133
+FileChecksum: SHA1: f379fc91558b988f9dc99e6d19cb38eafddbb0dd
+FileChecksum: SHA256: 97cee4d4e8dfc06593a89e9b42a9d4aec16f76895cbc2c01e37dd8d008071867
+FileChecksum: MD5: 87e1eaf9cb0367c618a011309dca2c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

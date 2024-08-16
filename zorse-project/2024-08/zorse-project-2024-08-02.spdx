@@ -1,0 +1,203 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_zorse-project-2024-08-02.zip_1723155274.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2024-08-08T22:14:34Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: zorse-project-2024-08-02.zip
+PackageFileName: zorse-project-2024-08-02.zip
+SPDXID: SPDXRef-upload1438
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: f48d9e18ece22cd7823ddeb339e3f0894899a31e
+PackageChecksum: SHA1: d4a53b614e3862458b71ae946e2ddf6ee53aac95
+PackageChecksum: SHA256: f5dff5284aefbc30cc75fd70e54cbbac8c07aa4d6224752760b317fecba507dd
+PackageChecksum: MD5: 890f11b57e7ed17bb1ab94b23e9c5444
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload1438
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/LICENSE
+SPDXID: SPDXRef-item9607421
+FileChecksum: SHA1: e4d12ca35d187d2e1540861d5760ee134b1a901b
+FileChecksum: SHA256: c189758f5345532b4792a167873bb3c12480cd7d07335d582e18d8cfe9a2d355
+FileChecksum: MD5: 9190111e1fd79e4c2b9523599728a9f3
+LicenseConcluded: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) bloop (https://bloop.ai/) </text>
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/src/main.rs
+SPDXID: SPDXRef-item9607423
+FileChecksum: SHA1: 02c24120abfb1b639446975f47ec9b1d6dae3a81
+FileChecksum: SHA256: a9c367bd2ba442692eac6a318dfa8360a53b9887096131ff28c7224dd079a610
+FileChecksum: MD5: cee7b013f6d1dbed8f4d3dd940557976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/data/HumanEval.jsonl
+SPDXID: SPDXRef-item9607425
+FileChecksum: SHA1: 802c47d605ccd76c57db82ba16c814ab9bd60530
+FileChecksum: SHA256: 03c1355216a273adeae4504743d52168c12cab04e1cb74e966bc041a3715ba8f
+FileChecksum: MD5: 746f4fb6abbfd6e61cff9d6967deb0a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/data/CobolEval.jsonl
+SPDXID: SPDXRef-item9607426
+FileChecksum: SHA1: ce0f4ef92713d65b90aafdab78148c9515ffb3a8
+FileChecksum: SHA256: b018d90bdc53b32c3c76b9a67462e3f572f894dd98f0f084fc779992c7d21264
+FileChecksum: MD5: df4a0c9d3f425b1a760bfea8369860de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/.gitignore
+SPDXID: SPDXRef-item9607427
+FileChecksum: SHA1: d95d09ce405fa16937ad8e5e1ae99b229626a978
+FileChecksum: SHA256: 32d2a0eecce8084867eb40cc824224fe65a9923525f375c92aef6b70d8182bc0
+FileChecksum: MD5: cab970a7daabcc969a31c31f779a1cab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/requirements.txt
+SPDXID: SPDXRef-item9607428
+FileChecksum: SHA1: 54b972c5bbd41bcb1d745e7dfefa4b8aff3ad655
+FileChecksum: SHA256: 41bd6c229ecf907f87606c41b60934c80245c9f4690ac3df77385353e6dc4df8
+FileChecksum: MD5: 369bd93640ac3e1ff64f13c9f5c1f756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/Cargo.toml
+SPDXID: SPDXRef-item9607429
+FileChecksum: SHA1: 3d7b51e7c560571815d1187936062416a44909e1
+FileChecksum: SHA256: 6c776abd6ebcfb6c56276b97f496863d32ad296bbbfd225df3956e6bf3f4f457
+FileChecksum: MD5: 327b7b553ea049de7d3abd5599857bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/scripts/evaluate_functional_correctness.py
+SPDXID: SPDXRef-item9607431
+FileChecksum: SHA1: 85028796a271a37dda58fa280e5ec1ba516e6ae5
+FileChecksum: SHA256: 012f0d561d87da8fa6730344a6b1cc4151dd936bdb2c1bbd851a8ae4d49f2829
+FileChecksum: MD5: c8da9051af956ca6890f738d784454b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/scripts/generate.py
+SPDXID: SPDXRef-item9607432
+FileChecksum: SHA1: 02cac4e503925c5b1e98bb5fedb071699ca82821
+FileChecksum: SHA256: 7c13acc14377412260386c840896b98a73917f6b39afde0f8b72ce732cc92b8f
+FileChecksum: MD5: 59f684c57abc35a64bf96f82fae139bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/scripts/data.py
+SPDXID: SPDXRef-item9607433
+FileChecksum: SHA1: 27bc7c36d14d0b10ca5f7c1b4a4497ab7a8dbf9f
+FileChecksum: SHA256: fa7c24587a718c65751d1fc1eba1a6d77e98d1fa6d83f02250de527bf1dacfc9
+FileChecksum: MD5: 56cd1330176dcf4b58836fb92ffe3a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/scripts/utils.py
+SPDXID: SPDXRef-item9607434
+FileChecksum: SHA1: 59338cf09c49356abeb687d222f1e5fb8a354241
+FileChecksum: SHA256: 990f26880ee9f2abdb30b0049c62023deef6261d434dc0a479715a91b4d1412b
+FileChecksum: MD5: 23ffef7d700eb210bdb2fa29b467feea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/scripts/evaluation.py
+SPDXID: SPDXRef-item9607435
+FileChecksum: SHA1: 13aae5ec9a046e93bc2a2b0e253cd37cd25bdc19
+FileChecksum: SHA256: ad32dea494d4659b2da9df85e9d4967b5070eddda1e22cbac279c6833eb08f94
+FileChecksum: MD5: 5c94c6d67734c040333b22b7860f402d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zorse-project-2024-08-02.zip/COBOLEval/README.md
+SPDXID: SPDXRef-item9607436
+FileChecksum: SHA1: ef3e0e16a22d27408925fea9e6e86f3a91e6da19
+FileChecksum: SHA256: e04918c0c70dcfdf38ff4813e6a110b28fc3c8403948e372fcc2897012229ae5
+FileChecksum: MD5: 6a7f8778008e5c4696bbab238d279b08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

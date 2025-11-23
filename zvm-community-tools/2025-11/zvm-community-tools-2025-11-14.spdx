@@ -1,0 +1,2224 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_zvm-community-tools-2025-11-14.zip_1763278422.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-16T07:33:42Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: zvm-community-tools-2025-11-14.zip
+PackageFileName: zvm-community-tools-2025-11-14.zip
+SPDXID: SPDXRef-upload2033
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: 461c01a112185fcb8057ecf05fe827278b736225
+PackageChecksum: SHA1: b8be7035e74f3e6c546a134ec3d29da117474667
+PackageChecksum: SHA256: 21e718610291edaedc7927b3dc158d2bf3b19ef2d18eb765ccf4e5841e2058a6
+PackageChecksum: MD5: c10c87d0b1175cec96042009b75e598f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2033
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/LICENSE
+SPDXID: SPDXRef-item11547293
+FileChecksum: SHA1: edd44f3320effba7d2a047502d7e062a8bdd4eee
+FileChecksum: SHA256: 407fc27c0b66b557e7bc10ac145be27ae0da0936f78fda4cb192aca9e1c8a810
+FileChecksum: MD5: 48f00ac6d59470db4239e51c8cae8e3c
+LicenseConcluded: MIT AND MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+FileCopyrightText: <text> Copyright (c) 2024 Mike MacIsaac </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/CONTRIBUTING.md
+SPDXID: SPDXRef-item11547136
+FileChecksum: SHA1: 2e4fa5eb701196abb5286532c6fc5e78369ec6c5
+FileChecksum: SHA256: 03f9f576b24cd7fc424783a63705b472cc9b9efc658a4bb9a9dbddf75280f897
+FileChecksum: MD5: ba0a9d63cd7f8a2dbe3510bbef7c5da5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/LICENSE
+SPDXID: SPDXRef-item11547134
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/calc.exec
+SPDXID: SPDXRef-item11547157
+FileChecksum: SHA1: afbb6d1dbb088a50ea2221b5aba761eea1b47cfe
+FileChecksum: SHA256: ededb4e2541eb136da80f828d39d9174b681fed5b625f2deff764ad1afe22d04
+FileChecksum: MD5: 32bb00f8eb70a339d7095d457a4cf75f
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/calcdasd.exec
+SPDXID: SPDXRef-item11547163
+FileChecksum: SHA1: f292a20a36fde9b628e24793e5b371b51bc7aa6e
+FileChecksum: SHA256: 526ef2b864ba6a046e42ff96284d34fa7b4b8ea8bfebf72abb54e7681d40f2f7
+FileChecksum: MD5: ebda0d2726f03a98b5e40e0f31c73858
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/calcosa.exec
+SPDXID: SPDXRef-item11547152
+FileChecksum: SHA1: 2fb8ff427ddca85d0a65ac6c22ef84e0301f3a75
+FileChecksum: SHA256: b10c7e4ca91d2177b706a060ed43be09204fbaf2ceff57e2df98e62f9b716e62
+FileChecksum: MD5: f8ccc48dd678fd828037359451529cd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/cfm.exec
+SPDXID: SPDXRef-item11547160
+FileChecksum: SHA1: dcc4ab53a7cb271790266f2b7fea39067ceb4da4
+FileChecksum: SHA256: be2206cea6b5ca886af5397a65aff2d46890985cf6d818ea564abf772ff7c8b8
+FileChecksum: MD5: e8e08a2518e85f5e4784a777fabe4e0e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/cfn.exec
+SPDXID: SPDXRef-item11547164
+FileChecksum: SHA1: bcb29e316306b0bb8b97e06eb6d901239699c09b
+FileChecksum: SHA256: 6a1cd817e0dfa8c991658c2da3c98ae553f9df7ebfd85e50f4f387cabcbe9a81
+FileChecksum: MD5: f747e76e5fbdc5b80312d094d26c8e3e
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/cft.exec
+SPDXID: SPDXRef-item11547148
+FileChecksum: SHA1: 1555349df02768d674c1d18b0c586bfa8cec45f8
+FileChecksum: SHA256: 9bdaeb3e7d70d48957eb10436b710a818a3ad5e78c12537e009c5fee78af510f
+FileChecksum: MD5: d3e5892ed4b61e6f2a82ec9f6a1df9bf
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/copydisk.exec
+SPDXID: SPDXRef-item11547142
+FileChecksum: SHA1: 0fdeaf8293566990e710862c983d314be56632a2
+FileChecksum: SHA256: 75981a53ed52992db9c54fef76ca12c21eddc8e8d5903ed75d91169c3148d876
+FileChecksum: MD5: de8de38968f60d8765d6d640599fa1b5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/cpformat.exec
+SPDXID: SPDXRef-item11547141
+FileChecksum: SHA1: e85a9d1e1f3997911cc42c59683394b19a2fdcc7
+FileChecksum: SHA256: 1c7add4a29514ac7d6cad152875929dd3114b18e97546784d5888febd3d32a4d
+FileChecksum: MD5: 98db170ec08e79a6be5eec42e8e1fa74
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/diff.exec
+SPDXID: SPDXRef-item11547162
+FileChecksum: SHA1: 4851a73a334eb00558a7b18966fd9db6932760b9
+FileChecksum: SHA256: aeac1071f21f989a56ee44745714a423f6a8f8df348bc3aece984c665fa9ce03
+FileChecksum: MD5: 947b180cabce3d65c216436b3cdcb0d7
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/grep.exec
+SPDXID: SPDXRef-item11547144
+FileChecksum: SHA1: 843111d116aa5b7f6f18c4747fb6d2d5fd2b6961
+FileChecksum: SHA256: 01b2d2b7fded7ee11789a190d04ce6aadb3a3d26b119390cfa7df7e5d1dc309e
+FileChecksum: MD5: f5ca84a00c6a9516eed1ba207a5a4765
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/head.exec
+SPDXID: SPDXRef-item11547153
+FileChecksum: SHA1: 9d4d6e287cb68e6bbab0e82283a8134081f87325
+FileChecksum: SHA256: 07bdc5da10b17fa978dc969ae248f33dd2bee9867b1a4dbabdb2cbc0e45922aa
+FileChecksum: MD5: 6f4837f5d57bf923d1959e924fc16913
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/history.exec
+SPDXID: SPDXRef-item11547155
+FileChecksum: SHA1: bb33089ccb38dbf8ef55faf0c87d1c5e68f883d3
+FileChecksum: SHA256: f7716b12304b600820a809c5b185b7d9eddefe425ba09d91a2ea2f8f10f9b034
+FileChecksum: MD5: d204455b7a295ecadcb09a98bd267cd5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/man.exec
+SPDXID: SPDXRef-item11547150
+FileChecksum: SHA1: 6e6e02529aacc186bb129d05bbb35a97b462cc62
+FileChecksum: SHA256: d8a938b8606fc8b130fff3f572a21ba4eb0b3f72551e8f882fb9baa67847a6bb
+FileChecksum: MD5: acb99e078bca1ae5cf7405a95eaee589
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/mkvmarc.exec
+SPDXID: SPDXRef-item11547147
+FileChecksum: SHA1: 475d8f697411a06aeb05cfae18c5127f83c39a6b
+FileChecksum: SHA256: 2251d1dedad0a8ddfbbaa9eb10399af84147a458854e967ffa24dac3fc0cf810
+FileChecksum: MD5: 1dc8ab2d4932d2e4fcc46ea98d4b5722
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/qa.exec
+SPDXID: SPDXRef-item11547161
+FileChecksum: SHA1: 9acf094723721ab2765ebeb4a935135766a3bb70
+FileChecksum: SHA256: c0c59558069aba1bd0805ded0da36227f5d9e32fcd7ce9fe9abd174159b45502
+FileChecksum: MD5: 885740130d4f9995bcefe43e2160b021
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/rfn.exec
+SPDXID: SPDXRef-item11547151
+FileChecksum: SHA1: 0df450eed608190d2f68fdc2c74c3d336edbeb0e
+FileChecksum: SHA256: 39d7bcf9f1733bdcd4dd5e5574a060ed0177ed5eb3f5369da445464ecc3fb6c3
+FileChecksum: MD5: 7e61c4c66194a68eb181bb214d16de4b
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/rft.exec
+SPDXID: SPDXRef-item11547149
+FileChecksum: SHA1: 79e57c027667d7fb1634b8cd27271713f90f0106
+FileChecksum: SHA256: 77fec02daae18732eaf394692715ce21fadb7843043ea46e66e295eca0db73bc
+FileChecksum: MD5: a2ed47a0af966622c009801f2f009c02
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/rm.exec
+SPDXID: SPDXRef-item11547138
+FileChecksum: SHA1: 75aa6ac06bd758d2ba880b0f79d54775dc5f5450
+FileChecksum: SHA256: 8d3220b3d2b437c76818a2767dc1041068843d77f3e08c4e835513a18577a974
+FileChecksum: MD5: 9e556292c6e568206cb7f7ff449a3494
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/spc.exec
+SPDXID: SPDXRef-item11547146
+FileChecksum: SHA1: 492909f500e39b2026ceca183df18797b8d891d4
+FileChecksum: SHA256: e78063843653186c62704770e40faec415cf5caef1e5112dae3bd3b6b5321be3
+FileChecksum: MD5: b5835afed275480e61c226ea0ecd530a
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/ssicmd.exec
+SPDXID: SPDXRef-item11547143
+FileChecksum: SHA1: 8955cd3ad2b80a88cdde53914bc7b97a34c7f5c7
+FileChecksum: SHA256: 236641c48a9bdd4ddc25c30de98f2164544a3f96addd083ec6196467e9b85154
+FileChecksum: MD5: 84ccc93f47a1f420cbb10fd1cb2f16d5
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/tail.exec
+SPDXID: SPDXRef-item11547156
+FileChecksum: SHA1: 2e313ccab6f39fa1397d39e2cf5ddc03cb2de1a9
+FileChecksum: SHA256: fa25fdbc37326791d9c58cf77cce5bdb4c06aad00e0ae320fa52c5df29bad718
+FileChecksum: MD5: 00e4483c3a31fa367823346092bbb610
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/wc.exec
+SPDXID: SPDXRef-item11547139
+FileChecksum: SHA1: 5630358fee05165f5547d0c38f2aa8435c3a86c6
+FileChecksum: SHA256: b189f68edae5bfd43b7ee30f2d5bad0d01c5cf7b1f9d1162e6c363ccec00ab07
+FileChecksum: MD5: 6ec778c73d75c2d320b730f95af02093
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/wczvmtls.exec
+SPDXID: SPDXRef-item11547145
+FileChecksum: SHA1: 78d24a199616fb5311b69ddfb0a6112e5ddb3d6b
+FileChecksum: SHA256: 5a0982dc04d12bfb4f8978f02ee51704c077774ec07c36a25ad3087efdc3c65f
+FileChecksum: MD5: c2b5e7d390b2ecb54dafffe00e461dbe
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/which.exec
+SPDXID: SPDXRef-item11547140
+FileChecksum: SHA1: b004df56b278c135190fbf6530f4b657b6b939c7
+FileChecksum: SHA256: c7d129160bb8c476a425d3498d5d4213f6218bd299a40b20e7fa714a19fa6f8c
+FileChecksum: MD5: 43ffb9408288ee937d67f4d12489f729
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/who.exec
+SPDXID: SPDXRef-item11547158
+FileChecksum: SHA1: b89ac54101d01c0ae11d51da85736acfc51fc36a
+FileChecksum: SHA256: 1a77618663d61bf0c3820cf9c78fec553e832458eff37bee622bc57db004b345
+FileChecksum: MD5: 2d07f1569f7a69509030ac3e4583f5d2
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/tests/README.md
+SPDXID: SPDXRef-item11547131
+FileChecksum: SHA1: 0d123a3dc27f5cec76200dbcb1468ed5d91b2de7
+FileChecksum: SHA256: 826fbc9809765ec11e9b068b0f8a90eec902ba26bcd16da7dc2de8d638159c5f
+FileChecksum: MD5: 71dbd527440985cd44b2fa5a147ca6cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/CODE_OF_CONDUCT.md
+SPDXID: SPDXRef-item11547132
+FileChecksum: SHA1: 709651fce54ff67311e001119d8fc11e1d9a6e31
+FileChecksum: SHA256: 0381fc15631d204f7abc6e61ff4d1236edc1304e29045e50935a00912768ffe5
+FileChecksum: MD5: 36d24001359635e3a9438b64718e3fd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/GOVERNANCE.md
+SPDXID: SPDXRef-item11547133
+FileChecksum: SHA1: af2e916736cbffc914db03e59af796f70ac25d1d
+FileChecksum: SHA256: 99823157011bb1dcfa80fb86ff585aebac16c2249fb7ac73f9ea11df0c2b70db
+FileChecksum: MD5: 5490608c843f339674e3fc016afcac5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/INSTRUCTIONS.md
+SPDXID: SPDXRef-item11547135
+FileChecksum: SHA1: 4bf1691f28610aaa8812f353488869307c931a5a
+FileChecksum: SHA256: daffda47c90670b34a1424c147d4a2cd65eda7aa98174f9bed1ee4fb34dc9721
+FileChecksum: MD5: c4d329b2546ba037e3a7a8bdce7a123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/README.md
+SPDXID: SPDXRef-item11547154
+FileChecksum: SHA1: 1a019ee2a8d02d7deb095a9bfef454b5f58a6b51
+FileChecksum: SHA256: 384333fc420887ddea807eecf11194db9822ebbdd022c88e296ab3a3f527ceb8
+FileChecksum: MD5: 154a05efd1305765614eec83b3f02ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/execs/zvmtools.vmarc
+SPDXID: SPDXRef-item11547159
+FileChecksum: SHA1: ede6bad9d80756d7ff6ef9967d75ddaaca697ff7
+FileChecksum: SHA256: 44362fbbb34e75b9aea5aa1fe893a399df48bc7adc4fef586668d958463d5111
+FileChecksum: MD5: 31713c5c431736a4a2bf0bb876cf61bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/ISSUE_TEMPLATE/feature_request.md
+SPDXID: SPDXRef-item11547167
+FileChecksum: SHA1: f6867a2f0417fe89a0f2008730ee19dd38422021
+FileChecksum: SHA256: 1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2
+FileChecksum: MD5: 174545e1d9daff8020525fdd1e020411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/ISSUE_TEMPLATE/bug_report.md
+SPDXID: SPDXRef-item11547168
+FileChecksum: SHA1: 83d211c67c12e8c1f6e9f796cfd0cecbf5160e15
+FileChecksum: SHA256: 0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3
+FileChecksum: MD5: e468801d29e6b66b0d496136e22e8b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/ISSUE_TEMPLATE/meeting.md
+SPDXID: SPDXRef-item11547169
+FileChecksum: SHA1: f926bb1b29b57e65db831afca25b5529f81f6e01
+FileChecksum: SHA256: 82c1511e233799e1525e83d404b073ee19c486565e8a2aceec8e340cf8ec5ff6
+FileChecksum: MD5: 4acaf7d540c14f7f894a3b5c3b4255b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/PULL_REQUEST_TEMPLATE/pull_request_template.md
+SPDXID: SPDXRef-item11547171
+FileChecksum: SHA1: a8fdc0f69520a4fe3ed8e605f41e96d2c95359dc
+FileChecksum: SHA256: a54e6fcd9e710621594cff1d90de818c05c7eb6bdefb3db019e9b354a4954ef2
+FileChecksum: MD5: 1ce582a704498623bd09e22533a06a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/workflows/send_agenda.yml
+SPDXID: SPDXRef-item11547173
+FileChecksum: SHA1: e3e56c4521e960501ebfc635a99cf44f6a53dac8
+FileChecksum: SHA256: 883674c10ad97d0dd21d1a2fb9d9a5f7ea0cb21a04594454f88a13f62d493516
+FileChecksum: MD5: 27b58816b0bb2f7ca4fe6d685c8c734b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/workflows/repolinter.yml
+SPDXID: SPDXRef-item11547174
+FileChecksum: SHA1: 860839db283e31323c3f5bdf741b91552038bda8
+FileChecksum: SHA256: c7299160d3108dffba2d0980e0a1bf7d2b282099301119997bcd4818bb18c1d7
+FileChecksum: MD5: fd869318e954031451a786110519eb53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.github/workflows/create_agenda.yml
+SPDXID: SPDXRef-item11547175
+FileChecksum: SHA1: f7cb73430140e6e12d1dd08783d4831220a6d264
+FileChecksum: SHA256: 110a4770b4700f3f627575ea9fe8a0c79177455233ff16ca2c913555b7458699
+FileChecksum: MD5: 4ef020d29b801253ada9f71dc26d125c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/trust-models.md
+SPDXID: SPDXRef-item11547177
+FileChecksum: SHA1: b3438d684e96e69b2a8d07dd622e4ac02901a0bd
+FileChecksum: SHA256: fd3cad1b0627a1a7c96f159edd9ccd0b9452345918d5de50a22c05f930e6dd00
+FileChecksum: MD5: 0de03844875ae5efc61163dc91ccc7ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pki/README.md
+SPDXID: SPDXRef-item11547179
+FileChecksum: SHA1: d30e8e0c07a8710ef97e794b4a5f7867b2e45a5d
+FileChecksum: SHA256: 673916397822c39220c477579ac9c506ab9496cc34a81db361c19b14fc6e4ba2
+FileChecksum: MD5: ccf1add8aaf20c0cd02bf83084c7c7ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0xf4292e2d2b970780-trothr@gmail.com-public.asc
+SPDXID: SPDXRef-item11547181
+FileChecksum: SHA1: c90f939a700d8a88d73a94d92734a0404baaf342
+FileChecksum: SHA256: 4c5f06c493e1a48b567a0c07d22b59891ab09304758f578d63df94783745d22a
+FileChecksum: MD5: 5f32858c0e936577e82c48829a61327d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/thunderbird.md
+SPDXID: SPDXRef-item11547182
+FileChecksum: SHA1: b9f52c1a41dc116d3016e34f23cbd79b7a50115b
+FileChecksum: SHA256: c50106e56156c59727465b56716a4e3de6dc18a37b182743703ead51ff285410
+FileChecksum: MD5: ac6d8377ec5bc95592f29ee5543f56e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0x7b85ae724889afea-richard.troth@vsoftsys.com-public.asc
+SPDXID: SPDXRef-item11547183
+FileChecksum: SHA1: 700c820b4d3c4802923d097ae594cb46a224f234
+FileChecksum: SHA256: 2150427e0ae84faea901f88aecf3e96ed99536444a5c891568da912858f6463b
+FileChecksum: MD5: 3bbfe183ebc5d021ed16e2f70c47b4be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0x693b3ff4379e076a-rmt@casita.net-public.asc
+SPDXID: SPDXRef-item11547184
+FileChecksum: SHA1: a2ef1f091d2c2e1fe81e0b50252c5cce64f7c00d
+FileChecksum: SHA256: 4d15224549ff7f4a56af0549755483e90d5b06c173952a6c40eda9c49dacf5c8
+FileChecksum: MD5: a67ab31cadb0e374e79c848c0f9c9d7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/verification.md
+SPDXID: SPDXRef-item11547185
+FileChecksum: SHA1: 042b43355dbcc5582ce57fe0dc4ab1efdcc1c6eb
+FileChecksum: SHA256: 645f62a8cb1b11725f1f322285f740346e48f8fcf42903e2b08c0c8bd2367a03
+FileChecksum: MD5: 3bf04e49d40ddd3fb667372f5cefd080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0x96af6544edf138d9-rmt@casita.net-public.asc
+SPDXID: SPDXRef-item11547186
+FileChecksum: SHA1: 1819db56e1e0eff7891d1bef023f44137b6838b5
+FileChecksum: SHA256: fd5ed1c70b3c82c70d2cd6954aaa87a5842ea7e22cc7e1b83922b72bcd57631c
+FileChecksum: MD5: 264539087bf80eae903a6acf5e9ce99b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0x4559374f90ecb270-matt@hogstrom.org-public.asc
+SPDXID: SPDXRef-item11547187
+FileChecksum: SHA1: 85d2157cedf10653f19a067c07abbd10ec30615c
+FileChecksum: SHA256: b373a61e2fb63993871d3b05e49584c34392696415b07e302957d255f5835681
+FileChecksum: MD5: a43d7e6412770aee35c2c0053d3accf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0xdabdf1e4c88b0c9c-rmt@casita.net-public.asc
+SPDXID: SPDXRef-item11547188
+FileChecksum: SHA1: 1dde5d92e24a88fce4c41035c7deb43ce76530a2
+FileChecksum: SHA256: 4aa2a8fa112d126927f708ad4e10809996b821b292dc96f1f1ba460502d4040c
+FileChecksum: MD5: 260bd183097e45be09128903bc58eb3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/README.md
+SPDXID: SPDXRef-item11547189
+FileChecksum: SHA1: 32de1fb14c6a2a7b24062992909a8bb5256c90b3
+FileChecksum: SHA256: 15105bffd4c1ae6a782e10315a688d18cd31d371db187ade57f304365bd29f8d
+FileChecksum: MD5: d8ca695f5a9601de35ba563612ced410
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0xb140fee0161f4e62-matt@hogtopia.com-public.asc
+SPDXID: SPDXRef-item11547190
+FileChecksum: SHA1: 4a2e2efea577c419cca73ec74d4258f78aadaf2a
+FileChecksum: SHA256: 988ab8a3b9ba8295559adef2b338604ce9818397e14a6a060fc14b6f08f5f6c1
+FileChecksum: MD5: 5a6d9ec0f28b2b086f2ea44852ab22e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0xcbaebe39a46c4ca1-hogstrom@apache.org-public.asc
+SPDXID: SPDXRef-item11547191
+FileChecksum: SHA1: 13f949d63fcbe42f59c828846e2ce72de28b8ea7
+FileChecksum: SHA256: 0b0b1c277f2196e080fde83931afc922ef59856bdecb5d3db07087c24ebd52a0
+FileChecksum: MD5: 5544263815785bb6a67aa3f5aeadddc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/key-exchange.md
+SPDXID: SPDXRef-item11547192
+FileChecksum: SHA1: eb5fbd4f86c407c0b9909f0c2fbe1fe8b3b34011
+FileChecksum: SHA256: 7a0c224f77746c48e31137d8cc2455db9e79b368a6fcb45ecdbaa8b93bc26346
+FileChecksum: MD5: c19145157bf238a536c1f5b9c47a2518
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/pgp/0xfb4891ee59e24586-trothr@gmail.com-public.asc
+SPDXID: SPDXRef-item11547193
+FileChecksum: SHA1: adf6e1d10b1b4df3a35f766905c8f53cb667b4a6
+FileChecksum: SHA256: 65b014f1feabb68776fdfe51448cd8869c565eba3c99f417b5eaa436b3e750b6
+FileChecksum: MD5: a54a82e655df369ec0b654db1793825a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/ztrust/README.md
+SPDXID: SPDXRef-item11547194
+FileChecksum: SHA1: 22b19a91d2010ed180554e5bda37e0775421325d
+FileChecksum: SHA256: 5d682400cda797568a6cd6abf17cb2d3fe21ce82534f6bf4d30902146c93d7a0
+FileChecksum: MD5: 2c02861e8b52d76762081e0c256a33b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/.gitignore
+SPDXID: SPDXRef-item11547195
+FileChecksum: SHA1: 48708440bec57b09aa8ed461f7e640460e679ae7
+FileChecksum: SHA256: 7617950025ff49831b24de9ca0cd8591d4f04c2e2024de129262a04221b52f3e
+FileChecksum: MD5: 2351573a646e8ad269ca597b9a47c5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/CHANGELOG.md
+SPDXID: SPDXRef-item11547196
+FileChecksum: SHA1: 2513ddcf08eaefc8f38d0a0c039f3aeeb69948ac
+FileChecksum: SHA256: c3b214015411eabab1cebd1ed827ec3699cc7c61bf9ed9e8821708c58bf62253
+FileChecksum: MD5: 0161c1aeaa72f21f2a2005c1006e161b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/SUPPORT.md
+SPDXID: SPDXRef-item11547197
+FileChecksum: SHA1: 0fefeac692c82a8aae56f28e2619d6d2ee4c361a
+FileChecksum: SHA256: 080d14df3f6a1e03c1d5f893da6fdda8f778776ef3b506b50b76fb4dfc57b3f7
+FileChecksum: MD5: c68235c10c9f7994c22aab0a8298d7d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/auto.vmlink/etc/sysconfig/vmlink
+SPDXID: SPDXRef-item11547201
+FileChecksum: SHA1: 72d1a287e4e89fe7d5ce0f18f585ce7e92aef165
+FileChecksum: SHA256: 299edba5b99ae0aca3d54c8343e79552de38be858020422709f43f25ae40166c
+FileChecksum: MD5: 7087485f21a87d03e060fa8fb8f4865e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/auto.vmlink/etc/auto.vmlink
+SPDXID: SPDXRef-item11547202
+FileChecksum: SHA1: 173070d4b6732eacff25c56a3dbdc5eb3f8a44b9
+FileChecksum: SHA256: e44fb259e2e5a6dda87c509f521a8f3e9f76762d6b92c7c447d7b646872223ae
+FileChecksum: MD5: 34fbf2988e550ebd634c6a28875f76ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/THIRD_PARTY.md
+SPDXID: SPDXRef-item11547203
+FileChecksum: SHA1: 64bb5699daff711e09020adbcbd53df0c7f16c0d
+FileChecksum: SHA256: 97be59fd8b10c94f2f4769d124c271a02cc1707348135fd5f2dc6fdf7baecc2b
+FileChecksum: MD5: 142eb46f967c26babda800a3ab57ff0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/makefile
+SPDXID: SPDXRef-item11547205
+FileChecksum: SHA1: 4ec2964cd78ffec30a9132a03c96393684ca4a9d
+FileChecksum: SHA256: ecf125568ec39ba298e0417b190dfb3d999b897d1ef7e33d37f72f21bd6f7585
+FileChecksum: MD5: 07a90e39f67b5e7fe2c95fbf9723a63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost.exec
+SPDXID: SPDXRef-item11547206
+FileChecksum: SHA1: 6f8eb68b2a350487097853560dd0e70efc6ecde1
+FileChecksum: SHA256: 02b07523f29fab22b3d1cbdba066c72a1558aa013578b0b19b8a33f285ead5b8
+FileChecksum: MD5: 87ae52325cd4b9eaaef3799ef11ac8e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost.filelist
+SPDXID: SPDXRef-item11547207
+FileChecksum: SHA1: d5cd7d0997621353ac92dc0d96dbe63118bf03a4
+FileChecksum: SHA256: 143db9d5e2ee5d569ab93238df4e8204358e616d15912d2dec8be141c64c3743
+FileChecksum: MD5: e7c3ae8ce440689229ac09345a61c964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost.s
+SPDXID: SPDXRef-item11547208
+FileChecksum: SHA1: c57ceebc91062ca58331e489891831216b8b99c1
+FileChecksum: SHA256: 1981779596674679f9f1b274055ab8ce575f14081e65960c46634235594ff1f1
+FileChecksum: MD5: 63944a638e5227f73028528fef089ac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2005 All rights reserved Dummy update to create a CPHOST TXT620 </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost.assemble
+SPDXID: SPDXRef-item11547209
+FileChecksum: SHA1: 523b4ae18ac046e2292f49aaa3ca07cfdfdfd2c2
+FileChecksum: SHA256: c70d5555ea057092e71d57e14507378afad62119f9e82b1ac8dc79476de10cfe
+FileChecksum: MD5: dc14d645d4be9129aed5ee56174a3a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2005 00019000 All rights reserved 00020000 Dummy update to create a CPHOST TXT620 00020500 </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/2cms
+SPDXID: SPDXRef-item11547210
+FileChecksum: SHA1: 9750fefe86b249a98a92ff8e03ca0699cf84b319
+FileChecksum: SHA256: 233e371ed2a55119f9836a72559a180e4d4fb055fff576e55139efcd55a4132c
+FileChecksum: MD5: d76fc3d3b70ad2550f844359c1405be3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/arc/cphost.vmarc
+SPDXID: SPDXRef-item11547212
+FileChecksum: SHA1: cfa570bbfca9b421e72c1438366d9049ec5d6b9a
+FileChecksum: SHA256: 59e14d7ad4a68e682b82f12322e020c34f931a780c1e63aadfa8a1510e127b07
+FileChecksum: MD5: 7e86d1afe60f0f7d20eb717d7a510f50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/arc/cp1stlvl.vmarc
+SPDXID: SPDXRef-item11547213
+FileChecksum: SHA1: d1aa9b94f6e332d8634bf18510d29d00831bf047
+FileChecksum: SHA256: a97c01c5df17c368e503aa7d9f8040f0ad6da394d24a114aa6b14442023355fe
+FileChecksum: MD5: 39b9bceb109a4653c89085468b5afa9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stlvl.abstract
+SPDXID: SPDXRef-item11547215
+FileChecksum: SHA1: dace72b19cadab9defa132889c8ff7148f094eda
+FileChecksum: SHA256: 9ea6cc3702086f7381ac305a36291afa3c94d7ea82bbabf7deca0895903a1de9
+FileChecksum: MD5: 21d7a556741d310321f04197e3784061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stl.exec
+SPDXID: SPDXRef-item11547216
+FileChecksum: SHA1: dd9ee73631cc1d3942b1cf8af4b10b3625332686
+FileChecksum: SHA256: 71ded44dc1c58c86f2630c62682e22c019c8dfa74d6c9864f9bb2fab39cff75d
+FileChecksum: MD5: 8a3c9e6475d9db0d446ebae214cf47d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2011, */ 2022. All Rights Reserved. */ Enable CP1STLVL command to tunnel commands to 1st-level system */ TXTXXX = "??????" pipe CP Q CPLEVEL | take 1 | var CPTALKS' if word(CPTALKS, 3) = "5" & wor </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stlvl.iagree
+SPDXID: SPDXRef-item11547217
+FileChecksum: SHA1: 9de810bff9bc635ad17414030592ac85912ec8bf
+FileChecksum: SHA256: e21374129d4b9c0e16fa55e5b2dbcb69669ac693933d5e488b580cf47cd0e859
+FileChecksum: MD5: bb154e0fe918528c29d4060a95c19629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stl.assbt0
+SPDXID: SPDXRef-item11547218
+FileChecksum: SHA1: 270cb150bb1cbd31b952d118134263565bf1445b
+FileChecksum: SHA256: 31c99442c640a4713d6541ff860cb19a9b0afaff7a6e8277286c402c5bcecf99
+FileChecksum: MD5: b4c7dea0d3640b334be9b130cfb273f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2005 CP100040 All rights reserved CP100050 CP100060 CP Exit to allow issuing 1st-level CP command from a live </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stl.asspre52
+SPDXID: SPDXRef-item11547219
+FileChecksum: SHA1: 2a4442026b5627249ff3e1af20c4d9ddb72c40b9
+FileChecksum: SHA256: c1398632fcf60d3f104b29b98a7bed9c9865b1e44d4e452d6ea8f63673f8934c
+FileChecksum: MD5: 36965e7df44daa650c37ebcb19b36f9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2002 CP100040 All rights reserved CP100050 CP100060 CP Exit to allow issuing 1st-level CP command from a live </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stlvl.descript
+SPDXID: SPDXRef-item11547220
+FileChecksum: SHA1: 261cc92474f4625a89335a4e512db0be6823e3fe
+FileChecksum: SHA256: 2fcac27bebac499899eb55d379281e4ba3d65a3e6585e75554c499c17cf7b7f9
+FileChecksum: MD5: 76f6a9b2a118f2731bb8eb1a0dd26e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cp1stl/cp1stl.assemble
+SPDXID: SPDXRef-item11547221
+FileChecksum: SHA1: 492c077bef6fe66d046203a0f562d9cacc130180
+FileChecksum: SHA256: 3818eb25cb9bd9b6185ce16637ede5ec67ebbfe051569cf237599c7fbc893075
+FileChecksum: MD5: a612d138991ba1d7b17ff41b1523266b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2012 CP100040 All rights reserved CP100050 CP100060 CP Exit to allow issuing 1st-level CP command from a live </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/xcph.exec
+SPDXID: SPDXRef-item11547223
+FileChecksum: SHA1: 217cc8e7e22b3f57cbe1ad4216bab96b36cce0aa
+FileChecksum: SHA256: f0c10eca2975e595caffb0f33553358b4462fcf10e335f3361c5cb5c9f9d2b6e
+FileChecksum: MD5: 17b5e0fd2f72d562aa623ff5a23148d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphtest.exec
+SPDXID: SPDXRef-item11547224
+FileChecksum: SHA1: a613ea65e4a85e36dfb8a7b8482acfe124d40c35
+FileChecksum: SHA256: 52cecdc328f93c842fbd8ec80f759435678a24264810b258ac0011d8d81cc087
+FileChecksum: MD5: 2b2abcd44fa7af182bd733bbcbc21186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.package
+SPDXID: SPDXRef-item11547225
+FileChecksum: SHA1: 867945321d791dfc7e89c06e6576292630986941
+FileChecksum: SHA256: f03e70a850ea4c80cc73292ee2ac832db7843b995dc0243153badc033b2398a5
+FileChecksum: MD5: cfeb102152e33bfa408539159ad9933f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.assemble
+SPDXID: SPDXRef-item11547226
+FileChecksum: SHA1: e84b7feab929e2ca329010942d9d69142ea870ad
+FileChecksum: SHA256: 19f42897508334a2573b12082e8fa4c107e89970871fa3cd6e6a079def8482cd
+FileChecksum: MD5: 95a5269e95a338e07f642851c9abb5f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> (c) Copyright International Business Machines Corporation, 2000, 2005 00019000 All rights reserved 00020000 00021000 CP Exit to allow issuing 1st-level CP command from a live </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.checkcc
+SPDXID: SPDXRef-item11547227
+FileChecksum: SHA1: 850d74c22c1f1f7f738f1a787800572d34e59eff
+FileChecksum: SHA256: 7f24927bffb92bc4016934adda0ba9a23702fe05ab49e82dfd96855d7f0884c4
+FileChecksum: MD5: 57470a8641886bef848383585ac82d92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.auxlcl
+SPDXID: SPDXRef-item11547228
+FileChecksum: SHA1: 864223ff2e67ce09fe9b012d9278a3d49ce854fa
+FileChecksum: SHA256: 987d8c712c8a7b075d27269ea95229b4cd75a147263dfa050137710d343e279d
+FileChecksum: MD5: d4edb372da0ce4879f55918062990365
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.readme
+SPDXID: SPDXRef-item11547229
+FileChecksum: SHA1: 07e101a529e3d09367556fb4eefc260083305c8c
+FileChecksum: SHA256: 02eb614af7384b44277350d65f66eb4d5f26680cb7e83ff1a2f8930c848d277b
+FileChecksum: MD5: e4fa40f6a1fd2950c0b95ce24532b0ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/lclqry.exec
+SPDXID: SPDXRef-item11547230
+FileChecksum: SHA1: 2161fab10076107aa52d54a4009bad7ed71a5a49
+FileChecksum: SHA256: 24cf28bdf9018ce5cd287973cd882b8f9f2e4e9c572cf1b4087deb9c0a50bee6
+FileChecksum: MD5: 87d96e7afca8a8bb0690c454b3420894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphostl.exec
+SPDXID: SPDXRef-item11547231
+FileChecksum: SHA1: 4fd08fdce99bbce00db2b8fe38ab3b5c59051855
+FileChecksum: SHA256: ea571da604ccf0fb0994d763ddb8c7ac3c7794d9cc6837ed1160bcafff22c8ad
+FileChecksum: MD5: 78ea355ed9b878b9d5e8425db48197dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/asmcph.exec
+SPDXID: SPDXRef-item11547232
+FileChecksum: SHA1: 50a9fc646de969a73a759040f752657e8afe8dad
+FileChecksum: SHA256: 207d7cd772327b71a4f9db2a28379e572755a42cc1d996d2b3d28932debe9bc6
+FileChecksum: MD5: 78d7f34c9a368eb6e8ef3a4532f39813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.lvl620
+SPDXID: SPDXRef-item11547233
+FileChecksum: SHA1: d9362d08ad737b70fe84318f726be8adc5826c98
+FileChecksum: SHA256: 6ddd21463aa843a36ff88d34ea3fb1233ed11068575b3e76fee59762659f7133
+FileChecksum: MD5: 4b951be5297f0dbda6c8077552eedbbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphost/cphost.trapresp
+SPDXID: SPDXRef-item11547234
+FileChecksum: SHA1: 2b719dd33ffdbd836ebd11b079f93aff2cfeaaf6
+FileChecksum: SHA256: 2fab921ac341c1576c6df6736a7b1491737b15041ec964b9be603cf203487ed3
+FileChecksum: MD5: e70bb8cda42d2bb60fd91a3017a62238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/cphost/cphbwrap.exec
+SPDXID: SPDXRef-item11547235
+FileChecksum: SHA1: f6633078a54a61294187e4776712ad7e15ff2d56
+FileChecksum: SHA256: 95a32f8eb086f239c9a9d3682c9cd255f042a331bbadb802e75f8571a104840c
+FileChecksum: MD5: 44e2920fa341bee6014b246f0955ea8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/tsc/meetings/README.md
+SPDXID: SPDXRef-item11547238
+FileChecksum: SHA1: aae3a8cefa8f9b2d3a124a1070fe0b2c1fe3cf6b
+FileChecksum: SHA256: 57809f6644f246ddc9052ca1dbabb4e9c34d528276c7e6dd3bcd3b76c36dd167
+FileChecksum: MD5: ae7321cd8c3c7562e9d85e8bb9744b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/tsc/README.md
+SPDXID: SPDXRef-item11547239
+FileChecksum: SHA1: 1a1a32c8f7d580b68cd8bdfe44c92c2db396c7c1
+FileChecksum: SHA256: 3b2ae5ab3cee88d2b3c41f84de1f80f47e105cdd09b2ff19f8dba5cbfcf39bd2
+FileChecksum: MD5: 2950ad5aa387e161959c3ae1ff1261bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma_conf/__init__.py
+SPDXID: SPDXRef-item11547242
+FileChecksum: SHA1: 3df7c572217086a2d97962d30792f0e47373556f
+FileChecksum: SHA256: 7de3eccc90c44cd7b8fc0f8c77135b7a930443a58f5f1bfd8780b52f9f8457b9
+FileChecksum: MD5: ef5ac692a06409849d810bf594c40373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/bash_profile
+SPDXID: SPDXRef-item11547243
+FileChecksum: SHA1: c437cd15bccb534ade042158f4eb08891c28eaf8
+FileChecksum: SHA256: 049886ff13991db94330d6b3d404af4e1f59150ed061d9e5a30eb2fb5e638453
+FileChecksum: MD5: 3a91b27c9e8a16174528860932947462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/vimrc
+SPDXID: SPDXRef-item11547244
+FileChecksum: SHA1: 36eca6e37a1fbb1180e2b0ff8feea303cbb06594
+FileChecksum: SHA256: 57768154e0e0e00d5dcdaaa86706331cc735c98080bc9bec8adf8623da6cd69f
+FileChecksum: MD5: d31e442aee485f1c42c990edd4885925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/onelpar
+SPDXID: SPDXRef-item11547248
+FileChecksum: SHA1: f20821c6fcdbc352efa12a4a17d52ca6e7124318
+FileChecksum: SHA256: d052ce9a17c5173cc7233225f94c225181d44860ccac921061fa70b681bea0ba
+FileChecksum: MD5: 12eee89eb0131fcbe15e083d6d78181f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/consuifuncs
+SPDXID: SPDXRef-item11547249
+FileChecksum: SHA1: d1b7e625bc90cffe46f686e7aeff95031d625ba0
+FileChecksum: SHA256: 285fdfa71aabdadfb2f2e6bd40a7fa079b64d68619f924297788fb1535f7a77b
+FileChecksum: MD5: a0d23760e7bf92b7fa7cdd64447fd86c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/searchforcons
+SPDXID: SPDXRef-item11547250
+FileChecksum: SHA1: b11223a5f1a6da349a06e57a56c51e5e532b0472
+FileChecksum: SHA256: 896d92817c4ddf17d21685a96e60557f954fdd764e050a03788a56a5260a1ed7
+FileChecksum: MD5: c9923c42421ebc9cd34de9e55bcb12a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/consolez
+SPDXID: SPDXRef-item11547251
+FileChecksum: SHA1: 1525265150ac882621694ef2434bf6433302e035
+FileChecksum: SHA256: ca0be1586303979912366043df9daf9f1da8d8ed237494269a07ab0bfd28b1f5
+FileChecksum: MD5: 079b2167761d6fbcbe9674483cc28cff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/consuifuncs.py
+SPDXID: SPDXRef-item11547252
+FileChecksum: SHA1: 8a499c4a60a06de9667c7a4416cb9a243c9a63be
+FileChecksum: SHA256: 51820109c090c1eb86fb05b0c64362f39bc4e46566731b3b2439cea31dd18866
+FileChecksum: MD5: b502fe91b903d2f9f88ced34045f1afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/onecons
+SPDXID: SPDXRef-item11547253
+FileChecksum: SHA1: d6418e5783294c912e927768a12be9dcb6a18d50
+FileChecksum: SHA256: cff7f3cfd685eee1356717e1baeb91dc9c315ad4f8a1df26e982853317a22c83
+FileChecksum: MD5: 5b41dd3d73023f0b330211406c8d3e22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/searchforcons.py
+SPDXID: SPDXRef-item11547254
+FileChecksum: SHA1: 86e30264f527d49f47e89f838d9fc99d886ad38f
+FileChecksum: SHA256: df4643a73f60a2fb3b610f5b4bebd85d9ebc66c441f71c2535952bc6a1d5df68
+FileChecksum: MD5: 3cf8c04f85b82dcc08bc49c4fa913b46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifhypdisk.py
+SPDXID: SPDXRef-item11547255
+FileChecksum: SHA1: afe7fe2ca77f649b14e0cfaea21b7c6958909d4d
+FileChecksum: SHA256: 1f630bed8d3311135e0bd50eefc1c53f1f666f9255364de67ac6b21799a3e4ab
+FileChecksum: MD5: e86c362b106db7894d07a2cfb755e585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifvmset_update.py
+SPDXID: SPDXRef-item11547256
+FileChecksum: SHA1: 9430f6b30b34f10ab3e7d34af7226c8cd24d51fc
+FileChecksum: SHA256: 12d78bb6fef9547c5bc9860ca11ad426d4d61841b5d1c37e84864c98d3dd3441
+FileChecksum: MD5: d624aa1b5d9e5229b53a62fffbaa5da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/searchcons
+SPDXID: SPDXRef-item11547257
+FileChecksum: SHA1: a017c5b5eb3447b5f03d330a2653982114f55c9a
+FileChecksum: SHA256: 59d97c00a2faf40f675ad4452e448a528b23d6ae4aa83fe820df8de81e7f65cf
+FileChecksum: MD5: c867605919899f7f6bc4f66fd83b5fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifcmd.py
+SPDXID: SPDXRef-item11547258
+FileChecksum: SHA1: c041e874db90687b0d073882488cd9be5f583939
+FileChecksum: SHA256: 7fbd76255d16c61332c67140427a91cbeae9e2fc467cb9c33f3f66a7a9aa2b92
+FileChecksum: MD5: 815881632256942cb179bd34fe2d0f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifimgset.py
+SPDXID: SPDXRef-item11547259
+FileChecksum: SHA1: e79656c4e348f14c4e34f94c1ecd6ebe76d218ab
+FileChecksum: SHA256: 61a5818a045bff7f523ad4bb97066cf52755e11d8e387ae36d77b92d6133c71e
+FileChecksum: MD5: adb25b0ac7efd29a7eeb47f2e8814233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifvmpower.py
+SPDXID: SPDXRef-item11547260
+FileChecksum: SHA1: 5ef25ad00e1111fba65adaa13227fca9748e3ef1
+FileChecksum: SHA256: dacb0933e55ba59217f6fccf21b2e2d79303bb34b6d5c0ae9d0bbcbbe3ac9cc9
+FileChecksum: MD5: 21f62bb34160e75c2fcebf649b49c759
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/searchcons.py
+SPDXID: SPDXRef-item11547261
+FileChecksum: SHA1: 2967d2aaeb8e51773aa72b2b577334166336ae36
+FileChecksum: SHA256: 9eedc17dfcd8bbf4c67f2b621b1cc25c0a23fba244675f065bdc6473eff986e4
+FileChecksum: MD5: 1ef6e3585723e70329631282c4fdb76c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/onecons.py
+SPDXID: SPDXRef-item11547262
+FileChecksum: SHA1: 7827402dc3d86e562b714c4bcdf5a2489bb7f734
+FileChecksum: SHA256: e7c126365eeafb744b0d6a8ef78fa1189a7b9a05709ece6ccff88aa24724eeee
+FileChecksum: MD5: 5a401cf75da66c9bde0e80ff72ecc38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifvmpower_old.py
+SPDXID: SPDXRef-item11547263
+FileChecksum: SHA1: 2e63db1aea55bcce7d2b3efa4078ef955d5cb189
+FileChecksum: SHA256: 004a76b0b7d4416eec513748dcf789b66b07f4fc3851d14e0bdc659b17f535f3
+FileChecksum: MD5: 7f95c8e5f83097958f8086e9020acb5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/restapirw.py
+SPDXID: SPDXRef-item11547264
+FileChecksum: SHA1: aa76ca8473ffa261c60c9d09e0c3b4ad795ce6ee
+FileChecksum: SHA256: 617cab34de1c445cb770e4ea893639d1a1550198b6b6a8ffa152af6704d0e2e1
+FileChecksum: MD5: da754eef86bde13759db332457c11611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/onelpar.py
+SPDXID: SPDXRef-item11547265
+FileChecksum: SHA1: 05b6cc44187afadc12a4957c2134fcd67aab72d6
+FileChecksum: SHA256: ef549ecffd07c0037408a164f6a9ca2a5cbf1ad36349dc1b8809d7b706fd61a0
+FileChecksum: MD5: 4e5d80dc92e6337a78fd5674beecf3ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifdiskcmd.py
+SPDXID: SPDXRef-item11547266
+FileChecksum: SHA1: 292978cb31828fbf421183546d59918433bf21ac
+FileChecksum: SHA256: b99be3f30b34e3b722951243e023bf2554050709afc8fe1f76b06e98d614a286
+FileChecksum: MD5: e506569b6bafbfb8747da8a72e789cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifimgcreate.py
+SPDXID: SPDXRef-item11547267
+FileChecksum: SHA1: f28cd9e1fdc637262237ec127e0b75741c82debb
+FileChecksum: SHA256: 7af454f8260b43bf4d88904c2c9f6ea9fb61840a79b9121d954e86e64ee405b5
+FileChecksum: MD5: 0040942018eeec3c56442b619ea12389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifdisk.py
+SPDXID: SPDXRef-item11547268
+FileChecksum: SHA1: 683b09c3869a973ef074e5667ba2e00784d29d70
+FileChecksum: SHA256: a163d9e1677700c0e5dee2d0a978ad2fe94eccb66955b7ddb864168738eb4d83
+FileChecksum: MD5: c9ef0c3094eb71594608308f9f1fc14b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifvmcreate.py
+SPDXID: SPDXRef-item11547269
+FileChecksum: SHA1: 59cd50732f1a278f2cc5bdf40328c47b85143d3c
+FileChecksum: SHA256: 502809337b35c1b8da048fd639e83fdd01c3b6d41fb8523f1a867587a0c24ec9
+FileChecksum: MD5: ef15c82c15ea4112dcb5533defc0e9a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vif.py
+SPDXID: SPDXRef-item11547270
+FileChecksum: SHA1: 6bee02f3fa897d30ab2eec83cfcdfc58488f87e0
+FileChecksum: SHA256: 6f9083c83be8f8a972662d680d30f59370f398a92ce7d4a1a63fbacec09250e1
+FileChecksum: MD5: 505bfa19fed0898d63fb532f3ed436da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/consolez.py
+SPDXID: SPDXRef-item11547271
+FileChecksum: SHA1: 2797c215021dd093ac86cb676fc054c93c757b1d
+FileChecksum: SHA256: 44c36b6a6498bcb7ab5d73d381335df987b15f61cfe3b6f4b29e9da42d1ae8d5
+FileChecksum: MD5: 3ecec8f69a283a9d1ffb0bca378a4b0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifqueryvm.py
+SPDXID: SPDXRef-item11547272
+FileChecksum: SHA1: 6b85a8f8415d5fb1d03ab0f48fd45bad39ae0657
+FileChecksum: SHA256: 73e52743240ddf83415792af6028c48bd991c18f3f8289b001f3f8aef5c3a108
+FileChecksum: MD5: 92643ac9f7be528099f9802744487022
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifvmset.py
+SPDXID: SPDXRef-item11547273
+FileChecksum: SHA1: 66232b7d2102a98dd621bbf304a08f84effc6a2b
+FileChecksum: SHA256: 606e9f84b95c8a1135bfc719474820ee56834934f8fdf59ca25805917aa0ba83
+FileChecksum: MD5: b1cd99e40ff224b9773ea1371363fd77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/cpcmds
+SPDXID: SPDXRef-item11547274
+FileChecksum: SHA1: 9e606946c773c4e8dac9d87bab12dd28de5f9805
+FileChecksum: SHA256: 0ebcdab4fa039e55e8531b90280d0187d8dddef1ed8f5928202721430429cf35
+FileChecksum: MD5: 10fedfdc87dbcb5174549dac1d2c4ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/cpcmds.py
+SPDXID: SPDXRef-item11547275
+FileChecksum: SHA1: 50cb70524b471d04249ca2f15430021e4e4a933e
+FileChecksum: SHA256: 098dec21240ed97f7d28cb26275c4f20cab4af491f63074daf57200b6c942ca7
+FileChecksum: MD5: 052ffdf6cc484869ae8d18ca4650dd9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlmarw/vifrw.js
+SPDXID: SPDXRef-item11547276
+FileChecksum: SHA1: 1eb2458e1aef329cbb80c166b989504e6ae0e75d
+FileChecksum: SHA256: c3c2769b21f30e20bf0f21046c65cb6d75849e4a56ef51ea7a7330a9c73811ed
+FileChecksum: MD5: 8aa0c0dcb5ee8242417e179487b10eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/bootstable.min.js
+SPDXID: SPDXRef-item11547278
+FileChecksum: SHA1: e677983830fd9db513aaf3a54b8e6def80dc369b
+FileChecksum: SHA256: 5e8774240794008aba2ef617051899a7b6c8e769be3447ec764b02429cebf950
+FileChecksum: MD5: a81db4097203216aeb2d92b5e48d2a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/glyphicons-free.css
+SPDXID: SPDXRef-item11547279
+FileChecksum: SHA1: 7b809d135c13f4009ca7a71c5cc3a3e84f3c6551
+FileChecksum: SHA256: 6e038bfecdfdcd1052ffa920b5343ba004daea33a51811997c3169ae0899a913
+FileChecksum: MD5: eb0332ae3722c7c8edbfe4a7e4c22e5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/home.py
+SPDXID: SPDXRef-item11547280
+FileChecksum: SHA1: 90303fc8fb4ac5c116cabcfe88b2be90abcc0fce
+FileChecksum: SHA256: 43b2d9d2b8b3df6ae17fdb01297366bab650f0fe41f83b1062f8b6062da16599
+FileChecksum: MD5: d2685fb017117180d69475e4c5bf4e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/bootstable.js
+SPDXID: SPDXRef-item11547281
+FileChecksum: SHA1: 4acfd67dbfd712b50953be56a5b081d20731d2c5
+FileChecksum: SHA256: fb2c4cfad33c1d6a7da54fb44625dfa365c7201df81268df6c60ce2d224bcba7
+FileChecksum: MD5: 4a3373f6c76cc5e36ef532ac6c5349d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/finder.py
+SPDXID: SPDXRef-item11547282
+FileChecksum: SHA1: a906a5386c5d1a0a1bcb3c6007f10d1dcad49f8d
+FileChecksum: SHA256: 177065be145536c57e1f45722c0eaa9f7a46be114428204adc06d1074470e283
+FileChecksum: MD5: c21578facb5d20ee3c0f9eaf22630c07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/glyphicons-free.png
+SPDXID: SPDXRef-item11547283
+FileChecksum: SHA1: 762176c9dff67dfc9bad9afa176fba5841fcd730
+FileChecksum: SHA256: f30e1ed569e1af73f43dc1d8cc983d9eac0158017b881d11d886755a5cf5364d
+FileChecksum: MD5: 4533b64cf747b16a6911ac19dfb269c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/onedit.js
+SPDXID: SPDXRef-item11547284
+FileChecksum: SHA1: eb597dc51a62f95946b2d5d96c49ed7410788446
+FileChecksum: SHA256: cf8fa7e1724a8f677e28259a10e3c8972cf8679d64289fabf1af24bfc6f52e6a
+FileChecksum: MD5: f9e4bd7c238d3cbf9d0b1c35a400a524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/finder.ico
+SPDXID: SPDXRef-item11547285
+FileChecksum: SHA1: 5d79c32aa84de2fd5c831f02ebf8a322882c4691
+FileChecksum: SHA256: ba1e885e81ff0880602b201d1e5f23b359bdc4b6da3f35d2f9acf9d3b246f967
+FileChecksum: MD5: 94c313a1f098ea023f2efcc6be01ae3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/zlma.css
+SPDXID: SPDXRef-item11547286
+FileChecksum: SHA1: 3c0634e2f06333e70e1af073b00760c745e02694
+FileChecksum: SHA256: ae4e48a002d9b5c73353a2616c5de9bd28c890d20064994cb50fe250f29869fc
+FileChecksum: MD5: da461b8c2a7a87ff7f252e0c2dce2000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/zlma_buttons.py
+SPDXID: SPDXRef-item11547287
+FileChecksum: SHA1: 0c3304cc9d3fc21bb5ed6e73e6f2d680a8b4ec13
+FileChecksum: SHA256: 00c1bb92aca023428a08aa29626b409022f004d554a0317ca635596a0d629456
+FileChecksum: MD5: 2dce62dd726ef9ff1f9df46ee7b9671e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/zlma.ico
+SPDXID: SPDXRef-item11547288
+FileChecksum: SHA1: 8a355c16558582476c7661e412bb423e8f481508
+FileChecksum: SHA256: 4fe07bdba4d72d25814134a5ff120d8a7b5c476cdbbb2448878b5c15f680eb00
+FileChecksum: MD5: c56dfb0c6519ec3879fd1bc6716c71cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/zlma256.ico
+SPDXID: SPDXRef-item11547289
+FileChecksum: SHA1: ac0687c2934f00b85d9a5d3c8de8632bc2da1824
+FileChecksum: SHA256: 2c985797003369477a80f483048c2271f63b0634640e334e59f9be4b48540a1e
+FileChecksum: MD5: e55703ae2747788d61d520960145c22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/README.md
+SPDXID: SPDXRef-item11547290
+FileChecksum: SHA1: 581eb56729c7478f31810ec176dbfdb2265560f7
+FileChecksum: SHA256: ab478a7de7767d63550e63bbbd85f1c634590b1ba61fbf7244ace1535fd762bf
+FileChecksum: MD5: 542ef492e38fd0b250c513784ca37ab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/jquery-3.7.1.slim.min.js
+SPDXID: SPDXRef-item11547291
+FileChecksum: SHA1: 8b1d5dbd114b9c92f4a20139e1aca3196d94814b
+FileChecksum: SHA256: 9261efb3407e3a9096e4654750d8eff6b3a663422f48845c7fbcc65034c340cf
+FileChecksum: MD5: af73dd50819a5fc22dff8b0ed2229d6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/srv/www/zlma/restapi.py
+SPDXID: SPDXRef-item11547292
+FileChecksum: SHA1: 26a0c5e5e72f60b10af0e1a1e7fd6cd4eda124cf
+FileChecksum: SHA256: 470ee7089df137cc86af72660950686a790a5a9410fb68a983be360154610c7a
+FileChecksum: MD5: e6311caedf718847b3f4f99ec2eb75ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-block-diagram.png
+SPDXID: SPDXRef-item11547294
+FileChecksum: SHA1: 466d4eb2c7f65d94fb5321765be8f9ea17e2c7ef
+FileChecksum: SHA256: ed864216905f50fc31953eff0fd8200ec527fbe879a2414124cad1c5996605b7
+FileChecksum: MD5: 99987f48fa7f3d0a129dd650f60c0680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/httpd.service.RHEL
+SPDXID: SPDXRef-item11547295
+FileChecksum: SHA1: f13653beaa6fb3f308e4d7004b8739a88a6f8fce
+FileChecksum: SHA256: 3e830b9375143d65ce447a48c7a1aedde84a3c244bc684304f438334176a23fd
+FileChecksum: MD5: 47001ba2c285a16ae25c5b880393794a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-fossology-See-URL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlmainfo
+SPDXID: SPDXRef-item11547296
+FileChecksum: SHA1: 7e38c4ac74ae8598d7d6e37ccb77d0f82d86c29a
+FileChecksum: SHA256: f769790a1a59bb14ca3ca5db0df9d05eb98ade097b608d68a2e18c9931bbe8e2
+FileChecksum: MD5: e29abc6c52cbab4dab0911bf4e69013b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/vifcms.exec
+SPDXID: SPDXRef-item11547297
+FileChecksum: SHA1: 1459f7a1ddf94bc0d672f70fdb0a65df7ab7cd63
+FileChecksum: SHA256: 69cc5bd7ea4d433c1c819f70adc095ec0b1665d818fcfaadcc2db4b7aff5a390
+FileChecksum: MD5: 618d4391f2fb515cdc47c4565afbee80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/cpcommand
+SPDXID: SPDXRef-item11547301
+FileChecksum: SHA1: e6f8b0895ee5ba4e884890f836798e4bc3454c0f
+FileChecksum: SHA256: cb886012dbb6c0ff41922aa82781a563fee0270c7c27260d39cf2978dc381384
+FileChecksum: MD5: e4fda00a1a10c0c0553af8b534e63f6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/consfuncs
+SPDXID: SPDXRef-item11547302
+FileChecksum: SHA1: 518e44c17174dfc0334e7c57877aa2beaacf3697
+FileChecksum: SHA256: 683fc3e08f4d99f4ad23fafb33a942aa0fbe9f9008132716371ccd137b896c33
+FileChecksum: MD5: d0834dc394fb3cc743450c6efc4ac7ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/vir2real.py
+SPDXID: SPDXRef-item11547303
+FileChecksum: SHA1: 39610b8bf26a01763f7dbf7280b3e93d51dc888f
+FileChecksum: SHA256: 15fd152188719a3d0ea86e4f371ffc055b9bddebc50b75d3bc66d2dde26ab360
+FileChecksum: MD5: 7522b34878eaf6c8a9d35280fe383413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/zlma_srvrs.py
+SPDXID: SPDXRef-item11547304
+FileChecksum: SHA1: 0b7262f63da36e79c75f66d0a758513090d1aca5
+FileChecksum: SHA256: e4a07f7c52b54330f96d10f15c1f3526d0bf56a09f00ad9e86b6af10945a599a
+FileChecksum: MD5: 2dfc4795a3b16d15d362716080b3152e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/gr
+SPDXID: SPDXRef-item11547305
+FileChecksum: SHA1: 7453c38076f4e157bda64aa22c7a9bb130ecd686
+FileChecksum: SHA256: 4efa6238ddb041e8c2f7a5a3c840988745ca6636343f5491e1fd23adf9e9bf7c
+FileChecksum: MD5: ea2e117cb26ef02b00a4a33cb6bfd34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/vif
+SPDXID: SPDXRef-item11547306
+FileChecksum: SHA1: 20b23fb2ab0fde98ecf55db66e5de12eff947ddd
+FileChecksum: SHA256: 572cda547d01f4def6d58806c3ef4a29cd61eac89e0a2330a077df1efa5a8c3e
+FileChecksum: MD5: 9d1ed7c35c94ebfc0559ccbaeb7f1889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/grz
+SPDXID: SPDXRef-item11547307
+FileChecksum: SHA1: 41a4af22ce4148fc1f50e2d6f4a99aae835dd263
+FileChecksum: SHA256: 3903d9c9f552b9f947932ee47211370fcf159ff109a6990232392183b4477faf
+FileChecksum: MD5: 8eb2d6128dde3d62227b3d1bae8cc1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/cpcommand.py
+SPDXID: SPDXRef-item11547308
+FileChecksum: SHA1: f474856aa1ccb7f4e672b3135c458b371275d842
+FileChecksum: SHA256: c79cf3bdbdde40e58c63eab75652d76872aa14e97096b8f9d7e715da2da750f8
+FileChecksum: MD5: d48efaff8767a4d1dfcab8af05ced305
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/qprivclas.py
+SPDXID: SPDXRef-item11547309
+FileChecksum: SHA1: b052e6332d8abd13a3f30ebb0c43552b44f7eb67
+FileChecksum: SHA256: f33ea24d0f1c79e892eb63d47a408660267758a79b43d04531cd553553c96d2f
+FileChecksum: MD5: facbf3bc9993d06e5b56a13f5afe108a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/gitc
+SPDXID: SPDXRef-item11547310
+FileChecksum: SHA1: 15f81d176a16a0be2513765b640ad4f6f721c24d
+FileChecksum: SHA256: 69e123ea3609ec56fe900608f173037615d0656a743902a83f221d3986bd6ef9
+FileChecksum: MD5: 528b8795c2be581c3522ef24c5520fb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/zlma_conf.py
+SPDXID: SPDXRef-item11547311
+FileChecksum: SHA1: 7f02d4bbcb62485c7cba2d477a057e745dbff6cd
+FileChecksum: SHA256: 3740d952b3e47c24451b288c545ddb85d6f164ee488d9b685a6a2b7e58d9d939
+FileChecksum: MD5: f44cb6bcda779b076f040e0ecbbc4d25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/testquery
+SPDXID: SPDXRef-item11547312
+FileChecksum: SHA1: 52f0a84cf185716d1a1052d2e6ef4bb16c4af791
+FileChecksum: SHA256: 19a275f869c44d407981eddf5feb84a961d9b53f645c9d94ec56e82bfdc88991
+FileChecksum: MD5: 6d9e3d32764b052d26651d0d58092ada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/consfuncs.py
+SPDXID: SPDXRef-item11547313
+FileChecksum: SHA1: d593b0d2774e62a8e6d5c903d48ea52065d64a55
+FileChecksum: SHA256: 2e7dfc9bba033d201b47a4003122621e1d94158a1117aa166a7f7bcdffa15597
+FileChecksum: MD5: 03d5b287ca8651d1982d8eaf74848bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/spoolcons
+SPDXID: SPDXRef-item11547314
+FileChecksum: SHA1: e58fc4b434dc15db6eb18641066365f4e298779b
+FileChecksum: SHA256: 0a631bd4371abff16368d12eb5edeb8fd190a149fd0adcc3320d8309c4048dfc
+FileChecksum: MD5: 0235a366707524e996f5342453ae19da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/gitpw
+SPDXID: SPDXRef-item11547315
+FileChecksum: SHA1: 5889d8145e21679eaf8da1d41ff55cc9e98cff5d
+FileChecksum: SHA256: 52434a3dd47f36967d9273a486523cf4577557986806b60d20107f469b784130
+FileChecksum: MD5: a5cdfac716217752251544eea758bc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/zlma
+SPDXID: SPDXRef-item11547316
+FileChecksum: SHA1: d7d2fa0b73e268cb1e15628a9242c8d1862c57bd
+FileChecksum: SHA256: a8e71b11e32a78a7a159783335eb254fed340e7a117c4fec5fa03ba3b71b4c4f
+FileChecksum: MD5: 668cc4a731b830efa81b3400e12d4d7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/countzlma
+SPDXID: SPDXRef-item11547317
+FileChecksum: SHA1: 98a1d8b9c658e0e3975b056213e365abb5faebf5
+FileChecksum: SHA256: ef27f75cd7a40b0db1061cb400613ce4f6c51dda677a5ed141e9c4277d34b442
+FileChecksum: MD5: 6c34fc1a850dcf4f28930367189cff96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/qprivclas
+SPDXID: SPDXRef-item11547318
+FileChecksum: SHA1: 7817d2edd403e93c13a4468686c99b3cb704406c
+FileChecksum: SHA256: b3e324207f42e863340f1f47f7a41e560a0be5a03bbef049e9bda6b29f6fd908
+FileChecksum: MD5: 48da662661a2d9face26fbcc14b1b39f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/hypcollect
+SPDXID: SPDXRef-item11547319
+FileChecksum: SHA1: 81de0cfff39956f54b2a9e15898dc1f85827a8ad
+FileChecksum: SHA256: b50d6c1a005c774ca9b136bedcc12ce7f49332255d3bb805c41b036029b4a3da
+FileChecksum: MD5: 1bf44929dbc042095a2e82b891cf6c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/testvif
+SPDXID: SPDXRef-item11547320
+FileChecksum: SHA1: 7725896b8b0f3700316cfd15743b35ad57e51c44
+FileChecksum: SHA256: 360e7bee6e96836581aeb894bf2df8604ee6279a99d4dbb909b7d034c9a18319
+FileChecksum: MD5: 566c3ab26597957f37eee3dd08e06746
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/testrestapi
+SPDXID: SPDXRef-item11547321
+FileChecksum: SHA1: 66af2690cec686e60aeed5dd31629025cb018d37
+FileChecksum: SHA256: 569f8adb4bd9b65f655e33173ab1addf3f55a7f09be81505351fae9f584b5931
+FileChecksum: MD5: 622886f5d289b372804e542fd477d2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/usr/local/sbin/spoolcons_old_bash
+SPDXID: SPDXRef-item11547322
+FileChecksum: SHA1: 3b90a38b488d79e56bfcd49c87b121eed045652e
+FileChecksum: SHA256: 9c1a24bbe0961dcdf57437236dfab0342adc096bdeb5f92826a26d010f3677ff
+FileChecksum: MD5: 9627e9114e2a9b5f84b761b5e1bb8f87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma.conf
+SPDXID: SPDXRef-item11547323
+FileChecksum: SHA1: 4eb9da9c152ebe3978a1de549d22d7e8f6e12bb3
+FileChecksum: SHA256: 7e2c8631064212de73881e1e2f8c87104d385f9d62ece2c170ac87cfe8bdff13
+FileChecksum: MD5: 7ec718495ac7b332c2c5fdb4b2395913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/RELEASE-NOTES.md
+SPDXID: SPDXRef-item11547324
+FileChecksum: SHA1: 2e75064d210eab9a64c26580946ffcf128df899d
+FileChecksum: SHA256: b527d13755660d2234acfe48a779de0493b61fac8fd2b6b55bc8486986cce15a
+FileChecksum: MD5: b03cca26da35d74d4757c6da15726aac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-vif.png
+SPDXID: SPDXRef-item11547325
+FileChecksum: SHA1: 4c2d9fbb09985d875c6d78b7281a35a3c53026ea
+FileChecksum: SHA256: 9f73e58c430f44e36dd5ce41f0e70886abc3ec9f6d8f2a299e6509be288e6eea
+FileChecksum: MD5: 72969ca8e34961ce67fe216a882b8189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-commands.png
+SPDXID: SPDXRef-item11547326
+FileChecksum: SHA1: 5e6121741e859fba900dc96663de5a75ade85465
+FileChecksum: SHA256: cf33e78c411cd1e3ce7e6b36a964290b38b1bf92d3047edb382f22b676559d99
+FileChecksum: MD5: b8c9d427f9908e72c1aeba99a0c36de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/version
+SPDXID: SPDXRef-item11547327
+FileChecksum: SHA1: cb4d4cd1e06f1d12cfdc883cf032bb952679b51c
+FileChecksum: SHA256: 25c71f0efb23739710b74dd9a87d2cae7c362317b900434d94e6727946316320
+FileChecksum: MD5: 87def7dfe7cb1a48b6a1d7bcd79da912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-finder.png
+SPDXID: SPDXRef-item11547328
+FileChecksum: SHA1: cecf14daabb1dadbe428de33c60032f0973497c6
+FileChecksum: SHA256: e344d2123c5e85e15d8f43bb20305a80ccffb99dd650267bec071e499cb77352
+FileChecksum: MD5: 7482428e5926671f46c76eeda7e89af5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/instzlma
+SPDXID: SPDXRef-item11547329
+FileChecksum: SHA1: 4e90558c46e157fb024cef306b35afc57a6f70f4
+FileChecksum: SHA256: 8f87ae1b4559360beaf125daa73dcdd431407129c54144e58a4656846a7d0855
+FileChecksum: MD5: d9c2169e281f2113cf2b2f0bc108a069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/README.md
+SPDXID: SPDXRef-item11547330
+FileChecksum: SHA1: 629584ada1a383793eed675e9c0fda962c97c50f
+FileChecksum: SHA256: f38a60a2f1f207009a7b140232d6df97100fbd3353f05f29ea959e5e25525251
+FileChecksum: MD5: d65e3cdebf5fb7d99bb25f56afe43992
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-consoles.png
+SPDXID: SPDXRef-item11547331
+FileChecksum: SHA1: 44c4b80e5b8aec923396e6fe6328a5ef01e62649
+FileChecksum: SHA256: 61c9b2cf888bc9459f9bc75ba76e2e7e6557a0c87ce282fd1b539c7522ece7c1
+FileChecksum: MD5: 9f9b699bf723e749184e3f4ac33278e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/desert.vim
+SPDXID: SPDXRef-item11547332
+FileChecksum: SHA1: 08b72b457f60263ccea2832a02f65a555d6c2364
+FileChecksum: SHA256: 2abca0d1fb9f3742a697ffc1cdff6bdb58b05c3d519936dd3a639668d667167e
+FileChecksum: MD5: 269e7ad67496f082a8d5fb36ba833d08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/zlma/zlma-home.png
+SPDXID: SPDXRef-item11547333
+FileChecksum: SHA1: b58e9ce8a9ae7f37bf21de29bceaa118513f14bc
+FileChecksum: SHA256: 71b9d55158b3f8271b57c77e91a450ac869f10c54f6493485284403de06b5dc1
+FileChecksum: MD5: c0fa8ff41724c77173fc64052b3f3040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/README.md
+SPDXID: SPDXRef-item11547334
+FileChecksum: SHA1: 98f494be88654389229dcbf6e8c3dd780f602bdb
+FileChecksum: SHA256: 5e025c1f0c539c599b9aa5f0d2ba27d596d692876a8ccc6ad024a21fe54101b0
+FileChecksum: MD5: c94e6ee76b6a2623e6dde10891e6ba41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/SECURITY.md
+SPDXID: SPDXRef-item11547335
+FileChecksum: SHA1: fa533283215d0ba141a7a28ac0d4fdc8089e3f0b
+FileChecksum: SHA256: ba9643955bfcb04524a6fe5a8c2929b54abc2e67bb3480ce806e742d506e4dc9
+FileChecksum: MD5: b1060e70aaff0e2baed6fc1d91ebe9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.HISTORY
+SPDXID: SPDXRef-item11547337
+FileChecksum: SHA1: 658dc696c547feed2be7635b0deae0dbd5c64912
+FileChecksum: SHA256: 401f9c76ec28be332d547ac9bf6c6d0e4d9e32fb59fa491bf2a7e53e1a0c421d
+FileChecksum: MD5: 9bb13ab188314d60db29d93e533ba8cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.HELPCMS
+SPDXID: SPDXRef-item11547338
+FileChecksum: SHA1: 7eceebf064fafb1299215f7ff9b4b8fdaba2a38f
+FileChecksum: SHA256: 13a821462a9ee5b1feabf24f042262837c439ef6c5b84805beeafb0414ffeb52
+FileChecksum: MD5: 07f94fc80159cb9e348c7a20b577cc87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/HISTORY.HELPCMS
+SPDXID: SPDXRef-item11547339
+FileChecksum: SHA1: 8d54598d7c105148f05f3bc43a3c31b8a500ecee
+FileChecksum: SHA256: bc40d76596dc9224f918b8e499a2ded210cfa135fd84576a26d4cced8617c6cd
+FileChecksum: MD5: 147b3c1a3037ec70c43ab8dff5131009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.MORE31
+SPDXID: SPDXRef-item11547340
+FileChecksum: SHA1: 7d0469392cc40f4b384d01caf19f7a368bb5ed0a
+FileChecksum: SHA256: 863a6a61b6eda6ec484f5aebf9845c2df50b6f548c0e6685199aee3b15c54518
+FileChecksum: MD5: f0d93d66eb93bc71121af2845759ca8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/HISTORY.MAILABLE
+SPDXID: SPDXRef-item11547343
+FileChecksum: SHA1: 8b9b24261321a43bf8c789e9dde45856f1eff8ec
+FileChecksum: SHA256: 4941e0b217f07a8d2e24fc0d529e37af4ccfe4a4cc5df53514cdca76677f54e5
+FileChecksum: MD5: 741fcf3280529f84bf7408265231d1f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: <text> Copyright (c) Phil Smith III, 1995-2000.
+copyright message intact. </text>
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.ASSEMBLE
+SPDXID: SPDXRef-item11547344
+FileChecksum: SHA1: 066939200bec2c6a51cd1858cb99c736f971481f
+FileChecksum: SHA256: e75c43c7feef6f14004fa257282a17fc03e3429a44c7c6825eb49852fb9c3a31
+FileChecksum: MD5: c2cbbd93eed6458fec00eb0049132220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.FIXNULL
+SPDXID: SPDXRef-item11547345
+FileChecksum: SHA1: 9020c612203a98fd7e9ab3fd3178177274a021fd
+FileChecksum: SHA256: 11ad498bec18a09c759fadf78bb5c05653ae13f4b180d309dee3fe405ab33316
+FileChecksum: MD5: dcbb9b23e734a6eb27f26f144456b015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.AMODE31
+SPDXID: SPDXRef-item11547346
+FileChecksum: SHA1: 90be2087c3f75e99cbe10fdadb2deb0065109bb1
+FileChecksum: SHA256: d114c274ae235fae15bb8ffd93f4e85a34ee52609b081db92a6fe732dab583f9
+FileChecksum: MD5: 7ef74450831cea760a3a76ae18cba76a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.XA
+SPDXID: SPDXRef-item11547347
+FileChecksum: SHA1: cd1ad643f762663a800cdd7547170a64172a62b7
+FileChecksum: SHA256: a823410a2eb11dccb5d4b57b492d1c152e180483533d070e2bab0c746b61874d
+FileChecksum: MD5: 4004fed81e09386fede99f4328989667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/HISTORY.FILES
+SPDXID: SPDXRef-item11547348
+FileChecksum: SHA1: 51d9473cb8091ba00e1c173f15e72161469909d4
+FileChecksum: SHA256: f7277fa5da32ddd7a349fb7b160854fcccf0b8ccc2d3cf084ab7cac560659e32
+FileChecksum: MD5: 657417590546fa5b7282860e4732a08c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.SP5
+SPDXID: SPDXRef-item11547349
+FileChecksum: SHA1: bef6e6dab142aebf038296c7617174404533cac4
+FileChecksum: SHA256: 6102b78eef201c52f5012234d83998deb8a517cd94a3d79f8622d0e15caf7875
+FileChecksum: MD5: 3c23d140757eaa2ea62b9978e70fd552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.AUXVM
+SPDXID: SPDXRef-item11547350
+FileChecksum: SHA1: 5ba326bb4a9117c08b0673264d7ec912becb0c24
+FileChecksum: SHA256: a35ff265979dd39122e068f69811f0a8a7a5adf9af32356e1081b0be5ec31697
+FileChecksum: MD5: d3cf7747b4cd12e2138c4b483fc3e8f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/HISTORY.EXEC
+SPDXID: SPDXRef-item11547351
+FileChecksum: SHA1: 1d3d74606f24fc3d618afea89bbca52ab6697782
+FileChecksum: SHA256: edc8d276ec81fa03375cdd4378ca32fd621059cb393a9fa4666ac4bf6f3965d7
+FileChecksum: MD5: b144c3bc7d5b44d42e753fc50dcd6148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/README.md
+SPDXID: SPDXRef-item11547352
+FileChecksum: SHA1: 79d46f7c6cd977ee79dfd679bcd036eab6a138e7
+FileChecksum: SHA256: 7f6a8a03a9093bfbf03b0c9c0b62d5a26151abf0bfc409b7e3462b737a7f3784
+FileChecksum: MD5: 67d883dcd84fcd7ba2d02871b1016903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.CMS12
+SPDXID: SPDXRef-item11547353
+FileChecksum: SHA1: b9de8e5deeae8529a16433d83d81605f277b23b5
+FileChecksum: SHA256: 650230aa4b49b1a96edf9f2430521825972d1988277f2b94e027e20ab6db6ca8
+FileChecksum: MD5: 1df2d9dd689ce1c95cd608d57bb63a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/dmscmd/DMSCMD.XAXA
+SPDXID: SPDXRef-item11547354
+FileChecksum: SHA1: c0bfef086a03f48a9688ac2f30aae8415f8fccb4
+FileChecksum: SHA256: fcab69e250d050cd9a3f9020288b45b069500cf530ee78c72249d774b75fb77f
+FileChecksum: MD5: 9ed83eb1f6238ba66d91b91855567164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: zvm-community-tools-2025-11-14.zip/zvm-community-tools/COMMITTERS.csv
+SPDXID: SPDXRef-item11547355
+FileChecksum: SHA1: 5531b7714595cf5b6e9b3c9720b5566947fe1a55
+FileChecksum: SHA256: a859dc230a32ef5893652598a30d6d83d3af9351690a1ac198bf5f777206c098
+FileChecksum: MD5: 6b4688d45532c371b6bc06f86574345a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+

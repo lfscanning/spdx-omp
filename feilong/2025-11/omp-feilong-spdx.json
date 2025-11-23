@@ -1,0 +1,89 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T12:42:26Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpaaweph9l/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpaaweph9l/code-cf3ca1dd-1649-4afa-ab84-843e24581360",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-28e2af6169c6b28c",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.feilong",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-feilong-feilong",
+            "comment": "This package was added to the Trivy analysis for the feilong by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/feilong/archive/9bc2b016db1a4b89c91c4d16bd4327cc9738d118.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/feilong@9bc2b016db1a4b89c91c4d16bd4327cc9738d118",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "feilong",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "9bc2b016db1a4b89c91c4d16bd4327cc9738d118"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-feilong-build-feilong",
+            "comment": "This package was added to the Trivy analysis for the build-feilong by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/build-feilong/archive/0bccc55120db9dd4164410cc0223e0b03bd3112c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/build-feilong@0bccc55120db9dd4164410cc0223e0b03bd3112c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND (Apache-2.0 AND CC-BY-4.0) AND CC-BY-4.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "build-feilong",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0bccc55120db9dd4164410cc0223e0b03bd3112c"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-28e2af6169c6b28c",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28e2af6169c6b28c",
+            "relatedSpdxElement": "SPDXRef-omp-feilong-feilong",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-28e2af6169c6b28c",
+            "relatedSpdxElement": "SPDXRef-omp-feilong-build-feilong",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

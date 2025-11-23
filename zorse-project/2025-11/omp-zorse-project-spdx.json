@@ -1,0 +1,1419 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T15:42:56Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": "(Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-public-domain AND (GPL-1.0-or-later AND (MIT AND BSD-3-Clause)) AND MIT AND BSD-3-Clause AND BSL-1.0 AND (NCSA AND BSD-3-Clause) AND BSD-3-Clause AND 0BSD AND 0BSD OR (0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND (Apache-2.0 AND BSD-3-Clause) AND Apache-2.0 AND (CC-BY-SA-4.0 AND CC0-1.0 AND Apache-2.0) AND Apache-2.0 AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND GPL-1.0-or-later AND MIT AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-2-Clause AND BSD-2-Clause AND 0BSD AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND (GCC-exception-3.1 AND GPL-3.0-only) AND BSD-3-Clause AND BSD-3-Clause-Attribution AND BSD-3-Clause-Open-MPI AND (GPL-3.0-only WITH GCC-exception-3.1 AND GPL-3.0-or-later AND GPL-3.0-or-later WITH GCC-exception-3.1) AND GCC-exception-3.1 AND (GPL-3.0-only AND LGPL-2.1-or-later) AND LGPL-2.0-or-later AND (LGPL-2.1-or-later AND LGPL-2.1-only) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND MIT AND BSD-3-Clause AND MIT AND Zlib AND Apache-2.0 AND BSD-3-Clause-Open-MPI AND CC-BY-4.0 AND CC-BY-SA-3.0 AND CC0-1.0 AND FSFAP AND GPL-1.0-or-later AND GPL-1.0-or-later AND MIT AND BSD-3-Clause AND BSL-1.0 AND GPL-2.0-only WITH eCos-exception-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND Apache-2.0 AND GPL-2.0-only AND LicenseRef-scancode-dco-1.1 AND LicenseRef-scancode-generic-cla AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-warranty-disclaimer AND LicenseRef-scancode-zsh AND MIT AND MIT AND (Zlib AND MIT) AND MIT AND 0BSD AND MIT AND Apache-2.0 AND SunPro AND Vim AND Zlib",
+            "licenseId": "LicenseRef-fixed-0x781e1ae2e474a214"
+        },
+        {
+            "extractedText": "(BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference) AND (Python-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND MIT AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (BSD-3-Clause AND LicenseRef-scancode-other-permissive) AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND TCL AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT AND MIT AND (LicenseRef-scancode-other-permissive AND BSD-2-Clause) AND (BSD-3-Clause AND (LicenseRef-scancode-public-domain OR LicenseRef-scancode-other-permissive) AND MIT) AND LicenseRef-scancode-musl-exception AND MPL-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseId": "LicenseRef-fixed-0x2a19b9928d21b7ef"
+        }
+    ],
+    "name": "/tmp/tmpvrk9omnh/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpvrk9omnh/code-22a107ac-adfa-45a3-9f50-22f2007a2df7",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-633b003a252623b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "zorse/uv.lock",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "1860c820f9b90802c75279b9c102b5dfadd94f07"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-600afba721208731",
+            "description": "Happy Eyeballs for asyncio",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/aiohappyeyeballs@2.4.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND (Python-2.0 AND LicenseRef-scancode-proprietary-license) AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseDeclared": "0BSD AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND PSF-2.0 AND Python-2.0",
+            "name": "aiohappyeyeballs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "2.4.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-685afda4b505ddcf",
+            "description": "Async http client/server framework (asyncio)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/aiohttp@3.11.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/aiohttp",
+            "licenseConcluded": "(Apache-2.0 AND LicenseRef-scancode-unknown-license-reference) AND Apache-2.0 AND Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aiohttp",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "3.11.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6137a2933afc8ade",
+            "description": "aiosignal: a list of registered asynchronous callbacks",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/aiosignal@1.3.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/aiosignal",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "aiosignal",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "1.3.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b1f94d39985601c",
+            "description": "Classes Without Boilerplate",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/attrs@24.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "attrs",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: The attrs Cabal",
+            "versionInfo": "24.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a5ebc823375bf8be",
+            "description": "The AWS SDK for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/boto3@1.35.77",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/boto/boto3",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "boto3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: the boto project",
+            "versionInfo": "1.35.77"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-971cb5c02c670ae",
+            "description": "Low-level, data-driven core of boto 3.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/botocore@1.35.77",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/boto/botocore",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND MPL-2.0 AND GPL-1.0-or-later AND GPL-2.0-or-later WITH LicenseRef-scancode-generic-exception AND LicenseRef-scancode-proprietary-license AND LicenseRef-scancode-public-domain AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "licenseDeclared": "Apache-2.0 AND MIT AND MPL-2.0",
+            "name": "botocore",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: the boto project",
+            "versionInfo": "1.35.77"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-129714cca94d10a",
+            "description": "Python package for providing Mozilla's CA Bundle.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/certifi@2024.8.30",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/certifi/python-certifi",
+            "licenseConcluded": "MPL-2.0",
+            "licenseDeclared": "MPL-2.0",
+            "name": "certifi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Certifi",
+            "versionInfo": "2024.8.30"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b10ca1dda7e63496",
+            "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@3.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-SA-3.0 AND LGPL-2.1-only AND LGPL-2.1-only AND MIT AND MIT AND MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "charset-normalizer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: TAHRI Ahmed R.",
+            "versionInfo": "3.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b0b72f07d7a1e5bf",
+            "description": "Cross-platform colored terminal text.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/colorama@0.4.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tartley/colorama",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "colorama",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Jonathan Hartley",
+            "versionInfo": "0.4.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2d2c110791268fe",
+            "description": "HuggingFace community-driven open-source library of datasets",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/datasets@3.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/datasets",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND CC0-1.0 AND JSON AND LicenseRef-scancode-proprietary-license",
+            "licenseDeclared": "Apache-2.0",
+            "name": "datasets",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "3.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51eb1eee53084078",
+            "description": "serialize all of Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/dill@0.3.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/uqfoundation/dill",
+            "licenseConcluded": "Apache-2.0 AND BSD-3-Clause AND BSD-3-Clause AND BSD-3-Clause AND MIT AND BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "dill",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: The UQ Foundation",
+            "versionInfo": "0.3.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b67cf550805b1b3",
+            "description": "A platform independent file lock.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/filelock@3.16.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tox-dev/py-filelock",
+            "licenseConcluded": "NOASSERTION AND Unlicense",
+            "licenseDeclared": "Unlicense",
+            "name": "filelock",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: tox development team",
+            "versionInfo": "3.16.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-21e7bf7db418b168",
+            "description": "A list-like structure which implements collections.abc.MutableSequence",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/frozenlist@1.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/frozenlist",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "frozenlist",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "1.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f38e7290c2a79e",
+            "description": "File-system specification",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/fsspec@2024.9.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/fsspec/filesystem_spec",
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "fsspec",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: python filesystem spec",
+            "versionInfo": "2024.9.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-84f6e7d65cc32b18",
+            "description": "Client library to download and publish models, datasets and other repos on the huggingface.co hub",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/huggingface-hub@0.26.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/huggingface_hub",
+            "licenseConcluded": "(Apache-2.0 AND CC-BY-SA-4.0) AND MIT AND Apache-2.0 AND Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "huggingface-hub",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "0.26.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9418e06e247cbf71",
+            "description": "Internationalized Domain Names in Applications (IDNA)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/idna@3.10",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND NOASSERTION",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "idna",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Kim Davies",
+            "versionInfo": "3.10"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1c5ed76be716bfa8",
+            "description": "JSON Matching Expressions",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/jmespath@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/jmespath/jmespath.py",
+            "licenseConcluded": "MIT AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "jmespath",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: jmespath",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1dc0e4efe62774e5",
+            "description": "Python logging made (stupidly) simple",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/loguru@0.7.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Delgan/loguru",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "loguru",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "0.7.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d1eecd78c8b32dd9",
+            "description": "multidict implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/multidict@6.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/multidict",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "multidict",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "6.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8c380a5d27f0677f",
+            "description": "better multiprocessing and multithreading in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/multiprocess@0.70.16",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/uqfoundation/multiprocess",
+            "licenseConcluded": "BSD-3-Clause AND BSD-3-Clause AND NOASSERTION AND NOASSERTION AND Python-2.0",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "multiprocess",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: The UQ Foundation",
+            "versionInfo": "0.70.16"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a1e602ad71349ff7",
+            "description": "Fundamental package for array computing in Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/numpy@2.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x781e1ae2e474a214",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND MIT AND Zlib",
+            "name": "numpy",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: NumPy",
+            "versionInfo": "2.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7ad3d147088495ed",
+            "description": "Core utilities for Python packages",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/packaging@24.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "((Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause) AND LicenseRef-scancode-proprietary-license AND (Apache-2.0 AND (MIT OR Apache-2.0) AND BSD-3-Clause AND MPL-2.0) AND (MIT AND CC0-1.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause OR Apache-2.0) AND (BSD-2-Clause OR Apache-2.0) AND (MIT AND LicenseRef-scancode-public-domain) AND LicenseRef-scancode-proprietary-license AND Apache-2.0 AND Apache-2.0 AND (BSD-3-Clause OR Apache-2.0) AND Apache-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-2-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0 AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause) OR (Apache-2.0 AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "Apache-2.0 AND BSD-2-Clause",
+            "name": "packaging",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Python Packaging Authority",
+            "versionInfo": "24.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-99ad61f9a667617",
+            "description": "Powerful data structures for data analysis, time series, and statistics",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pandas@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-fixed-0x2a19b9928d21b7ef",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "pandas",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: pandas",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b9e56ee10c4460b4",
+            "description": "Accelerated property cache",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/propcache@0.2.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/propcache",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "propcache",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "0.2.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-8df3f5562cf7cbda",
+            "description": "Python library for Apache Arrow",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyarrow@18.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://arrow.apache.org/",
+            "licenseConcluded": "0BSD OR ((0BSD AND LicenseRef-scancode-public-domain) AND Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-3-Clause) OR (Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND MIT)",
+            "licenseDeclared": "Apache-2.0",
+            "name": "pyarrow",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: The Apache Software Foundation",
+            "versionInfo": "18.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6fb868f16f3ff208",
+            "description": "Extensions to the standard Python datetime module",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dateutil@2.9.0.post0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/dateutil/dateutil",
+            "licenseConcluded": "Apache-2.0 AND (BSD-3-Clause AND Apache-2.0) AND Apache-2.0 AND (Python-2.0 AND BSD-2-Clause AND Apache-2.0 AND BSD-3-Clause) AND BSD-3-Clause AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (Apache-2.0 AND BSD-3-Clause) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND (BSD-3-Clause AND Apache-2.0) AND (LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause) AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference AND BSD-3-Clause AND Apache-2.0",
+            "licenseDeclared": "Apache-2.0 AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "name": "python-dateutil",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: dateutil",
+            "versionInfo": "2.9.0.post0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3aebe3de06c248cf",
+            "description": "Read key-value pairs from a .env file and set them as environment variables",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/python-dotenv@1.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "python-dotenv",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Saurabh Kumar",
+            "versionInfo": "1.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eab37a653e77081c",
+            "description": "World timezone definitions, modern and historical",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pytz@2024.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "http://pythonhosted.org/pytz",
+            "licenseConcluded": "MIT AND MIT AND ZPL-2.1 AND NOASSERTION",
+            "licenseDeclared": "MIT",
+            "name": "pytz",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Stub",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4357329b0d6fca89",
+            "description": "YAML parser and emitter for Python",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/pyyaml@6.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://pyyaml.org/",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "pyyaml",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: The YAML Project",
+            "versionInfo": "6.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b314e40daa765c35",
+            "description": "Alternative regular expression module, to replace re.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/regex@2024.11.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/mrabarnett/mrab-regex",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND (CNRI-Python AND Apache-2.0) AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND CNRI-Python AND CNRI-Python AND Apache-2.0 AND LicenseRef-scancode-public-domain",
+            "licenseDeclared": "CNRI-Python AND Apache-2.0",
+            "name": "regex",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "2024.11.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3a408ca766060b47",
+            "description": "Python HTTP for Humans.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/requests@2.32.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://requests.readthedocs.io",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND MIT AND Apache-2.0 AND NOASSERTION AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "requests",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Python Software Foundation",
+            "versionInfo": "2.32.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd0ffc866587940b",
+            "description": "An Amazon S3 Transfer Manager",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/s3transfer@0.10.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/boto/s3transfer",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "s3transfer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: the boto project",
+            "versionInfo": "0.10.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f6ec34597dc538e",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/safetensors@0.4.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/safetensors",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "safetensors",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "0.4.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-81b675fb1c833411",
+            "description": "Python 2 and 3 compatibility utilities",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/six@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/benjaminp/six",
+            "licenseConcluded": "MIT AND MIT AND (MIT AND LicenseRef-scancode-unknown-license-reference)",
+            "licenseDeclared": "MIT",
+            "name": "six",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Benjamin Peterson",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6b7f7b3cb9260e8b",
+            "description": "Utils for streaming large files (S3, HDFS, GCS, SFTP, Azure Blob Storage, gzip, bz2, zst...)",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/smart-open@7.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "EUPL-1.1 AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "smart-open",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Radim \u0158eh\u016f\u0159ek",
+            "versionInfo": "7.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-35c4722c45210f3a",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tokenizers@0.21.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/tokenizers",
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tokenizers",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "0.21.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d00c85f0f35e6d58",
+            "description": "Fast, Extensible Progress Meter",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tqdm@4.67.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "(MPL-2.0 AND MIT) AND (MIT AND MPL-2.0) AND MIT AND MPL-2.0 AND (MPL-2.0 AND MIT) AND MPL-2.0 AND MPL-2.0 AND (MIT AND MPL-2.0) AND MPL-2.0 AND MIT",
+            "licenseDeclared": "MIT AND MPL-2.0",
+            "name": "tqdm",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "4.67.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-aa57b9d7451ad9be",
+            "description": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/transformers@4.47.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/huggingface/transformers",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference AND Apache-2.0 AND MIT AND BSD-3-Clause AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "transformers",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Hugging Face",
+            "versionInfo": "4.47.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9174a41c5148736e",
+            "description": "Backported and Experimental Type Hints for Python 3.9+",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/typing-extensions@4.12.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/typing_extensions",
+            "licenseConcluded": "LicenseRef-scancode-unknown-license-reference AND LicenseRef-scancode-unknown-license-reference AND Python-2.0 AND Python-2.0 AND Python-2.0 AND (Python-2.0 AND BSD-3-Clause) AND (Python-2.0 AND BSD-3-Clause AND 0BSD)",
+            "licenseDeclared": "Python-2.0.1",
+            "name": "typing-extensions",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "4.12.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a796e5a93f92cd27",
+            "description": "Provider of IANA time zone data",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/tzdata@2024.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/python/tzdata",
+            "licenseConcluded": "Apache-2.0 AND NOASSERTION",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tzdata",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Python",
+            "versionInfo": "2024.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d363a77072447c9e",
+            "description": "HTTP library with thread-safe connection pooling, file post, and more.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/urllib3@2.2.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MPL-2.0 AND Python-2.0",
+            "licenseDeclared": "MIT",
+            "name": "urllib3",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "2.2.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f390f0f3ad442bf9",
+            "description": "A small Python utility to set file creation time on Windows",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/win32-setctime@1.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Delgan/win32-setctime",
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "MIT",
+            "name": "win32-setctime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "1.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-59a71daa0c27db13",
+            "description": "Module for decorators, wrappers and monkey patching.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/wrapt@1.17.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/GrahamDumpleton/wrapt",
+            "licenseConcluded": "(BSD-3-Clause AND BSD-2-Clause) AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND BSD-2-Clause AND BSD-3-Clause AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "BSD-2-Clause",
+            "name": "wrapt",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: Graham Dumpleton",
+            "versionInfo": "1.17.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-d0307b3a40cb65c",
+            "description": "Python binding for xxHash",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/xxhash@3.5.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ifduyue/python-xxhash",
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause AND BSD-3-Clause AND (LicenseRef-scancode-unknown-license-reference AND Python-2.0) AND (BSD-3-Clause AND BSD-2-Clause) AND BSD-3-Clause AND (Python-2.0 AND BSD-2-Clause) AND (BSD-3-Clause AND BSD-2-Clause)",
+            "licenseDeclared": "BSD-2-Clause AND BSD-3-Clause",
+            "name": "xxhash",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "3.5.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-555975d31b21e48",
+            "description": "Yet another URL library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/yarl@1.18.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/aio-libs/yarl",
+            "licenseConcluded": "Apache-2.0 AND Apache-2.0 AND LicenseRef-scancode-unknown-license-reference",
+            "licenseDeclared": "Apache-2.0",
+            "name": "yarl",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "supplier": "Organization: aio-libs",
+            "versionInfo": "1.18.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-339a4dc5f1667254",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:pypi/zorse@0.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "zorse",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: zorse/uv.lock",
+            "versionInfo": "0.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-e5bab590a3221a97",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.zorse-project",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-zorse-project-COBOLEval",
+            "comment": "This package was added to the Trivy analysis for the COBOLEval by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/zorse-project/COBOLEval/archive/0bb96c3114bb2bb28e221e9d6000614781f8609d.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/zorse-project/COBOLEval@0bb96c3114bb2bb28e221e9d6000614781f8609d",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "COBOLEval",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0bb96c3114bb2bb28e221e9d6000614781f8609d"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-zorse-project-zorse",
+            "comment": "This package was added to the Trivy analysis for the zorse by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/zorse-project/zorse/archive/1860c820f9b90802c75279b9c102b5dfadd94f07.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/zorse-project/zorse@1860c820f9b90802c75279b9c102b5dfadd94f07",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "zorse",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "1860c820f9b90802c75279b9c102b5dfadd94f07"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-633b003a252623b",
+            "relatedSpdxElement": "SPDXRef-Package-339a4dc5f1667254",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-zorse-project-zorse",
+            "relatedSpdxElement": "SPDXRef-Application-633b003a252623b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1dc0e4efe62774e5",
+            "relatedSpdxElement": "SPDXRef-Package-b0b72f07d7a1e5bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1dc0e4efe62774e5",
+            "relatedSpdxElement": "SPDXRef-Package-f390f0f3ad442bf9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-1b67cf550805b1b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-3a408ca766060b47",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-4357329b0d6fca89",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-51eb1eee53084078",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-685afda4b505ddcf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-7ad3d147088495ed",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-8c380a5d27f0677f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-8df3f5562cf7cbda",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-99ad61f9a667617",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-a1e602ad71349ff7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-d00c85f0f35e6d58",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-d0307b3a40cb65c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2d2c110791268fe",
+            "relatedSpdxElement": "SPDXRef-Package-f38e7290c2a79e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-1dc0e4efe62774e5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-2d2c110791268fe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-3aebe3de06c248cf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-6b7f7b3cb9260e8b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-a5ebc823375bf8be",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-339a4dc5f1667254",
+            "relatedSpdxElement": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-35c4722c45210f3a",
+            "relatedSpdxElement": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3a408ca766060b47",
+            "relatedSpdxElement": "SPDXRef-Package-129714cca94d10a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3a408ca766060b47",
+            "relatedSpdxElement": "SPDXRef-Package-9418e06e247cbf71",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3a408ca766060b47",
+            "relatedSpdxElement": "SPDXRef-Package-b10ca1dda7e63496",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-3a408ca766060b47",
+            "relatedSpdxElement": "SPDXRef-Package-d363a77072447c9e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-555975d31b21e48",
+            "relatedSpdxElement": "SPDXRef-Package-9418e06e247cbf71",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-555975d31b21e48",
+            "relatedSpdxElement": "SPDXRef-Package-b9e56ee10c4460b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-555975d31b21e48",
+            "relatedSpdxElement": "SPDXRef-Package-d1eecd78c8b32dd9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6137a2933afc8ade",
+            "relatedSpdxElement": "SPDXRef-Package-21e7bf7db418b168",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-1b1f94d39985601c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-21e7bf7db418b168",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-555975d31b21e48",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-600afba721208731",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-6137a2933afc8ade",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-b9e56ee10c4460b4",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-685afda4b505ddcf",
+            "relatedSpdxElement": "SPDXRef-Package-d1eecd78c8b32dd9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6b7f7b3cb9260e8b",
+            "relatedSpdxElement": "SPDXRef-Package-59a71daa0c27db13",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6fb868f16f3ff208",
+            "relatedSpdxElement": "SPDXRef-Package-81b675fb1c833411",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-1b67cf550805b1b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-3a408ca766060b47",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-4357329b0d6fca89",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-7ad3d147088495ed",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-9174a41c5148736e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-d00c85f0f35e6d58",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relatedSpdxElement": "SPDXRef-Package-f38e7290c2a79e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-8c380a5d27f0677f",
+            "relatedSpdxElement": "SPDXRef-Package-51eb1eee53084078",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971cb5c02c670ae",
+            "relatedSpdxElement": "SPDXRef-Package-1c5ed76be716bfa8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971cb5c02c670ae",
+            "relatedSpdxElement": "SPDXRef-Package-6fb868f16f3ff208",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-971cb5c02c670ae",
+            "relatedSpdxElement": "SPDXRef-Package-d363a77072447c9e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-99ad61f9a667617",
+            "relatedSpdxElement": "SPDXRef-Package-6fb868f16f3ff208",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-99ad61f9a667617",
+            "relatedSpdxElement": "SPDXRef-Package-a1e602ad71349ff7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-99ad61f9a667617",
+            "relatedSpdxElement": "SPDXRef-Package-a796e5a93f92cd27",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-99ad61f9a667617",
+            "relatedSpdxElement": "SPDXRef-Package-eab37a653e77081c",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a5ebc823375bf8be",
+            "relatedSpdxElement": "SPDXRef-Package-1c5ed76be716bfa8",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a5ebc823375bf8be",
+            "relatedSpdxElement": "SPDXRef-Package-971cb5c02c670ae",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a5ebc823375bf8be",
+            "relatedSpdxElement": "SPDXRef-Package-cd0ffc866587940b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-1b67cf550805b1b3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-35c4722c45210f3a",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-3a408ca766060b47",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-4357329b0d6fca89",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-7ad3d147088495ed",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-84f6e7d65cc32b18",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-a1e602ad71349ff7",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-b314e40daa765c35",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-d00c85f0f35e6d58",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-aa57b9d7451ad9be",
+            "relatedSpdxElement": "SPDXRef-Package-f6ec34597dc538e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cd0ffc866587940b",
+            "relatedSpdxElement": "SPDXRef-Package-971cb5c02c670ae",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-d00c85f0f35e6d58",
+            "relatedSpdxElement": "SPDXRef-Package-b0b72f07d7a1e5bf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f38e7290c2a79e",
+            "relatedSpdxElement": "SPDXRef-Package-685afda4b505ddcf",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-e5bab590a3221a97",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e5bab590a3221a97",
+            "relatedSpdxElement": "SPDXRef-omp-zorse-project-COBOLEval",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e5bab590a3221a97",
+            "relatedSpdxElement": "SPDXRef-omp-zorse-project-zorse",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

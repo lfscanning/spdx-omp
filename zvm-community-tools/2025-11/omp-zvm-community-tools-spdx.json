@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:25:31Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpbw9y3gh1/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpbw9y3gh1/code-548884b9-0013-4601-b597-20268d71e540",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-df85ada5b12aebb1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.zvm-community-tools",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-zvm-community-tools-zvm-community-tools",
+            "comment": "This package was added to the Trivy analysis for the zvm-community-tools by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/zvm-community-tools/archive/b1569eb6fdc486e87a09bc6b5f5f6478fa3e8ec7.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/zvm-community-tools@b1569eb6fdc486e87a09bc6b5f5f6478fa3e8ec7",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "zvm-community-tools",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "b1569eb6fdc486e87a09bc6b5f5f6478fa3e8ec7"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-df85ada5b12aebb1",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-df85ada5b12aebb1",
+            "relatedSpdxElement": "SPDXRef-omp-zvm-community-tools-zvm-community-tools",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

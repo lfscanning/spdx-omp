@@ -1,0 +1,2461 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:25:07Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.\n\nIn some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.\n\nSometimes people use the term \"public domain\" in a loose fashion to mean \"free\" or \"available gratis.\" However, \"public domain\" is a legal term and means, precisely, \"not copyrighted\". For clarity, we recommend using \"public domain\" for that meaning only, and using other terms to convey the other meanings.\n\nUnder the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. ",
+            "licenseId": "LicenseRef-fossology-Public-domain",
+            "name": "Public domain software"
+        }
+    ],
+    "name": "/tmp/tmp5b3fdwqy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-omp/omp-education/2025-11/omp-omp-education-full/a2d47ae9-c2b0-4cda-9393-c08f96410614",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "omp.omp-education",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-omp-education-omp-education",
+            "comment": "This package was added to the Trivy analysis for the omp-education by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/omp-education/archive/ad8017b5eaa11ce907f049027fbf30cdea825b9c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/omp-education@ad8017b5eaa11ce907f049027fbf30cdea825b9c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "omp-education",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "ad8017b5eaa11ce907f049027fbf30cdea825b9c"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11547081",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f51ec3fc55fb12e38514ab21e1775ade89a9d579"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d8218ef8d61e3b035889821be3822b18ad847b917d9fe38a82d751346815a916"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9dc9bf51bec8fe73fc984630a3f6c251"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to Mainframe Open Education Project. ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/legal-disclaimer-copyright-and-license.md",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547027",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dae17fdaf0b07242bd19bb4ea685157fe65b8a55"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8d3fceb4cb62663775f02c1c551cfbf332d1c736667c17817c16c635caba21e0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dd44fc98fc34924a5614ce865a50e4d8"
+                }
+            ],
+            "copyrightText": " copyright. More considerations for licensors : wiki.creativecommons.org/Considerations_for_licensors\ncopyright\u2013then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rig\ncopyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)\nCopyright Treaty adopted on December 20, 1996, and/or similar international agreements.\ncopyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world. k. You means the individual or entity exercising the Lice\ncopyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable; B. indicate if You modified the Licensed Material and retain an indication of any previou ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/LICENSE",
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Public-domain",
+                "CC-BY-4.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547025",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d556e39ea5b42467680b66d6b3f08c199338a082"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "918a9e911fc166335eefcf17dd9899e5ea10ab4dd99d0e37012ee2fc1086693d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2c108cea644a121fabc7fdaf39d1c5ca"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/CODE_OF_CONDUCT.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547026",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cbcd260e36a36ed857dc453feaa3be4953806c83"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f47fd29646f7eb7619e9f576da39dba98f828dc01a9f653a42582a86b2eafbb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a2929e2fa82ab786d036814e6de55af0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/GOVERNANCE.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547030",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f29ed71e94d3bbf9bda956d8653c8803ae3b3c08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b0e22b77912a84d8bd8a949be1accdf5744d01b4e46e2a8a3512de004449997e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a69d798f0c0bb3b66e8636cda83fbc04"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/additional-community-resources/courses-tutorials-manuals.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547031",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fe5a617d4f4c3b5caf261645ee6fbb1c36ba71cc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "813c765b711047d3dc11d1cb5e5b9aa969d4c76f5e6c3d0ae3956dab4dbd954c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "478564c6babdc5f4689ea1d360037b86"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/additional-community-resources/communities.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547032",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb947ad7fbcc7921937f71cb74a4dd9df38557f5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0f8a9c61c4289e770f3639f6adcef58b89c692f25f8cfd2cf8ce8bc55467159c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "59cbfa62c4945ded0400aa725b761dc6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/additional-community-resources/education-programs.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547033",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bdd899cb4ea432fecaa54a0a5682b3f490f2d93d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "aa817b53baf2eb647d39e73eece0225b0548911473ec31f196d1456306de8b6d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b141fa66ee8048c6cad154b0c35fb26e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/additional-community-resources/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547034",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5d12737724616fa1e17b67657ef560db718cdaf4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "027715a861e41f13384532fa26ef09ac7e03f2f4c5754d0753696cf9e76cf524"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be65865296e79145292ca05488e7b6ae"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/additional-community-resources/ibm-mainframe-timeshare-services.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547036",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a5f4f93a586df37b1ccd26af95a9b8cebba1d0eb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a8060618b672a25a4549d4cfc49b8a9c4eddb17fef99a3b96e625dec6567844f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "54b0515e634f59b895061085b3b6c833"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-business-software-product-application-development-and-support.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547037",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6632c634bd49819f622fa8a41d44b8c69044c233"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "18bf49c23a7191210578dd3d315721a9615a19a1a1bd0c6718b03dc0f446d49f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7081254ba696a4390538b32f9bd8a751"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-software-engineers.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547038",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d3ac7e5d4a3c29daad0996626370888e76cc9202"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1a987c5899f73a16198860501f24f16caa819f51ccc5b63e2704194bdc366dc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "47a654d78b8a5a3f07548b7ff5c3948a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-architects.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547039",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8e34f7391b04fb81b306a0a33215f18dd95cdaee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e5754d4cec15cdb505a89e380becabe792c211fe149e34ec53058641d5df65cb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f9cc138c63b0c878f96d8b6e180529b8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/deeper-dive-in-role-chosen/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547040",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97d08c8fda44e1f212cbf1de515ba8f1e884dbfa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "de78bd2c75a3f6cbfbe7465a76ec0dcaf3a9e551f43ce2d0c30ef822a52f6050"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c310c279c4bafb72a917cb4dd96abd33"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/deeper-dive-in-role-chosen/it-operations-and-system-support-and-services.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547043",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4207e853f36286cb3b96b629d49a5d48bf4bf51e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8800333a3af350c0d88fa61d89bb9f28a31a0cfee5aaada26ceeed717999e97f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "737caf025d610fb6738a85d52142f59c"
+                }
+            ],
+            "copyrightText": " \u00a9 uFU\u00c7P?w\u00e3\u00ed;?\u00bd\u00f5\u00f6\u00a7\u00f7\u00df\u00ff\u00dc_?\u00fdU]]\u00ed\u00c4\u00edC\\Eo8!\u00c9\u00c0P\u00ab\u00a1*\u00a3S(Q\u0095\u00a9\u00c7v-\u00ea\u00ecd\u00aa\u00ccd@?\u03ecV\u00ab\u0095\u014d\u00d5\u00c3\u00ec\u008eXy?\u00fb; l\u0082\u0095\u00c0\u008dL\u00f3?)$%\u00d4Z\u0093Eu\u0082>\u00d2r(K\u0086K\u009elrX?\u00b1/QR\\I?q\u00d52\u00fb\u0083\"\u00b4C\u0081\u00a8\u0088oE\u0085d5!\u00cf\u00cc?8-?\u00e0\n\u00a9 O=fyeJd7,\u00bfy\u00cf\u00ddw\u00cbX\u00cc&\u00ec\u0080\u0644L\u009d\u00bbv\u0093UV_)\u00f8\u0081\u00f2|\u00f8\u00f1\u00f6;\u00ef\u00cb\u00de\u00fb\u00ee-\u00f3?\u009c\u009a6?\u00b3\u00da?\u009aZ}\n\u00ccv\u00c3\u00b5\u008f\u018c\u0095\u0081\u00fd\u00faI9\u00de\u00e0S\u00e3T?%6\u0083I\u0083?8\u04b7MG\u008c\u0090\u00b2\u00922\n\u00ea\u00b4m[)+\u00af4\u00cbkNV??_x\u00bb\u008er?\u00e8z\u00fb\u009dw\u00b1\u00b6\u00ff\u0086\u04a7g7)#?\u0468\u00ba\u008e\u00ede\u00f3\u00cd6\u0093??\u00faX\u00e6a9\u00ca2,K\u00caev7?\u00ee\\\u0096\u0094\u00abc\u00f2\u0094p) \u009e\u00b9\u00cch?\u00a2F\u00a4\u00f7\u00ef\u00db?\u00cbSV\u00ca?\u00ab\u00af\u00a1KW\u00d2V\u00cf?]\u00a5?o\"\u0398:\n3 H\u00eb\u00d2\n\u00a9\tYG\u008726\u0090D\u00a7 ]?\u00d5?w\u00d6@\u009f\u00b1gg* \u0503\\\u00ca\u00d9f?\u00ec 82\u0093\u00ce7?\u0468#L$eD?\u00ed\u00d8?0 C\u00c0?0 C\u00c0?\u00d8 \u00acX&r\u00f9\u00c5\"[\u00b7\u00a4elLN?y\u00b3\u00a0X:w\u00ee$={\u00f6\u0094\u00ee\u077bKaa\u00a1\u00e4\u00e5\u00e5\u00e9?\u00a8i?3aC\u00c0?0 C\u00c0?0 C\u00a0 <\u0087PO\u0091e Q?\u00b0\u00a4&x\u009e\u0099\u00f3\u00d7\u02e4?\u00cbeG-\u00c9%\u00d2W\u0099 W?\u02d4\u00eax&\u0088\u00b7,\u00a4?X\u0288\u00bfL\u00a9\u00ad\u00cd@Z\u00e4\u00de\u01e7\u00c9\u074fO\u0097\u00cd\u00d5\\\u009a?\u00d4`0)\u00efhB,P\u0089\u023bj|\u00b8gd\u009d\u00e7\u0099?9X?{5\u0613?\u00acF=\u00b5?\u00b0\n\u00fd8\u008c0\u00af\u008augdA?\u00d9v\u00e1g5v?|\u00b8Df\u00cd_?_?\u0089\u0088l\u0229?\u00d6?\u00f7\u00f3\u00f33\u00a5\u00a8?/V/h\u008b\u00fab\u00b2z\u00fdV?5\u00f1#Y_Y\u00a3>/\n\u00a9\tmGy\u00e1U\u00a6\u00b2W\u00f5\u04c0U\u5e07\u0089\u00c292\u00beG\u00a8`\u008e\u00f5\u009c?y\u00c6>q\u009e\u00a2W?=B\u00a9\u4d74a\u00c3&xn\u03c3wNE5?\u00b2\u009c\u05cb<\u00b2/L \u00dfc?4\u00ee?W\u00a3z5?Y\\?\u00de(?\u00dc+p!\u00f6\u00dec\u00c8;SFo\u00c5\u00dc\u00f6\u00ee\u00bb?b\u009f\u00ac\t\u0090\u00d7f\u00995g?\u00bc'\u0097a\u00ee.\u0088\u00fd\u009fZ\u00c08z\u008d4i\u00daX\u0096#\u00c4\u00e2?\u00e0j\"\u00f3\u00be+\u00ae\u00c0\u00f5?\u00eb;\u00b4\u00ff\u00ac\u00e45\u00a4'b\u00c3 \u00e5\u88cf\u00c1s\u00a0?\u00ee\u00fb?\u00falX\u00b3z\u009d\u008e?\u00e2\u00bag\u009a{6Fy\u00d5{I\u00ef!x?\u00c2?\u0085\u03d5\u0085xn\u00ec\u00e0J?\u00a4M\u00f0\u0080_\u00b4h1\u00bc\u00eaV\u0083\u0088\u00c7\u00f4<?tp\u00ee\u00e6XdX?\u00e5?y\u02acB\u0085r\ua475?\u009e\u00ad;\u00b8\u00a2?\u00e5\u009bq\u00df-\u0182?\u00ee=\u00c9?\u00d0\u04f3\u00dc~x\n\u0081\u00cc\u00c9\u00ff \u0093\u00ef'?*XU?\u00de\u00c4\u00e5\u00b00c\u0672\u00a5X\u00a4\u00b1F\u00ca\u00c1?\u00ba\\\u00d9\n\u00a9\tp\u00e8x\u00f0\u00a1G\u00e4\u0094SN\u00915\u00fa\u00f6\u0091\u00b6\u00cb,\u00a5\u009c\u0217\u0081W\uf7f4\u00ff?]A?\u00ea?\u00e9C\u009a80\u00eb\u00d5\u00d7^\u00c3\u00ee?cd\u00bd\u00f5\u00d7?\u00e9|\u0099\t\u0087\u00a2\u00ab\u00af\u00b9F\u00aeD?0b\u00c4Y\u00d2?\u037e\u0282u\u01e0\u00fd\u008e\u00f3T\u0090\u00e58\\A\u00cc?yJ?~\u009c,\u00861\u00ee\u00bcc\u00e5\u00edx;\u0091\u0673\u00e7\u00c8?\u00b8'7\u00d9dS\u00e9\u00d2i?\u00b3\u0093\u04b0\u009f\u0098\u008bve}[U\u009e \u00a5\u0092A\u00c1?\u00ac \u00a0\u00b3\u00bf\u00f7~\u00c5\u06ea\u00f3u?O\u00eb\u0095u?3 \u0099E\u00dcb\u00aa@\u00afF?$F!?O+oO?\u009c\u00fd\u00ec \u00aaN\u0098?m8(\u0093\u009f\u00a3\u00e6\u00d6TXP0\u00e2RP\u00a14a4?\u00d5\u00e7M d\u00bb\u00d5\u00c0K\u008cdP\u02c2=\u00d8\u00ffxS\u00cevD\n\u00a9 6\u00cd5Ec\u00bevqy\u009a\u0094\u00dac\u008e\u0080#\u00e0?8?\u008e\u0080#\u00e0?8?\u008e\u00c0?\u008b\u00c0Ac\u00e0\u00c4\u00c1(\u00b7?\u00c1\u0087K\u00b2\u00fe 'a\u00d1\u00e6M?\u00f4p\u00b1\u00bd?\u00deI\u00f8\u00d5\u017a\u00f5\u00eb\u00e0\u00b6y\u00b6z?\u00e9T\u0085m\u00e60?\u00e9\u066b\u00b7L\u0083\u00f7\u0093\t\u00e3G\u0268\u0091\u00d5\u00f28\u00bc\u009f\u00acxs\u00a5 \u00d8 7;d\u00d1\u00e2Er\u00f69\u00e7b,?F?\u00c1?J0\u0096zx\u00eacj\u00cc4 \u0099\u00c8?\u0728ar\u02ed\u00b7\u00c0\u00fb\u00c9d9\u00a4o?,>u\u00c66$+\u00d5+\u00cabla\u00a5\u0086D\u0409\u00e3!\u00f2\u00a1G\u0094?\u00e0\u00fd\u0084u\u009fy?\u00deO\u018c\u0097\u00e3\u00b0?:G8\u0093?;Tn\u00f9\u036fa?\u00f5\u009a\u008c\u009f8\tye\u00d2 a\u0097\u00bc\u00fbB \u00a3\u00ad?,\u0090\u0091V5\u00e8\u0087GN\u00a4\u0094\u00a3\u00ed\u00fa\u0087\u00f8?,\u00905\u00a0\u009d\u00fc\n\u00a9\tW\u0086.3\u00e6?jt?}5f\u00c8?\u0099X\u00e2+?\u00d1i\u008e\u00b4\u00c4~\u00af\u0083?v?05i\u00daX\u00be\u00fe\u00f6?\u00b2gw\u009a\u031d\u00f7\u00bb4l\u00dcP!i\u0420\u0081\u00f4?0@z?#\u00e67\u00c32o\u00a8\u00a0\u00d8R?#)%\u00828\u0096\u0085(\u0084\u00c9)I\u0088\u00eeTS\u0096-[ Sm)_\u00be?\u00964\u00ab\u0087e\u00d1\u00e6(9i\u00f5\u00aaU\u00b2gO\u009ap\u00999=7\u0080=1?\u00e7 \u00ab$F\u00af\u00e1rpt\n\u00a9\tM\u009b4[m\u00beqx\u00ee\u0085?\u00c3 =?&HQ\u00a7Y\u00f3\u0096a\u0089\u00c5{\u0087\u00d5VZ>4\u00ac\u00912\u0090?x\u0096\u00e8\u00dd[J<S\u00c3 >?\u00a6M\u0099,\u0085\u00a3\u00a6a\u0083\u00b5\u00d6 ZP\u00f3\u00d8R?\u0092RPC?\u0084j\u00e2?9G\u00d9\u00d9.a)Q\u00d5(\u00ae\u00c6?\u00d8PV\u00f2\u00c9\u00c7?\u00e6grs\u00a6\u04b1\u00a4\u0084\u00d2UC\u00f1?\u00fc\u008c,?\u008d?\u00a1S\u00c0\u008e\u00c4[u\u00e5?\u00c23\u00cf>?\u00fe\u00f6\u00b7;B\u0097\u0085\u00ba\u0084\u0095\u0097Y&\u00bc\u00fd\u00f6\u00db$\u009bk\u00a0<\u00e0\u0098\u00a6pCmUnP\u0083-*\u008e\u00b1?:\u00ce\u00ceN\u009fS?\u0093\u00ecRsRx\u00d5UV >?\u00dez\u00fd\u00e5\u00b0\u00ef\u00be\u00fb\u0086?:\u0086\u00ae!+\\\u00fag\u00adb\u0083\u00f5\u00d7?\u0083\u009ex\"\u00dcu\uffcc\u0087\u05ad\u00e6\t\ubb7dnh\u00d6TJL\u00b1\u00da\u00eak\u0085\u00ff\u00fe\u00ef\u0085\u00f0\u00e8\u00c0'\u008ciSB\u009fE }?\u986cB\u0090\u00953r\u0096~\u0093?\u0092?\u0092?\u0092?\u0092?jK nj\u0096\u00e6R\u00c3@ ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Reviewer QRG.docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547044",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cc0cb6f333f74e608ec4a4061a5694df405bf3cd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ceaa6702c07aa29cbfbb2f39634911fbca815e5033726f2d2f5c81cfb21930c1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "919bfc30d3bdd40866bf858e39ed81ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Mainframe_1_3D.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547045",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5650463effb04710e332c018a251d721e2fcc9bc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "636fe4c6dfac5c09bf3946d85ad62d4fdb57fad8e716141326abe4e46f1c2586"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "18abe72bbd53ddce99b98b26db63a618"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/MOE Cover page retang.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547046",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "efe3736ddfeffce479016dbb51b6dad460326d2a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b04009ea72fe3bd7b945173dc83d5026b7ef0126a420a655508e148cb92bcb32"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "50cb691155f4d88bc5759fdb70eaa322"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/multipleChoice.jpg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547047",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6efa72be489457517a8f650d3a03b7b1b209627"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8b9bbe11b2f8eb6b23e741189680f004b8696aefa36d4ba304888ce743867602"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "425283b4c82f69c4519c35db58511104"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Contributor QRG.docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547048",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "edb128560701b3c51aeec44a7e52620819355e3e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7765bf91be4027facdbbc1a67c1bf52a935b31a71949deb83852b767cc84f5bc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e31acadf8557dbabf90af7bc2d734d34"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/MOE Projects.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547049",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ede39b0cdfa6a32d9113f0fd49ac8f3401dd6135"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "374e8781574547f968d7acb9494dc7f6fbb90decc7e9bf2bd82db687c917dc7f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "127f29f4e4777ebbca555b846e7b80e4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Mainframe modernization.PNG",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547050",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b7f9265d95c5fe4a69342d412421b24b74f89505"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7f057a38558bec8a60ca36454adf391116c9637f59dd9aef6cdc19dcde52f142"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "43dba910a83f94562efc9d95d47ebf3f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Mainframe_2_3D.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547051",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cbd86b1578ec4a08c42da0c3ae8b321c29ae7f5c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7dd64e1f7383a94cefa13b88e3b0c0428972e5620b7b918d2807a61780a6b0db"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6eb47c40877685ad7c01674ec715a774"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Click Edit to Start.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547052",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "65ff0db140752c3542ef6d62055bf7aea992a5c4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0b8e4afa201e95ef701416ddddf5840440138846c5355dd60a36f2be5652cdf6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9aaa96d63951f24d51cb7a9d808de919"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Click Edit to Start (1).png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547053",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8fe99923e6438041bccbee31f4ea921e9da32387"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d98e103e62d1bc5811cd7156aaa2ea0bfd71d5f2cf1ccf70b73ca5fab38f4ab2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7d6aff764755f6e8b02cedd3ce80856a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Enter Subject Here.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547054",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "376c7ca45d5ccdc956265c7a416971cca033d5f0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0bb08b48fe17345a7807d027cf611df7029554169a0c1f79109beaaed4aee7b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b5ac4045c12031a67f7a8307bda2bd9d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/image.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547055",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "48169449458ec2d6f9bc7a61b23c980a47acbd88"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "85be0ba66f361ddb84d2259afb6e841677698d7830032d8dc40bbc9bfd0e0d94"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ebb8041750b450e7caaf18f773d9dc03"
+                }
+            ],
+            "copyrightText": " \u00a9\tBq?j3N2_4\u00da6\u00c3\u00e2*\u00e11?1T&\u00e9\u00d7\u00c3V\u00a5\u0088\u00a3Qo ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/2022-02-17_10-56-56.jpg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547056",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2d8ee025f03c172684534f0f07127ebad521dc05"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8052d496df419bbd3dd6c7817f296e4983853dd067f17a0d919341f7f4367a9f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1babd8c20594a1fe9981e6efefb2c963"
+                }
+            ],
+            "copyrightText": " \u00a9 l`nwmumw\u00b7 5\u0093?\u068d\u00b5\u00f5M.\u00c845\u00db\u00ed\u00f6\u00d5\u0555\u00ecU\u00b9\u00bfx>?\u0087\u00b9\u0099V\u02a8G\u0099V\u00c4G\u0087'\u00bd\u00c1hw7\u00b4%D]_\u07c6\u009a\u0757\u00ff\u009aQ\u00f3$\u00f0?+T\u0082?\u00c1\u00ae\u00ac\u00f5\u00d2[e\u00a3Z\u008e\u009bi%\u00eb\u00b5\"l<V?\u00fc\u00feIy\u00bbL\u0095\u00a8\u00d5\u00f4\u00c2?\u00ec\u00f5z?\u00b8H\u00ad?j>}\u00f9N\u00b5n\u00e3f)\u00d9\u00eej\u00ce\u00ee\u00d7Te( \u00bc\u0085\u00e8\u00ad)\u00cf??\u00b6r\u00bc\u00baz\u00c4e\u00ec\u00f5\u0087\u00b1\u00b36\u00ea\u05a6E\u0495\u00f6Q\u00ef\u009d?{x\u00f1\u00d645)A\u00b3\u00c2?M\u00b7\u00ee\u00d2\u00c1\u00e9u\u0133k\u0095\u009dY\u00e7?\u00a1)>L\u00db\u07f3f\u0092\u0092M\u00b1\u06e5?\u00fb\u00fd\u0091\u00bf\u00afI?\u074c\u051c\u00c2dN\u00ff\u00ff\u0092\u009a\u00d2\u00dfG\u0514\u00e6/Y\u00a6\u00f1\u00e2\u00e6/\u00fa\u00a4\u0791\u009a\u008a5S^J\u00e0?\u00c0\u00fbI\u00ff\u00e0\"\u020c\u00b1&q$4?5\u00f9\u0089UQSl\u00d0j\u00a4&\u00c2^\u00a4#?c?!?%\u0097\u00e3H\u009a\u00a0\u00a6?0\u00e0 ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Mainframe_3_3D.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547057",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4207e853f36286cb3b96b629d49a5d48bf4bf51e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8800333a3af350c0d88fa61d89bb9f28a31a0cfee5aaada26ceeed717999e97f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "737caf025d610fb6738a85d52142f59c"
+                }
+            ],
+            "copyrightText": " \u00a9 uFU\u00c7P?w\u00e3\u00ed;?\u00bd\u00f5\u00f6\u00a7\u00f7\u00df\u00ff\u00dc_?\u00fdU]]\u00ed\u00c4\u00edC\\Eo8!\u00c9\u00c0P\u00ab\u00a1*\u00a3S(Q\u0095\u00a9\u00c7v-\u00ea\u00ecd\u00aa\u00ccd@?\u03ecV\u00ab\u0095\u014d\u00d5\u00c3\u00ec\u008eXy?\u00fb; l\u0082\u0095\u00c0\u008dL\u00f3?)$%\u00d4Z\u0093Eu\u0082>\u00d2r(K\u0086K\u009elrX?\u00b1/QR\\I?q\u00d52\u00fb\u0083\"\u00b4C\u0081\u00a8\u0088oE\u0085d5!\u00cf\u00cc?8-?\u00e0\n\u00a9 O=fyeJd7,\u00bfy\u00cf\u00ddw\u00cbX\u00cc&\u00ec\u0080\u0644L\u009d\u00bbv\u0093UV_)\u00f8\u0081\u00f2|\u00f8\u00f1\u00f6;\u00ef\u00cb\u00de\u00fb\u00ee-\u00f3?\u009c\u009a6?\u00b3\u00da?\u009aZ}\n\u00ccv\u00c3\u00b5\u008f\u018c\u0095\u0081\u00fd\u00faI9\u00de\u00e0S\u00e3T?%6\u0083I\u0083?8\u04b7MG\u008c\u0090\u00b2\u00922\n\u00ea\u00b4m[)+\u00af4\u00cbkNV??_x\u00bb\u008er?\u00e8z\u00fb\u009dw\u00b1\u00b6\u00ff\u0086\u04a7g7)#?\u0468\u00ba\u008e\u00ede\u00f3\u00cd6\u0093??\u00faX\u00e6a9\u00ca2,K\u00caev7?\u00ee\\\u0096\u0094\u00abc\u00f2\u0094p) \u009e\u00b9\u00cch?\u00a2F\u00a4\u00f7\u00ef\u00db?\u00cbSV\u00ca?\u00ab\u00af\u00a1KW\u00d2V\u00cf?]\u00a5?o\"\u0398:\n3 H\u00eb\u00d2\n\u00a9\tYG\u008726\u0090D\u00a7 ]?\u00d5?w\u00d6@\u009f\u00b1gg* \u0503\\\u00ca\u00d9f?\u00ec 82\u0093\u00ce7?\u0468#L$eD?\u00ed\u00d8?0 C\u00c0?0 C\u00c0?\u00d8 \u00acX&r\u00f9\u00c5\"[\u00b7\u00a4elLN?y\u00b3\u00a0X:w\u00ee$={\u00f6\u0094\u00ee\u077bKaa\u00a1\u00e4\u00e5\u00e5\u00e9?\u00a8i?3aC\u00c0?0 C\u00c0?0 C\u00a0 <\u0087PO\u0091e Q?\u00b0\u00a4&x\u009e\u0099\u00f3\u00d7\u02e4?\u00cbeG-\u00c9%\u00d2W\u0099 W?\u02d4\u00eax&\u0088\u00b7,\u00a4?X\u0288\u00bfL\u00a9\u00ad\u00cd@Z\u00e4\u00de\u01e7\u00c9\u074fO\u0097\u00cd\u00d5\\\u009a?\u00d4`0)\u00efhB,P\u0089\u023bj|\u00b8gd\u009d\u00e7\u0099?9X?{5\u0613?\u00acF=\u00b5?\u00b0\n\u00fd8\u008c0\u00af\u008augdA?\u00d9v\u00e1g5v?|\u00b8Df\u00cd_?_?\u0089\u0088l\u0229?\u00d6?\u00f7\u00f3\u00f33\u00a5\u00a8?/V/h\u008b\u00fab\u00b2z\u00fdV?5\u00f1#Y_Y\u00a3>/\n\u00a9\tmGy\u00e1U\u00a6\u00b2W\u00f5\u04c0U\u5e07\u0089\u00c292\u00beG\u00a8`\u008e\u00f5\u009c?y\u00c6>q\u009e\u00a2W?=B\u00a9\u4d74a\u00c3&xn\u03c3wNE5?\u00b2\u009c\u05cb<\u00b2/L \u00dfc?4\u00ee?W\u00a3z5?Y\\?\u00de(?\u00dc+p!\u00f6\u00dec\u00c8;SFo\u00c5\u00dc\u00f6\u00ee\u00bb?b\u009f\u00ac\t\u0090\u00d7f\u00995g?\u00bc'\u0097a\u00ee.\u0088\u00fd\u009fZ\u00c08z\u008d4i\u00daX\u0096#\u00c4\u00e2?\u00e0j\"\u00f3\u00be+\u00ae\u00c0\u00f5?\u00eb;\u00b4\u00ff\u00ac\u00e45\u00a4'b\u00c3 \u00e5\u88cf\u00c1s\u00a0?\u00ee\u00fb?\u00falX\u00b3z\u009d\u008e?\u00e2\u00bag\u009a{6Fy\u00d5{I\u00ef!x?\u00c2?\u0085\u03d5\u0085xn\u00ec\u00e0J?\u00a4M\u00f0\u0080_\u00b4h1\u00bc\u00eaV\u0083\u0088\u00c7\u00f4<?tp\u00ee\u00e6XdX?\u00e5?y\u02acB\u0085r\ua475?\u009e\u00ad;\u00b8\u00a2?\u00e5\u009bq\u00df-\u0182?\u00ee=\u00c9?\u00d0\u04f3\u00dc~x\n\u0081\u00cc\u00c9\u00ff \u0093\u00ef'?*XU?\u00de\u00c4\u00e5\u00b00c\u0672\u00a5X\u00a4\u00b1F\u00ca\u00c1?\u00ba\\\u00d9\n\u00a9\tp\u00e8x\u00f0\u00a1G\u00e4\u0094SN\u00915\u00fa\u00f6\u0091\u00b6\u00cb,\u00a5\u009c\u0217\u0081W\uf7f4\u00ff?]A?\u00ea?\u00e9C\u009a80\u00eb\u00d5\u00d7^\u00c3\u00ee?cd\u00bd\u00f5\u00d7?\u00e9|\u0099\t\u0087\u00a2\u00ab\u00af\u00b9F\u00aeD?0b\u00c4Y\u00d2?\u037e\u0282u\u01e0\u00fd\u008e\u00f3T\u0090\u00e58\\A\u00cc?yJ?~\u009c,\u00861\u00ee\u00bcc\u00e5\u00edx;\u0091\u0673\u00e7\u00c8?\u00b8'7\u00d9dS\u00e9\u00d2i?\u00b3\u0093\u04b0\u009f\u0098\u008bve}[U\u009e \u00a5\u0092A\u00c1?\u00ac \u00a0\u00b3\u00bf\u00f7~\u00c5\u06ea\u00f3u?O\u00eb\u0095u?3 \u0099E\u00dcb\u00aa@\u00afF?$F!?O+oO?\u009c\u00fd\u00ec \u00aaN\u0098?m8(\u0093\u009f\u00a3\u00e6\u00d6TXP0\u00e2RP\u00a14a4?\u00d5\u00e7M d\u00bb\u00d5\u00c0K\u008cdP\u02c2=\u00d8\u00ffxS\u00cevD\n\u00a9 6\u00cd5Ec\u00bevqy\u009a\u0094\u00dac\u008e\u0080#\u00e0?8?\u008e\u0080#\u00e0?8?\u008e\u00c0?\u008b\u00c0Ac\u00e0\u00c4\u00c1(\u00b7?\u00c1\u0087K\u00b2\u00fe 'a\u00d1\u00e6M?\u00f4p\u00b1\u00bd?\u00deI\u00f8\u00d5\u017a\u00f5\u00eb\u00e0\u00b6y\u00b6z?\u00e9T\u0085m\u00e60?\u00e9\u066b\u00b7L\u0083\u00f7\u0093\t\u00e3G\u0268\u0091\u00d5\u00f28\u00bc\u009f\u00acxs\u00a5 \u00d8 7;d\u00d1\u00e2Er\u00f69\u00e7b,?F?\u00c1?J0\u0096zx\u00eacj\u00cc4 \u0099\u00c8?\u0728ar\u02ed\u00b7\u00c0\u00fb\u00c9d9\u00a4o?,>u\u00c66$+\u00d5+\u00cabla\u00a5\u0086D\u0409\u00e3!\u00f2\u00a1G\u0094?\u00e0\u00fd\u0084u\u009fy?\u00deO\u018c\u0097\u00e3\u00b0?:G8\u0093?;Tn\u00f9\u036fa?\u00f5\u009a\u008c\u009f8\tye\u00d2 a\u0097\u00bc\u00fbB \u00a3\u00ad?,\u0090\u0091V5\u00e8\u0087GN\u00a4\u0094\u00a3\u00ed\u00fa\u0087\u00f8?,\u00905\u00a0\u009d\u00fc\n\u00a9\tW\u0086.3\u00e6?jt?}5f\u00c8?\u0099X\u00e2+?\u00d1i\u008e\u00b4\u00c4~\u00af\u0083?v?05i\u00daX\u00be\u00fe\u00f6?\u00b2gw\u009a\u031d\u00f7\u00bb4l\u00dcP!i\u0420\u0081\u00f4?0@z?#\u00e67\u00c32o\u00a8\u00a0\u00d8R?#)%\u00828\u0096\u0085(\u0084\u00c9)I\u0088\u00eeTS\u0096-[ Sm)_\u00be?\u00964\u00ab\u0087e\u00d1\u00e6(9i\u00f5\u00aaU\u00b2gO\u009ap\u00999=7\u0080=1?\u00e7 \u00ab$F\u00af\u00e1rpt\n\u00a9\tM\u009b4[m\u00beqx\u00ee\u0085?\u00c3 =?&HQ\u00a7Y\u00f3\u0096a\u0089\u00c5{\u0087\u00d5VZ>4\u00ac\u00912\u0090?x\u0096\u00e8\u00dd[J<S\u00c3 >?\u00a6M\u0099,\u0085\u00a3\u00a6a\u0083\u00b5\u00d6 ZP\u00f3\u00d8R?\u0092RPC?\u0084j\u00e2?9G\u00d9\u00d9.a)Q\u00d5(\u00ae\u00c6?\u00d8PV\u00f2\u00c9\u00c7?\u00e6grs\u00a6\u04b1\u00a4\u0084\u00d2UC\u00f1?\u00fc\u008c,?\u008d?\u00a1S\u00c0\u008e\u00c4[u\u00e5?\u00c23\u00cf>?\u00fe\u00f6\u00b7;B\u0097\u0085\u00ba\u0084\u0095\u0097Y&\u00bc\u00fd\u00f6\u00db$\u009bk\u00a0<\u00e0\u0098\u00a6pCmUnP\u0083-*\u008e\u00b1?:\u00ce\u00ceN\u009fS?\u0093\u00ecRsRx\u00d5UV >?\u00dez\u00fd\u00e5\u00b0\u00ef\u00be\u00fb\u0086?:\u0086\u00ae!+\\\u00fag\u00adb\u0083\u00f5\u00d7?\u0083\u009ex\"\u00dcu\uffcc\u0087\u05ad\u00e6\t\ubb7dnh\u00d6TJL\u00b1\u00da\u00eak\u0085\u00ff\u00fe\u00ef\u0085\u00f0\u00e8\u00c0'\u008ciSB\u009fE }?\u986cB\u0090\u00953r\u0096~\u0093?\u0092?\u0092?\u0092?\u0092?jK nj\u0096\u00e6R\u00c3@ ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Reviewer QRG (1).docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547058",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "854c9ac161ed5697ce071f2a559b4388789c38e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9cec1a87aeb672d3be3761d55be7357eede2e2f001041751ebdf6f56e744ca52"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8cdd4520ef6b2a12c77ef6ace26302c7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/2022-02-17_10-58-53.jpg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547059",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0278a127574dbfc13bb2a759660b79a4ee5d638b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d54a5d7a45ac00d0dfef7e019612bb2a4b64f6436d0588966cab17f926690890"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1880d27e25cae76b25252f7b2612d94f"
+                }
+            ],
+            "copyrightText": " \u00a9 C\u00cbL[55\u02c5K\u0083#?\u00c0\u00cc\u00ab+\u0094\u00a8\u0096 \u0091?\u00cc\u0628\u008fB\u0083\u008c\u00fb>F\u00eb?\u009bi_\u00a9\\%cV\u00dc?\u00c4\u00f0\u00c1?\u0088?\u008f\u0091\u0089C\u00c5?\u00de\u00f5_ \u00e8z?\u008e!\\\u00e7I\u00df?X\u00a1 \u00f8f*\u00f8h?\u00bdk\u008e-]\u00fc\u0517\u01b8;\u00f1\u00ceK\u00d7?h\u00a0I\u0098?4\u00a9?5 \u00811\u00ed\u00c7?E\u00e2e\u00b1\u00d95 v\u0095l.\u00a4\u00d2?('\u0632\u00f2\u00b3?{FY~c\u00a49\u00e6\u00c5 \u00b9z\u00ad_ \u047cZ\u00aa\u00d3X\u00ee6\u0081l3\u009a%_Nk\u00e2\u00e3\u00ca\u00e7\u00e3\u008b\u00f2Q|\u0081f\u00bc\u00a6\u00b0~\u00bb\u0088\u00bas\u00fe[\u008dY5n;\u00fb\u00af:\u00a6X?9+h*.\u0267\na\u06f5 \u00bbM\u0080\u00e7i\u00a6\u00a0\u00a6\u00e2\u00f1)Iu\u00a2?\u0085\u00f1\u009e>gw\u00df@j(X\u00ab\u00c4B\u00ea\u00e4\u00aa)\u00d6\\q\u00e7\u0091(R\u0089eW\u00e6yT?\u00b0\u00b4\u00be Ow\u00eb\u00ddU\u03bfgs\u00d2`\u00be_j6T?\u00caaz?j\u0095\u0082\u00ec\u00cc?;\n\u00a9 \u00a1;a\"\u00c3X?x\u00f8\u00dfc\u00a3]\u00e12\u00d6\u00f6\u00a6B{;k@\u00bd?\u00ab?\u00a5\u00e8\\3\u00a1<\u00d6,,\u00f4\u0082n\u00b3\u00a3u,\u00c0\u00a0l\u00f3-k?\u00e4?\u00b6\u009b\u00c3\u00f4\u078aU?qT\u00bbi\u00e6\u0781D#\u00f7>\u0087\u0091+?\u00c7\u00c2?\u00ca<N\u00f8\u0096?\u00a2 \u00ac4\u00a1\u00c4W\u008a\u0085I\u00ec?\u00d02\u00ff35\u00ddp\u0096F\u00afII\u00b8'\u0098~\u078f N\u00af\u00a0;B\u00f2D\u008ee\u00b6hC\u00def?\u00b9\u00b2\u00d4\u00e6\u01fa\u00b0??\u009a\u009aE\u00ad\u00c7\u00de?\u00c6n\u00df?J\u00ed\u0304\u009c\u00bd\u0098?\u0099pN\u008f6\u0088,\u00c9.?>\u00ef?\u00f2\u00e2\u00a6?CC\u00a1?}\u00b0 S\u0090\u00ae\u00bf\u00a4?\u00e3W?+\u00ba2$?\u00d0c?\u0085\u00cc?\u00aa\u00bcNw?]K?t\u034ew\u00b6\u008eO\u0082\u00ef;o\u0099!\u0080\u0487\u00d7{\ued7f\u00bb,_W?K\u00c8?\u00e6\u00a8M\u00baQi\u00a7}\u00b9\n\u00a9\tXRH\u00ed\u00d3hz\u0775\u0096?\u00fad\u00bcs\u00fb8s\u00e5O}\u009f\u008b\ud9be\udc55 \u00d7R\u00e4\u00ba?\u00b6?\u0092@\u00e1t\u00af\u00912?\u00f8?\u00bf?~\u00bcY\u0081\u00f8?\u00a1 \u00e5?\u0095V\u00d2CITY\u00ec?\u00b6\u0098z\u00d9\u00e3B\u0093\u009dt|\u00a0\u00a9\u0085\u009b\u00f7\u00eeUk\u00b7?\u00a2\u00b4\u008b?#Gs+ \u00b3-S\"C\u00d3?RH}t\u00f2E~N\u00e5\u0143$\u00d5!\u00ef.\u0099\u008d\u00c8W\u00adpY\u00da?\u00a5\u0216G\u00e9?\u0080b\u009e~\u00ab6.W?\u00e8<\u0545\u00c6\u00e8\u00a9T!\u00bds\u00c3?~1E\u00b4jo\u00ac\u00bez\u00fd\u00e9C\u0093\u00d7T]\u00b6\u0096\u00a6 \u00e9W_TJ.\u0093\u017a\u00df\u00e7\u00e3\u00b7?\u547d\u00e1\u0097\u00f7Mo\u00dd\u00c2?hp&E\u00c6\u00ef-\u00e6\\?\u00c2\u0239\u00c6q\u00e6S\u0089\u00ba?3(\u00b6p\u00b1\n\u0099?@\u0088\u00ff\u00ae\u00fd?Y\u0095v\u00ce\u00e3\u00da\u00fb\u00c4`??\u008a\u009c\u0500\u00b7\u00b1+\u008e?+o\u00fe\u00ae\u00ad~\u00da\u00ef\u07dc$\u00ad\u00aal)\t\u00f9X\u00f6\u0270\u00928\u00fba\u00f4c\u00c4$?Z\u0081\u00d3{\u0090[\u00f6?\u00f7&\n\u00a9 M\u0085\u00b40Pq\u00be\u00c4j\u0094e04\u008bz?\u00cb\u00ce\" D|Z\u00b5\u00d5?}\u009d\u00b8\u0096\u00c0\u0083I\u00f6\u009f?\u00b5\u00f1?OY\u00f5\u0094\u00f2\u00824?@y]A2\u00f9?\u0093I\u00b0\u009f\u0087\u009cd\u00e7l?\u0098kIsDB\u00d5p\u00d0\u0302 \u00c6:V\u00fe\u0080\u00f6\u00d8H\u009aj\u00fa\u00f6{\u00c5Q\u00aa?\u00d5?Me\u0092*`XQrU|sr?\u0099/\u00b4\u0082\u00e8\u00a4wj`\u00fdgi_\u00b1zF\u00a3I'.\u00f8\u00d6\u00e8\u008eV\u00cbQ\u00e9\u00b8c9j\u00b2\u00dd0?aGo6?\u00fa\u00baP\u00c0e\u00f7^\u050c\u0085\u00b6\u00f2\u00af5\u008bD\u00f9\u00d1 5\u00c0?\u00f3/SX5\u00benr\u00b8=?\u00c9jL\u00fa?\u008d~\u00e2\u00d3?\u00c1{?6\u0231?[4\u00ff1\u00f1\u00f2\u00ae,\u00ec9\u0080\u00925\u009bQ0R]\u00ec?%O69FC\u0639\u00fb\u00a3\u00aa\u008b\u00b7?\u00ef\u00cf\u00fbdL\u0097?\u0160f\u00f1\u00b2o?\u00b7\u00b8\u00b0\u00f8\u00b3\u070e\u00c6\t(\u00ff\u00d9\u00c5?\u00fam?}\u07b2#\u00a4\u009b5|\u00d1\u00f1\u00ec!\u00c0?ij\u00b8\u06f5??\u0528>\u00c9\u00d2Fa\u008b\n\u00a9\to\u0091rK?P?W \u008f\u00b6. \u0697}0m(\u00ab\u00e4\u00e4\u00dd?H-\u00f9\u00e1V=\u00cc\u00fc\u00d3\u00fb/S\u00cdQ\u008e\u009d0{ i\u00e3\u4bebjB\u00b0W?\u008a\u00b8\u009c?\u00b5i@\u00eav\u00f0\u00cc\u00eb?\u00ce \u00d4\u00ec$Rg Jj^CY8\u00969 3\u00b9\u009b\u00bc\u00d2y?\u00f6\\c\u00eb\u00e9\u00a6h\u009f\u00f2\u0575\u008d\u00dd\u00f5\u00b5Y19'`7a\u0091\u00e7\u00f0\"\u00e1J\u00d2\u00ea \u00c2\u00d6\u00c8\u010cQ\u00bc95o<\u00faq&?z?R\n3$\u00a2H\u009a?\u00b5i\u009f$\u00d5\u00d1P\u00aaNMA?\u0099*L\u00a3SaQ?5# Z\u008dy?i-\u00f2vE\u00d5E\u00d9I\u0089?=u\u00d4]\u00bdhI\u0081?\u0093-\u00c0#\u00d1?\u00ba\u00c3X?\u00d68!\n\u00a9\t1?t\u020d35x\u00bb\u00c2\u00fag\u00c16?\u00e0sA\u00f4??\u00e3x?k\u00cfY\u00c3\u00d6\u00ef9?\u00c7{\u0579\u008bO}9\u0086\u008c}\u008d\u00bd\u00e8a\u00d7\u00e1]\u00b30\u00bf9\u00ad\u00a8?\u058c?\u0099\u0083\u00d0M^\u00fc{\u00dd\u00ea\u022de\u0082BL)ze$\u0092EW?\u00ac]T#\u009e\u00ab\u00d5sy\u00ad?eQA&\u0430IA\u00e3g#?yX%U\u00a1\u0099\u00c0S6\u00daj\u0095\u00ab\u00aa\u00c4\u00ec$uU\u008d\u00c7Mu?\u0092N\u009c\u00ba\u00b9\u06d9\u00f8x\u00d7\u00d93\u00b7\u009f\u00a9\u0096?\u0089?\u00cb\u00f0YTkX\u00fd\u0099\u0093\u00d9\u00c4C \u00b2\u00fa\u02abY\u00ed\u0088Ph?\u00ba\u00dd)pS\u00b9\u008f.\u00d7~a\u0096e\u00be&}=\u0084C\u00a6.?\u00c6&_\u00e0\u00d0\u00c5pX\u00c7~\u00bb\u00bd\u00a3\u00a2[\u009c\u00e0\u00fa\u00c7! \u0094\u00fd\u00ca?A\u0084\u00b0\u00c0*)(?w\u00ad]\u00dd\u0111 U( \u00ba?\u0092D\u008b?j\u008cI\u008e[\u00ba.=\u00b82?\u00e7?\u0088\u00ed?\u00e0\u008c\u00fa?8\u008dz- \u00efQL\u01e081?*\u00e9\u0098\u00d5j\u00a8\u00c7\u00e3\u00b3[\u00c99\u00ee\u00dc>\u00f3\u00ec?\n\u00a9\twwrT?K\u00bb\u0092D*\u00aa\u00a8?),\u0088+Pch%N?\u00f4\u00fc\u00b9,:9N\u009c\u00a2R\u008a?\u00a8?\u00eew\u00ceF\u00b1`P&`\u00b1?^f\u00ab\u00fb?\u00c3?C?c-\u00c8\u00ec<q\u00e5\u009c=\u00ab(\u008cr -!\u00c8ER\u00f1\u0493\u00d3?\u00e1?7G6\u00b7\u00f8\u00d3M\u00be\u00bb\u0083\u00ac\u00a4\u00a7\u00bb\u009e?y\u00a2?\u00a0'\u00e4\n\u00a9\ty\u00a9Z)5\u00caxc\u0081K\u0081v\u00f4\u00ec+F?N^\u009f\u00c9\u00d0+?\u00e9*~\u00dc?H\u00ea\u00fe\u00aa\u00e7\u00e9\\?\u00ec\tH\u00dd)f\u008auI \u00d0/\u00c2\u00ef\n\u0097\u0090?\u0081\u008f\u0083\u00bd\u00ff\u01f5+!\u0090 ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/1960s (1).mp4",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547060",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ccb9e68db9c012f3fddfff89a2c40bebc6d58fca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9df75b32f349d897e636a01152f89114a2385a89128b2c20907b849e63bef232"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "abb73f43005f6fca9a0535d7530eb1fd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Updated Change Request Subject0.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547061",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0278a127574dbfc13bb2a759660b79a4ee5d638b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d54a5d7a45ac00d0dfef7e019612bb2a4b64f6436d0588966cab17f926690890"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1880d27e25cae76b25252f7b2612d94f"
+                }
+            ],
+            "copyrightText": " \u00a9 C\u00cbL[55\u02c5K\u0083#?\u00c0\u00cc\u00ab+\u0094\u00a8\u0096 \u0091?\u00cc\u0628\u008fB\u0083\u008c\u00fb>F\u00eb?\u009bi_\u00a9\\%cV\u00dc?\u00c4\u00f0\u00c1?\u0088?\u008f\u0091\u0089C\u00c5?\u00de\u00f5_ \u00e8z?\u008e!\\\u00e7I\u00df?X\u00a1 \u00f8f*\u00f8h?\u00bdk\u008e-]\u00fc\u0517\u01b8;\u00f1\u00ceK\u00d7?h\u00a0I\u0098?4\u00a9?5 \u00811\u00ed\u00c7?E\u00e2e\u00b1\u00d95 v\u0095l.\u00a4\u00d2?('\u0632\u00f2\u00b3?{FY~c\u00a49\u00e6\u00c5 \u00b9z\u00ad_ \u047cZ\u00aa\u00d3X\u00ee6\u0081l3\u009a%_Nk\u00e2\u00e3\u00ca\u00e7\u00e3\u008b\u00f2Q|\u0081f\u00bc\u00a6\u00b0~\u00bb\u0088\u00bas\u00fe[\u008dY5n;\u00fb\u00af:\u00a6X?9+h*.\u0267\na\u06f5 \u00bbM\u0080\u00e7i\u00a6\u00a0\u00a6\u00e2\u00f1)Iu\u00a2?\u0085\u00f1\u009e>gw\u00df@j(X\u00ab\u00c4B\u00ea\u00e4\u00aa)\u00d6\\q\u00e7\u0091(R\u0089eW\u00e6yT?\u00b0\u00b4\u00be Ow\u00eb\u00ddU\u03bfgs\u00d2`\u00be_j6T?\u00caaz?j\u0095\u0082\u00ec\u00cc?;\n\u00a9 \u00a1;a\"\u00c3X?x\u00f8\u00dfc\u00a3]\u00e12\u00d6\u00f6\u00a6B{;k@\u00bd?\u00ab?\u00a5\u00e8\\3\u00a1<\u00d6,,\u00f4\u0082n\u00b3\u00a3u,\u00c0\u00a0l\u00f3-k?\u00e4?\u00b6\u009b\u00c3\u00f4\u078aU?qT\u00bbi\u00e6\u0781D#\u00f7>\u0087\u0091+?\u00c7\u00c2?\u00ca<N\u00f8\u0096?\u00a2 \u00ac4\u00a1\u00c4W\u008a\u0085I\u00ec?\u00d02\u00ff35\u00ddp\u0096F\u00afII\u00b8'\u0098~\u078f N\u00af\u00a0;B\u00f2D\u008ee\u00b6hC\u00def?\u00b9\u00b2\u00d4\u00e6\u01fa\u00b0??\u009a\u009aE\u00ad\u00c7\u00de?\u00c6n\u00df?J\u00ed\u0304\u009c\u00bd\u0098?\u0099pN\u008f6\u0088,\u00c9.?>\u00ef?\u00f2\u00e2\u00a6?CC\u00a1?}\u00b0 S\u0090\u00ae\u00bf\u00a4?\u00e3W?+\u00ba2$?\u00d0c?\u0085\u00cc?\u00aa\u00bcNw?]K?t\u034ew\u00b6\u008eO\u0082\u00ef;o\u0099!\u0080\u0487\u00d7{\ued7f\u00bb,_W?K\u00c8?\u00e6\u00a8M\u00baQi\u00a7}\u00b9\n\u00a9\tXRH\u00ed\u00d3hz\u0775\u0096?\u00fad\u00bcs\u00fb8s\u00e5O}\u009f\u008b\ud9be\udc55 \u00d7R\u00e4\u00ba?\u00b6?\u0092@\u00e1t\u00af\u00912?\u00f8?\u00bf?~\u00bcY\u0081\u00f8?\u00a1 \u00e5?\u0095V\u00d2CITY\u00ec?\u00b6\u0098z\u00d9\u00e3B\u0093\u009dt|\u00a0\u00a9\u0085\u009b\u00f7\u00eeUk\u00b7?\u00a2\u00b4\u008b?#Gs+ \u00b3-S\"C\u00d3?RH}t\u00f2E~N\u00e5\u0143$\u00d5!\u00ef.\u0099\u008d\u00c8W\u00adpY\u00da?\u00a5\u0216G\u00e9?\u0080b\u009e~\u00ab6.W?\u00e8<\u0545\u00c6\u00e8\u00a9T!\u00bds\u00c3?~1E\u00b4jo\u00ac\u00bez\u00fd\u00e9C\u0093\u00d7T]\u00b6\u0096\u00a6 \u00e9W_TJ.\u0093\u017a\u00df\u00e7\u00e3\u00b7?\u547d\u00e1\u0097\u00f7Mo\u00dd\u00c2?hp&E\u00c6\u00ef-\u00e6\\?\u00c2\u0239\u00c6q\u00e6S\u0089\u00ba?3(\u00b6p\u00b1\n\u0099?@\u0088\u00ff\u00ae\u00fd?Y\u0095v\u00ce\u00e3\u00da\u00fb\u00c4`??\u008a\u009c\u0500\u00b7\u00b1+\u008e?+o\u00fe\u00ae\u00ad~\u00da\u00ef\u07dc$\u00ad\u00aal)\t\u00f9X\u00f6\u0270\u00928\u00fba\u00f4c\u00c4$?Z\u0081\u00d3{\u0090[\u00f6?\u00f7&\n\u00a9 M\u0085\u00b40Pq\u00be\u00c4j\u0094e04\u008bz?\u00cb\u00ce\" D|Z\u00b5\u00d5?}\u009d\u00b8\u0096\u00c0\u0083I\u00f6\u009f?\u00b5\u00f1?OY\u00f5\u0094\u00f2\u00824?@y]A2\u00f9?\u0093I\u00b0\u009f\u0087\u009cd\u00e7l?\u0098kIsDB\u00d5p\u00d0\u0302 \u00c6:V\u00fe\u0080\u00f6\u00d8H\u009aj\u00fa\u00f6{\u00c5Q\u00aa?\u00d5?Me\u0092*`XQrU|sr?\u0099/\u00b4\u0082\u00e8\u00a4wj`\u00fdgi_\u00b1zF\u00a3I'.\u00f8\u00d6\u00e8\u008eV\u00cbQ\u00e9\u00b8c9j\u00b2\u00dd0?aGo6?\u00fa\u00baP\u00c0e\u00f7^\u050c\u0085\u00b6\u00f2\u00af5\u008bD\u00f9\u00d1 5\u00c0?\u00f3/SX5\u00benr\u00b8=?\u00c9jL\u00fa?\u008d~\u00e2\u00d3?\u00c1{?6\u0231?[4\u00ff1\u00f1\u00f2\u00ae,\u00ec9\u0080\u00925\u009bQ0R]\u00ec?%O69FC\u0639\u00fb\u00a3\u00aa\u008b\u00b7?\u00ef\u00cf\u00fbdL\u0097?\u0160f\u00f1\u00b2o?\u00b7\u00b8\u00b0\u00f8\u00b3\u070e\u00c6\t(\u00ff\u00d9\u00c5?\u00fam?}\u07b2#\u00a4\u009b5|\u00d1\u00f1\u00ec!\u00c0?ij\u00b8\u06f5??\u0528>\u00c9\u00d2Fa\u008b\n\u00a9\to\u0091rK?P?W \u008f\u00b6. \u0697}0m(\u00ab\u00e4\u00e4\u00dd?H-\u00f9\u00e1V=\u00cc\u00fc\u00d3\u00fb/S\u00cdQ\u008e\u009d0{ i\u00e3\u4bebjB\u00b0W?\u008a\u00b8\u009c?\u00b5i@\u00eav\u00f0\u00cc\u00eb?\u00ce \u00d4\u00ec$Rg Jj^CY8\u00969 3\u00b9\u009b\u00bc\u00d2y?\u00f6\\c\u00eb\u00e9\u00a6h\u009f\u00f2\u0575\u008d\u00dd\u00f5\u00b5Y19'`7a\u0091\u00e7\u00f0\"\u00e1J\u00d2\u00ea \u00c2\u00d6\u00c8\u010cQ\u00bc95o<\u00faq&?z?R\n3$\u00a2H\u009a?\u00b5i\u009f$\u00d5\u00d1P\u00aaNMA?\u0099*L\u00a3SaQ?5# Z\u008dy?i-\u00f2vE\u00d5E\u00d9I\u0089?=u\u00d4]\u00bdhI\u0081?\u0093-\u00c0#\u00d1?\u00ba\u00c3X?\u00d68!\n\u00a9\t1?t\u020d35x\u00bb\u00c2\u00fag\u00c16?\u00e0sA\u00f4??\u00e3x?k\u00cfY\u00c3\u00d6\u00ef9?\u00c7{\u0579\u008bO}9\u0086\u008c}\u008d\u00bd\u00e8a\u00d7\u00e1]\u00b30\u00bf9\u00ad\u00a8?\u058c?\u0099\u0083\u00d0M^\u00fc{\u00dd\u00ea\u022de\u0082BL)ze$\u0092EW?\u00ac]T#\u009e\u00ab\u00d5sy\u00ad?eQA&\u0430IA\u00e3g#?yX%U\u00a1\u0099\u00c0S6\u00daj\u0095\u00ab\u00aa\u00c4\u00ec$uU\u008d\u00c7Mu?\u0092N\u009c\u00ba\u00b9\u06d9\u00f8x\u00d7\u00d93\u00b7\u009f\u00a9\u0096?\u0089?\u00cb\u00f0YTkX\u00fd\u0099\u0093\u00d9\u00c4C \u00b2\u00fa\u02abY\u00ed\u0088Ph?\u00ba\u00dd)pS\u00b9\u008f.\u00d7~a\u0096e\u00be&}=\u0084C\u00a6.?\u00c6&_\u00e0\u00d0\u00c5pX\u00c7~\u00bb\u00bd\u00a3\u00a2[\u009c\u00e0\u00fa\u00c7! \u0094\u00fd\u00ca?A\u0084\u00b0\u00c0*)(?w\u00ad]\u00dd\u0111 U( \u00ba?\u0092D\u008b?j\u008cI\u008e[\u00ba.=\u00b82?\u00e7?\u0088\u00ed?\u00e0\u008c\u00fa?8\u008dz- \u00efQL\u01e081?*\u00e9\u0098\u00d5j\u00a8\u00c7\u00e3\u00b3[\u00c99\u00ee\u00dc>\u00f3\u00ec?\n\u00a9\twwrT?K\u00bb\u0092D*\u00aa\u00a8?),\u0088+Pch%N?\u00f4\u00fc\u00b9,:9N\u009c\u00a2R\u008a?\u00a8?\u00eew\u00ceF\u00b1`P&`\u00b1?^f\u00ab\u00fb?\u00c3?C?c-\u00c8\u00ec<q\u00e5\u009c=\u00ab(\u008cr -!\u00c8ER\u00f1\u0493\u00d3?\u00e1?7G6\u00b7\u00f8\u00d3M\u00be\u00bb\u0083\u00ac\u00a4\u00a7\u00bb\u009e?y\u00a2?\u00a0'\u00e4\n\u00a9\ty\u00a9Z)5\u00caxc\u0081K\u0081v\u00f4\u00ec+F?N^\u009f\u00c9\u00d0+?\u00e9*~\u00dc?H\u00ea\u00fe\u00aa\u00e7\u00e9\\?\u00ec\tH\u00dd)f\u008auI \u00d0/\u00c2\u00ef\n\u0097\u0090?\u0081\u008f\u0083\u00bd\u00ff\u01f5+!\u0090 ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/1960s.mp4",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547062",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ede39b0cdfa6a32d9113f0fd49ac8f3401dd6135"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "374e8781574547f968d7acb9494dc7f6fbb90decc7e9bf2bd82db687c917dc7f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "127f29f4e4777ebbca555b846e7b80e4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/.gitbook/assets/Mainframe modernization (1).PNG",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547064",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cb33a47f1a7fdc99f1f7fe7fbf8e3d10d0c943da"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3acd1a86c54923a328832e6462d03eb0322fe33d4aa24117bdde9cb462e0b61"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "06345c14c3823ffcbca46ff2c6cb42e3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/mainframe-evolution.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547065",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b3325c8e91f315c88aba7a40e1b7f744db26d461"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d241180ef6860fc7ae175e04220ba597a1a9429fc667b89a0f22e853cc8be40f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fb4b34d1445eefe92edaedfc0752202f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/mainframe-versus-server-farms.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547066",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "db3da0be6293b1ce253ddada7a5d63fc36789e28"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "65e0694dce7450d78b4f39f3d5bb0bec43f5d5f8f2ae046e5dd7650e24924684"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be7df94493fda0fc16198fbc91a79bcf"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/how-the-mainframe-works.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547067",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1003d6be1a4ca4d206bea823ed12037543a49b87"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "876105cfc1e910352cb17ea572eef267d5788f14e9c67d4565a6ed048e3caacd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "11a810c7971864063d4a3f21f443bd89"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/mainframe-security-myths.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547068",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "957688607dd1cc3b4a7f460b472ef909acbab2fc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0bdbd461f1f68bfd53ecdc9727e7282c1972643d71b7e89fbec9499efa4593a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1465d17b3e2904db999bb69ca738ef2a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/get-ready-talk-like-a-mainframer.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547069",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af6d9a6db4e14bf06f4c406eb0ce0fd2e64d4ebb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a4dd3fb3b777bfeabf3555af1a943b6e4b47a266fcddcada14d5526443e723fe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7158bb53147f317619d30e46ee83334a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/looking-back-the-first-50-years-of-mainframe.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547070",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0146b5973b81b547d6743866d12298c40537e1bc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "015baa0f5d8331696ae0844a18039e26c2509c04d118a84f8f51dc0079ad14fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5934f86a81cfced4c1a4f1d284c88739"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/mainframe-basic-architecture-and-components.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547071",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "02a3f97c5f4341fa43ef1bcba05c4ca763fd34c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f729c9151c677d48a6656e6f6a7a838b60ac80b3c717eaca973efd6a8f8c22e6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "712b477ccd4cd5764df2b0258090a318"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547072",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e89ca0e9620d5d0f8dab9953b053ec7891a577f1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fe1f04e1b1a88acc9af7c1127ddab9a588ba2fbe4c1c77d54774eb6a3d402ddc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e5e9df624efb920bb42f0385647e2cfa"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/who-uses-the-mainframe-and-why.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547074",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63b91603bb0193e0a82aabc9f40d6e8f01cf57a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bf082544584de16c1d433981e510ded2405a7c48576b67f435a0fe9d4700720b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "542d368ad3974f5b4f958e2045f8a184"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/role-of-the-mainframe-today/enterprise-computing.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547075",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2099bfdc14e2666acf962ccc48abbe08facb4b51"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "414c49ef8672afee7f0cf7ba05f6daeb2c1dba0a83f8b5df88400105b4e1e0e4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "96592f322a629589279e7a63e8b33f2d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/role-of-the-mainframe-today/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547076",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5498589d11595c07af1ca1fb0bb0d3bfd5a18980"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b8385b0140bbd822e8f5b05f31319730944aaf77319c12e9f857dc1505b84070"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "590a390c8285e23565bfa917bf53f38e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/what-is-a-mainframe-today/role-of-the-mainframe-today/hybrid-cloud.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547077",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "32412a7bed0651b5a9f7996a1294447ccfa6c1c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "36893a7e87a3efbcbe3a068484005603f06235f094763699ad0a5921d689d321"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0a620d04d55a2937fbce20d18d3f8014"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/reviewer-list.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547079",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c7b506d8bea5553fe1f863f854a8000f7b68b618"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3060a5aa24273a43835ac5db819ba1125999540ecbbde9d68c15083c7500999a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "abdf2e5ad84fff1ea8def9fe6c65a1f6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/moe-management-system.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547080",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "33bb3a84ba59260feb80e45728f14ea1ed8ce50b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ff992d561cc26672fe9f4d2efecddb7dc042f7380a052a591770126ba565219e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cba1f3a45b3c5663ebe28e9f16c5d9f8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/moe-events.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547082",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "772d5765adbcec56866fa2652495b15771aae250"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5da13c460a200da83b45e5f37eb6ada275308831ba04e769f3c2a479046f8245"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c46691cf4d7d34b5f2f761c9199a7d33"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/code-of-conduct.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547083",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "674b23aa6a8c521d73964e52973854bed588760d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "05344f6a38e69b75448879a6743543e8cac7565191d688654dfff251613f4cbe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4530785bbf820fb75c79264e47a62cb0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/project-governance.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547084",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d7094f065a0e576eed0110f80f8fd38cda564c6a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "065636e0673e173258c8fc020114dc7147250f927eb53372e9db21e7a624baad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4022a7e419350b7d5c635e7f4beedc25"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/what-personas-can-contribute.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547085",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d587c7a49c9b2aa98550483671ab0a40a051b779"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7ed5974acca8de277c1447ebc7d43ecc12b9dc896f11291d658e1d8b86855e6e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d80bd35d6bf1ce0f79ed9e001072602a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/learn-or-contribute-to-moe/project-support.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547086",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a9424b4abebdbe6771990780d3e7c62dc305854e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3731fd2774116ccc82adb5fb65c674edabe80aa965d321322e30d21b9afce567"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ee1ca8dfdd8a7d76642af4d82d264601"
+                }
+            ],
+            "copyrightText": " copyright-and-license.md) Code of Conduct](learn-or-contribute-to-moe/code-of-conduct.md) Project Governance](learn-or-contribute-to-moe/project-governance.md) Why MOE](welcome-learn-and-contribute-to-moe/why-moe.md) Reviewer List](reviewer-list.md) What is a Mainframe Today?](w ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/SUMMARY.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547087",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ef3bdadf3bded3792b02c01a1bec3e104d9c0a2c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b30f1963a285c3dda1eb0d1f0be9c4ce8d29b9ae5391131454999f712b1b944e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "858c91cd58861432e4b71ca58bbe6ff1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547089",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f5d7c898913a5b422f1d69f5198306c809fef82e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "377764fa779814a4586842320bde8a6091c71664f6a952ca7aa332f92ab57249"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "101ea39ee9f96263d13ffe6afd7463f6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/career-path-opportunities/job-opportunities.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547090",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e21bf4631566e6de82fe5fd2a3eb346377eb478"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8dffc56f5920ea92f92a13a634068f6ef9e0c5568e23bce33f54b8a56a9d7b97"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e40026017b2b53c4f82f7ae60fc5c5c0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/career-path-opportunities/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547091",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "624e21349afbb7705fbc222a648db6106ae4093d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a1bdeeaea46c3ed8ebc2a095ca4a5e72d8b0ee969fc49aaf7b0d7bad81c9b48f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "72bd5d16883b410c6e8731fb2eda8ebd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/career-path-opportunities/career-event-calendar.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547092",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e8cc322f1c294f75808e09b31672bb2694a7a7f3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "03b372358bb3dfd80106357659eb92599b48f64b259c56c99375d4920c3b5627"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5889a651df9d20581f6af0bca2a33679"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/career-path-opportunities/open-to-hire.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547093",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ebd11c81f6cbace7bcb1137a2bef1009fa2dd178"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "434aa4ec379d52146936ea091b638a7fad1445032085c7d11a6003041611de2b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "769a8516813968c8bb2acc01aa0ac257"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/career-path-opportunities/learning-programs.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547095",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8cbcbb88d1f50cd97f77d0d9e6544c31d02824b2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "89ad59f1e779fa544d58f69481198395afd43b680dbc507d91fc9bfc21fd5973"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4a2e7a2d33ab719a66854b4fed6af189"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/video-system-overview.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547096",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af134f0d54998cc134b2328d6061fe6f0211e61a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "35ff7666a401d3de8f9590ac26bbf0ae892b2b485c760e123566e6424c001103"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "73ebbb573fd0eb4e2bdbfba1c1b54982"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/video-mvs-using-dynamic-allocations.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547097",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1ab67cf1bfbd6bcf3106796d34519ac865ec36c5"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b310402bf539d11e0a913c90edb142ca17c17681bd4303e0a23e98ec513d1d01"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dfcc810aba9d3caf77e29dfd29522084"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/article-todays-business-systems-run-on-cobol.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547098",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a21d0162a286e135f7767a001c59a2f8030653f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "036719403d599839c61ad14129d86acc791fba558c44f59b1dad484505310aca"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ee14e64971c8c8afac26731735264e1c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/article-red-hat-openshift-4.7-on-ibm-z-is-a-game-changer-for-container-orchestration-and-managemen.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547099",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8cf61ba44b220bfbebf7b6dd37cc2d50cf9be01a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "590f2546e82ee2dc469865c3114657b946beeeb3567f2f915ddff0f0fd35afc1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2b3fb784690f583779704f32fe78a8ef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/digital-certificate-badges.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547100",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9be5ec04794a2cc52bf14b046fa04b0449fc2d5b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92029979602f65248fa3c131b3a399a4e967473c3ddd816f8955a51e70c1cee2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "584942e6b44869537dc3c2fc8e9e238c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/z-os-mainframe-practitioner.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547101",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d0068bdc19921b74f0c88b85f7653b1cc0b4bf94"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f6eab48d70a55a56b787a5fa65a04d827edac83fee21ba5c3f6eeea3d5772f74"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "515741a9abf9f04ac2db84d199acf928"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/video-z-os-hardware-overview.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547102",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4f3bb4734ebf10c37067512fe5a662b2c4a0cd97"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a465482293572b7da9bbce84d40168317f44f869a61d90134c866a1655c89844"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a4149318c0e8716479b64b5c94318ac"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547103",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "debee4d19df1417d4b0a57e9d799488654c25829"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1c2e05dfb23362a960728dede20453ae38559fe6a695961f11d7f09de63b3800"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9a18dc4f645671443d462036f716d16"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/foundational-technology/video-its-best-kept-secret.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547105",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c095051b53fbff504aec0bca1838c13693473c70"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7b6b390bd62103a8fea5c1a0586e86c4317c3a74c8b5cdf94fa10ef55f32ee0c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d1150b56fa50195e1b8cec4fb5f8662c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/roles-in-mainframe/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547107",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c1e357b098507f2ae7d8e613161a1b2e885b65f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "004bfc593bf3db87138e4b27a5a056a941c4fff193efb43e6c2eeb2ad76445d2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c0f73e58cf9238790d954acc600a4ed3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/roles-in-mainframe/roles-and-categories/category-definitions.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547108",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d6c26335e9196b84fa57ad71384bd10a5b28647f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "74e3a0ab489f5b801a2985b86c65b23369bbcadb18ac5a98c84adca3c80c7269"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88edb9c4116d7f9d46332dee6a7cb3d9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/roles-in-mainframe/roles-and-categories/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547109",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "55503ea0130503f92a5dc04a10e546daaee533d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac6f026891a273af6a45ac6e28d0a9fd96552983d1285b9841ce8c8663935c71"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "02f4ba6c3d13c12d1a1df0152bf1758a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/page.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547110",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c163d9a5c1220ea70d04cc6d9909c456d275ee42"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3cb1d09f3a9a7d2f93ae59140e7d48be2d55374769ab2e977d60ce44b16ed10"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "61df207464c94e9896fec3aa6d55a2d5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/backlog-on-topics.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547112",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8b7c8cc3cfa8e2a911e8bcbbeb7e002bcdd01a08"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "21d41e1b923ae7d8bef3010e969abcc45de215f13f71090ece673053d129c816"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a750afa9ca8b1c4c406ed5dc40afaed7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/welcome-learn-and-contribute-to-moe/earn-a-contributor-badge.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547113",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7047b451581fbdd5ee4251a2a0b8318eb97e8a6e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "be191c19e03793481d224da763f019e6aa88c81377f75ecb26cb783990f07650"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "92e2c4efed6896c3168010bd8528f6e9"
+                }
+            ],
+            "copyrightText": " copyrights. We welcome links to articles, infographics, courses, videos, blog posts, podcasts and more. All submissions will be reviewed by the MOE team and upon acceptance, merged into the workspace.&#x20;\ncopyright-and-license.md) before contributing your content. endhint %} ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/welcome-learn-and-contribute-to-moe/contributor-log-in.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547114",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "56a17ccef59c064387d5b42fa2a12a024054bebd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "267f524362e163b11f6508411cdbc4bd1f66f36464fb2fb68524f2756aa86f74"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "391ab17b904074b3d4e1a14e2241fbf3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/welcome-learn-and-contribute-to-moe/why-moe.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547115",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f94bd5fc880cbc1a1b66c893c747103509c8c312"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a4d04aec6c255322ca52f2b99816a379bb39bcdf4df9a5686f767d1e1da74b6b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2692554b6ddd5788bceb32ac30be9dcd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/gitbook/welcome-learn-and-contribute-to-moe/moe-vision-mission-and-content-phases.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547116",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f16d7270f89ade47911546af78b6d369c0cdde1e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "64bb029a6c5e0a4445f0da5cbade2a6ec3ff1cd6843e50a79b5bb395c627d9f0"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "979b6ad08a928f39f684727e1489bf79"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547119",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "efd50645a99afea5f90b54b511a4a25c4a1d4688"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3b27c25c4b68e8ac78ec5962621468a9e4e717203810c5235000152074c1bad9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c935e0f8edd6a2cddfebdfeff2dc0d55"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/tsc/tsc-meetings/20200527.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547121",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e0cffd1941603756da64e5bc57a64f8f4aa414c1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9fc6cd6ed930e7d91184d92973b11fa5131401c1abc63dcaae7e790817b431e4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ac662d06188dcd3c824817d453e8422e"
+                }
+            ],
+            "copyrightText": " (c) Tim Klein\u00ff\u00ec?Ducky <\u00ff\u00e1?\u00d3http://ns.adobe.com/xap/1.0/<?xpacket begin=\"\ufeff\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39 \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <r\n(c) Tim Klein\u00ff\u00ec?Ducky <\u00ff\u00e1?\u00d3http://ns.adobe.com/xap/1.0/<?xpacket begin=\"\ufeff\" id=\"W5M0MpCehiHzreSzNTczkc9d\"?> <x:xmpmeta xmlns:x=\"adobe:ns:meta/\" x:xmptk=\"Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39 \"> <rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"> <r ",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/tsc/community-meetings/Mainframe Open Education Community Meeting_ 3_19_2021.docx",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547122",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0b5e978c34bef1fdba675c90e0b4130a42516daa"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c2a0155c5c4e7f15813b8376d2c3c812a8af77da92504251e0b6005ceffc41f5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfb52bb19c8353c67c9b6c0118b7de4b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/tsc/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547123",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e201142a14addc699403b9a11933bfd2a7d5c859"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a5511bf41cda1fdaf1df42c872df7717cfa3bad6b698aecb228d5475faa7056b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f2de1f889ea75b44e93c68df55a5f296"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547124",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "beab0676b74656bb251c5cbcd2d9777656b29b18"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eb56ff89e492511c9e2787912eb03dfde9f4051a405424859678cb078b807f03"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "74b583251c768162dba307a396e9a908"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/SECURITY.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547125",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e143650c8dd1123251617c3e06175b02a8bc99e0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9cd42249cecb69604c9629414fb8775318e411bd3cc37e82d17673a24e31baa2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8a18670fd311843bf3379cb792f00a1f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "omp-education-2025-11-14.zip/omp-education/COMMITTERS.csv",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "relatedSpdxElement": "SPDXRef-omp-omp-education-omp-education",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547081",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547027",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547025",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547026",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547030",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547031",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547032",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547033",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547034",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547036",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547037",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547038",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547039",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547040",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547043",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547044",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547045",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547046",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547047",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547048",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547049",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547051",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547052",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547053",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547054",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547055",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547056",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547057",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547058",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547059",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547060",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547061",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547062",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547064",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547065",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547066",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547067",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547068",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547069",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547070",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547071",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547072",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547074",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547075",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547076",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547077",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547079",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547080",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547082",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547083",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547084",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547085",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547086",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547087",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547089",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547090",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547091",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547092",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547093",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547095",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547096",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547097",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547098",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547099",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547100",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547101",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547102",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547103",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547105",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547107",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547108",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547109",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547110",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547112",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547113",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547114",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547115",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547116",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547119",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547121",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547122",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547123",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547124",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-omp-education-omp-education",
+            "relatedSpdxElement": "SPDXRef-item11547125",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

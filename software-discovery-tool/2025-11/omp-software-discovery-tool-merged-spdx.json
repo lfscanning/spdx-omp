@@ -1,0 +1,2792 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:25:57Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-IBM-possibility",
+            "name": "IBM-possibility"
+        },
+        {
+            "extractedText": " GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-GPL",
+            "name": "GNU General Public License"
+        },
+        {
+            "extractedText": " An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. ",
+            "licenseId": "LicenseRef-fossology-UnclassifiedLicense",
+            "name": "UnclassifiedLicense"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-Apache-possibility",
+            "name": "Apache-possibility"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-See-URL",
+            "name": "See-URL"
+        },
+        {
+            "extractedText": " LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. ",
+            "licenseId": "LicenseRef-fossology-LGPL",
+            "name": "GNU Lesser General Public License"
+        },
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-X11-possibility",
+            "name": "X11-possibility"
+        }
+    ],
+    "name": "/tmp/tmpcc5ks4l8/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-omp/software-discovery-tool/2025-11/omp-software-discovery-tool-full/946a5a34-2812-4521-ab88-35f8b82bd64f",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.software-discovery-tool",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool/archive/2d1b25e471d3a3db0f8b892c8ac32448b035ec0b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool@2d1b25e471d3a3db0f8b892c8ac32448b035ec0b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2d1b25e471d3a3db0f8b892c8ac32448b035ec0b"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool-data by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool-data/archive/dfd5518df852b6db51155b9765c3be1361520e74.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool-data@dfd5518df852b6db51155b9765c3be1361520e74",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool-data",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "dfd5518df852b6db51155b9765c3be1361520e74"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool-deploy by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool-deploy/archive/0db9941fbfa7a96bc5563436ee8ca5c1174b9a79.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool-deploy@0db9941fbfa7a96bc5563436ee8ca5c1174b9a79",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool-deploy",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0db9941fbfa7a96bc5563436ee8ca5c1174b9a79"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11547407",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dfba909727f999851f4f3e9b5f8ee56e0de5b324"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "944d97642ede32b747f8a45a2973d683562ab007037619aa1403db3c6e5ffd4f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9f13e431eb5c9455a8dc99f107d5493"
+                }
+            ],
+            "copyrightText": " (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/angular-animate.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547405",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8338ae8bed3a2122b38aae69a9db222f088069be"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ac11a5bef648d222782ac6a34c496ccf57ddb99d21f0ea8fd7639d794b72337c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "915537e6f12fb8309087deace85c1756"
+                }
+            ],
+            "copyrightText": " (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/angular-route.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547406",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "769407a2492a7c7939e5a5d506a6a61b80061917"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8306ea51725eae34648e15fefa92116afad6fbf64203947a8d94b6efe875d759"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3239462a70a6adf52bd3ef6b98d44f44"
+                }
+            ],
+            "copyrightText": " (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/angular-route.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547404",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dca95f0fe71f5ce5405f3e61a98df12e53e82fbd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ff2c5da8e984b875067f585634a105bb448aab52b40c3521eda5c6e0b8e0d9fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c52ae69cbc4d5c3370840324b636d3d"
+                }
+            ],
+            "copyrightText": " (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/angular-touch.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547403",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9c923313eabc56d715a7c07bf855feb26a72f671"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8c50aa8567731858e81bcfd2027718d9a7c8fd7bf54cf496499adbf5da5741b9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "be6af23e2a716c006da75d0291784254"
+                }
+            ],
+            "copyrightText": " (c) 2010-2017 Google, Inc. http://angularjs.org License: MIT ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/angular.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547402",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1055018c28ab41087ef9ccefe411606893dabea2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87083882cc6015984eb0411a99d3981817f5dc5c90ba24f0940420c5548d82de"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c9f5aeeca3ad37bf2aa006139b935f0a"
+                }
+            ],
+            "copyrightText": " (c) JS Foundation and other contributors | jquery.org/license */ ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/jquery.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547400",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "49c6ddb66f150329d30d09173902b268913428ee"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "72e836c79a8f2fa3544f04b9c2cd72932a2a7a05c9574198463f60dbfcc285fb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "32cc8232205155f5825ae4e829c9d77c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-1.3.3.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547401",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f692082f69c296cc7635b01e1fef8173c27dac54"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b727d65b62ed250348fa5dc5d21eb10d5fe28fa31f9fc97048a1d63ac9848173"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c572f42d057f681abb138e2c2c966157"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/lib/ui-bootstrap-tpls-2.5.0.min.js",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547434",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/LICENSE.txt",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547450",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "84ceb3743370a08afe2d61ac509e956b050b73d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0345e1872e877631ff2a15a32a20ac66f53198a0de08a2b9c34e533cf5befe7b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "81d425a59492f25f8dd97ed07828cbb9"
+                }
+            ],
+            "copyrightText": " Copyright 2010-2017 Google, Inc.)\nCopyright 2012-2017 the AngularUI Team)\nCopyright JS Foundation and other contributors) ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/THIRDPARTY.txt",
+            "licenseConcluded": "MIT",
+            "licenseInfoInFiles": [
+                "MIT"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547369",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e8a263989dcd5e107f5b27c6df9bd6094f2f7b7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ee00e5ff6bfacf3af922b7f85d3b7fdd1bdef65bc5a7a4653a5dfc54a536a10"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "075fb49fde1230f90201fecce16cdc9c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/bin/package_build.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-IBM-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547370",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dd7862713d05775cd10494a575ae02485e1257cf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0d7571c48e34051cff78e19c2bd7f8dbec9e0e4e79724fa88e9a624b3dfa5201"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "723e0db0f12531d46fbbc4df7d7e6c44"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/bin/database_build.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547371",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ae25de2c9f21b7974de982c513b0fada797cfbbb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "28035201c215dd3721fa6754bc1661db0f3178a46b5ee38b077fcccc19a10ef8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "324a515f6037d9f286709a1a7a597e7f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/bin/config_build.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547373",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "31c01e5dd7d9e3335dbdc3075c4375b0d0e8cc2f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cdf923e0978ed7af7a40c3bc887e277357c0cbf53143c301302563bb74db1072"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b44837d5000ee3659ed33e0dd27c4c43"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/docs/Contribute.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547374",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da5a5880f5ddae3988298bd16e01237cffcedb8a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d00f4b1995e910f838a874406d4fc3a954734d09a679bb0d81ffba809cae07b2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "60f1a804d566b68bc2f4a9081b479db0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/docs/Installation.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547375",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f5402bc730782cbfc5f61361ca42158213ee3bb3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "8eb1b44d55a54a854e895070f47458d735d0929b868864b8fd802430f4bcbfc9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "936b6af835d71e6d629d09f492577714"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/docs/Adding_new_distros.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547376",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37e10aa41bc375f2863e697166ca7ea803281dfc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "32f2c4af51950f32e8d30159203848c7866f946969560ce21b735dc195d0d355"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0f707413080170f8d0f01fbc1a33eee6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/docs/Data_sources.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547379",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d8870204c7e7ef84fc7fb490bcf719872f139c9a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "2d1480015b07671febe300294431def11ed574add5986f2c11a7722887bf3540"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b53111fb2c6547af1d08d3cdb1972cef"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/tests/test_json.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547380",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e18908650d00e9597363290a2213760f6f13aa68"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4ffe68d7889ef7e64a8f37fa31403a4999f2d3b47cab009def58a01605db6c39"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7eb8829f90f63c711f3df76f96fd8767"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/tests/test_render.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547381",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "793b79e29d8fc4578e080e9b9b5006d5010f8a6e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "af40461ecb02589abe595a59e1fd46d2cc69d5aa8fe47c5729567e7bcdec82b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "51e4b80933cf765574f45df602263c36"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/main.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547384",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "198a440c89cdaa36596b5466b5c9f9b84ecfa146"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3be4630685a7ad3d391f026f68e51310e2be5f4e6b4cdb35a816529a14c39052"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9ff53f4374fd37ebef21dc15d9d09bbb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/scripts/distro_scripts/getPackageInfoUsingLaunchpad.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547386",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "eeb31d3a88af02d942b6717f63bf338a8b58d5d2"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d54a8ea0381497bc14d68f9e71d035d3e1c4404a28a32b8a18111980e06bfcf7"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "744b9cca2060a7306f6a026517a79a0f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/classes/package_search.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547387",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "73ece4649b4fdf6d8c19d3b05cd3a107032c99a0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bb9b99f840b79c8515288f95514b212e65a1ae383b8f37d06e59ec8b1aecbba8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4f53209d642075e70b13971c9e7d39de"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/classes/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547391",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a3beaacd2b07d6bd28b051746cfba5163e9a2ded"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "722e910aaaaaaf15e1bf0d4d0832e6aa87bd1a01e47c57868c00c63185385035"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "68e2fd63df542df065fad6c8054a80c2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/css/images/ui-icons_444444_256x240.png",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547392",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/css/faq.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547393",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7362e63571e25db9cd5c52a742b2ee4d085ba071"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f8b98c29d305a4ff71f24f96629ad94871a61fe72fc8f56725d1d13dd273c753"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f1aaf070875dd1de7a1f9d31ec60bd63"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/css/app.css",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547395",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ee93ebddb752c7b8a0426c41757ffc3d49c0568c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "906e05f1134a9e70cbdb379233928f3cfca66e44830e39b098c341ef3de3af01"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2167e055e7de9a38da1acf8c9c15a1e5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/images/ajax-loader.gif",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547396",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "882ce5e8ff2ae98cc3dd5f9fc4b309261f3bda8a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4be6de6e86e02dba2fd8b8e9110eafacfdc61b1222ec084253c5f7730485ef49"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5ff48b3e72ce05e4283523040f7c5be8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/images/logo.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547397",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "07c73efaa4705de5b1d0a0f1c341290bf529d3c3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "adf6301c574fe754a2fada898947b7087f5f41d63dd1afaf09e4919d2ab7db39"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ba0abd26bb629f2cebbae14e7c0a251e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/images/diagram.svg",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547409",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "604f037cc48bb8b58fed9f587c93b232f8591cc9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "91838f2536256e1fe2e38ea4c721843ebe5bdb312dccac016441b8f5d6daed85"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b653b932d3970fbad48db74451427dd"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/controller/FAQController.js",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547410",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c8162f2e6e67cb9496b0c2e2c8f5e684221053e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a05ace5c346fa99d46d5f853f95b1f453c900dad2021b763ce00882af8962ee3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a76c4b3b7e124bc93e274def5145a25f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/controller/HomeController.js",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547411",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0dc7308c4903661daca85000156d4f4cbefb5e61"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f12f6c3913414ddcbb39727ad72aa1bbe52ade1a74a7907150f439f71239ab76"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b50e7227e114d10436af81a377fdee9e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/app.js",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547413",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da522654693e5e39f2263388fc6e9f851338840a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e37c1f221766b780af0e595ad8e14931a44408a7c8c3daaa5d2fd9280f6b36b1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d8d8f09e1ac2873cc57bbb7b784fa192"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/views/faq.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-IBM-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547414",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6fb6441bae045fa569f60f611306f0bd80dbd3bd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "798afffe87e84fc85c051052138f31b3f6b7d5b79e68f091556d47f1996edc02"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f85d5a7571fa85d1cd4e26ab9345d147"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/static/js/views/home.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547416",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "64267c1545e7c381a1fcd2276914ab407854148a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "91e6ff098435944c4cc0f03ef03789dd4307c07720362319a065fcec21f0cf02"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "a402d225c829f044acaa9346fd80487a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/config/supported_distros.py.example",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547417",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5505167c1f9cce0a4f25a879509853813907afb0"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c7233be87fcc34cec4a89210ffc290d10b3ae1bfaa900f1c8a1435ba8cce6e6c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2f180760a295641e22b529900d2d02c4"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/config/config.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547418",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9039ef23ae3e21c57f2714038bb80bf31e6789de"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6a83725a98861f86211a9e19dda257f2e868b8a42a5ecd4a3ccf3568e28929f1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "445bb770bc0f35d48189bc4ba14cc9fb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/config/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547419",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5e36029e75fe35d6dde555bae5cfb4e342c4b670"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0de2ccfd7c1766d8c0d91f2c185777b81080e35169e610eca4ac3a7c2d48abd2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "72132b1c45e3ef1b94b66aa58d819003"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/config/sdt.conf",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547421",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec273125e700d75e8dc05cc919aa22d52b828c23"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dd9257d4eff17bc829bb8c0228d1f2737aef1715f1a33881f4ecae2e834f50a2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "17cd932dc68963eb99b00119f3b6e5df"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/templates/index.html",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547422",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ec095b10a5761ed74c9d9bb2f67693e45e03d2ce"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f2f9b165ec76f58ca3110d82632f7c5ac1a1dc6f51b44dc7273887b8b2ba8e23"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "73e34b1eb2f79fcb297f7ae1aa45edd5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/SDT.wsgi",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547424",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c27987a2beb9858b606d2760b0f4216cf4b24d2d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "87ddd48804259d26241ef80f522a1cfbc6ae5c0bc106aa97fccbce5532892e5c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "16f60f80dbbead21ee67ad2d2c8b9449"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/src/setup/Dockerfile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-IBM-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547425",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "af0020649ac8a68dde11a6364bde571af97e252f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "832f23becbb0a4c65db18fbe3a0ff21f49216b2559611cffd326b31c9eb83213"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "88c22a6f14afb64d44f1bab07c4d0b28"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.env.example",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547428",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3bdfcf02baf53e004346af25edbfedfb6bf853d4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4a17eb4921eeb56bb15a9c13953ade5ab771657b3117155fe6de3498aea7be4c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ec2137a7b4143158cb1e05132c976964"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.github/ISSUE_TEMPLATE/meeting.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547430",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bf84eb18e9a999a6c7825c2cf5a46caf4b5b8abf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "63ee0478607c3cf2fd39884fac1b1aaf3f9ec088d43015978f304790eee8e91d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3a6c06494d649718196de3da1c1a0852"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.github/workflows/send_agenda.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547431",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f7cb73430140e6e12d1dd08783d4831220a6d264"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "110a4770b4700f3f627575ea9fe8a0c79177455233ff16ca2c913555b7458699"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4ef020d29b801253ada9f71dc26d125c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.github/workflows/create_agenda.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547432",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "114251b03d5976920bab2dc9c27fcd5cc11a5ffd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7d760da780d547ef87fabd31ca4c4626031435d82c1ebaadd8884cb6ddfbdb66"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1bb3a628527cbef7f20cd3b2d998809c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.github/workflows/updatesubmodules.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547433",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a39cfa2749e0478e8d3a3c53fa20575e3fa7a314"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3f388e22ef4ba302ca344563fbdf4615aa99c12512206cd21022391a2a7b86ff"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0a13bbfc1dfd2d254da02d0206599089"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547436",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8f0b018b3b5934a1ce717d035364a87e6c02d5f9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "259d394b70851ff21b5f97a4506e5a8d9b0d9fdf6eadfc22227abc4ea3e768d8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c1790264e30f3eabce7cd1514638be6d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2024-04-03.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547437",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "70ed1c36ded80662e25659043261ea92378562e9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "ba2a7b90b2e8ec5ddc92adbcc584984a6018df496b17ee323596f1b17dfdd217"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "64140588c0a3732aa331db68eab485d9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2022-06-30.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547438",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d630235190525b26b8738b0c03d309c78abc433"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cd57a457bcc5767a6a298edb7d4a51406b29601249d767b40df52f27deb673c5"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6ee193403e8aa8524bc69a000f1109d5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2022-02-09.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-IBM-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547439",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "efcff2a167142d13bbad9ee36b62f520e68fab92"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "04f2e345de307bc0b823c88e54038c4fa962275284f0f7aa5849068885a829a1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1b4698ed114919a370936e6a0066391d"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2021-06-14.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547440",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7d7a292273e001cc193148a7e9827189f061a7ca"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "779496996e0c2b5a70fc6a3ab69c04ab98a19a612344400a0b6dd56493f2ef09"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c43af37295878a260d9ac8bb32ddfd99"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2023-08-03.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547441",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d43a34fe1b7704c06fcc4a7154c1c6f9d3190888"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4e97a46fb5182f2653e56ac970d1581bf3461cecb2d4f5cdc17e82cccab3ec0c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea67d818afdefd697ce9105211cdd839"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2022-08-16.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547442",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c6fda12f70667120511c4cbd72802afe4e05646d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7044f67b98f42660e270c71f4ca9b60cce0b1bd4ae2b15a2a5ce3e56c4498f61"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ee3fc68fee4703126df5a37380363d0c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2024-05-08.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547443",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4f077ae98a20962ebb4d9cc846c902e600e8561c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0ebe10b141068d91972affd56c5b11cd63053a8c3c4a30a928409bf77765dd20"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3a39511abdb366ea595fc34ba00f8915"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2021-04-22.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547444",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "dab39b750a859d3d00667a212830e492a60797cb"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5959f9de4ea4369f5dd67294fbb5617aa725fb4d2ae516b137c787d762b0871f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "287fd3e80ecd6868c4f1db5482b55e77"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2023-05-23.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-UnclassifiedLicense"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547445",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "cd831542d8ae96986e82a11119d5e903dd8aa135"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1bd94396bf115b03795f57fd82c455efac26ce5b91be79d7de072b4443baf6b6"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "19544164fbf495a807f05d49b7504032"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2021-07-19.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547446",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f1afc6d98408923524a19c792965f7be898ab277"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c04cee455b10fefcf5b161277c9d9fc0aecd863ad00d47b5907a3b248f8a694d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "37dd512265fda724d9d4bf0e48648825"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2021-11-17.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547447",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3459cb901c6d1ea7e80137c5ee06a4f2b5b581e1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "68c92892a999e4222a0c617cefd830768e12d0771f30a040f0155bcb01779e51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3d088a80b8d7b4099beda13fc9531198"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2020-11-09.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547448",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8945b2ff95781c9cca010719316f1d0bcbd57f2a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7c42058824f177ece3f26192955281fc5714b687729c9c82c0f898661ed37260"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "aa6495aea59dcd1751a0304ed0c6e919"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2020-10-14.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547449",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c26acdad60fd6b1a85bb861d10548f15c0226370"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "3cb33641d365a7cbec1338720f32ac6c2fb3c2c14e58e456fbd0bfd3b8b76058"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "16cac3f593752101b9e62af31c4b7e70"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/meetings/2022-05-04.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547451",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a96fa32cc459aef843f957bc08b18b9592e46df8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "47680dc8e871f6dc323b46a00bfda4f2ac763931d97d1ea4ad20ba38b823383e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7f067c4ab3eeacee4cb0500f0c0a9745"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547452",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2c877b82220cfca57af7ace8154bbd4af9f5c0d1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "41e9b655a0cada7731e21e6a544151c29695133d2eaa78c5b2928516d5d0ec73"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d085651521c5c63a1f3148af4ed6204c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/.gitmodules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547454",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool/log/sdt.log",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547456",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547458",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1e50979bb3580eca2389b4d72257582e68370ec6"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "09349784b9753468f5601a7615a8e7ba45636167ea025f6ccfaf84bc854cbacd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "921dfc18e6ca713982d6bae0649026a5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/ZOS_OMP.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547459",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "58553ae5392ff8897db715cc106017871677eaf8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "23d60d721b5c2b0a95869bc80784ca2c338ff2b83775fc7c3a40e88637be8bae"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "872eef2946969571b3d72ba0dc03d0c9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Z_zOS.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547460",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3ce8ab6c8031333d2ed6da71d296b3dc2224afd8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f5dc0a3ff989000924c14e918cb575cac83193ef6ce74c45b7aa0f4f5cbb0e87"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "80b913b8537730b3648856d0250ceb24"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_SLES_12.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547461",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4e54f2fad51ac2c49bcb3040b364d6f44280fe1b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d7d014e13c602d6a9ee8fd36e75b035076e7bfe06cdff5ef3e33c25a8b7e5945"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "46288db09512418b6a891ac3f6e31318"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/Debian_Bookworm_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-LGPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547462",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "733ebda7844e9aaaf051b310649e01926f498308"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9155bc6726cdf40c48d4f49de92bb0654cec494e5613010c7f03a295a9a07f3a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "fba09af22937ad4c6202e5d5b27db67f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/Debian_Bullseye_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-LGPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547463",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "43030d1c0bc1c7666d41744940eecdad658cde2e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fbd445bcdf494b585b86701f89dc61072ae0bc9d01542db7d540e19ca962d708"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0d0beb61c77020a516aee213762855f2"
+                }
+            ],
+            "copyrightText": " Copyright\",\"version\": \"0.009-21\"}, packageName\": \"perl-Module-Install-DOAP\",\"version\": \"0.006-21\"}, packageName\": \"perl-Module-Install-DOAPChangeSets\",\"version\": \"0.206-21\"}, packageName\": \"perl-Module-Install-ExtraTests\",\"version\": \"0.008-31\"}, packageName\": \"perl-Module-Install-GithubMeta\"\nCopyright\",\"version\": \"0.003014-3\"}, packageName\": \"perl-String-Diff\",\"version\": \"0.07-24\"}, packageName\": \"perl-String-Dirify\",\"version\": \"1.03-23\"}, packageName\": \"perl-String-Errf\",\"version\": \"0.009-3\"}, packageName\": \"perl-String-Errf-tests\",\"version\": \"0.009-3\"}, packageName\": \"perl-S ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/Fedora_39_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547464",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9a6a57356f79140c14296520980ca8ae83b02a43"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9e9226b99dd0e77baf9bbb85e68be7925d6dfd60fac97b57dd3abb70a37e169c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5919d9a35c33f89d9eb31bf5958b7a99"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBMZ_container_registry.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-GPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547465",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "69d78d4fdc39b1dcf09e572049a9e69a62f13b76"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "03338311e7a717eb5a0e3777976d80372eb64938776cb2d2266e8666ba186202"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ea7690c99d058095352ccebd4ca926e3"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/ZOS_Software_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-Apache-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547466",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ba433db77045b4ff64ddd736af7b2030fc872497"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e4bc0792853523d5ded61bb9b07cb73a19d846d1b0b398ecfcc9a0f84422ff61"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e9dfa3f155fdda24778f3dcd10f01a80"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/ZOS_Rocket_Software.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547467",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0275a48c17d5f1290cef03b25caccfcabb4569d9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fcf950b68780e6421b4b0c2a9aa4abe0cc0ea7549d105ffe2d9e814b45eb4de8"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "984fccb266d071cb2ece928919e5cd2e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_RHEL_9.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547468",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3e0454f5347eb316d7dd12a074040e09abc4961e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a8f51282f08ec066a36b33aad9f07ae660d4357781b7a05ed4a503f3ddff7f86"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "523bf95f3ca92b4f892a4e2a50e7674c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/ClefOS_7_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-X11-possibility"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547469",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9623708222868c27ce535d788d7098ed0798e00b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4396c350ddb375d9869181233210f92b8bd2920b0ff3fd11583b9eb0b19cc345"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1411bca0a3b223f247d805e4d2937dd4"
+                }
+            ],
+            "copyrightText": " copyrightbox\", description\": \"\", version\": \"2024.216.0.0.1svn24829\"\ncopyrightbox-doc\", description\": \"\", version\": \"2024.216.0.0.1svn24829\" ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/OpenSUSE_Tumbleweed.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547470",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97d170e1550eee4afc0af065b78cda302a97674c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d751713988987e9331980363e24189ce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_Ubuntu_2004.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547471",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5ac8fa12ba87afe184abc618bc2b0c9aeac0c516"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0dcda22ce9d5fa03fc13e98a61669ccde284f33f315a0c4410d74a68ab5f907c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cafc2c96bb045d1e6c1cc4e72e208f6a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/RockyLinux_9_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547472",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "3d3b27b2e09d57764d2ec490a5bee5b0930ec110"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a8d39e8c6292a9744ecc153a5c0cd9d6f98651a7cb8276cd76f9b3784379d975"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "c5b497302c54559281be3633060c39e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_SLES_15.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547473",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97d170e1550eee4afc0af065b78cda302a97674c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d751713988987e9331980363e24189ce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_Ubuntu_2204.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547474",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7a55e51fb58cf86a51f391f697e56be683633f0e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "9718830c18ee2d714ca7a408ee5bf2c4e183e3b2dea16daead3a91bc3ea22590"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ebad123b6f17d8c8b18824613a5a0975"
+                }
+            ],
+            "copyrightText": " copyrightbox\", description\": \"\", version\": \"2021.189.0.0.1svn24829\"\ncopyrightbox-doc\", description\": \"\", version\": \"2021.189.0.0.1svn24829\" ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/OpenSUSE_Leap_15_6.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547475",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "84e56c6b86f8c0e128fa9f36516793ff5819c7ad"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "122e10df884519325b67835a39fdbd962b8f100f3375f30432eb9c5df37c0565"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b3987e68c2ed7c1f419a6e528f47c6cb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/AlmaLinux_9_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547476",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "97d170e1550eee4afc0af065b78cda302a97674c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d751713988987e9331980363e24189ce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/IBM_Validated_OSS_List_RHEL_8.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547477",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "bbd6e1de0ef46d24ae716143e22bc1d95ad59015"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c4042df0ba4ab415521335211db28378ac6c4addfb53e719b02ffe0045e53262"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b72e210ae82670252c7a8b672f6de801"
+                }
+            ],
+            "copyrightText": " copyrightbox\", description\": \"\", version\": \"2021.189.0.0.1svn24829\"\ncopyrightbox-doc\", description\": \"\", version\": \"2021.189.0.0.1svn24829\" ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/OpenSUSE_Leap_15_5.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547478",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "ed195aa7cb261a97ffce7ab81b18749a2fc75575"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "175507e0761c97fb0a9e9b4af3d144ceaf313499ec54ede5e1235c37a5916e26"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9a7e60d48ef3c756c5d9a205add6e654"
+                }
+            ],
+            "copyrightText": " Copyright\",\"version\": \"0.009-23\"}, packageName\": \"perl-Module-Install-DOAP\",\"version\": \"0.006-23\"}, packageName\": \"perl-Module-Install-DOAPChangeSets\",\"version\": \"0.206-23\"}, packageName\": \"perl-Module-Install-ExtraTests\",\"version\": \"0.008-33\"}, packageName\": \"perl-Module-Install-GithubMeta\"\nCopyright\",\"version\": \"0.003014-5\"}, packageName\": \"perl-String-Diff\",\"version\": \"0.07-26\"}, packageName\": \"perl-String-Dirify\",\"version\": \"1.03-25\"}, packageName\": \"perl-String-Errf\",\"version\": \"0.009-5\"}, packageName\": \"perl-String-Errf-tests\",\"version\": \"0.009-5\"}, packageName\": \"perl-S ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/Fedora_40_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547479",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a1acef60d6530d8d85b4b318584d1ddd2e30d70b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7cbb928eac847d4050eb3dd05c0a1b3fcfbe2e981701e53ba03c429feab45ad3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3f7d6e752c9c968d7fac7ab1318edb89"
+                }
+            ],
+            "copyrightText": " Copyright\",\"version\": \"0.009-20\"}, packageName\": \"perl-Module-Install-DOAP\",\"version\": \"0.006-20\"}, packageName\": \"perl-Module-Install-DOAPChangeSets\",\"version\": \"0.206-20\"}, packageName\": \"perl-Module-Install-ExtraTests\",\"version\": \"0.008-30\"}, packageName\": \"perl-Module-Install-GithubMeta\"\nCopyright\",\"version\": \"0.003014-2\"}, packageName\": \"perl-String-Diff\",\"version\": \"0.07-23\"}, packageName\": \"perl-String-Dirify\",\"version\": \"1.03-22\"}, packageName\": \"perl-String-Errf\",\"version\": \"0.009-2\"}, packageName\": \"perl-String-Errf-tests\",\"version\": \"0.009-2\"}, packageName\": \"perl-S ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/data_files/Fedora_38_List.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547480",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e38754f7aef7d006bb7240ba914cc4d3f815e990"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "45953fb47df441c583e2c4e026a87c441a88b4fcdce9dd6f09e76e6bfe388b95"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0714328e7af09f6b8b0441ed7a5494d8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-data/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-See-URL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547360",
+            "attributionTexts": [
+                " 307 "
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-deploy/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547363",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f2dbeef538eff7e97bc59fcaf0db3e74262bade9"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6f4217ec803364b3fa8a5bb522d80276fb54d039818d5b303bf6ba4ecf9d2ae1"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1457c8f1a918abe7339d1e1041efec55"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-deploy/.github/workflows/cicd.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547364",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a309df57781c560fcd94cc19eb8cb2e4b2534501"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f296e1caec3960ea0b7057e286b4f13873673925009a020337a31d84c7fca90d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8fa7f0cefd041d5e28a34d3f366a9d38"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-deploy/.github/workflows/updatesubmodules.yml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547365",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6241ac4b051a9f5c6c26e58b4a18f3091c012663"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "388673a01014fee6521a0158540d0a039fa6238c0bf1f5c99da349a46b1d8609"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e6d068db603d6c4ae0c9551f15630be1"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-deploy/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547366",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "b601a0ecefc11063233b75ce8c7225aa87bad242"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bcb1450e4cebdf6dee6f96a5bde4376aba03374dd82488077bac6a0a16b6b585"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "74d98860f9fc96a874478704e76379e8"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "software-discovery-tool-2025-11-14.zip/software-discovery-tool-deploy/.gitmodules",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547407",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547405",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547406",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547404",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547403",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547402",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547400",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547401",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547434",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547450",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547369",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547370",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547371",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547373",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547374",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547375",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547376",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547379",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547380",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547381",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547384",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547386",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547387",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547391",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547392",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547393",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547395",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547396",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547397",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547409",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547410",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547411",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547413",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547414",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547416",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547417",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547418",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547419",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547421",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547422",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547424",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547425",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547428",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547430",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547431",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547432",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547433",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547436",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547437",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547438",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547439",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547440",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547441",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547442",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547443",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547444",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547445",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547446",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547447",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547448",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547449",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547451",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547452",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relatedSpdxElement": "SPDXRef-item11547454",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547456",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547458",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547459",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547460",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547461",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547462",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547463",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547464",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547465",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547466",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547467",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547468",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547469",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547470",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547471",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547472",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547473",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547474",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547475",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547476",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547477",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547478",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547479",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relatedSpdxElement": "SPDXRef-item11547480",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relatedSpdxElement": "SPDXRef-item11547360",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relatedSpdxElement": "SPDXRef-item11547363",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relatedSpdxElement": "SPDXRef-item11547364",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relatedSpdxElement": "SPDXRef-item11547365",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relatedSpdxElement": "SPDXRef-item11547366",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

@@ -1,0 +1,1986 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:24:41Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay",
+            "Tool: fossology-4.3.0",
+            "Person: gary (garylegal@sourceauditor.com)"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "hasExtractedLicensingInfos": [
+        {
+            "extractedText": " License by Nomos. ",
+            "licenseId": "LicenseRef-fossology-AGPL",
+            "name": "AGPL"
+        }
+    ],
+    "name": "/tmp/tmpyasfdwua/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "https://github.com/lfscanning/spdx-omp/linuxonzapps/2025-11/omp-linuxonzapps-full/60ebc909-84c5-421e-950c-d32b6cd06730",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-58810f2530f3593d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.linuxonzapps",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-bazel",
+            "comment": "This package was added to the Trivy analysis for the bazel by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/bazel/archive/6606514efee07ae95d25efd59226e13d6a23e74a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/bazel@6606514efee07ae95d25efd59226e13d6a23e74a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "bazel",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "6606514efee07ae95d25efd59226e13d6a23e74a"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-docs",
+            "comment": "This package was added to the Trivy analysis for the docs by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/docs/archive/6f61f9f31c907df4e6fcabbe86f73c342ded723b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/docs@6f61f9f31c907df4e6fcabbe86f73c342ded723b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "docs",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "6f61f9f31c907df4e6fcabbe86f73c342ded723b"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-kind",
+            "comment": "This package was added to the Trivy analysis for the kind by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/kind/archive/0e70adc030215b0489d493cef6fbcfdff8f737ad.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/kind@0e70adc030215b0489d493cef6fbcfdff8f737ad",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "kind",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0e70adc030215b0489d493cef6fbcfdff8f737ad"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-minio",
+            "comment": "This package was added to the Trivy analysis for the minio by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/minio/archive/222eef61d65bab6dc1455a4eae43acb4ee3da887.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/minio@222eef61d65bab6dc1455a4eae43acb4ee3da887",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "minio",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "222eef61d65bab6dc1455a4eae43acb4ee3da887"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-spark",
+            "comment": "This package was added to the Trivy analysis for the spark by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/spark/archive/65db1004d3a6b91edfd10050a059901ffcf5d4fd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/spark@65db1004d3a6b91edfd10050a059901ffcf5d4fd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "spark",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "65db1004d3a6b91edfd10050a059901ffcf5d4fd"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-spire",
+            "comment": "This package was added to the Trivy analysis for the spire by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/spire/archive/2bab81f2f7ea9925f66a4e387e04a1a295af5c69.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/spire@2bab81f2f7ea9925f66a4e387e04a1a295af5c69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "spire",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2bab81f2f7ea9925f66a4e387e04a1a295af5c69"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-terraform",
+            "comment": "This package was added to the Trivy analysis for the terraform by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/terraform/archive/00da190653e94e1d8eb68ad947305ca24afe8387.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/terraform@00da190653e94e1d8eb68ad947305ca24afe8387",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "terraform",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "00da190653e94e1d8eb68ad947305ca24afe8387"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "comment": "This package was added to the Trivy analysis for the zlinux-artifacts-builder by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/zlinux-artifacts-builder/archive/ecacc0c59cfe70c255a18193ced3c9a74d4ab316.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/zlinux-artifacts-builder@ecacc0c59cfe70c255a18193ced3c9a74d4ab316",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": true,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "zlinux-artifacts-builder",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "ecacc0c59cfe70c255a18193ced3c9a74d4ab316"
+        }
+    ],
+    "files": [
+        {
+            "SPDXID": "SPDXRef-item11546948",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/bazel/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546950",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "289bffc483db828f0876184001f3987ba4c243bc"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "dd2e6875523f692f3a8264a021f6a86ee27f17a019ed15391948f8b9cd2f672f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "1c37a74f2996d680d632262adb5eecce"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/bazel/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546951",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0604a3db13175dcec5e43643eea3e042cf779e21"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0126cac363aecca309102590096607105dee518f316dd1812fd2761086cb0794"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6219ef037fc6b0263e99c66197acfda7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/bazel/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546952",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7eda80d4fd86203df2755b453aee9dc6b7d3698b"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "93341598e18817b1ea3459362f1b5fc4bbe5fb3ad9d69726aca66e2defe53776"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "5a4d2ab9840078543a184d3cae8edad7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/bazel/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546939",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/docs/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546940",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2afacf7e2598449d5f6b8ec494b8df73c7d6c9e7"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c6c42f9e1392258876f9bcc964c559480dc21174a82e7155bae707d719775a9e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7ba2e6eb880ce43a35751e18bfb85f90"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/docs/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547004",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/kind/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547006",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "63acd8bcaf4a18868aee4398b31d3e3e8f7031ec"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "7856172934333f62cea36d073696a71204f021acbd75b0b6f49a24801822e34c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2f898bdb934b28bfe8f88037093eb0f9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/kind/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547007",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fc3e311061c4786f058bec53d3402a981d8af51e"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "38c1663daff849aba655c9a9bcdaac300e39bb0126a6abc8b505cca6476c6885"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7b1237c96ccbf2e22f1aaec39869f0ed"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/kind/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547008",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "6fd62b783ace264826147009bbbdd553119ea089"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d479eecab676fc2e29ea231022eb8f726e7f7c06d6b27d0290a66357d8a35a3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dca0d6a7dd0d79427080e6b59e9f1d64"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/kind/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547013",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5b09432a9fd7dbdb87d0d1247e43f9d70e21728c"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "878ae8e8a8b108be486a4bb389b6b12c9195521d6f40c9ed8855fb91848f7273"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ad52e271d83e220b0970c2388af29818"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/minio/README.md",
+            "licenseConcluded": "LicenseRef-fossology-AGPL",
+            "licenseInfoInFiles": [
+                "LicenseRef-fossology-AGPL"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547010",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/minio/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547012",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "316605a33731c34e35bb5e5ab6039e681bad9473"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "99bdc67c771a319d878f208906129558358e185e2184de5ee1078d7b68acbbbb"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "3c4f86b49b4a34c9dea86cd1a8e9a80f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/minio/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547014",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "48e53b8752648bf754238e66b3e7f823d85c00a1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "0496e9b0114fbe8c79b114a84b02f3a9d834bea44b77bbef0afedc0c11b0b29c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "edeb064bd2f07b9923beff47c64ddedb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/minio/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546942",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/spark/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546944",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "1e01f33f5ee5122ddd39e77730c8482fb816dfc3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f2b6699005bc1d40519af43d1bfac2e81590c27683db8404b888006dd0965c81"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b1195af8615d5c2cd633f933fe8f6a63"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spark/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546945",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "8eca6c372a1ec7135ca7a47d0be4ab68146d96f1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fe4cdd458e2bb472a8e22cdee851c7a0dcf856c46b457843f97322760759a084"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "777606f25a0bd802ff33d46302ec669f"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spark/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546946",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "d366301e636ae0995cd45ac209a36f637d6a0652"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "56ed5db851eeacaffb0d9ae48a262b96c555ebb632346d0964a356ec8ef12d31"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b9554fa9e8de4abf0a1ec99667e7ef5b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spark/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547016",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/spire/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547018",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "db350bbe5cef2f46b64e483a8fce578e060ca32a"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b1564046bdd95d4ac78aa5fee1b4f54b04face675a8d86a7245fbbe7b443a28b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "965be100ebd02c7c7a6f051bcd25c669"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spire/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547019",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "aff236a6dc2efe27ab5a4751dd6e968d59672133"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a3069246260ea38b4106023340eba63b07e233b3f8793755adc4b2fde2d404e2"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dcf4bb342adcedf2401e5718866d0c39"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spire/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547020",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "5a43060fca879f76994d4b400902234a74aca884"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "89251bd670fcee9deeabb025d0df7db8f6183154c9f4ca92ad82fccc69e27b57"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "ca9f6646b7a6817710ef61a3f1683db7"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/spire/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546933",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/terraform/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546935",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fb0df51d2452bcf9f4e81fd9bb7f91d0d46e56ab"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6ad8e98f3e3177fd8d92a71d905f258389cfbdf14557c3ada5e487bf1242375a"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8b50195e710da3fa200add4b95360913"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/terraform/src/build.sh",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546936",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "a3082dafcc7e54c89282859b9a490981710939ae"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "a54c0a8f9e04410633130548193576fb976eb560bdbac9e3aa743c4862413da3"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d2726921e13b9c1cb246c186417f789b"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/terraform/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546937",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "61b7878b0389f38800c043f5af932f7de441bff4"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "5f979254f9c66032c56aded388dbbca9751dac2ed033237029ceb663bd80dd91"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "504d48c2877bf43f43e328b1d76c57d9"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/terraform/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546997",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c8bc7df08db9dd3b39c2c2259a163a36cf2f6808"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "49bbe9114e49214df2ccc324cb3ac8d1d1aa1c3a0947f94c286765e86647b32e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "0ba5044c64ef53cb0189c9546081e228"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546958",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7df059597099bb7dcf25d2a9aedfaf4465f72d8d"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "86d3f3a95c324c9479bd8986968f4327"
+                }
+            ],
+            "copyrightText": " copyright owner or by an individual or Legal Entity authorized to submit on behalf of\n(c) You must retain, in the Source form of any Derivative Works\ncopyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and\nCopyright [yyyy] [name of copyright owner] ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/LICENSE",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546971",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "81af90675a0e8890a16ccd08c573b5cd6bac9469"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "31e53edaca1b8f197b3e4b114b7e1b622a9c1fdb70dc6d48983b6d17d2fd15ed"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f8ba55f97fd4c9fea65604369d1bdd77"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/README.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547000",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "45266e5016aefeb24c19becd0a32cb86a28af045"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fadeac30012948cc757da4a09a28810806614a91b09bc5711cd65755da786e39"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "14c3d1dc0d561a5dbc9ed7e6572d7440"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/README.md",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546963",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "08cdbb62084e0ab47acf803de3f86769cb6b2f97"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1ec17a00af52d0f401744c739deb44c090974534cd6e9a5ebd3c680d17173b78"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "2348c48e29390c1cfb2127a28a45a7cd"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/checksum.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546966",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "7208cf8e23570ba105932e925326148923a7b316"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "86f1c5bfae921ccc89f7338a6b7fd2b701c6b19bf5321a89f040e918702e051e"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "b50211ede870630ffcf72d1a28a70a28"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/github_api.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546990",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0a410e2f477ec461aeeb0d66dd6a466534858c63"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "f5f7986f641afe6c99776c6769735c9cacea4e6c3a3ee6c3c4599abb8dc8f6ad"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "bc727bcf08569dc180eaaa982d079d91"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/binary/go_binary_builder.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546974",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "fff91721ca33ccf7b81b56ac207d6952adf1c367"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "95dd5ae267300fd17f792ca11c5c78f3aa0a40e9fb12dd6182194e8ec6766a28"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "e428aef8027beec0a86ebe88811f78d0"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/monitoring/logger.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546994",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c75d08383f259988cb3d7cec1f8f405aa7e85f76"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "bbbf65eba779006f9f1344da321dd64f682ccbd8c0345359752fb1ad8b243f51"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "05bb6896ba5ca7985e132c5ed34cdc75"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/script/loz_script_builder.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546960",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f3be194f1bb9e045d7eeb77056124e24afcdbd76"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "43b68cab636e13539b388e60a24e8c3dc3b6529a79c63e9d9c2e4483aa3633cc"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "dd873f7165cc61870f37d9ee667dd786"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/orchestrator/orchestrator.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546988",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e5f57597e24181b5e0e2e9e48f4c6b773330fb55"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "719037afc15ca16d68e85f16fe677e438a3a1062b0552a71927b2a25937b041c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4886e9bd743121f4dbc93ca2bf052ac8"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/plugins/plugin_interface.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546964",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "e8d511b1eff03a2fed455e539a4d05b310844873"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "717114de3d3ce17177d793cce5271cc3c9df69255fcc83868d20c06e872e132c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "f0672fa881a0aee6a8fca6b5a6e4f7f8"
+                }
+            ],
+            "copyrightText": " Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 ",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/versioning.py",
+            "licenseConcluded": "Apache-2.0",
+            "licenseInfoInFiles": [
+                "Apache-2.0"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546955",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/ci/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546956",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "0456162d86b7a57a386e1bb1573a1b70c25f5a72"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "14dccae7855d87f876be206a3eea75933c88c1547ebb3e01fcea2af61f0ba233"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "7fcce80179c330442d6738af7af45866"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/ci/github_actions.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546957",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "c88ac016852b2e4aecafc12c838b74f392957bdf"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "cc8137cb451f800964d670675487370d56d6af3b193728f2ae7b94b909914105"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "4815965fb93589df8eaef707adf92cc2"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/manifest.json",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546961",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/orchestrator/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546965",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546967",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9c57ce2824912bbba04c6271eaf9593dd1cea682"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "eec285e414af319ac28435989ec6fb860ed2ea86bbbe308df0580b67b6f9da0d"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "812c842fbde19fddeaac84d9eb98fb11"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546968",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "de0b0870070cd206d7a192ae78adccd027a65022"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1299a261745a92be765548b0709e1215c9a1c277a97fa2e6fece6c4ec2a34dbe"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "cfd7d8319e263ee62b31aaf3a219b05c"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/requirements.txt",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546969",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "345067ba7afca1a123a0fd8b37ba9d61ca972099"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "92f6303573eb9b1301c865d66abfc2fa3ff5605857e0dd65070d8a0203614616"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "478af6b1202868791223b2c52ddf5992"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/Dockerfile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546970",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546973",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/monitoring/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546976",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "f10f0cffd47ca1469ee8d6f9450128016306d959"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "b949836c4cfb234395121358fa9affa4f2891b41cd41ee562972e656d8efa73f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "55dcd891ff4ed0f3c4d3a405e3572c90"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/global_config.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546977",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546979",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "947f29b061e8f529abfe72ae9d921798cab65197"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e72742e86c009e6f88a6d1114e6e66454727e4ddda96e1ef32a5480d5082318b"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "744ae646cbe4f5613c14ac3f55d4b4f5"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/go-project.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546980",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546981",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "37aa76d476ee19338d552b57181765a767f610cd"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "57befab83b5c4290102ef93a363d5aa55af64b032be02c6afc2470dfa042eaee"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6f879ccd340d32f85fa36e068f925aee"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/loz-script-project.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546984",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "986cb945eb5a0492c08bfc601130779ee21a5903"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e9ac2bf4b4342b50f80655c57ad0ba0ed2a143757a3c65f995c559d2a5d0af8c"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "605906455e86e3179cfe37edb20690eb"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/containers/dind/Dockerfile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546985",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "4e4f477d0677fd031c803ab7e1dec27e93e339af"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "73adfedee5d9abaff800efc7aa46dbfc8dfe2efeca1c755f56255a989ac004cd"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "9b007f8923adabe6ba81f07b513e6d7a"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/containers/dind/README.md",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546991",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/binary/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546992",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546995",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "d41d8cd98f00b204e9800998ecf8427e"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/script/__init__.py",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546998",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "49f40e46145d506a8948c34e2fd65039fd6cbac3"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "e82a065208144fd70d1541d465bb9f4ff3cf61b0e538b017054a766e7b7a18ac"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "642237f798b2626f16b7cec8b9f2c6f6"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/.gitignore",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11546999",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "9f76bb03387ff20db10a9b18f463de6a0294003f"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "c05b0cded66038ab3f80b7d4f85f921922af87dff02104e6a94176e7aad5673f"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "6107d581d0738b8b5830a6ae680b1dd0"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/Dockerfile",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547001",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "2f8a74ce968167d0ede3e1be9e80caa30181c365"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "1fdc2744d5736213de762db88e164301ab376d7f56916c7e8b0d2af0e2c015b9"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "624c5a1b0f8d396f73758cea509a7779"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/.build-template.yaml",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        },
+        {
+            "SPDXID": "SPDXRef-item11547002",
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "217b2335eb59bd474d732ef8cea659a2ce0b65b8"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "d104d4f3db1e316a84eb83f534e78036eb316a77af038a354040b97b8a3e2347"
+                },
+                {
+                    "algorithm": "MD5",
+                    "checksumValue": "8e70512778e9198b0f03a25118c76601"
+                }
+            ],
+            "copyrightText": "NOASSERTION",
+            "fileName": "linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/main.go",
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-bazel",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-docs",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-kind",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-minio",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-spark",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-spire",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-terraform",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-bazel",
+            "relatedSpdxElement": "SPDXRef-item11546948",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-bazel",
+            "relatedSpdxElement": "SPDXRef-item11546950",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-bazel",
+            "relatedSpdxElement": "SPDXRef-item11546951",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-bazel",
+            "relatedSpdxElement": "SPDXRef-item11546952",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-docs",
+            "relatedSpdxElement": "SPDXRef-item11546939",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-docs",
+            "relatedSpdxElement": "SPDXRef-item11546940",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-kind",
+            "relatedSpdxElement": "SPDXRef-item11547004",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-kind",
+            "relatedSpdxElement": "SPDXRef-item11547006",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-kind",
+            "relatedSpdxElement": "SPDXRef-item11547007",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-kind",
+            "relatedSpdxElement": "SPDXRef-item11547008",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-minio",
+            "relatedSpdxElement": "SPDXRef-item11547013",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-minio",
+            "relatedSpdxElement": "SPDXRef-item11547010",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-minio",
+            "relatedSpdxElement": "SPDXRef-item11547012",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-minio",
+            "relatedSpdxElement": "SPDXRef-item11547014",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spark",
+            "relatedSpdxElement": "SPDXRef-item11546942",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spark",
+            "relatedSpdxElement": "SPDXRef-item11546944",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spark",
+            "relatedSpdxElement": "SPDXRef-item11546945",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spark",
+            "relatedSpdxElement": "SPDXRef-item11546946",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spire",
+            "relatedSpdxElement": "SPDXRef-item11547016",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spire",
+            "relatedSpdxElement": "SPDXRef-item11547018",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spire",
+            "relatedSpdxElement": "SPDXRef-item11547019",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-spire",
+            "relatedSpdxElement": "SPDXRef-item11547020",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-terraform",
+            "relatedSpdxElement": "SPDXRef-item11546933",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-terraform",
+            "relatedSpdxElement": "SPDXRef-item11546935",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-terraform",
+            "relatedSpdxElement": "SPDXRef-item11546936",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-terraform",
+            "relatedSpdxElement": "SPDXRef-item11546937",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546997",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546958",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546971",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11547000",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546963",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546966",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546990",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546974",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546994",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546960",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546988",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546964",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546955",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546956",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546957",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546961",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546965",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546967",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546968",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546969",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546970",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546973",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546976",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546977",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546979",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546980",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546981",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546984",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546985",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546991",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546992",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546995",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546998",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11546999",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11547001",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relatedSpdxElement": "SPDXRef-item11547002",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

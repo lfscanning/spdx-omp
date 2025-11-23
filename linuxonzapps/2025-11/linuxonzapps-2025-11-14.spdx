@@ -1,0 +1,772 @@
+SPDXVersion: SPDX-2.3
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://ip-172-31-0-50.ec2.internal/repo/SPDX2TV_linuxonzapps-2025-11-14.zip_1763278298.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: Tool: fossology-4.3.0
+Creator: Person: gary (garylegal@sourceauditor.com)
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2025-11-16T07:31:38Z
+LicenseListVersion: 3.19
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: linuxonzapps-2025-11-14.zip
+PackageFileName: linuxonzapps-2025-11-14.zip
+SPDXID: SPDXRef-upload2031
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: cb586aacb78f644c7f1eef83b070045112694571
+PackageChecksum: SHA1: f287762d71a54c63eb60a80673ea2dc1fcc32990
+PackageChecksum: SHA256: b761fb275bcec0973f538ecfba8d372eb476683df37082188a23925e13ad7815
+PackageChecksum: MD5: 62b02e2b9a2667d752d3f58ef37d3a64
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("4.3.0".8b76e7)
+ - monk ("4.3.0".8b76e7)
+ - ojo ("4.3.0".8b76e7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload2031
+
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/minio/README.md
+SPDXID: SPDXRef-item11547013
+FileChecksum: SHA1: 5b09432a9fd7dbdb87d0d1247e43f9d70e21728c
+FileChecksum: SHA256: 878ae8e8a8b108be486a4bb389b6b12c9195521d6f40c9ed8855fb91848f7273
+FileChecksum: MD5: ad52e271d83e220b0970c2388af29818
+LicenseConcluded: LicenseRef-fossology-AGPL
+LicenseInfoInFile: LicenseRef-fossology-AGPL
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/LICENSE
+SPDXID: SPDXRef-item11546997
+FileChecksum: SHA1: c8bc7df08db9dd3b39c2c2259a163a36cf2f6808
+FileChecksum: SHA256: 49bbe9114e49214df2ccc324cb3ac8d1d1aa1c3a0947f94c286765e86647b32e
+FileChecksum: MD5: 0ba5044c64ef53cb0189c9546081e228
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/docs/LICENSE
+SPDXID: SPDXRef-item11546939
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/kind/LICENSE
+SPDXID: SPDXRef-item11547004
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/minio/LICENSE
+SPDXID: SPDXRef-item11547010
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spark/LICENSE
+SPDXID: SPDXRef-item11546942
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spire/LICENSE
+SPDXID: SPDXRef-item11547016
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/terraform/LICENSE
+SPDXID: SPDXRef-item11546933
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/bazel/LICENSE
+SPDXID: SPDXRef-item11546948
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/LICENSE
+SPDXID: SPDXRef-item11546958
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: SHA256: c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> copyright owner or by an individual or Legal Entity authorized to submit on behalf of
+(c) You must retain, in the Source form of any Derivative Works
+copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+Copyright [yyyy] [name of copyright owner] </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/README.md
+SPDXID: SPDXRef-item11546971
+FileChecksum: SHA1: 81af90675a0e8890a16ccd08c573b5cd6bac9469
+FileChecksum: SHA256: 31e53edaca1b8f197b3e4b114b7e1b622a9c1fdb70dc6d48983b6d17d2fd15ed
+FileChecksum: MD5: f8ba55f97fd4c9fea65604369d1bdd77
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/README.md
+SPDXID: SPDXRef-item11547000
+FileChecksum: SHA1: 45266e5016aefeb24c19becd0a32cb86a28af045
+FileChecksum: SHA256: fadeac30012948cc757da4a09a28810806614a91b09bc5711cd65755da786e39
+FileChecksum: MD5: 14c3d1dc0d561a5dbc9ed7e6572d7440
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/checksum.py
+SPDXID: SPDXRef-item11546963
+FileChecksum: SHA1: 08cdbb62084e0ab47acf803de3f86769cb6b2f97
+FileChecksum: SHA256: 1ec17a00af52d0f401744c739deb44c090974534cd6e9a5ebd3c680d17173b78
+FileChecksum: MD5: 2348c48e29390c1cfb2127a28a45a7cd
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/github_api.py
+SPDXID: SPDXRef-item11546966
+FileChecksum: SHA1: 7208cf8e23570ba105932e925326148923a7b316
+FileChecksum: SHA256: 86f1c5bfae921ccc89f7338a6b7fd2b701c6b19bf5321a89f040e918702e051e
+FileChecksum: MD5: b50211ede870630ffcf72d1a28a70a28
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/binary/go_binary_builder.py
+SPDXID: SPDXRef-item11546990
+FileChecksum: SHA1: 0a410e2f477ec461aeeb0d66dd6a466534858c63
+FileChecksum: SHA256: f5f7986f641afe6c99776c6769735c9cacea4e6c3a3ee6c3c4599abb8dc8f6ad
+FileChecksum: MD5: bc727bcf08569dc180eaaa982d079d91
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/monitoring/logger.py
+SPDXID: SPDXRef-item11546974
+FileChecksum: SHA1: fff91721ca33ccf7b81b56ac207d6952adf1c367
+FileChecksum: SHA256: 95dd5ae267300fd17f792ca11c5c78f3aa0a40e9fb12dd6182194e8ec6766a28
+FileChecksum: MD5: e428aef8027beec0a86ebe88811f78d0
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/script/loz_script_builder.py
+SPDXID: SPDXRef-item11546994
+FileChecksum: SHA1: c75d08383f259988cb3d7cec1f8f405aa7e85f76
+FileChecksum: SHA256: bbbf65eba779006f9f1344da321dd64f682ccbd8c0345359752fb1ad8b243f51
+FileChecksum: MD5: 05bb6896ba5ca7985e132c5ed34cdc75
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/orchestrator/orchestrator.py
+SPDXID: SPDXRef-item11546960
+FileChecksum: SHA1: f3be194f1bb9e045d7eeb77056124e24afcdbd76
+FileChecksum: SHA256: 43b68cab636e13539b388e60a24e8c3dc3b6529a79c63e9d9c2e4483aa3633cc
+FileChecksum: MD5: dd873f7165cc61870f37d9ee667dd786
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/plugins/plugin_interface.py
+SPDXID: SPDXRef-item11546988
+FileChecksum: SHA1: e5f57597e24181b5e0e2e9e48f4c6b773330fb55
+FileChecksum: SHA256: 719037afc15ca16d68e85f16fe677e438a3a1062b0552a71927b2a25937b041c
+FileChecksum: MD5: 4886e9bd743121f4dbc93ca2bf052ac8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/versioning.py
+SPDXID: SPDXRef-item11546964
+FileChecksum: SHA1: e8d511b1eff03a2fed455e539a4d05b310844873
+FileChecksum: SHA256: 717114de3d3ce17177d793cce5271cc3c9df69255fcc83868d20c06e872e132c
+FileChecksum: MD5: f0672fa881a0aee6a8fca6b5a6e4f7f8
+LicenseConcluded: Apache-2.0
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text> Copyright Contributors to the Mainframe Software Hub for Linux Project. SPDX-License-Identifier: Apache-2.0 </text>
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/terraform/src/build.sh
+SPDXID: SPDXRef-item11546935
+FileChecksum: SHA1: fb0df51d2452bcf9f4e81fd9bb7f91d0d46e56ab
+FileChecksum: SHA256: 6ad8e98f3e3177fd8d92a71d905f258389cfbdf14557c3ada5e487bf1242375a
+FileChecksum: MD5: 8b50195e710da3fa200add4b95360913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/terraform/README.md
+SPDXID: SPDXRef-item11546936
+FileChecksum: SHA1: a3082dafcc7e54c89282859b9a490981710939ae
+FileChecksum: SHA256: a54c0a8f9e04410633130548193576fb976eb560bdbac9e3aa743c4862413da3
+FileChecksum: MD5: d2726921e13b9c1cb246c186417f789b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/terraform/.build-template.yaml
+SPDXID: SPDXRef-item11546937
+FileChecksum: SHA1: 61b7878b0389f38800c043f5af932f7de441bff4
+FileChecksum: SHA256: 5f979254f9c66032c56aded388dbbca9751dac2ed033237029ceb663bd80dd91
+FileChecksum: MD5: 504d48c2877bf43f43e328b1d76c57d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/docs/README.md
+SPDXID: SPDXRef-item11546940
+FileChecksum: SHA1: 2afacf7e2598449d5f6b8ec494b8df73c7d6c9e7
+FileChecksum: SHA256: c6c42f9e1392258876f9bcc964c559480dc21174a82e7155bae707d719775a9e
+FileChecksum: MD5: 7ba2e6eb880ce43a35751e18bfb85f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spark/src/build.sh
+SPDXID: SPDXRef-item11546944
+FileChecksum: SHA1: 1e01f33f5ee5122ddd39e77730c8482fb816dfc3
+FileChecksum: SHA256: f2b6699005bc1d40519af43d1bfac2e81590c27683db8404b888006dd0965c81
+FileChecksum: MD5: b1195af8615d5c2cd633f933fe8f6a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spark/README.md
+SPDXID: SPDXRef-item11546945
+FileChecksum: SHA1: 8eca6c372a1ec7135ca7a47d0be4ab68146d96f1
+FileChecksum: SHA256: fe4cdd458e2bb472a8e22cdee851c7a0dcf856c46b457843f97322760759a084
+FileChecksum: MD5: 777606f25a0bd802ff33d46302ec669f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spark/.build-template.yaml
+SPDXID: SPDXRef-item11546946
+FileChecksum: SHA1: d366301e636ae0995cd45ac209a36f637d6a0652
+FileChecksum: SHA256: 56ed5db851eeacaffb0d9ae48a262b96c555ebb632346d0964a356ec8ef12d31
+FileChecksum: MD5: b9554fa9e8de4abf0a1ec99667e7ef5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/bazel/src/build.sh
+SPDXID: SPDXRef-item11546950
+FileChecksum: SHA1: 289bffc483db828f0876184001f3987ba4c243bc
+FileChecksum: SHA256: dd2e6875523f692f3a8264a021f6a86ee27f17a019ed15391948f8b9cd2f672f
+FileChecksum: MD5: 1c37a74f2996d680d632262adb5eecce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/bazel/README.md
+SPDXID: SPDXRef-item11546951
+FileChecksum: SHA1: 0604a3db13175dcec5e43643eea3e042cf779e21
+FileChecksum: SHA256: 0126cac363aecca309102590096607105dee518f316dd1812fd2761086cb0794
+FileChecksum: MD5: 6219ef037fc6b0263e99c66197acfda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/bazel/.build-template.yaml
+SPDXID: SPDXRef-item11546952
+FileChecksum: SHA1: 7eda80d4fd86203df2755b453aee9dc6b7d3698b
+FileChecksum: SHA256: 93341598e18817b1ea3459362f1b5fc4bbe5fb3ad9d69726aca66e2defe53776
+FileChecksum: MD5: 5a4d2ab9840078543a184d3cae8edad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/ci/__init__.py
+SPDXID: SPDXRef-item11546955
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/ci/github_actions.yaml
+SPDXID: SPDXRef-item11546956
+FileChecksum: SHA1: 0456162d86b7a57a386e1bb1573a1b70c25f5a72
+FileChecksum: SHA256: 14dccae7855d87f876be206a3eea75933c88c1547ebb3e01fcea2af61f0ba233
+FileChecksum: MD5: 7fcce80179c330442d6738af7af45866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/manifest.json
+SPDXID: SPDXRef-item11546957
+FileChecksum: SHA1: c88ac016852b2e4aecafc12c838b74f392957bdf
+FileChecksum: SHA256: cc8137cb451f800964d670675487370d56d6af3b193728f2ae7b94b909914105
+FileChecksum: MD5: 4815965fb93589df8eaef707adf92cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/orchestrator/__init__.py
+SPDXID: SPDXRef-item11546961
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/lib/__init__.py
+SPDXID: SPDXRef-item11546965
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/.gitignore
+SPDXID: SPDXRef-item11546967
+FileChecksum: SHA1: 9c57ce2824912bbba04c6271eaf9593dd1cea682
+FileChecksum: SHA256: eec285e414af319ac28435989ec6fb860ed2ea86bbbe308df0580b67b6f9da0d
+FileChecksum: MD5: 812c842fbde19fddeaac84d9eb98fb11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/requirements.txt
+SPDXID: SPDXRef-item11546968
+FileChecksum: SHA1: de0b0870070cd206d7a192ae78adccd027a65022
+FileChecksum: SHA256: 1299a261745a92be765548b0709e1215c9a1c277a97fa2e6fece6c4ec2a34dbe
+FileChecksum: MD5: cfd7d8319e263ee62b31aaf3a219b05c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/Dockerfile
+SPDXID: SPDXRef-item11546969
+FileChecksum: SHA1: 345067ba7afca1a123a0fd8b37ba9d61ca972099
+FileChecksum: SHA256: 92f6303573eb9b1301c865d66abfc2fa3ff5605857e0dd65070d8a0203614616
+FileChecksum: MD5: 478af6b1202868791223b2c52ddf5992
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/__init__.py
+SPDXID: SPDXRef-item11546970
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/monitoring/__init__.py
+SPDXID: SPDXRef-item11546973
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/global_config.yaml
+SPDXID: SPDXRef-item11546976
+FileChecksum: SHA1: f10f0cffd47ca1469ee8d6f9450128016306d959
+FileChecksum: SHA256: b949836c4cfb234395121358fa9affa4f2891b41cd41ee562972e656d8efa73f
+FileChecksum: MD5: 55dcd891ff4ed0f3c4d3a405e3572c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/__init__.py
+SPDXID: SPDXRef-item11546977
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/go-project.yaml
+SPDXID: SPDXRef-item11546979
+FileChecksum: SHA1: 947f29b061e8f529abfe72ae9d921798cab65197
+FileChecksum: SHA256: e72742e86c009e6f88a6d1114e6e66454727e4ddda96e1ef32a5480d5082318b
+FileChecksum: MD5: 744ae646cbe4f5613c14ac3f55d4b4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/__init__.py
+SPDXID: SPDXRef-item11546980
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/config/templates/loz-script-project.yaml
+SPDXID: SPDXRef-item11546981
+FileChecksum: SHA1: 37aa76d476ee19338d552b57181765a767f610cd
+FileChecksum: SHA256: 57befab83b5c4290102ef93a363d5aa55af64b032be02c6afc2470dfa042eaee
+FileChecksum: MD5: 6f879ccd340d32f85fa36e068f925aee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/containers/dind/Dockerfile
+SPDXID: SPDXRef-item11546984
+FileChecksum: SHA1: 986cb945eb5a0492c08bfc601130779ee21a5903
+FileChecksum: SHA256: e9ac2bf4b4342b50f80655c57ad0ba0ed2a143757a3c65f995c559d2a5d0af8c
+FileChecksum: MD5: 605906455e86e3179cfe37edb20690eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/containers/dind/README.md
+SPDXID: SPDXRef-item11546985
+FileChecksum: SHA1: 4e4f477d0677fd031c803ab7e1dec27e93e339af
+FileChecksum: SHA256: 73adfedee5d9abaff800efc7aa46dbfc8dfe2efeca1c755f56255a989ac004cd
+FileChecksum: MD5: 9b007f8923adabe6ba81f07b513e6d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/binary/__init__.py
+SPDXID: SPDXRef-item11546991
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/__init__.py
+SPDXID: SPDXRef-item11546992
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/builders/script/__init__.py
+SPDXID: SPDXRef-item11546995
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/.gitignore
+SPDXID: SPDXRef-item11546998
+FileChecksum: SHA1: 49f40e46145d506a8948c34e2fd65039fd6cbac3
+FileChecksum: SHA256: e82a065208144fd70d1541d465bb9f4ff3cf61b0e538b017054a766e7b7a18ac
+FileChecksum: MD5: 642237f798b2626f16b7cec8b9f2c6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/Dockerfile
+SPDXID: SPDXRef-item11546999
+FileChecksum: SHA1: 9f76bb03387ff20db10a9b18f463de6a0294003f
+FileChecksum: SHA256: c05b0cded66038ab3f80b7d4f85f921922af87dff02104e6a94176e7aad5673f
+FileChecksum: MD5: 6107d581d0738b8b5830a6ae680b1dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/.build-template.yaml
+SPDXID: SPDXRef-item11547001
+FileChecksum: SHA1: 2f8a74ce968167d0ede3e1be9e80caa30181c365
+FileChecksum: SHA256: 1fdc2744d5736213de762db88e164301ab376d7f56916c7e8b0d2af0e2c015b9
+FileChecksum: MD5: 624c5a1b0f8d396f73758cea509a7779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/zlinux-artifacts-builder/s390x-project-template/main.go
+SPDXID: SPDXRef-item11547002
+FileChecksum: SHA1: 217b2335eb59bd474d732ef8cea659a2ce0b65b8
+FileChecksum: SHA256: d104d4f3db1e316a84eb83f534e78036eb316a77af038a354040b97b8a3e2347
+FileChecksum: MD5: 8e70512778e9198b0f03a25118c76601
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/kind/src/build.sh
+SPDXID: SPDXRef-item11547006
+FileChecksum: SHA1: 63acd8bcaf4a18868aee4398b31d3e3e8f7031ec
+FileChecksum: SHA256: 7856172934333f62cea36d073696a71204f021acbd75b0b6f49a24801822e34c
+FileChecksum: MD5: 2f898bdb934b28bfe8f88037093eb0f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/kind/README.md
+SPDXID: SPDXRef-item11547007
+FileChecksum: SHA1: fc3e311061c4786f058bec53d3402a981d8af51e
+FileChecksum: SHA256: 38c1663daff849aba655c9a9bcdaac300e39bb0126a6abc8b505cca6476c6885
+FileChecksum: MD5: 7b1237c96ccbf2e22f1aaec39869f0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/kind/.build-template.yaml
+SPDXID: SPDXRef-item11547008
+FileChecksum: SHA1: 6fd62b783ace264826147009bbbdd553119ea089
+FileChecksum: SHA256: 6d479eecab676fc2e29ea231022eb8f726e7f7c06d6b27d0290a66357d8a35a3
+FileChecksum: MD5: dca0d6a7dd0d79427080e6b59e9f1d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/minio/src/build.sh
+SPDXID: SPDXRef-item11547012
+FileChecksum: SHA1: 316605a33731c34e35bb5e5ab6039e681bad9473
+FileChecksum: SHA256: 99bdc67c771a319d878f208906129558358e185e2184de5ee1078d7b68acbbbb
+FileChecksum: MD5: 3c4f86b49b4a34c9dea86cd1a8e9a80f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/minio/.build-template.yaml
+SPDXID: SPDXRef-item11547014
+FileChecksum: SHA1: 48e53b8752648bf754238e66b3e7f823d85c00a1
+FileChecksum: SHA256: 0496e9b0114fbe8c79b114a84b02f3a9d834bea44b77bbef0afedc0c11b0b29c
+FileChecksum: MD5: edeb064bd2f07b9923beff47c64ddedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spire/src/build.sh
+SPDXID: SPDXRef-item11547018
+FileChecksum: SHA1: db350bbe5cef2f46b64e483a8fce578e060ca32a
+FileChecksum: SHA256: b1564046bdd95d4ac78aa5fee1b4f54b04face675a8d86a7245fbbe7b443a28b
+FileChecksum: MD5: 965be100ebd02c7c7a6f051bcd25c669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spire/README.md
+SPDXID: SPDXRef-item11547019
+FileChecksum: SHA1: aff236a6dc2efe27ab5a4751dd6e968d59672133
+FileChecksum: SHA256: a3069246260ea38b4106023340eba63b07e233b3f8793755adc4b2fde2d404e2
+FileChecksum: MD5: dcf4bb342adcedf2401e5718866d0c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+##File
+
+FileName: linuxonzapps-2025-11-14.zip/spire/.build-template.yaml
+SPDXID: SPDXRef-item11547020
+FileChecksum: SHA1: 5a43060fca879f76994d4b400902234a74aca884
+FileChecksum: SHA256: 89251bd670fcee9deeabb025d0df7db8f6183154c9f4ca92ad82fccc69e27b57
+FileChecksum: MD5: ca9f6646b7a6817710ef61a3f1683db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-fossology-AGPL
+LicenseName: AGPL
+ExtractedText: <text> License by Nomos. </text>
+

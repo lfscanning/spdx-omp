@@ -1,0 +1,1577 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T12:41:50Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpktywlpdb/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpktywlpdb/code-12f51549-71b9-4ac7-833a-959635573c20",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-f10067ee2bf7d884",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cobol-check/vs-code-extension/client/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "3a6839efa21a68af75cad7d96490b271c15d0df0"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-c80c456171697d0c",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cobol-check/vs-code-extension/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "3a6839efa21a68af75cad7d96490b271c15d0df0"
+        },
+        {
+            "SPDXID": "SPDXRef-Application-b56289ec0c2c3002",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "cobol-check/vs-code-extension/server/package-lock.json",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "3a6839efa21a68af75cad7d96490b271c15d0df0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a1ba5be6f632d0da",
+            "description": "TypeScript definitions for vscode",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40types/vscode@1.106.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/vscode",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@types/vscode",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: DefinitelyTyped",
+            "versionInfo": "1.106.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-fcf948e79f62f9c7",
+            "description": "TypeScript definitions for vscode-webview",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40types/vscode-webview@1.57.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/vscode-webview",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "@types/vscode-webview",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/package-lock.json",
+            "supplier": "Organization: DefinitelyTyped",
+            "versionInfo": "1.57.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f5c1a1dd4832180",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/%40vscode/test-electron@2.5.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT AND MIT AND LicenseRef-scancode-generic-cla",
+            "licenseDeclared": "LicenseRef-scancode-generic-cla AND MIT",
+            "name": "@vscode/test-electron",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "2.5.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1f8109e3e7dbe23d",
+            "description": "Turn a function into an `http.Agent` instance",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/agent-base@7.1.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/TooTallNate/proxy-agents#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "agent-base",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "7.1.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-51d96c94a6ac2c28",
+            "description": "Regular expression for matching ANSI escape codes",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/ansi-regex@6.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/chalk/ansi-regex#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ansi-regex",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "6.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-eae927654fdbfac0",
+            "description": "Match balanced character pairs, like \"{\" and \"}\"",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/balanced-match@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/juliangruber/balanced-match",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "balanced-match",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-89c108cb34b500eb",
+            "description": "Brace expansion as known from sh/bash",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/brace-expansion@1.1.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/juliangruber/brace-expansion",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "brace-expansion",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Julian Gruber",
+            "versionInfo": "1.1.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-3813464aac9818af",
+            "description": "Terminal string styling done right",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/chalk@5.6.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/chalk/chalk#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "chalk",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: chalk",
+            "versionInfo": "5.6.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-75c18c171c56cb10",
+            "description": "Toggle the CLI cursor",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/cli-cursor@5.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/cli-cursor#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "cli-cursor",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "5.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ec77ac31d26bcbf0",
+            "description": "Spinners for use in the terminal",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/cli-spinners@2.9.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/cli-spinners#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "cli-spinners",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "2.9.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-31599e58a5367730",
+            "description": "concatenative mapdashery",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/concat-map@0.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/ljharb/concat-map#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "concat-map",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Jordan Harband",
+            "versionInfo": "0.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-53380925978808aa",
+            "description": "The `util.is*` functions introduced in Node v0.12.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/core-util-is@1.0.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/isaacs/core-util-is#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "core-util-is",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: isaacs",
+            "versionInfo": "1.0.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a39249b5beacbcb9",
+            "description": "Lightweight debugging utility for Node.js and the browser",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/debug@4.4.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/debug-js/debug#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "debug",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Debug.js",
+            "versionInfo": "4.4.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1b358cc09850d0b9",
+            "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/emoji-regex@10.6.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://mths.be/emoji-regex",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "emoji-regex",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "10.6.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9553eb712d0e9844",
+            "description": "Determine the East Asian Width of a Unicode character",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/get-east-asian-width@1.4.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/get-east-asian-width#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "get-east-asian-width",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "1.4.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ca80283fabfe0f6e",
+            "description": "An HTTP(s) proxy `http.Agent` implementation for HTTP",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/http-proxy-agent@7.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/TooTallNate/proxy-agents#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "http-proxy-agent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Nathan Rajlich",
+            "versionInfo": "7.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4a371cd72e91697f",
+            "description": "An HTTP(s) proxy `http.Agent` implementation for HTTPS",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/https-proxy-agent@7.0.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/TooTallNate/proxy-agents#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "https-proxy-agent",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Nathan Rajlich",
+            "versionInfo": "7.0.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2f9f94b20664aec1",
+            "description": "A cross browser microtask library",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/immediate@3.0.6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/calvinmetcalf/immediate#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "immediate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "3.0.6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-82c66b0c611cf4e2",
+            "description": "Browser-friendly inheritance fully compatible with standard node.js inherits()",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/inherits@2.0.4",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/isaacs/inherits#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "inherits",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: isaacs",
+            "versionInfo": "2.0.4"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-5fcb41b161f27977",
+            "description": "Check if stdout or stderr is interactive",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/is-interactive@2.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/is-interactive#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "is-interactive",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "2.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cd7d8fe257190348",
+            "description": "Detect whether the terminal supports Unicode",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/is-unicode-supported@1.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/is-unicode-supported#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "is-unicode-supported",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "1.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-da67da476cac42fe",
+            "description": "Detect whether the terminal supports Unicode",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/is-unicode-supported@2.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/is-unicode-supported#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "is-unicode-supported",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "2.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ff81048af9865173",
+            "description": "Array#isArray for older browsers",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/isarray@1.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/juliangruber/isarray",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "isarray",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Julian Gruber",
+            "versionInfo": "1.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2b9696f605277d27",
+            "description": "Create, read and edit .zip files with JavaScript http://stuartk.com/jszip",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/jszip@3.10.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Stuk/jszip#readme",
+            "licenseConcluded": "(GPL-3.0-only AND MIT AND (MIT OR GPL-3.0-only) AND NOASSERTION AND MIT AND MIT AND (MIT OR GPL-3.0-only) AND MIT AND (MIT OR GPL-3.0-only) AND Zlib AND MIT) OR (GPL-1.0-or-later AND MIT) OR GPL-3.0-only",
+            "licenseDeclared": "GPL-3.0-only OR MIT",
+            "name": "jszip",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Stuart Knightley",
+            "versionInfo": "3.10.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-cecbfd738a4de357",
+            "description": "A basic but performant promise implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/lie@3.3.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/calvinmetcalf/lie#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "lie",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Calvin Metcalf",
+            "versionInfo": "3.3.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4bd5787f5c5d0cb5",
+            "description": "Colored symbols for various log levels. Example: `\u2714\ufe0e Success`",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/log-symbols@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/log-symbols#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "log-symbols",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30218ea0b61f6710",
+            "description": "Make a function mimic another one",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/mimic-function@5.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/mimic-function#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "mimic-function",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "5.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9e2439ff1318a917",
+            "description": "a glob matcher in javascript",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/minimatch@3.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/isaacs/minimatch#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "minimatch",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: isaacs",
+            "versionInfo": "3.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-30b295a9fb944942",
+            "description": "Tiny millisecond conversion utility",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/ms@2.1.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/vercel/ms#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ms",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Vercel",
+            "versionInfo": "2.1.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c5246789febddcee",
+            "description": "Ensure a function is only called once",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/onetime@7.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/onetime#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "onetime",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "7.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-a338c12500b7aca3",
+            "description": "Elegant terminal spinner",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/ora@8.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/ora#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "ora",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "8.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-96107bb8a726c18b",
+            "description": "zlib port to javascript - fast, modularized, with browser support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/pako@1.0.11",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodeca/pako#readme",
+            "licenseConcluded": "MIT AND MIT AND Zlib AND Zlib AND Zlib AND Zlib AND MIT",
+            "licenseDeclared": "MIT AND Zlib",
+            "name": "pako",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "1.0.11"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9b7ac333f170e508",
+            "description": "process.nextTick but always with args",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/process-nextick-args@2.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/calvinmetcalf/process-nextick-args",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "process-nextick-args",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "2.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-7f72073726c83832",
+            "description": "Node.js Streams, a user-land copy of the stream library from Node.js",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/readable-stream@2.3.8",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodejs/readable-stream",
+            "licenseConcluded": "LicenseRef-scancode-dco-1.1 AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "readable-stream",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Node.js",
+            "versionInfo": "2.3.8"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1ad3aff5734f4e7b",
+            "description": "Gracefully restore the CLI cursor on exit",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/restore-cursor@5.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/restore-cursor#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "restore-cursor",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "5.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-b4231a507d133e1e",
+            "description": "Safer Node.js Buffer API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/safe-buffer@5.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/feross/safe-buffer",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "safe-buffer",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "5.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-ddcbbcd0353d8891",
+            "description": "The semantic version parser used by npm.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/semver@7.7.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/npm/node-semver#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: npm",
+            "versionInfo": "7.7.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e075247957891e50",
+            "description": "The semantic version parser used by npm.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/semver@7.7.3",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/npm/node-semver#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "semver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: npm",
+            "versionInfo": "7.7.3"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-1ff23d0cb54202ea",
+            "description": "A shim for the setImmediate efficient script yielding API",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/setimmediate@1.0.5",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/yuzujs/setImmediate#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "setimmediate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Yuzu (by Barnes \\u0026 Noble Education)",
+            "versionInfo": "1.0.5"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-26bb4a4162b9abdc",
+            "description": "when you want to fire an event no matter how a process exits.",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/signal-exit@4.1.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/tapjs/signal-exit#readme",
+            "licenseConcluded": "ISC",
+            "licenseDeclared": "ISC",
+            "name": "signal-exit",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: TAP in JavaScript",
+            "versionInfo": "4.1.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-43030af3a47747a6",
+            "description": "Discard stdin input except for Ctrl+C",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/stdin-discarder@0.2.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/stdin-discarder#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "stdin-discarder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Sindre Sorhus",
+            "versionInfo": "0.2.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6aadc37097d3ae97",
+            "description": "Get the visual width of a string - the number of columns required to display it",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/string-width@7.2.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/sindresorhus/string-width#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "string-width",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "7.2.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-bfa9eedfcc194ab0",
+            "description": "The string_decoder module from Node core",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/string_decoder@1.1.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/nodejs/string_decoder",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "string_decoder",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "1.1.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9da55a2a269bfb6",
+            "description": "Strip ANSI escape codes from a string",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/strip-ansi@7.1.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/chalk/strip-ansi#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "strip-ansi",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "versionInfo": "7.1.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-60cc5e6e68b08951",
+            "description": "The Node.js `util.deprecate()` function with browser support",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/util-deprecate@1.0.2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/TooTallNate/util-deprecate",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "util-deprecate",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Nathan Rajlich",
+            "versionInfo": "1.0.2"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4cc9360a9e002df6",
+            "description": "A json rpc implementation over streams",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-jsonrpc@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-jsonrpc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-78ba56d72b885aa3",
+            "description": "A json rpc implementation over streams",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-jsonrpc@6.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-jsonrpc",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "6.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-e31aa81e9aeb27b7",
+            "description": "VSCode Language client implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageclient@7.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "ISC AND MIT AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageclient",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "7.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-c0748da04dc64f92",
+            "description": "Language server implementation for node",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver@7.0.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "7.0.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-9ee28b6836c011f5",
+            "description": "VSCode Language Server Protocol implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver-protocol@3.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver-protocol",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "3.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-f29c04af06571057",
+            "description": "VSCode Language Server Protocol implementation",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver-protocol@3.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver-protocol",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "3.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-6070490e4e9b73cc",
+            "description": "A simple text document implementation for Node LSP servers",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver-textdocument@1.0.12",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "LGPL-2.1-or-later AND MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver-textdocument",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "1.0.12"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-4359ac20adbc9260",
+            "description": "Types used by the Language server for node",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver-types@3.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/client/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "3.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-58008bb8b45ddf59",
+            "description": "Types used by the Language server for node",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:npm/vscode-languageserver-types@3.16.0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "homepage": "https://github.com/Microsoft/vscode-languageserver-node#readme",
+            "licenseConcluded": "MIT",
+            "licenseDeclared": "MIT",
+            "name": "vscode-languageserver-types",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: cobol-check/vs-code-extension/server/package-lock.json",
+            "supplier": "Organization: Microsoft",
+            "versionInfo": "3.16.0"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-5b91b00b49cf3e22",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND Apache-2.0 AND MIT AND CDLA-Permissive-2.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "omp.cobol-programming-course",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-cobol-programming-course-cobol-check",
+            "comment": "This package was added to the Trivy analysis for the cobol-check by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/cobol-check/archive/3a6839efa21a68af75cad7d96490b271c15d0df0.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/cobol-check@3a6839efa21a68af75cad7d96490b271c15d0df0",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND Apache-2.0 AND MIT AND CDLA-Permissive-2.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "cobol-check",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "3a6839efa21a68af75cad7d96490b271c15d0df0"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-cobol-programming-course-cobol-code-dataset",
+            "comment": "This package was added to the Trivy analysis for the cobol-code-dataset by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/cobol-code-dataset/archive/9c4389c05a55c0a5d360a0a9c74c89f9515a6646.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/cobol-code-dataset@9c4389c05a55c0a5d360a0a9c74c89f9515a6646",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND Apache-2.0 AND MIT AND CDLA-Permissive-2.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "cobol-code-dataset",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "9c4389c05a55c0a5d360a0a9c74c89f9515a6646"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-cobol-programming-course-cobol-programming-course",
+            "comment": "This package was added to the Trivy analysis for the cobol-programming-course by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/cobol-programming-course/archive/11aca51998e11181925ff16c20b32c220360ff66.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/cobol-programming-course@11aca51998e11181925ff16c20b32c220360ff66",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0 AND Apache-2.0 AND MIT AND CDLA-Permissive-2.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "cobol-programming-course",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "11aca51998e11181925ff16c20b32c220360ff66"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-b56289ec0c2c3002",
+            "relatedSpdxElement": "SPDXRef-Package-6070490e4e9b73cc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b56289ec0c2c3002",
+            "relatedSpdxElement": "SPDXRef-Package-a1ba5be6f632d0da",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b56289ec0c2c3002",
+            "relatedSpdxElement": "SPDXRef-Package-c0748da04dc64f92",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-b56289ec0c2c3002",
+            "relatedSpdxElement": "SPDXRef-Package-f5c1a1dd4832180",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-c80c456171697d0c",
+            "relatedSpdxElement": "SPDXRef-Package-fcf948e79f62f9c7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Application-f10067ee2bf7d884",
+            "relatedSpdxElement": "SPDXRef-Package-e31aa81e9aeb27b7",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-cobol-programming-course-cobol-check",
+            "relatedSpdxElement": "SPDXRef-Application-b56289ec0c2c3002",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-cobol-programming-course-cobol-check",
+            "relatedSpdxElement": "SPDXRef-Application-c80c456171697d0c",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-cobol-programming-course-cobol-check",
+            "relatedSpdxElement": "SPDXRef-Application-f10067ee2bf7d884",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ad3aff5734f4e7b",
+            "relatedSpdxElement": "SPDXRef-Package-26bb4a4162b9abdc",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-1ad3aff5734f4e7b",
+            "relatedSpdxElement": "SPDXRef-Package-c5246789febddcee",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2b9696f605277d27",
+            "relatedSpdxElement": "SPDXRef-Package-1ff23d0cb54202ea",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2b9696f605277d27",
+            "relatedSpdxElement": "SPDXRef-Package-7f72073726c83832",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2b9696f605277d27",
+            "relatedSpdxElement": "SPDXRef-Package-96107bb8a726c18b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-2b9696f605277d27",
+            "relatedSpdxElement": "SPDXRef-Package-cecbfd738a4de357",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4a371cd72e91697f",
+            "relatedSpdxElement": "SPDXRef-Package-1f8109e3e7dbe23d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4a371cd72e91697f",
+            "relatedSpdxElement": "SPDXRef-Package-a39249b5beacbcb9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4bd5787f5c5d0cb5",
+            "relatedSpdxElement": "SPDXRef-Package-3813464aac9818af",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-4bd5787f5c5d0cb5",
+            "relatedSpdxElement": "SPDXRef-Package-cd7d8fe257190348",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6aadc37097d3ae97",
+            "relatedSpdxElement": "SPDXRef-Package-1b358cc09850d0b9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6aadc37097d3ae97",
+            "relatedSpdxElement": "SPDXRef-Package-9553eb712d0e9844",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-6aadc37097d3ae97",
+            "relatedSpdxElement": "SPDXRef-Package-9da55a2a269bfb6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-75c18c171c56cb10",
+            "relatedSpdxElement": "SPDXRef-Package-1ad3aff5734f4e7b",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-53380925978808aa",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-60cc5e6e68b08951",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-82c66b0c611cf4e2",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-9b7ac333f170e508",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-b4231a507d133e1e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-bfa9eedfcc194ab0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-7f72073726c83832",
+            "relatedSpdxElement": "SPDXRef-Package-ff81048af9865173",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-89c108cb34b500eb",
+            "relatedSpdxElement": "SPDXRef-Package-31599e58a5367730",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-89c108cb34b500eb",
+            "relatedSpdxElement": "SPDXRef-Package-eae927654fdbfac0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9da55a2a269bfb6",
+            "relatedSpdxElement": "SPDXRef-Package-51d96c94a6ac2c28",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9e2439ff1318a917",
+            "relatedSpdxElement": "SPDXRef-Package-89c108cb34b500eb",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9ee28b6836c011f5",
+            "relatedSpdxElement": "SPDXRef-Package-4359ac20adbc9260",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-9ee28b6836c011f5",
+            "relatedSpdxElement": "SPDXRef-Package-78ba56d72b885aa3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-3813464aac9818af",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-43030af3a47747a6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-4bd5787f5c5d0cb5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-5fcb41b161f27977",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-6aadc37097d3ae97",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-75c18c171c56cb10",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-9da55a2a269bfb6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-da67da476cac42fe",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a338c12500b7aca3",
+            "relatedSpdxElement": "SPDXRef-Package-ec77ac31d26bcbf0",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-a39249b5beacbcb9",
+            "relatedSpdxElement": "SPDXRef-Package-30b295a9fb944942",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-bfa9eedfcc194ab0",
+            "relatedSpdxElement": "SPDXRef-Package-b4231a507d133e1e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c0748da04dc64f92",
+            "relatedSpdxElement": "SPDXRef-Package-f29c04af06571057",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-c5246789febddcee",
+            "relatedSpdxElement": "SPDXRef-Package-30218ea0b61f6710",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ca80283fabfe0f6e",
+            "relatedSpdxElement": "SPDXRef-Package-1f8109e3e7dbe23d",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-ca80283fabfe0f6e",
+            "relatedSpdxElement": "SPDXRef-Package-a39249b5beacbcb9",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-cecbfd738a4de357",
+            "relatedSpdxElement": "SPDXRef-Package-2f9f94b20664aec1",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e31aa81e9aeb27b7",
+            "relatedSpdxElement": "SPDXRef-Package-9e2439ff1318a917",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e31aa81e9aeb27b7",
+            "relatedSpdxElement": "SPDXRef-Package-9ee28b6836c011f5",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-e31aa81e9aeb27b7",
+            "relatedSpdxElement": "SPDXRef-Package-ddcbbcd0353d8891",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f29c04af06571057",
+            "relatedSpdxElement": "SPDXRef-Package-4cc9360a9e002df6",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f29c04af06571057",
+            "relatedSpdxElement": "SPDXRef-Package-58008bb8b45ddf59",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5c1a1dd4832180",
+            "relatedSpdxElement": "SPDXRef-Package-2b9696f605277d27",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5c1a1dd4832180",
+            "relatedSpdxElement": "SPDXRef-Package-4a371cd72e91697f",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5c1a1dd4832180",
+            "relatedSpdxElement": "SPDXRef-Package-a338c12500b7aca3",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5c1a1dd4832180",
+            "relatedSpdxElement": "SPDXRef-Package-ca80283fabfe0f6e",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-f5c1a1dd4832180",
+            "relatedSpdxElement": "SPDXRef-Package-e075247957891e50",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-5b91b00b49cf3e22",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5b91b00b49cf3e22",
+            "relatedSpdxElement": "SPDXRef-omp-cobol-programming-course-cobol-check",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5b91b00b49cf3e22",
+            "relatedSpdxElement": "SPDXRef-omp-cobol-programming-course-cobol-code-dataset",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-5b91b00b49cf3e22",
+            "relatedSpdxElement": "SPDXRef-omp-cobol-programming-course-cobol-programming-course",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:25:07Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp5b3fdwqy/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp5b3fdwqy/code-a48367c8-f5cc-46eb-94b9-83892c6a1370",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "omp.omp-education",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-omp-education-omp-education",
+            "comment": "This package was added to the Trivy analysis for the omp-education by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/omp-education/archive/ad8017b5eaa11ce907f049027fbf30cdea825b9c.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/omp-education@ad8017b5eaa11ce907f049027fbf30cdea825b9c",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "CC-BY-4.0",
+            "licenseDeclared": "CC-BY-4.0",
+            "name": "omp-education",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "ad8017b5eaa11ce907f049027fbf30cdea825b9c"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-77ccd966b58605a6",
+            "relatedSpdxElement": "SPDXRef-omp-omp-education-omp-education",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

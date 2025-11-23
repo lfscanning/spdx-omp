@@ -1,0 +1,239 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:24:41Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpyasfdwua/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpyasfdwua/code-683892a1-ddb1-4c2c-9b92-e47daa40486a",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-58810f2530f3593d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.linuxonzapps",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-bazel",
+            "comment": "This package was added to the Trivy analysis for the bazel by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/bazel/archive/6606514efee07ae95d25efd59226e13d6a23e74a.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/bazel@6606514efee07ae95d25efd59226e13d6a23e74a",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "bazel",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "6606514efee07ae95d25efd59226e13d6a23e74a"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-docs",
+            "comment": "This package was added to the Trivy analysis for the docs by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/docs/archive/6f61f9f31c907df4e6fcabbe86f73c342ded723b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/docs@6f61f9f31c907df4e6fcabbe86f73c342ded723b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "docs",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "6f61f9f31c907df4e6fcabbe86f73c342ded723b"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-kind",
+            "comment": "This package was added to the Trivy analysis for the kind by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/kind/archive/0e70adc030215b0489d493cef6fbcfdff8f737ad.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/kind@0e70adc030215b0489d493cef6fbcfdff8f737ad",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "kind",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0e70adc030215b0489d493cef6fbcfdff8f737ad"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-minio",
+            "comment": "This package was added to the Trivy analysis for the minio by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/minio/archive/222eef61d65bab6dc1455a4eae43acb4ee3da887.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/minio@222eef61d65bab6dc1455a4eae43acb4ee3da887",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "minio",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "222eef61d65bab6dc1455a4eae43acb4ee3da887"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-spark",
+            "comment": "This package was added to the Trivy analysis for the spark by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/spark/archive/65db1004d3a6b91edfd10050a059901ffcf5d4fd.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/spark@65db1004d3a6b91edfd10050a059901ffcf5d4fd",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "spark",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "65db1004d3a6b91edfd10050a059901ffcf5d4fd"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-spire",
+            "comment": "This package was added to the Trivy analysis for the spire by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/spire/archive/2bab81f2f7ea9925f66a4e387e04a1a295af5c69.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/spire@2bab81f2f7ea9925f66a4e387e04a1a295af5c69",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "spire",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2bab81f2f7ea9925f66a4e387e04a1a295af5c69"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-terraform",
+            "comment": "This package was added to the Trivy analysis for the terraform by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/terraform/archive/00da190653e94e1d8eb68ad947305ca24afe8387.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/terraform@00da190653e94e1d8eb68ad947305ca24afe8387",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "terraform",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "00da190653e94e1d8eb68ad947305ca24afe8387"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "comment": "This package was added to the Trivy analysis for the zlinux-artifacts-builder by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/linuxonzapps/zlinux-artifacts-builder/archive/ecacc0c59cfe70c255a18193ced3c9a74d4ab316.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/linuxonzapps/zlinux-artifacts-builder@ecacc0c59cfe70c255a18193ced3c9a74d4ab316",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND AGPL-3.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "zlinux-artifacts-builder",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "ecacc0c59cfe70c255a18193ced3c9a74d4ab316"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-bazel",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-docs",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-kind",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-minio",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-spark",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-spire",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-terraform",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-58810f2530f3593d",
+            "relatedSpdxElement": "SPDXRef-omp-linuxonzapps-zlinux-artifacts-builder",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

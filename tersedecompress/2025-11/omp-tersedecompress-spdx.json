@@ -1,0 +1,128 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:02:54Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmp8zivh8vc/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmp8zivh8vc/code-09539647-0ae5-416a-9546-d1d10faa06f3",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Application-24fc9754cbce5b5d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "tersedecompress/pom.xml",
+            "primaryPackagePurpose": "APPLICATION",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "12f5f9f34821defeef696c3232d97b7733dc79a6"
+        },
+        {
+            "SPDXID": "SPDXRef-Package-2740748bf6cf27bd",
+            "downloadLocation": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:maven/org.openmainframeproject.tersedecompress/tersedecompress@5.0.1",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "NONE",
+            "licenseDeclared": "NONE",
+            "name": "org.openmainframeproject.tersedecompress:tersedecompress",
+            "primaryPackagePurpose": "LIBRARY",
+            "sourceInfo": "package found in: tersedecompress/pom.xml",
+            "versionInfo": "5.0.1"
+        },
+        {
+            "SPDXID": "SPDXRef-Filesystem-e3f8a488f6286eab",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.tersedecompress",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-tersedecompress-tersedecompress",
+            "comment": "This package was added to the Trivy analysis for the tersedecompress by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/tersedecompress/archive/12f5f9f34821defeef696c3232d97b7733dc79a6.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/tersedecompress@12f5f9f34821defeef696c3232d97b7733dc79a6",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tersedecompress",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "12f5f9f34821defeef696c3232d97b7733dc79a6"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-tersedecompress-tersedecompress-testdata",
+            "comment": "This package was added to the Trivy analysis for the tersedecompress-testdata by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/tersedecompress-testdata/archive/c34719ccd3dd5b88c816d32d5eaf0e87cc982bd2.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/tersedecompress-testdata@c34719ccd3dd5b88c816d32d5eaf0e87cc982bd2",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "licenseDeclared": "Apache-2.0",
+            "name": "tersedecompress-testdata",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "c34719ccd3dd5b88c816d32d5eaf0e87cc982bd2"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Application-24fc9754cbce5b5d",
+            "relatedSpdxElement": "SPDXRef-Package-2740748bf6cf27bd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-omp-tersedecompress-tersedecompress",
+            "relatedSpdxElement": "SPDXRef-Application-24fc9754cbce5b5d",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-e3f8a488f6286eab",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e3f8a488f6286eab",
+            "relatedSpdxElement": "SPDXRef-omp-tersedecompress-tersedecompress",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-e3f8a488f6286eab",
+            "relatedSpdxElement": "SPDXRef-omp-tersedecompress-tersedecompress-testdata",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}

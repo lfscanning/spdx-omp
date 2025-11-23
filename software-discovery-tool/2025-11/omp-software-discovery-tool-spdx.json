@@ -1,0 +1,114 @@
+{
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "creationInfo": {
+        "created": "2025-11-23T13:25:57Z",
+        "creators": [
+            "Tool: protobom-v0.0.0-20250416155525-64c0c744777d+dirty",
+            "Tool: trivy-dev",
+            "Organization: aquasecurity",
+            "Organization: Linux Foundation",
+            "Tool: Scaffold",
+            "Tool: Parlay"
+        ],
+        "licenseListVersion": "3.20"
+    },
+    "dataLicense": "CC0-1.0",
+    "name": "/tmp/tmpcc5ks4l8/code",
+    "spdxVersion": "SPDX-2.3",
+    "documentNamespace": "http://trivy.dev/filesystem//tmp/tmpcc5ks4l8/code-92359c38-a66d-4c6f-a9f0-f884659c7ab4",
+    "packages": [
+        {
+            "SPDXID": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "omp.software-discovery-tool",
+            "primaryPackagePurpose": "SOURCE",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2025-11"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool/archive/2d1b25e471d3a3db0f8b892c8ac32448b035ec0b.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool@2d1b25e471d3a3db0f8b892c8ac32448b035ec0b",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "2d1b25e471d3a3db0f8b892c8ac32448b035ec0b"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool-data by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool-data/archive/dfd5518df852b6db51155b9765c3be1361520e74.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool-data@dfd5518df852b6db51155b9765c3be1361520e74",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool-data",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "dfd5518df852b6db51155b9765c3be1361520e74"
+        },
+        {
+            "SPDXID": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "comment": "This package was added to the Trivy analysis for the software-discovery-tool-deploy by the Scaffold tool SBOM augmentation",
+            "downloadLocation": "https://github.com/openmainframeproject/software-discovery-tool-deploy/archive/0db9941fbfa7a96bc5563436ee8ca5c1174b9a79.zip",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE_MANAGER",
+                    "referenceLocator": "pkg:github/openmainframeproject/software-discovery-tool-deploy@0db9941fbfa7a96bc5563436ee8ca5c1174b9a79",
+                    "referenceType": "purl"
+                }
+            ],
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "licenseDeclared": "Apache-2.0",
+            "name": "software-discovery-tool-deploy",
+            "primaryPackagePurpose": "SOURCE",
+            "sourceInfo": "The source this package was part of the LF Scanning configuration for the project omp",
+            "supplier": "Organization: Linux Foundation Project omp",
+            "versionInfo": "0db9941fbfa7a96bc5563436ee8ca5c1174b9a79"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relationshipType": "DESCRIBES"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-data",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-Filesystem-c0b80c062b9f7aea",
+            "relatedSpdxElement": "SPDXRef-omp-software-discovery-tool-software-discovery-tool-deploy",
+            "relationshipType": "CONTAINS"
+        }
+    ]
+}
